@@ -9,7 +9,6 @@ import {
   FileText, 
   ListFilter, 
   RotateCcw, 
-  Share2, 
   Sparkles, 
   XCircle 
 } from 'lucide-react';
@@ -23,7 +22,6 @@ interface ResultReportProps {
   timeSpentSeconds: number;
   onRetakeExam: () => void;
   onChangeExam: () => void;
-  onOpenShareModal: () => void;
   onOpenPrintModal: () => void;
   filterReview: 'all' | 'wrong' | 'correct' | number;
   onSetFilterReview: (filter: 'all' | 'wrong' | 'correct' | number) => void;
@@ -36,7 +34,6 @@ export const ResultReport: React.FC<ResultReportProps> = ({
   timeSpentSeconds,
   onRetakeExam,
   onChangeExam,
-  onOpenShareModal,
   onOpenPrintModal,
   filterReview,
   onSetFilterReview,
@@ -227,13 +224,6 @@ export const ResultReport: React.FC<ResultReportProps> = ({
           </div>
 
           <div className="flex flex-wrap gap-2">
-            <button
-              onClick={onOpenShareModal}
-              className="flex items-center gap-1.5 px-4 py-2 bg-[#0068ff] hover:bg-[#0052cc] text-white text-xs sm:text-sm font-semibold rounded-xl shadow-xs transition-all active:scale-95"
-            >
-              <Share2 className="w-4 h-4" />
-              Chia sẻ Zalo
-            </button>
             <button
               onClick={onOpenPrintModal}
               className="flex items-center gap-1.5 px-4 py-2 bg-slate-800 hover:bg-slate-900 text-white text-xs sm:text-sm font-semibold rounded-xl shadow-xs transition-all"

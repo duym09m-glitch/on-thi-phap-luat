@@ -2,15 +2,10 @@ import React from 'react';
 import { 
   AlertCircle, 
   Clock, 
-  Download,
-  FileText, 
   Layers, 
-  Maximize2, 
-  Minimize2, 
   Pause, 
   Play, 
   Send, 
-  Share2, 
   ShieldCheck 
 } from 'lucide-react';
 import { ExamSet } from '../types/quiz';
@@ -21,7 +16,6 @@ interface HeaderProps {
   isTimerRunning: boolean;
   onToggleTimer: () => void;
   onOpenExamSelect: () => void;
-  onOpenShareModal: () => void;
   onSubmitClick: () => void;
   isSubmitted: boolean;
   answeredCount: number;
@@ -34,7 +28,6 @@ export const Header: React.FC<HeaderProps> = ({
   isTimerRunning,
   onToggleTimer,
   onOpenExamSelect,
-  onOpenShareModal,
   onSubmitClick,
   isSubmitted,
   answeredCount,
@@ -55,38 +48,24 @@ export const Header: React.FC<HeaderProps> = ({
   return (
     <header className="sticky top-0 z-40 bg-white/95 backdrop-blur-md border-b border-slate-200/90 shadow-xs">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 h-16 flex items-center justify-between gap-3">
-        {/* Left: Branding & Current Exam Title */}
+        {/* Left: Clean Branding */}
         <div className="flex items-center gap-3 min-w-0">
           <div className="w-10 h-10 rounded-xl bg-gradient-to-tr from-blue-600 to-indigo-600 flex items-center justify-center text-white shadow-md shadow-blue-500/20 shrink-0">
             <ShieldCheck className="w-6 h-6" />
           </div>
 
           <div className="min-w-0">
-            <div className="flex items-center gap-2">
-              <span className="text-xs font-bold uppercase tracking-wider text-blue-700 bg-blue-50 px-2 py-0.5 rounded-md">
-                Pháp Luật Đại Cương
-              </span>
-              <span className="text-xs font-medium text-slate-500 hidden sm:inline-block">
-                • 100 Câu Chuẩn 90 Phút
-              </span>
-            </div>
-            <button
-              onClick={onOpenExamSelect}
-              className="group flex items-center gap-1.5 text-slate-900 hover:text-blue-600 transition-colors text-left"
-              title="Nhấp để đổi sang bộ đề khác trong 5 bộ đề"
-            >
-              <h1 className="text-sm sm:text-base font-extrabold truncate">
-                {currentExam.title}
-              </h1>
-              <span className="text-xs text-blue-600 font-semibold group-hover:underline hidden md:inline">
-                (Đổi đề ▼)
-              </span>
-            </button>
+            <h1 className="text-base sm:text-lg font-black text-slate-900 leading-tight tracking-tight">
+              Pháp Luật Đại Cương
+            </h1>
+            <p className="text-xs text-slate-500 font-medium hidden sm:block">
+              Hệ thống trắc nghiệm chuẩn 500 câu hỏi
+            </p>
           </div>
         </div>
 
-        {/* Center / Right: Countdown Timer & CTA actions */}
-        <div className="flex items-center gap-2.5 sm:gap-4 shrink-0">
+        {/* Right: Countdown Timer, Select Exam Set & Submit */}
+        <div className="flex items-center gap-2.5 sm:gap-3 shrink-0">
           {/* Timer Display */}
           {!isSubmitted && (
             <div
@@ -124,35 +103,14 @@ export const Header: React.FC<HeaderProps> = ({
             </div>
           )}
 
-          {/* Share on Zalo Button */}
-          <button
-            onClick={onOpenShareModal}
-            className="flex items-center gap-1.5 px-3 py-1.5 text-xs sm:text-sm font-semibold text-[#0068ff] bg-blue-50/80 hover:bg-blue-100 border border-blue-200 rounded-xl transition-all shadow-xs"
-            title="Chia sẻ đề thi qua Zalo cho bạn bè hoặc nhóm lớp"
-          >
-            <Share2 className="w-4 h-4" />
-            <span className="hidden sm:inline">Gửi Zalo</span>
-          </button>
-
-          {/* Download Offline HTML button */}
-          <a
-            href="/TracNghiem_PhapLuatDaiCuong_500Cau.html"
-            download="TracNghiem_PhapLuatDaiCuong_500Cau.html"
-            className="flex items-center gap-1.5 px-3 py-1.5 text-xs sm:text-sm font-semibold text-emerald-800 bg-emerald-50 hover:bg-emerald-100 border border-emerald-200 rounded-xl transition-all shadow-xs"
-            title="Tải 1 file .html duy nhất chạy trực tiếp trên điện thoại không cần mạng"
-          >
-            <Download className="w-4 h-4 text-emerald-600" />
-            <span className="hidden md:inline">Tải File ĐT (.html)</span>
-          </a>
-
           {/* Exam Set Switcher Button */}
           <button
             onClick={onOpenExamSelect}
-            className="flex items-center gap-1.5 px-3 py-1.5 text-xs sm:text-sm font-medium text-slate-700 hover:text-slate-900 bg-white hover:bg-slate-100 border border-slate-200 rounded-xl transition-all shadow-xs"
+            className="flex items-center gap-1.5 px-3.5 py-1.5 text-xs sm:text-sm font-bold text-blue-700 hover:text-blue-800 bg-blue-50 hover:bg-blue-100 border border-blue-200 rounded-xl transition-all shadow-2xs"
             title="Chọn bộ đề 1 đến 5 hoặc ôn theo chương"
           >
-            <Layers className="w-4 h-4 text-slate-500" />
-            <span className="hidden md:inline">5 Bộ Đề</span>
+            <Layers className="w-4 h-4 text-blue-600" />
+            <span>Chọn Bộ Đề (1-5)</span>
           </button>
 
           {/* Submit Exam Button */}

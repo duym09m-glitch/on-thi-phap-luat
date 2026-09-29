@@ -18,7 +18,6 @@ import { QuestionCard } from './components/QuestionCard';
 import { QuestionNav } from './components/QuestionNav';
 import { SubmitWarningModal } from './components/SubmitWarningModal';
 import { ResultReport } from './components/ResultReport';
-import { ShareZaloModal } from './components/ShareZaloModal';
 import { ExamSelectModal } from './components/ExamSelectModal';
 import { PrintExamModal } from './components/PrintExamModal';
 import { 
@@ -29,7 +28,6 @@ import {
   Layers, 
   ListOrdered, 
   RotateCcw, 
-  Share2, 
   Sparkles 
 } from 'lucide-react';
 
@@ -68,7 +66,6 @@ export default function App() {
 
   // Modals
   const [isSubmitWarningOpen, setIsSubmitWarningOpen] = useState(false);
-  const [isShareModalOpen, setIsShareModalOpen] = useState(false);
   const [isExamSelectOpen, setIsExamSelectOpen] = useState(false);
   const [isPrintModalOpen, setIsPrintModalOpen] = useState(false);
 
@@ -279,7 +276,7 @@ export default function App() {
   useEffect(() => {
     const handleKeyDown = (e: KeyboardEvent) => {
       // Ignore if user is inside an input or modal is open
-      if (e.target instanceof HTMLInputElement || isSubmitWarningOpen || isShareModalOpen || isExamSelectOpen || isPrintModalOpen) {
+      if (e.target instanceof HTMLInputElement || isSubmitWarningOpen || isExamSelectOpen || isPrintModalOpen) {
         return;
       }
 
@@ -309,7 +306,6 @@ export default function App() {
     handleToggleFlag, 
     isExamSelectOpen, 
     isPrintModalOpen, 
-    isShareModalOpen, 
     isSubmitWarningOpen
   ]);
 
@@ -338,7 +334,6 @@ export default function App() {
         isTimerRunning={isTimerRunning}
         onToggleTimer={() => setIsTimerRunning((prev) => !prev)}
         onOpenExamSelect={() => setIsExamSelectOpen(true)}
-        onOpenShareModal={() => setIsShareModalOpen(true)}
         onSubmitClick={handleSubmitClick}
         isSubmitted={isSubmitted}
         answeredCount={answeredCount}
@@ -347,6 +342,34 @@ export default function App() {
 
       {/* Main Body Container */}
       <main className="flex-1 max-w-7xl w-full mx-auto px-4 sm:px-6 lg:px-8 py-6">
+        {/* Prominent Current Exam Title Hero */}
+        <div className="mb-6 p-5 sm:p-6 bg-white border border-slate-200/90 rounded-2xl shadow-xs flex flex-col sm:flex-row items-start sm:items-center justify-between gap-4">
+          <div className="space-y-1.5 min-w-0">
+            <div className="flex items-center gap-2 flex-wrap">
+              <span className="px-2.5 py-0.5 text-xs font-black rounded-md bg-blue-600 text-white tracking-wide uppercase">
+                BỘ ĐỀ {currentExam.id}
+              </span>
+              <span className="text-xs text-slate-500 font-medium">
+                • 100 Câu Trắc Nghiệm Chuẩn • 90 Phút
+              </span>
+            </div>
+            <h1 className="text-xl sm:text-2xl font-black text-slate-900 tracking-tight">
+              {currentExam.title}
+            </h1>
+            <p className="text-xs sm:text-sm text-slate-600 line-clamp-2">
+              {currentExam.description}
+            </p>
+          </div>
+
+          <button
+            onClick={() => setIsExamSelectOpen(true)}
+            className="flex items-center gap-2 px-4 py-2.5 bg-blue-50 hover:bg-blue-100 text-blue-700 text-xs sm:text-sm font-bold border border-blue-200 rounded-xl transition-all shadow-2xs shrink-0"
+            title="Đổi sang bộ đề khác trong 5 bộ đề"
+          >
+            <Layers className="w-4 h-4 text-blue-600" />
+            <span>Chọn bộ đề khác (1 - 5)</span>
+          </button>
+        </div>
         {/* SUBMITTED REVIEW MODE */}
         {isSubmitted ? (
           <div className="space-y-8 animate-in fade-in duration-300">
@@ -358,7 +381,6 @@ export default function App() {
               timeSpentSeconds={timeSpentSeconds}
               onRetakeExam={handleRetakeExam}
               onChangeExam={() => setIsExamSelectOpen(true)}
-              onOpenShareModal={() => setIsShareModalOpen(true)}
               onOpenPrintModal={() => setIsPrintModalOpen(true)}
               filterReview={filterReview}
               onSetFilterReview={setFilterReview}
@@ -435,21 +457,12 @@ export default function App() {
               )}
 
               {/* Quick instructions & exam rules card */}
-              <div className="p-4 bg-white/80 rounded-2xl border border-slate-200/80 text-xs text-slate-600 flex flex-col sm:flex-row items-start sm:items-center justify-between gap-3">
+              <div className="p-4 bg-white/80 rounded-2xl border border-slate-200/80 text-xs text-slate-600 flex items-center justify-between gap-3">
                 <div className="flex items-center gap-2">
                   <span className="w-2 h-2 rounded-full bg-emerald-500 shrink-0"></span>
                   <span>
                     <strong>Quy chế thi:</strong> Đề gồm 100 câu trắc nghiệm (90 phút). Hãy hoàn thành đầy đủ 100 câu trước khi nộp bài.
                   </span>
-                </div>
-                <div className="flex items-center gap-2 shrink-0">
-                  <button
-                    onClick={() => setIsShareModalOpen(true)}
-                    className="flex items-center gap-1 text-blue-600 font-semibold hover:underline"
-                  >
-                    <Share2 className="w-3.5 h-3.5" />
-                    Chia sẻ bạn bè cùng thi
-                  </button>
                 </div>
               </div>
             </div>
@@ -485,13 +498,6 @@ export default function App() {
             </button>
             <span>•</span>
             <button
-              onClick={() => setIsShareModalOpen(true)}
-              className="hover:text-blue-600 transition-colors"
-            >
-              Chia sẻ Zalo
-            </button>
-            <span>•</span>
-            <button
               onClick={() => setIsExamSelectOpen(true)}
               className="hover:text-blue-600 transition-colors"
             >
@@ -509,12 +515,6 @@ export default function App() {
         totalQuestions={questions.length}
         onJumpToQuestion={(idx) => setCurrentIndex(idx)}
         onConfirmSubmit={handleConfirmSubmit}
-      />
-
-      <ShareZaloModal
-        isOpen={isShareModalOpen}
-        onClose={() => setIsShareModalOpen(false)}
-        currentExam={currentExam}
       />
 
       <ExamSelectModal
