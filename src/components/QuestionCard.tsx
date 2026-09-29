@@ -41,36 +41,37 @@ export const QuestionCard: React.FC<QuestionCardProps> = ({
   return (
     <div className="bg-white rounded-2xl border border-slate-200 shadow-sm overflow-hidden flex flex-col transition-all">
       {/* Question Header */}
-      <div className="px-6 py-4 border-b border-slate-100 bg-slate-50/70 flex flex-wrap items-center justify-between gap-2">
-        <div className="flex items-center gap-3">
-          <span className="inline-flex items-center justify-center px-3 py-1 bg-blue-600 text-white text-xs font-bold rounded-lg shadow-xs">
+      <div className="px-4 py-3 sm:px-6 sm:py-4 border-b border-slate-100 bg-slate-50/70 flex flex-wrap items-center justify-between gap-2">
+        <div className="flex items-center gap-2 sm:gap-3 min-w-0">
+          <span className="inline-flex items-center justify-center px-2.5 py-1 bg-blue-600 text-white text-xs font-bold rounded-lg shadow-xs shrink-0">
             Câu {questionIndex + 1}/{totalQuestions}
           </span>
-          <span className="text-xs font-medium text-slate-600 bg-slate-200/80 px-2.5 py-1 rounded-md max-w-xs sm:max-w-md truncate">
+          <span className="text-xs font-medium text-slate-600 bg-slate-200/80 px-2.5 py-1 rounded-md max-w-[160px] xs:max-w-xs sm:max-w-md truncate">
             {question.chapterName}
           </span>
         </div>
 
-        <div className="flex items-center gap-2">
+        <div className="flex items-center gap-2 shrink-0">
           {/* Flag button */}
           <button
             onClick={onToggleFlag}
-            className={`flex items-center gap-1.5 px-3 py-1 rounded-lg text-xs font-medium transition-all ${
+            className={`flex items-center gap-1.5 px-2.5 sm:px-3 py-1.5 rounded-lg text-xs font-semibold transition-all active:scale-95 touch-manipulation ${
               isFlagged
                 ? 'bg-amber-100 text-amber-800 border border-amber-300'
-                : 'text-slate-500 hover:bg-slate-100 border border-slate-200'
+                : 'text-slate-600 hover:bg-slate-100 border border-slate-200'
             }`}
             title="Đánh dấu câu hỏi để xem lại sau"
           >
             <Bookmark className={`w-3.5 h-3.5 ${isFlagged ? 'fill-amber-500 text-amber-500' : ''}`} />
-            <span>{isFlagged ? 'Đã cắm cờ' : 'Cắm cờ xem lại'}</span>
+            <span className="hidden xs:inline">{isFlagged ? 'Đã cắm cờ' : 'Cắm cờ'}</span>
+            <span className="xs:hidden">{isFlagged ? 'Đã cắm' : 'Cờ'}</span>
           </button>
         </div>
       </div>
 
       {/* Question Text */}
-      <div className="p-6 md:p-7">
-        <h3 className="text-base sm:text-lg font-semibold text-slate-900 leading-relaxed tracking-normal">
+      <div className="p-4 sm:p-6 md:p-7">
+        <h3 className="text-base sm:text-lg font-bold text-slate-900 leading-relaxed tracking-normal break-words">
           {question.question}
         </h3>
 
@@ -136,11 +137,11 @@ export const QuestionCard: React.FC<QuestionCardProps> = ({
                 type="button"
                 disabled={isSubmitted}
                 onClick={() => onSelectOption(optIdx)}
-                className={`w-full text-left p-4 rounded-xl border transition-all flex items-start gap-3.5 cursor-pointer disabled:cursor-default ${optionStyle}`}
+                className={`w-full text-left p-3.5 sm:p-4 rounded-xl border transition-all flex items-start gap-3 sm:gap-3.5 cursor-pointer disabled:cursor-default active:scale-[0.99] touch-manipulation min-h-[48px] ${optionStyle}`}
               >
                 {/* Option Letter Badge (A, B, C, D) */}
                 <span
-                  className={`w-7 h-7 rounded-lg text-xs font-bold flex items-center justify-center shrink-0 border transition-all ${badgeStyle}`}
+                  className={`w-7 h-7 sm:w-8 sm:h-8 rounded-lg text-xs sm:text-sm font-bold flex items-center justify-center shrink-0 border transition-all ${badgeStyle}`}
                 >
                   {isSubmitted && isThisTheCorrectAnswer ? (
                     <Check className="w-4 h-4 stroke-[3]" />
@@ -151,17 +152,17 @@ export const QuestionCard: React.FC<QuestionCardProps> = ({
                   )}
                 </span>
 
-                <div className="flex-1 text-sm sm:text-base leading-snug pt-0.5">
+                <div className="flex-1 text-sm sm:text-base leading-relaxed pt-0.5 break-words">
                   <span>{optionText}</span>
 
                   {/* Submission badges */}
                   {isSubmitted && isThisTheCorrectAnswer && (
-                    <span className="ml-2 inline-flex items-center gap-1 px-2 py-0.5 rounded text-xs font-bold bg-emerald-600 text-white">
+                    <span className="ml-2 inline-flex items-center gap-1 px-2 py-0.5 rounded text-xs font-bold bg-emerald-600 text-white shrink-0">
                       ĐÁP ÁN ĐÚNG
                     </span>
                   )}
                   {isSubmitted && isSelected && !isThisTheCorrectAnswer && (
-                    <span className="ml-2 inline-flex items-center gap-1 px-2 py-0.5 rounded text-xs font-bold bg-rose-600 text-white">
+                    <span className="ml-2 inline-flex items-center gap-1 px-2 py-0.5 rounded text-xs font-bold bg-rose-600 text-white shrink-0">
                       BẠN ĐÃ CHỌN SAI
                     </span>
                   )}
@@ -173,20 +174,20 @@ export const QuestionCard: React.FC<QuestionCardProps> = ({
 
         {/* Detailed Explanation Box in Submitted Mode */}
         {isSubmitted && (
-          <div className="mt-7 p-5 bg-gradient-to-br from-slate-50 to-blue-50/40 border border-blue-100 rounded-2xl space-y-3">
+          <div className="mt-6 sm:mt-7 p-4 sm:p-5 bg-gradient-to-br from-slate-50 to-blue-50/40 border border-blue-100 rounded-2xl space-y-2.5 sm:space-y-3">
             <div className="flex items-center gap-2 text-blue-900 font-bold text-sm">
-              <Scale className="w-4 h-4 text-blue-600" />
+              <Scale className="w-4 h-4 text-blue-600 shrink-0" />
               <span>Căn Cứ Pháp Lý & Lời Giải Chi Tiết:</span>
             </div>
 
-            <p className="text-sm text-slate-700 leading-relaxed">
+            <p className="text-sm text-slate-700 leading-relaxed break-words">
               {question.explanation}
             </p>
 
             {question.legalReference && (
-              <div className="pt-2 border-t border-blue-100/70 text-xs text-blue-800 font-medium flex items-center gap-1.5">
+              <div className="pt-2 border-t border-blue-100/70 text-xs text-blue-800 font-medium flex flex-wrap items-center gap-1.5">
                 <span className="font-semibold text-slate-500">Cơ sở pháp lý:</span>
-                <span className="bg-blue-100/80 px-2 py-0.5 rounded text-blue-900 font-mono">
+                <span className="bg-blue-100/80 px-2 py-0.5 rounded text-blue-900 font-mono break-all">
                   {question.legalReference}
                 </span>
               </div>
@@ -196,24 +197,24 @@ export const QuestionCard: React.FC<QuestionCardProps> = ({
       </div>
 
       {/* Question Footer Navigation */}
-      <div className="px-6 py-4 bg-slate-50/70 border-t border-slate-100 flex items-center justify-between">
+      <div className="px-4 py-3 sm:px-6 sm:py-4 bg-slate-50/80 border-t border-slate-100 flex items-center justify-between gap-2">
         <button
           onClick={onPrev}
           disabled={!hasPrev}
-          className="flex items-center gap-1.5 px-4 py-2 text-sm font-semibold text-slate-700 hover:text-slate-900 hover:bg-slate-200/70 rounded-xl transition-all disabled:opacity-40 disabled:hover:bg-transparent"
+          className="flex items-center justify-center gap-1 sm:gap-1.5 px-3.5 sm:px-4 py-2.5 text-xs sm:text-sm font-semibold text-slate-700 hover:text-slate-900 hover:bg-slate-200/70 active:bg-slate-200 rounded-xl transition-all disabled:opacity-40 disabled:hover:bg-transparent min-h-[44px] active:scale-95 touch-manipulation"
         >
           <ChevronLeft className="w-4 h-4" />
           <span>Câu trước</span>
         </button>
 
-        <span className="text-xs text-slate-400 hidden sm:inline-block">
+        <span className="text-xs text-slate-400 hidden md:inline-block">
           Dùng phím mũi tên ← → hoặc số 1-4 trên bàn phím
         </span>
 
         <button
           onClick={onNext}
           disabled={!hasNext}
-          className="flex items-center gap-1.5 px-5 py-2 text-sm font-semibold bg-blue-600 hover:bg-blue-700 text-white rounded-xl shadow-xs transition-all disabled:opacity-40"
+          className="flex items-center justify-center gap-1 sm:gap-1.5 px-4 sm:px-5 py-2.5 text-xs sm:text-sm font-semibold bg-blue-600 hover:bg-blue-700 active:bg-blue-800 text-white rounded-xl shadow-xs transition-all disabled:opacity-40 min-h-[44px] active:scale-95 touch-manipulation"
         >
           <span>Câu tiếp theo</span>
           <ChevronRight className="w-4 h-4" />

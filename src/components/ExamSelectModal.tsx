@@ -28,52 +28,54 @@ export const ExamSelectModal: React.FC<ExamSelectModalProps> = ({
     <div className="fixed inset-0 z-50 flex items-center justify-center p-4 bg-slate-900/60 backdrop-blur-sm animate-in fade-in duration-200">
       <div className="relative w-full max-w-2xl bg-white rounded-2xl shadow-2xl border border-slate-200 overflow-hidden flex flex-col max-h-[90vh]">
         {/* Header */}
-        <div className="flex items-center justify-between px-6 py-4 bg-gradient-to-r from-blue-700 to-indigo-800 text-white">
-          <div className="flex items-center gap-2.5">
-            <Layers className="w-5 h-5 text-blue-200" />
-            <div>
-              <h3 className="text-lg font-bold">Chọn Bộ Đề Thi & Chế Độ Luyện Tập</h3>
-              <p className="text-xs text-blue-200">
-                Ngân hàng 500 câu trắc nghiệm chuẩn môn Pháp luật đại cương
+        <div className="flex items-center justify-between px-4 py-3.5 sm:px-6 sm:py-4 bg-gradient-to-r from-blue-700 to-indigo-800 text-white shrink-0">
+          <div className="flex items-center gap-2.5 min-w-0">
+            <Layers className="w-5 h-5 text-blue-200 shrink-0" />
+            <div className="min-w-0">
+              <h3 className="text-base sm:text-lg font-bold truncate">Chọn Bộ Đề & Chế Độ Luyện Thi</h3>
+              <p className="text-xs text-blue-200 truncate hidden xs:block">
+                Ngân hàng 500 câu trắc nghiệm chuẩn Pháp luật đại cương
               </p>
             </div>
           </div>
           <button
             onClick={onClose}
-            className="p-1 rounded-lg text-white/80 hover:text-white hover:bg-white/10 transition-colors"
+            className="p-1.5 rounded-lg text-white/80 hover:text-white hover:bg-white/10 active:scale-95 transition-all touch-manipulation shrink-0"
           >
             <X className="w-5 h-5" />
           </button>
         </div>
 
         {/* Tab switch */}
-        <div className="flex border-b border-slate-200 bg-slate-50 px-6 pt-3 gap-2">
+        <div className="flex border-b border-slate-200 bg-slate-50 px-3 sm:px-6 pt-2 sm:pt-3 gap-1 sm:gap-2 overflow-x-auto no-scrollbar shrink-0">
           <button
             onClick={() => setActiveTab('exams')}
-            className={`pb-3 px-3 text-sm font-bold border-b-2 transition-all flex items-center gap-1.5 ${
+            className={`pb-2.5 sm:pb-3 px-2.5 sm:px-3 text-xs sm:text-sm font-bold border-b-2 transition-all flex items-center gap-1.5 shrink-0 touch-manipulation ${
               activeTab === 'exams'
                 ? 'border-blue-600 text-blue-700'
                 : 'border-transparent text-slate-500 hover:text-slate-800'
             }`}
           >
             <Layers className="w-4 h-4" />
-            5 Bộ Đề Chuẩn (100 câu/90 phút)
+            <span>5 Bộ Đề Chuẩn</span>
+            <span className="hidden sm:inline">(100 câu/90 phút)</span>
           </button>
           <button
             onClick={() => setActiveTab('chapters')}
-            className={`pb-3 px-3 text-sm font-bold border-b-2 transition-all flex items-center gap-1.5 ${
+            className={`pb-2.5 sm:pb-3 px-2.5 sm:px-3 text-xs sm:text-sm font-bold border-b-2 transition-all flex items-center gap-1.5 shrink-0 touch-manipulation ${
               activeTab === 'chapters'
                 ? 'border-blue-600 text-blue-700'
                 : 'border-transparent text-slate-500 hover:text-slate-800'
             }`}
           >
             <BookOpen className="w-4 h-4" />
-            Ôn Luyện Theo Từng Chương (1, 3, 4, 5, 6, 7, 9)
+            <span>Theo Chương</span>
+            <span className="hidden sm:inline">(1, 3, 4, 5, 6, 7, 9)</span>
           </button>
         </div>
 
         {/* Modal Body */}
-        <div className="flex-1 overflow-y-auto p-6 space-y-4">
+        <div className="flex-1 overflow-y-auto p-3.5 sm:p-6 space-y-3 sm:space-y-4">
           {activeTab === 'exams' ? (
             <div className="space-y-3">
               {/* Random 100 questions banner */}

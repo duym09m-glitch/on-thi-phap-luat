@@ -341,19 +341,19 @@ export default function App() {
       />
 
       {/* Main Body Container */}
-      <main className="flex-1 max-w-7xl w-full mx-auto px-4 sm:px-6 lg:px-8 py-6">
+      <main className="flex-1 max-w-7xl w-full mx-auto px-3 sm:px-6 lg:px-8 py-4 sm:py-6">
         {/* Prominent Current Exam Title Hero */}
-        <div className="mb-6 p-5 sm:p-6 bg-white border border-slate-200/90 rounded-2xl shadow-xs flex flex-col sm:flex-row items-start sm:items-center justify-between gap-4">
-          <div className="space-y-1.5 min-w-0">
+        <div className="mb-4 sm:mb-6 p-4 sm:p-6 bg-white border border-slate-200/90 rounded-2xl shadow-xs flex flex-col sm:flex-row items-start sm:items-center justify-between gap-3 sm:gap-4">
+          <div className="space-y-1 sm:space-y-1.5 min-w-0 w-full sm:w-auto">
             <div className="flex items-center gap-2 flex-wrap">
-              <span className="px-2.5 py-0.5 text-xs font-black rounded-md bg-blue-600 text-white tracking-wide uppercase">
+              <span className="px-2 py-0.5 text-[11px] sm:text-xs font-black rounded-md bg-blue-600 text-white tracking-wide uppercase">
                 BỘ ĐỀ {currentExam.id}
               </span>
-              <span className="text-xs text-slate-500 font-medium">
+              <span className="text-[11px] sm:text-xs text-slate-500 font-medium">
                 • 100 Câu Trắc Nghiệm Chuẩn • 90 Phút
               </span>
             </div>
-            <h1 className="text-xl sm:text-2xl font-black text-slate-900 tracking-tight">
+            <h1 className="text-lg sm:text-2xl font-black text-slate-900 tracking-tight leading-snug break-words">
               {currentExam.title}
             </h1>
             <p className="text-xs sm:text-sm text-slate-600 line-clamp-2">
@@ -363,7 +363,7 @@ export default function App() {
 
           <button
             onClick={() => setIsExamSelectOpen(true)}
-            className="flex items-center gap-2 px-4 py-2.5 bg-blue-50 hover:bg-blue-100 text-blue-700 text-xs sm:text-sm font-bold border border-blue-200 rounded-xl transition-all shadow-2xs shrink-0"
+            className="w-full sm:w-auto justify-center flex items-center gap-2 px-4 py-2.5 bg-blue-50 hover:bg-blue-100 active:bg-blue-200 text-blue-700 text-xs sm:text-sm font-bold border border-blue-200 rounded-xl transition-all shadow-2xs shrink-0 active:scale-95 touch-manipulation"
             title="Đổi sang bộ đề khác trong 5 bộ đề"
           >
             <Layers className="w-4 h-4 text-blue-600" />
@@ -372,7 +372,7 @@ export default function App() {
         </div>
         {/* SUBMITTED REVIEW MODE */}
         {isSubmitted ? (
-          <div className="space-y-8 animate-in fade-in duration-300">
+          <div className="space-y-6 sm:space-y-8 animate-in fade-in duration-300">
             {/* Comprehensive Score Report */}
             <ResultReport
               exam={currentExam}
@@ -484,7 +484,7 @@ export default function App() {
       </main>
 
       {/* Footer */}
-      <footer className="border-t border-slate-200 bg-white py-6 mt-12 text-center text-xs text-slate-500">
+      <footer className="border-t border-slate-200 bg-white py-6 mt-8 sm:mt-12 text-center text-xs text-slate-500 pb-safe">
         <div className="max-w-7xl mx-auto px-4 flex flex-col sm:flex-row items-center justify-between gap-3">
           <p>
             Hệ thống ôn thi & trắc nghiệm <strong>Pháp luật đại cương</strong> (5 bộ đề • 500 câu hỏi chuẩn đại học).

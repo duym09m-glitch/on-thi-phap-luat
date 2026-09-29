@@ -120,14 +120,14 @@ export const ResultReport: React.FC<ResultReportProps> = ({
     <div className="space-y-6">
       {/* Top Banner Card */}
       <div className="bg-white rounded-2xl border border-slate-200 shadow-sm overflow-hidden">
-        <div className="bg-gradient-to-r from-blue-700 via-indigo-700 to-slate-900 text-white p-6 sm:p-8">
+        <div className="bg-gradient-to-r from-blue-700 via-indigo-700 to-slate-900 text-white p-5 sm:p-8">
           <div className="flex flex-col sm:flex-row items-start sm:items-center justify-between gap-4">
-            <div>
+            <div className="min-w-0">
               <div className="inline-flex items-center gap-1.5 px-3 py-1 bg-white/10 backdrop-blur-md rounded-full text-xs font-semibold text-blue-200 mb-2">
                 <Sparkles className="w-3.5 h-3.5" />
                 Kết Quả Bài Thi Đã Nộp
               </div>
-              <h2 className="text-xl sm:text-2xl font-extrabold tracking-tight">
+              <h2 className="text-xl sm:text-2xl font-black tracking-tight break-words">
                 {exam.title}
               </h2>
               <p className="text-xs sm:text-sm text-blue-200 mt-1">
@@ -136,7 +136,7 @@ export const ResultReport: React.FC<ResultReportProps> = ({
             </div>
 
             {/* Main Score Dial */}
-            <div className="bg-white/10 backdrop-blur-md border border-white/20 px-6 py-4 rounded-2xl text-center shadow-lg">
+            <div className="w-full sm:w-auto bg-white/10 backdrop-blur-md border border-white/20 px-6 py-4 rounded-2xl text-center shadow-lg shrink-0">
               <span className="text-xs uppercase tracking-wider text-blue-200 block font-semibold">
                 Điểm Tổng Kết
               </span>
@@ -153,80 +153,80 @@ export const ResultReport: React.FC<ResultReportProps> = ({
 
         {/* 4 Stat Boxes */}
         <div className="grid grid-cols-2 sm:grid-cols-4 divide-y sm:divide-y-0 sm:divide-x divide-slate-100 border-b border-slate-100">
-          <div className="p-4 sm:p-5 flex items-center gap-3.5">
-            <div className="p-2.5 bg-emerald-100 text-emerald-700 rounded-xl">
-              <CheckCircle2 className="w-6 h-6" />
+          <div className="p-3.5 sm:p-5 flex items-center gap-2.5 sm:gap-3.5">
+            <div className="p-2 sm:p-2.5 bg-emerald-100 text-emerald-700 rounded-xl shrink-0">
+              <CheckCircle2 className="w-5 h-5 sm:w-6 sm:h-6" />
             </div>
-            <div>
-              <div className="text-xl sm:text-2xl font-bold text-slate-800">
+            <div className="min-w-0">
+              <div className="text-lg sm:text-2xl font-bold text-slate-800">
                 {correctCount}
                 <span className="text-xs text-slate-400 font-normal">/{total}</span>
               </div>
-              <div className="text-xs text-slate-500 font-medium">Số câu đúng</div>
+              <div className="text-xs text-slate-500 font-medium truncate">Số câu đúng</div>
             </div>
           </div>
 
-          <div className="p-4 sm:p-5 flex items-center gap-3.5">
-            <div className="p-2.5 bg-rose-100 text-rose-700 rounded-xl">
-              <XCircle className="w-6 h-6" />
+          <div className="p-3.5 sm:p-5 flex items-center gap-2.5 sm:gap-3.5">
+            <div className="p-2 sm:p-2.5 bg-rose-100 text-rose-700 rounded-xl shrink-0">
+              <XCircle className="w-5 h-5 sm:w-6 sm:h-6" />
             </div>
-            <div>
-              <div className="text-xl sm:text-2xl font-bold text-slate-800">
+            <div className="min-w-0">
+              <div className="text-lg sm:text-2xl font-bold text-slate-800">
                 {wrongCount}
                 <span className="text-xs text-slate-400 font-normal">/{total}</span>
               </div>
-              <div className="text-xs text-slate-500 font-medium">Số câu sai</div>
+              <div className="text-xs text-slate-500 font-medium truncate">Số câu sai</div>
             </div>
           </div>
 
-          <div className="p-4 sm:p-5 flex items-center gap-3.5">
-            <div className="p-2.5 bg-amber-100 text-amber-700 rounded-xl">
-              <Clock className="w-6 h-6" />
+          <div className="p-3.5 sm:p-5 flex items-center gap-2.5 sm:gap-3.5">
+            <div className="p-2 sm:p-2.5 bg-amber-100 text-amber-700 rounded-xl shrink-0">
+              <Clock className="w-5 h-5 sm:w-6 sm:h-6" />
             </div>
-            <div>
-              <div className="text-xl sm:text-2xl font-bold text-slate-800">
+            <div className="min-w-0">
+              <div className="text-lg sm:text-2xl font-bold text-slate-800">
                 {minutes}p {seconds}s
               </div>
-              <div className="text-xs text-slate-500 font-medium">Thời gian hoàn thành</div>
+              <div className="text-xs text-slate-500 font-medium truncate">Thời gian</div>
             </div>
           </div>
 
-          <div className="p-4 sm:p-5 flex items-center gap-3.5">
-            <div className="p-2.5 bg-blue-100 text-blue-700 rounded-xl">
-              <Award className="w-6 h-6" />
+          <div className="p-3.5 sm:p-5 flex items-center gap-2.5 sm:gap-3.5">
+            <div className="p-2 sm:p-2.5 bg-blue-100 text-blue-700 rounded-xl shrink-0">
+              <Award className="w-5 h-5 sm:w-6 sm:h-6" />
             </div>
-            <div>
-              <div className="text-xl sm:text-2xl font-bold text-slate-800">
+            <div className="min-w-0">
+              <div className="text-lg sm:text-2xl font-bold text-slate-800">
                 {Math.round((correctCount / total) * 100)}%
               </div>
-              <div className="text-xs text-slate-500 font-medium">Tỷ lệ chính xác</div>
+              <div className="text-xs text-slate-500 font-medium truncate">Độ chính xác</div>
             </div>
           </div>
         </div>
 
         {/* Action Buttons Row */}
-        <div className="p-4 sm:p-5 bg-slate-50/70 flex flex-wrap items-center justify-between gap-3">
-          <div className="flex flex-wrap gap-2">
+        <div className="p-3.5 sm:p-5 bg-slate-50/70 flex flex-col sm:flex-row items-stretch sm:items-center justify-between gap-2.5 sm:gap-3">
+          <div className="flex flex-col sm:flex-row gap-2">
             <button
               onClick={onRetakeExam}
-              className="flex items-center gap-1.5 px-4 py-2 bg-blue-600 hover:bg-blue-700 text-white text-xs sm:text-sm font-semibold rounded-xl shadow-xs transition-all active:scale-95"
+              className="flex items-center justify-center gap-1.5 px-4 py-2.5 bg-blue-600 hover:bg-blue-700 text-white text-xs sm:text-sm font-semibold rounded-xl shadow-xs transition-all active:scale-95 touch-manipulation min-h-[42px]"
             >
               <RotateCcw className="w-4 h-4" />
               Làm lại đề này
             </button>
             <button
               onClick={onChangeExam}
-              className="flex items-center gap-1.5 px-4 py-2 border border-slate-300 hover:bg-white text-slate-700 text-xs sm:text-sm font-semibold rounded-xl transition-all"
+              className="flex items-center justify-center gap-1.5 px-4 py-2.5 border border-slate-300 hover:bg-white text-slate-700 text-xs sm:text-sm font-semibold rounded-xl transition-all active:scale-95 touch-manipulation min-h-[42px]"
             >
               <FileText className="w-4 h-4 text-slate-500" />
               Chọn bộ đề khác (1-5)
             </button>
           </div>
 
-          <div className="flex flex-wrap gap-2">
+          <div className="flex flex-col sm:flex-row gap-2">
             <button
               onClick={onOpenPrintModal}
-              className="flex items-center gap-1.5 px-4 py-2 bg-slate-800 hover:bg-slate-900 text-white text-xs sm:text-sm font-semibold rounded-xl shadow-xs transition-all"
+              className="flex items-center justify-center gap-1.5 px-4 py-2.5 bg-slate-800 hover:bg-slate-900 text-white text-xs sm:text-sm font-semibold rounded-xl shadow-xs transition-all active:scale-95 touch-manipulation min-h-[42px]"
             >
               <Download className="w-4 h-4" />
               In / Tải PDF
@@ -236,28 +236,28 @@ export const ResultReport: React.FC<ResultReportProps> = ({
       </div>
 
       {/* Chapter Performance Breakdown */}
-      <div className="bg-white rounded-2xl border border-slate-200 shadow-sm p-6 space-y-4">
-        <div className="flex items-center justify-between">
+      <div className="bg-white rounded-2xl border border-slate-200 shadow-sm p-4 sm:p-6 space-y-3 sm:space-y-4">
+        <div className="flex flex-col sm:flex-row sm:items-center justify-between gap-1">
           <div className="flex items-center gap-2">
-            <BarChart3 className="w-5 h-5 text-indigo-600" />
-            <h3 className="text-base font-bold text-slate-900">
-              Phân Tích Năng Lực Theo Từng Chương (Chương 1, 3, 4, 5, 6, 7, 9)
+            <BarChart3 className="w-5 h-5 text-indigo-600 shrink-0" />
+            <h3 className="text-sm sm:text-base font-bold text-slate-900">
+              Phân Tích Năng Lực Theo Từng Chương (1, 3, 4, 5, 6, 7, 9)
             </h3>
           </div>
-          <span className="text-xs text-slate-500">Giúp bạn nhận biết phần còn yếu</span>
+          <span className="text-xs text-slate-500">Giúp nhận biết phần còn yếu</span>
         </div>
 
-        <div className="grid grid-cols-1 md:grid-cols-2 gap-3.5 pt-1">
+        <div className="grid grid-cols-1 md:grid-cols-2 gap-2.5 sm:gap-3.5 pt-1">
           {chapterStats.map((ch) => (
             <div
               key={ch.id}
-              className="p-3.5 bg-slate-50/70 border border-slate-200/80 rounded-xl space-y-2"
+              className="p-3 sm:p-3.5 bg-slate-50/70 border border-slate-200/80 rounded-xl space-y-1.5 sm:space-y-2"
             >
-              <div className="flex items-center justify-between text-xs font-semibold">
-                <span className="text-slate-800 truncate max-w-[220px]" title={ch.name}>
+              <div className="flex items-center justify-between text-xs font-semibold gap-2">
+                <span className="text-slate-800 truncate" title={ch.name}>
                   {ch.name}
                 </span>
-                <span className="font-bold text-slate-900">
+                <span className="font-bold text-slate-900 shrink-0">
                   {ch.correct}/{ch.total} câu ({ch.percent}%)
                 </span>
               </div>
@@ -279,15 +279,15 @@ export const ResultReport: React.FC<ResultReportProps> = ({
       </div>
 
       {/* Filter review buttons */}
-      <div className="bg-white rounded-2xl border border-slate-200 shadow-sm p-4 flex flex-wrap items-center justify-between gap-3">
-        <div className="flex items-center gap-2">
+      <div className="bg-white rounded-2xl border border-slate-200 shadow-sm p-3.5 sm:p-4 flex flex-col sm:flex-row sm:items-center justify-between gap-2.5 sm:gap-3">
+        <div className="flex items-center gap-2 shrink-0">
           <ListFilter className="w-4 h-4 text-slate-500" />
           <span className="text-xs font-bold text-slate-700 uppercase tracking-wider">
-            Xem lại chi tiết bài làm:
+            Xem lại bài làm:
           </span>
         </div>
 
-        <div className="flex flex-wrap gap-1.5">
+        <div className="flex items-center gap-1.5 overflow-x-auto no-scrollbar py-1">
           <button
             onClick={() => onSetFilterReview('all')}
             className={`px-3 py-1.5 text-xs font-semibold rounded-lg transition-colors ${
