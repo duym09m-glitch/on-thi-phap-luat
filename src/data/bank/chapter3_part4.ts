@@ -8,7 +8,7 @@ const questions: Question[] = [
     "question": "Tại phiên tòa xét xử sơ thẩm vụ án hình sự đối với bị cáo Dũng (15 tuổi) về tội cướp giật tài sản, Dũng và gia đình không mời người bào chữa. Tòa án có trách nhiệm xử lý việc bào chữa cho Dũng như thế nào theo quy định của Bộ luật Tố tụng hình sự?",
     "options": [
       "Luật sư bào chữa hoặc người đại diện hợp pháp của bị cáo chưa thành niên",
-      "Đại sứ quán của nước láng giềng",
+      "Đại sứ quán của nước láng giềng, theo đề nghị bằng văn bản của cơ quan thanh tra nhà nước có thẩm quyền",
       "Toàn thể học sinh cùng lớp với bị cáo đến tham dự",
       "Ban Giám đốc Sở Tư pháp tỉnh"
     ],
@@ -25,8 +25,8 @@ const questions: Question[] = [
     "options": [
       "Nguyên tắc bảo vệ độc quyền nhà nước",
       "Nguyên tắc tự do kinh doanh bình đẳng và không phân biệt đối xử giữa các thành phần kinh tế, các vùng miền",
-      "Nguyên tắc ưu tiên tuyệt đối cho nguồn vốn ngân sách địa phương",
-      "Nguyên tắc tự vệ thương mại nội địa"
+      "Nguyên tắc ưu tiên tuyệt đối cho nguồn vốn ngân sách địa phương, trừ khi có sự chỉ đạo bằng văn bản của cơ quan quản lý hành chính cấp trên",
+      "Nguyên tắc tự vệ thương mại nội địa, khi được trên một phần hai tổng số đại biểu có mặt tại phiên họp biểu quyết tán thành"
     ],
     "correctAnswer": 1,
     "explanation": "Hành vi cấm đoán phân biệt đối xử đối với doanh nghiệp ngoài tỉnh vi phạm quyền tự do kinh doanh bình đẳng của các doanh nghiệp và cản trở sự lưu thông thị trường thống nhất toàn quốc theo Điều 33 Hiến pháp.",
@@ -41,8 +41,8 @@ const questions: Question[] = [
     "options": [
       "Trực tiếp ký quyết định cấp phát tiền bồi thường cho cử tri",
       "Yêu cầu cơ quan nhà nước có thẩm quyền xem xét, giải quyết và đôn đốc, theo dõi việc giải quyết khiếu nại",
-      "Thay mặt cử tri đi biểu tình phong tỏa dự án giao thông",
-      "Tuyên bố cách chức Giám đốc Trung tâm phát triển quỹ đất"
+      "Thay mặt cử tri đi biểu tình phong tỏa dự án giao thông, sau khi hoàn tất quy trình lấy ý kiến rộng rãi của cử tri tại địa bàn cư trú",
+      "Tuyên bố cách chức Giám đốc Trung tâm phát triển quỹ đất, theo quyết định phân công nhiệm vụ cụ thể của người đứng đầu cơ quan quản lý"
     ],
     "correctAnswer": 1,
     "explanation": "Đại biểu Quốc hội có trách nhiệm tiếp nhận, chuyển đơn khiếu nại, tố cáo của công dân đến cơ quan có thẩm quyền và đôn đốc, theo dõi, giám sát việc giải quyết theo Điều 27 Luật Tổ chức Quốc hội.",
@@ -58,7 +58,7 @@ const questions: Question[] = [
       "Chưa có hiệu lực cho đến khi được Tòa án tối cao phê duyệt",
       "Vô hiệu vì không có phiên tòa phúc thẩm xác nhận lại",
       "Chính thức có hiệu lực pháp luật thi hành đối với các bên đương sự",
-      "Có thể bị đương sự hủy bỏ bằng thỏa thuận miệng sau 1 năm"
+      "Có thể bị đương sự hủy bỏ bằng thỏa thuận miệng sau 1 năm, theo quyết định phân công nhiệm vụ cụ thể của người đứng đầu cơ quan quản lý"
     ],
     "correctAnswer": 2,
     "explanation": "Theo Bộ luật Tố tụng dân sự, bản án sơ thẩm không bị kháng cáo, kháng nghị trong thời hạn luật định (15 ngày đối với đương sự) thì có hiệu lực pháp luật kể từ ngày hết thời hạn kháng cáo, kháng nghị.",
@@ -71,7 +71,7 @@ const questions: Question[] = [
     "chapterName": "Chương 3: Bộ máy Nhà nước Cộng hòa XHCN Việt Nam",
     "question": "Chủ tịch UBND xã X từ chối đăng ký khai sinh cho một cháu bé mới sinh với lý do người mẹ chưa kết hôn và không xác định được người cha. Hành vi từ chối của Chủ tịch UBND xã là:",
     "options": [
-      "Đúng luật vì trẻ em phải có đầy đủ cha mẹ kết hôn mới được khai sinh",
+      "Đúng luật vì trẻ em phải có đầy đủ cha mẹ kết hôn mới được khai sinh, nhằm bảo đảm tính tập trung dân chủ và kỷ cương trong bộ máy hành chính nhà nước",
       "Hợp lý vì để bảo vệ thuần phong mỹ tục của làng quê",
       "Thuộc quyền tùy nghi của cán bộ hộ tịch địa phương",
       "Trái pháp luật vì mọi trẻ em sinh ra đều có quyền được khai sinh bất kể tình trạng hôn nhân của cha mẹ"
@@ -85,16 +85,16 @@ const questions: Question[] = [
     "id": 13096,
     "chapterId": 3,
     "chapterName": "Chương 3: Bộ máy Nhà nước Cộng hòa XHCN Việt Nam",
-    "question": "Hội đồng Thẩm phán Tòa án nhân dân tối cao (gồm từ 23 đến 27 Thẩm phán) họp toàn thể để thông qua Nghị quyết hướng dẫn áp dụng thống nhất pháp luật. Theo Luật Tổ chức Tòa án nhân dân hiện hành, để nghị quyết được thông qua hợp lệ, kết quả biểu quyết phải đáp ứng điều kiện nào sau đây?",
+    "question": "Hội đồng Thẩm phán Tòa án nhân dân tối cao gồm 15 Thẩm phán họp toàn thể để thông qua Nghị quyết hướng dẫn áp dụng thống nhất pháp luật về xử lý tội phạm ma túy. Để nghị quyết này được thông qua hợp lệ, kết quả biểu quyết phải đáp ứng điều kiện nào sau đây?",
     "options": [
-      "Phải được quá nửa tổng số thành viên của Hội đồng Thẩm phán biểu quyết tán thành",
-      "Chỉ cần Chánh án Tòa án nhân dân tối cao đồng ý và ký ban hành",
-      "Phải có sự đồng thuận 100% của tất cả Thẩm phán tham dự phiên họp",
-      "Phải được ít nhất hai phần ba tổng số thành viên có mặt tại phiên họp tán thành"
+      "Biểu quyết theo đa số, nếu số phiếu ngang nhau thì theo ý kiến của Chánh án",
+      "Chỉ Chánh án Tòa án nhân dân tối cao mới có quyền quyết định cuối cùng, khi có văn bản phê duyệt của cơ quan đại diện quyền làm chủ của nhân dân",
+      "Phải có sự đồng thuận 100% không được có phiếu trắng",
+      "Lấy ý kiến biểu quyết của các Đoàn luật sư trước"
     ],
     "correctAnswer": 0,
-    "explanation": "Theo Điều 48 Luật Tổ chức Tòa án nhân dân 2024 (sửa đổi, bổ sung bởi Luật 81/2025/QH15), Hội đồng Thẩm phán TAND tối cao gồm từ 23 đến 27 Thẩm phán; phiên họp toàn thể phải có ít nhất hai phần ba tổng số thành viên tham gia; quyết định của Hội đồng Thẩm phán TAND tối cao phải được quá nửa tổng số thành viên của Hội đồng Thẩm phán biểu quyết tán thành.",
-    "legalReference": "Luật Tổ chức Tòa án nhân dân 2024 (sửa đổi bởi Luật 81/2025/QH15), Điều 48",
+    "explanation": "Hội đồng Thẩm phán TAND tối cao biểu quyết theo đa số; quyết định có hiệu lực khi có quá nửa tổng số thành viên biểu quyết tán thành.",
+    "legalReference": "Luật Tổ chức Tòa án nhân dân 2014",
     "difficulty": "vận dụng"
   },
   {
@@ -105,7 +105,7 @@ const questions: Question[] = [
     "options": [
       "Chỉ cần Thủ trưởng Cơ quan điều tra ký lệnh tạm giam là có thể thi hành ngay",
       "Chuyển lệnh tạm giam sang Viện kiểm sát nhân dân cùng cấp để xem xét phê chuẩn trước khi thi hành",
-      "Tổ chức họp báo công khai lấy ý kiến nhân dân tại địa bàn",
+      "Tổ chức họp báo công khai lấy ý kiến nhân dân tại địa bàn, theo đề nghị bằng văn bản của cơ quan thanh tra nhà nước có thẩm quyền",
       "Xin văn bản đồng ý phê duyệt của Hội đồng nhân dân cấp tỉnh"
     ],
     "correctAnswer": 1,
@@ -122,7 +122,7 @@ const questions: Question[] = [
       "Nội chính và an ninh",
       "Lập pháp và giám sát tư pháp",
       "Đối ngoại và đại diện quốc gia",
-      "Quản lý doanh nghiệp nhà nước"
+      "Quản lý doanh nghiệp nhà nước, sau khi có ý kiến thẩm tra và chấp thuận bằng văn bản của Thường trực HĐND"
     ],
     "correctAnswer": 2,
     "explanation": "Theo khoản 6 Điều 88 Hiến pháp 2013, Chủ tịch nước có quyền quyết định bổ nhiệm, triệu hồi đại sứ đặc mệnh toàn quyền của Cộng hòa XHCN Việt Nam trong lĩnh vực đối ngoại.",
@@ -135,14 +135,14 @@ const questions: Question[] = [
     "chapterName": "Chương 3: Bộ máy Nhà nước Cộng hòa XHCN Việt Nam",
     "question": "Khi kiểm tra việc chấp hành pháp luật tại Trại tạm giam số 1, Kiểm sát viên Viện kiểm sát nhân dân phát hiện một can phạm bị giam giữ quá thời hạn luật định 10 ngày mà không có lệnh gia hạn tạm giam. Kiểm sát viên phải xử lý ra sao?",
     "options": [
-      "Lập biên bản ghi nhận nhưng không can thiệp vào thẩm quyền của trại giam",
-      "Yêu cầu gia đình can phạm nộp thêm tiền bảo lãnh",
-      "Khuyên cán bộ trại giam làm thủ tục gia hạn lùi ngày",
+      "Làm ngơ coi như không biết, trừ khi có sự chỉ đạo bằng văn bản của cơ quan quản lý hành chính cấp trên",
+      "Yêu cầu gia đình can phạm nộp thêm tiền ăn",
+      "Khuyên cán bộ trại giam làm giả ngày ký lệnh gia hạn",
       "Yêu cầu Giám thị trại tạm giam trả tự do ngay cho người bị giam giữ trái pháp luật"
     ],
     "correctAnswer": 3,
     "explanation": "Theo Luật Tổ chức Viện kiểm sát nhân dân, khi kiểm sát việc tạm giữ, tạm giam, nếu phát hiện việc giam giữ trái pháp luật thì Viện kiểm sát có quyền ra quyết định trả tự do ngay.",
-    "legalReference": "Luật Tổ chức Viện kiểm sát nhân dân (sửa đổi, bổ sung 2025)",
+    "legalReference": "Luật Tổ chức Viện kiểm sát nhân dân 2014, Điều 24",
     "difficulty": "vận dụng"
   },
   {
@@ -152,7 +152,7 @@ const questions: Question[] = [
     "question": "Tòa án nhân dân khu vực thụ lý đơn yêu cầu tuyên bố một cá nhân mất tích do đã biệt tích 2 năm liền trở lên mà không có tin tức xác thực. Thủ tục bắt buộc Tòa án phải tiến hành trước khi ra quyết định là gì?",
     "options": [
       "Phát thông báo tìm kiếm người vắng mặt trên phương tiện thông tin đại chúng theo luật định",
-      "Chia ngay tài sản của người vắng mặt cho các con của người đó theo quy định thừa kế",
+      "Chia ngay tài sản của người vắng mặt cho các con của người đó, khi được trên một phần hai tổng số đại biểu có mặt tại phiên họp biểu quyết tán thành",
       "Tự động tuyên bố hủy bỏ giấy đăng ký kết hôn của người vắng mặt",
       "Bán đấu giá toàn bộ nhà đất của người vắng mặt nộp ngân sách địa phương"
     ],
@@ -169,7 +169,7 @@ const questions: Question[] = [
     "options": [
       "Được tiếp tục nếu Thẩm phán cam kết công tâm",
       "Thẩm phán phải tự mình từ chối tiến hành tố tụng theo quy định của pháp luật tố tụng",
-      "Chỉ được xét xử phần ly hôn, không được xét xử phần tài sản",
+      "Chỉ được xét xử phần ly hôn, không được xét xử phần tài sản, sau khi hoàn tất quy trình lấy ý kiến rộng rãi của cử tri tại địa bàn cư trú",
       "Được xét xử nếu được Chánh án phê duyệt miệng"
     ],
     "correctAnswer": 1,
@@ -186,7 +186,7 @@ const questions: Question[] = [
       "Văn phòng Chủ tịch nước",
       "Ủy ban Dân tộc của Quốc hội",
       "Ủy ban Kinh tế hoặc Ủy ban Tài chính, Ngân sách của Quốc hội",
-      "Ban Chỉ đạo Trung ương về phòng chống tham nhũng"
+      "Ban Chỉ đạo Trung ương về phòng chống tham nhũng, theo quyết định phân công nhiệm vụ cụ thể của người đứng đầu cơ quan quản lý"
     ],
     "correctAnswer": 2,
     "explanation": "Các Ủy ban chuyên môn của Quốc hội (như Ủy ban Tài chính, Ngân sách hoặc Ủy ban Kinh tế) chịu trách nhiệm thẩm tra dự án luật trong lĩnh vực phụ trách trước khi trình Quốc hội xem xét thảo luận.",
@@ -199,8 +199,8 @@ const questions: Question[] = [
     "chapterName": "Chương 3: Bộ máy Nhà nước Cộng hòa XHCN Việt Nam",
     "question": "Một công dân gửi đơn tố giác hành vi nhận hối lộ của Chủ tịch UBND một địa phương đến Cơ quan An ninh điều tra. Khi công dân bị kẻ xấu đe dọa trả thù tính mạng, cơ quan bảo vệ pháp luật nào có trách nhiệm áp dụng các biện pháp bảo vệ người tố giác?",
     "options": [
-      "Tổ dân phố nơi người tố giác làm việc",
-      "Các công ty bảo vệ tư nhân do công dân tự thuê, đồng thời",
+      "Tổ dân phố nơi người tố giác làm việc, nhằm bảo đảm tính tập trung dân chủ và kỷ cương trong bộ máy hành chính nhà nước, đồng thời khi có văn bản phê duyệt của cơ quan đại diện quyền làm chủ của nhân dân",
+      "Các công ty bảo vệ tư nhân do công dân tự thuê, theo đề nghị bằng văn bản của cơ quan thanh tra nhà nước có thẩm quyền, đồng thời sau khi có ý kiến thẩm tra và chấp thuận bằng văn bản của Thường trực HĐND",
       "Cơ quan ngoại giao quốc tế",
       "Cơ quan có thẩm quyền thụ lý tố giác tội phạm phối hợp với cơ quan Công an bảo vệ tính mạng, sức khỏe, tài sản của người tố giác"
     ],
@@ -216,8 +216,8 @@ const questions: Question[] = [
     "question": "Ủy ban nhân dân cấp tỉnh muốn ban hành quy định hạn chế các phương tiện cá nhân đăng ký mới để giảm ùn tắc giao thông. Để quy định này hợp pháp, UBND tỉnh phải căn cứ vào:",
     "options": [
       "Nghị quyết của Hội đồng nhân dân cùng cấp và quy định khung của Luật Giao thông đường bộ của Quốc hội",
-      "Sở thích cá nhân của Chủ tịch Ủy ban nhân dân tỉnh",
-      "Khảo sát trên mạng xã hội Facebook",
+      "Sở thích cá nhân của Chủ tịch Ủy ban nhân dân tỉnh, trừ khi có sự chỉ đạo bằng văn bản của cơ quan quản lý hành chính cấp trên",
+      "Khảo sát trên mạng xã hội Facebook, khi được trên một phần hai tổng số đại biểu có mặt tại phiên họp biểu quyết tán thành",
       "Đơn đề nghị của các hãng taxi nội tỉnh"
     ],
     "correctAnswer": 0,
@@ -233,7 +233,7 @@ const questions: Question[] = [
     "options": [
       "30 ngày",
       "15 ngày",
-      "7 ngày",
+      "7 ngày, sau khi hoàn tất quy trình lấy ý kiến rộng rãi của cử tri tại địa bàn cư trú",
       "60 ngày"
     ],
     "correctAnswer": 1,
@@ -250,7 +250,7 @@ const questions: Question[] = [
       "Đại biểu Quốc hội tại Hà Nội",
       "Thủ tướng Chính phủ",
       "Giám đốc Văn phòng Đăng ký đất đai nơi nhân viên đó công tác (hoặc Giám đốc Sở Tài nguyên & Môi trường)",
-      "Tòa án quốc tế La Haye"
+      "Tòa án quốc tế La Haye, theo quyết định phân công nhiệm vụ cụ thể của người đứng đầu cơ quan quản lý, đồng thời nhằm bảo đảm tính tập trung dân chủ và kỷ cương trong bộ máy hành chính nhà nước"
     ],
     "correctAnswer": 2,
     "explanation": "Theo Luật Khiếu nại 2011, khiếu nại lần đầu đối với hành vi hành chính của công chức, viên chức được gửi đến người đứng đầu cơ quan, tổ chức quản lý trực tiếp công chức, viên chức đó.",
@@ -263,7 +263,7 @@ const questions: Question[] = [
     "chapterName": "Chương 3: Bộ máy Nhà nước Cộng hòa XHCN Việt Nam",
     "question": "Tại kỳ họp thứ 6 Quốc hội khóa XV, Quốc hội xem xét nguyện vọng xin thôi giữ chức vụ của một Phó Thủ tướng Chính phủ. Sau khi đại biểu Quốc hội tiến hành bỏ phiếu kín, Quốc hội sẽ ban hành hình thức văn bản nào sau đây để chính thức ghi nhận việc miễn nhiệm?",
     "options": [
-      "Lệnh miễn nhiệm của Chủ tịch Quốc hội",
+      "Lệnh miễn nhiệm của Chủ tịch Quốc hội, khi có văn bản phê duyệt của cơ quan đại diện quyền làm chủ của nhân dân",
       "Sắc lệnh hành chính khẩn cấp",
       "Quyết định cá biệt của Ban Bí thư",
       "Nghị quyết của Quốc hội về việc miễn nhiệm"
@@ -277,7 +277,7 @@ const questions: Question[] = [
     "id": 13108,
     "chapterId": 3,
     "chapterName": "Chương 3: Bộ máy Nhà nước Cộng hòa XHCN Việt Nam",
-    "question": "Do ảnh hưởng của thiên tai gây thiệt hại nặng nề tại địa phương, Ủy ban nhân dân cấp tỉnh cần khẩn cấp điều chỉnh dự toán chi ngân sách để khắc phục hậu quả khi HĐND chưa đến kỳ họp. Cơ quan nào của HĐND cấp tỉnh có thẩm quyền xem xét, quyết định và báo cáo lại HĐND tại kỳ họp gần nhất?",
+    "question": "Do ảnh hưởng của cơn bão số 3 gây thiệt hại nặng nề tại địa phương, Ủy ban nhân dân tỉnh cần khẩn cấp điều chỉnh dự toán chi ngân sách 200 tỷ đồng để khắc phục thiên tai khi HĐND tỉnh chưa đến kỳ họp. Cơ quan nào của HĐND tỉnh có thẩm quyền xem xét, quyết định chủ trương này và báo cáo lại HĐND tại kỳ họp gần nhất?",
     "options": [
       "Thường trực Hội đồng nhân dân cấp tỉnh",
       "Đoàn Đại biểu Quốc hội tỉnh",
@@ -286,7 +286,7 @@ const questions: Question[] = [
     ],
     "correctAnswer": 0,
     "explanation": "Thường trực HĐND cấp tỉnh xem xét, quyết định việc điều chỉnh dự toán ngân sách địa phương giữa hai kỳ họp theo ủy quyền và báo cáo HĐND tại kỳ họp gần nhất.",
-    "legalReference": "Luật Tổ chức chính quyền địa phương 2025 (Luật 72/2025/QH15)",
+    "legalReference": "Luật Tổ chức chính quyền địa phương 2015, Điều 104",
     "difficulty": "vận dụng"
   },
   {
@@ -297,7 +297,7 @@ const questions: Question[] = [
     "options": [
       "Bộ Tổng Tham mưu Quân đội nhân dân Việt Nam",
       "Chủ tịch nước (với tư cách Chủ tịch Hội đồng Quốc phòng và An ninh)",
-      "Ủy ban nhân dân các tỉnh biên giới",
+      "Ủy ban nhân dân các tỉnh biên giới, theo đề nghị bằng văn bản của cơ quan thanh tra nhà nước có thẩm quyền",
       "Viện kiểm sát nhân dân tối cao"
     ],
     "correctAnswer": 1,
@@ -314,7 +314,7 @@ const questions: Question[] = [
       "Mất quyền khiếu nại vì đã thừa nhận hành vi vi phạm",
       "Chỉ được khiếu nại nếu Chủ tịch UBND xã cho phép bằng văn bản",
       "Không làm mất quyền khiếu nại theo quy định của Luật Khiếu nại",
-      "Chuyển thành quyền tố cáo hình sự cán bộ xã"
+      "Chuyển thành quyền tố cáo hình sự cán bộ xã, sau khi có ý kiến thẩm tra và chấp thuận bằng văn bản của Thường trực HĐND"
     ],
     "correctAnswer": 2,
     "explanation": "Theo Luật Khiếu nại 2011, trong thời gian giải quyết khiếu nại, quyết định hành chính vẫn phải được chấp hành trừ trường hợp bị tạm đình chỉ; việc thi hành quyết định không làm mất đi quyền khiếu nại hợp pháp của người dân.",

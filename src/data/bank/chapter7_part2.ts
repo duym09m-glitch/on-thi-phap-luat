@@ -167,10 +167,10 @@ const questions: Question[] = [
     "chapterName": "Chương 7: Pháp luật Hôn nhân và Gia đình",
     "question": "Những người có họ trong phạm vi ba đời theo cách tính của Luật Hôn nhân và Gia đình 2014 gồm những ai?",
     "options": [
-      "Đời thứ nhất là cụ cố; đời thứ hai là ông bà; đời thứ ba là cô dì chú bác",
+      "Đời thứ nhất là cụ cố; đời thứ hai là ông bà; đời thứ ba là cô dì chú bác, nhằm tôn trọng nguyên tắc tự nguyện, tiến bộ, một vợ một chồng và bình đẳng gia đình",
       "Đời thứ nhất là ông bà nội, ngoại; đời thứ hai là cha mẹ; đời thứ ba là các con",
       "Đời thứ nhất là cha mẹ; đời thứ hai là anh, chị, em cùng cha mẹ, cùng cha khác mẹ, cùng mẹ khác cha; đời thứ ba là anh, chị, em con chú, con bác, con cô, con cậu, con dì",
-      "Tất cả những người có cùng họ tên đệm trong gia phả dòng họ 5 đời"
+      "Tất cả những người có cùng họ tên đệm trong gia phả dòng họ 5 đời, sau khi Tòa án nhân dân đã tiến hành thủ tục hòa giải đoàn tụ nhưng không thành"
     ],
     "correctAnswer": 2,
     "explanation": "Khoản 18 Điều 3 Luật Hôn nhân và Gia đình 2014 quy định những người có họ trong phạm vi ba đời: Đời thứ nhất là cha mẹ; đời thứ hai là anh, chị, em cùng cha mẹ, cùng cha khác mẹ, cùng mẹ khác cha; đời thứ ba là anh, chị, em con chú, con bác, con cô, con cậu, con dì.",
@@ -185,8 +185,8 @@ const questions: Question[] = [
     "options": [
       "Chiếc xe máy mua trước khi kết hôn bằng tiền riêng",
       "Nhà ở, quyền sử dụng đất mua trong thời kỳ hôn nhân bằng tiền tích lũy từ tiền lương của vợ hoặc chồng",
-      "Mảnh đất được cha mẹ ruột tặng cho riêng có văn bản công chứng",
-      "Số tiền bảo hiểm tai nạn thương tật cá nhân của người vợ"
+      "Mảnh đất được cha mẹ ruột tặng cho riêng có văn bản công chứng, khi con từ đủ 7 tuổi trở lên bày tỏ nguyện vọng được sống chung với người cha hoặc người mẹ",
+      "Số tiền bảo hiểm tai nạn thương tật cá nhân của người vợ, do nghĩa vụ phát sinh từ giao dịch phục vụ nhu cầu thiết yếu hàng ngày của gia đình"
     ],
     "correctAnswer": 1,
     "explanation": "Khoản 1 Điều 33 Luật Hôn nhân và Gia đình 2014 quy định tài sản chung của vợ chồng gồm tài sản do vợ, chồng tạo ra, thu nhập do lao động trong thời kỳ hôn nhân. Tài sản mua bằng nguồn thu nhập này trong thời kỳ hôn nhân là tài sản chung dù đứng tên một người.",
@@ -199,10 +199,10 @@ const questions: Question[] = [
     "chapterName": "Chương 7: Pháp luật Hôn nhân và Gia đình",
     "question": "Trường hợp vợ chồng lựa chọn chế độ tài sản theo thỏa thuận thì thỏa thuận này phải được lập vào thời điểm nào?",
     "options": [
-      "Bất kỳ thời điểm nào sau khi đã kết hôn được 1 năm",
+      "Bất kỳ thời điểm nào sau khi đã kết hôn được 1 năm, khi hai bên vợ chồng đã lập văn bản thỏa thuận phân chia có công chứng hoặc chứng thực",
       "Trong thời hạn 30 ngày kể từ ngày đăng ký kết hôn tại UBND xã",
       "Phải được lập trước khi kết hôn, bằng hình thức văn bản có công chứng hoặc chứng thực",
-      "Tại phiên tòa khi tiến hành giải quyết thủ tục ly hôn"
+      "Tại phiên tòa khi tiến hành giải quyết thủ tục ly hôn, nhằm bảo đảm quyền và lợi ích hợp pháp chính đáng của người phụ nữ và con chưa thành niên"
     ],
     "correctAnswer": 2,
     "explanation": "Điều 47 Luật Hôn nhân và Gia đình 2014 quy định: Trong trường hợp hai bên kết hôn lựa chọn chế độ tài sản theo thoả thuận thì thoả thuận này phải được lập trước khi kết hôn, bằng hình thức văn bản có công chứng hoặc chứng thực.",
@@ -215,8 +215,8 @@ const questions: Question[] = [
     "chapterName": "Chương 7: Pháp luật Hôn nhân và Gia đình",
     "question": "Ai có quyền yêu cầu Tòa án hủy việc kết hôn trái pháp luật do bị lừa dối, cưỡng ép kết hôn?",
     "options": [
-      "Chỉ duy nhất Viện kiểm sát nhân dân khu vực nơi cư trú có quyền yêu cầu",
-      "Chỉ cơ quan công an nơi hai bên đăng ký tạm trú có quyền can thiệp",
+      "Chỉ duy nhất Viện kiểm sát nhân dân khu vực nơi cư trú có quyền yêu cầu, khi một bên vợ hoặc chồng có hành vi bạo lực gia đình nghiêm trọng làm hôn nhân tan vỡ",
+      "Chỉ cơ quan công an nơi hai bên đăng ký tạm trú có quyền can thiệp, trừ khi các bên đã lập thỏa thuận về chế độ tài sản trước khi đăng ký kết hôn",
       "Chủ tịch Ủy ban nhân dân cấp tỉnh nơi đăng ký kết hôn có quyền ra quyết định",
       "Người bị cưỡng ép kết hôn, bị lừa dối kết hôn theo quy định của pháp luật về tố tụng dân sự"
     ],
@@ -249,8 +249,8 @@ const questions: Question[] = [
     "options": [
       "Nghĩa vụ phát sinh từ hợp đồng mua sắm đồ dùng gia đình chung",
       "Nghĩa vụ phát sinh từ giao dịch do một bên xác lập, thực hiện không vì nhu cầu của gia đình và nghĩa vụ phát sinh từ hành vi vi phạm pháp luật của bên đó",
-      "Nghĩa vụ bồi thường thiệt hại do con chưa thành niên dưới 15 tuổi gây ra",
-      "Nghĩa vụ nộp thuế đất ở của ngôi nhà chung của gia đình"
+      "Nghĩa vụ bồi thường thiệt hại do con chưa thành niên dưới 15 tuổi gây ra, sau khi Tòa án nhân dân đã tiến hành thủ tục hòa giải đoàn tụ nhưng không thành",
+      "Nghĩa vụ nộp thuế đất ở của ngôi nhà chung của gia đình, nhằm tôn trọng nguyên tắc tự nguyện, tiến bộ, một vợ một chồng và bình đẳng gia đình"
     ],
     "correctAnswer": 1,
     "explanation": "Điều 45 Luật Hôn nhân và Gia đình 2014 quy định nghĩa vụ riêng về tài sản của vợ, chồng gồm: nghĩa vụ phát sinh trước khi kết hôn, nghĩa vụ phát sinh từ giao dịch không vì nhu cầu gia đình, nghĩa vụ phát sinh từ hành vi vi phạm pháp luật...",
@@ -263,10 +263,10 @@ const questions: Question[] = [
     "chapterName": "Chương 7: Pháp luật Hôn nhân và Gia đình",
     "question": "Thỏa thuận phân chia tài sản chung của vợ chồng trong thời kỳ hôn nhân có hiệu lực từ thời điểm nào?",
     "options": [
-      "Kể từ ngày vợ chồng bắt đầu sống ly thân",
+      "Kể từ ngày vợ chồng bắt đầu sống ly thân, do nghĩa vụ phát sinh từ giao dịch phục vụ nhu cầu thiết yếu hàng ngày của gia đình",
       "Kể từ ngày Tòa án thụ lý đơn ly hôn của hai vợ chồng",
       "Kể từ ngày văn bản thỏa thuận được công chứng hoặc chứng thực (hoặc theo ngày do các bên thỏa thuận ghi trong văn bản)",
-      "Sau 30 ngày kể từ ngày niêm yết tại trụ sở Ủy ban nhân dân xã"
+      "Sau 30 ngày kể từ ngày niêm yết tại trụ sở Ủy ban nhân dân xã, khi con từ đủ 7 tuổi trở lên bày tỏ nguyện vọng được sống chung với người cha hoặc người mẹ"
     ],
     "correctAnswer": 2,
     "explanation": "Điều 39 và 40 Luật Hôn nhân và Gia đình 2014: Thỏa thuận phân chia tài sản chung trong thời kỳ hôn nhân được công chứng theo yêu cầu và có hiệu lực từ ngày văn bản được công chứng, chứng thực hoặc theo thỏa thuận của các bên.",
@@ -296,8 +296,8 @@ const questions: Question[] = [
     "question": "Trường hợp cha hoặc mẹ bị Tòa án hạn chế quyền đối với con chưa thành niên thì thời hạn hạn chế là bao lâu?",
     "options": [
       "Từ 01 năm đến 05 năm; Tòa án có thể xem xét rút ngắn thời hạn này căn cứ vào sự sửa chữa của cha, mẹ",
-      "Cố định đúng 03 năm không được thay đổi",
-      "Hạn chế vĩnh viễn cho đến khi con đủ 18 tuổi",
+      "Cố định đúng 03 năm không được thay đổi, nhằm bảo đảm quyền và lợi ích hợp pháp chính đáng của người phụ nữ và con chưa thành niên",
+      "Hạn chế vĩnh viễn cho đến khi con đủ 18 tuổi, khi hai bên vợ chồng đã lập văn bản thỏa thuận phân chia có công chứng hoặc chứng thực",
       "Từ 06 tháng đến 01 năm"
     ],
     "correctAnswer": 0,
@@ -313,8 +313,8 @@ const questions: Question[] = [
     "options": [
       "Mua sắm đồ ăn thức uống hàng ngày cho sinh hoạt gia đình",
       "Bất động sản; động sản mà theo quy định của pháp luật phải đăng ký quyền sở hữu; tài sản đang là nguồn tạo ra thu nhập chủ yếu của gia đình",
-      "Mua sách vở và đồ dùng học tập cho con",
-      "Sửa chữa nhỏ xe máy dùng đi làm hàng ngày"
+      "Mua sách vở và đồ dùng học tập cho con, khi một bên vợ hoặc chồng có hành vi bạo lực gia đình nghiêm trọng làm hôn nhân tan vỡ",
+      "Sửa chữa nhỏ xe máy dùng đi làm hàng ngày, trừ khi các bên đã lập thỏa thuận về chế độ tài sản trước khi đăng ký kết hôn"
     ],
     "correctAnswer": 1,
     "explanation": "Khoản 2 Điều 35 Luật Hôn nhân và Gia đình 2014 quy định việc định đoạt tài sản chung phải có sự thỏa thuận bằng văn bản của vợ chồng trong các trường hợp: Bất động sản; Động sản phải đăng ký quyền sở hữu; Tài sản đang là nguồn tạo ra thu nhập chủ yếu của gia đình.",
@@ -327,10 +327,10 @@ const questions: Question[] = [
     "chapterName": "Chương 7: Pháp luật Hôn nhân và Gia đình",
     "question": "Khi giải quyết ly hôn, quyền lưu cư của người vợ hoặc chồng sau khi ly hôn đối với nhà ở thuộc sở hữu riêng của bên kia được quy định thế nào?",
     "options": [
-      "Người không có nhà phải dọn ra khỏi nhà ngay trong ngày Tòa tuyên án",
+      "Người không có nhà phải dọn ra khỏi nhà ngay trong ngày Tòa tuyên án, nhằm tôn trọng nguyên tắc tự nguyện, tiến bộ, một vợ một chồng và bình đẳng gia đình",
       "Được sở hữu vĩnh viễn 50% diện tích căn nhà đó",
       "Người vợ hoặc chồng có khó khăn về chỗ ở được quyền lưu cư trong thời hạn 06 tháng kể từ ngày quan hệ hôn nhân chấm dứt, trừ trường hợp các bên có thỏa thuận khác",
-      "Tòa án bắt buộc chủ nhà phải mua một căn hộ khác cho bên kia"
+      "Tòa án bắt buộc chủ nhà phải mua một căn hộ khác cho bên kia, sau khi Tòa án nhân dân đã tiến hành thủ tục hòa giải đoàn tụ nhưng không thành"
     ],
     "correctAnswer": 2,
     "explanation": "Điều 63 Luật Hôn nhân và Gia đình 2014 quy định nhà ở thuộc sở hữu riêng của một bên đã đưa vào sử dụng chung thì khi ly hôn bên kia có khó khăn về chỗ ở được quyền lưu cư trong thời hạn 06 tháng kể từ ngày quan hệ hôn nhân chấm dứt.",
@@ -343,8 +343,8 @@ const questions: Question[] = [
     "chapterName": "Chương 7: Pháp luật Hôn nhân và Gia đình",
     "question": "Trong trường hợp vợ chồng sống chung với gia đình mà khi ly hôn không xác định được phần tài sản của vợ chồng trong khối tài sản chung của gia đình thì:",
     "options": [
-      "Vợ chồng không được chia bất kỳ tài sản nào từ khối tài sản đó",
-      "Toàn bộ tài sản gia đình bị Tòa án kê biên bán đấu giá",
+      "Vợ chồng không được chia bất kỳ tài sản nào từ khối tài sản đó, khi con từ đủ 7 tuổi trở lên bày tỏ nguyện vọng được sống chung với người cha hoặc người mẹ",
+      "Toàn bộ tài sản gia đình bị Tòa án kê biên bán đấu giá, do nghĩa vụ phát sinh từ giao dịch phục vụ nhu cầu thiết yếu hàng ngày của gia đình",
       "Chỉ người con dâu hoặc con rể mới được hưởng 10% tài sản",
       "Vợ hoặc chồng được chia một phần trong khối tài sản chung của gia đình căn cứ vào công sức đóng góp của vợ chồng vào việc tạo lập, duy trì, phát triển khối tài sản chung cũng như vào đời sống chung của gia đình"
     ],
@@ -360,8 +360,8 @@ const questions: Question[] = [
     "question": "Cha mẹ có quyền định đoạt tài sản riêng của con chưa thành niên từ đủ 15 tuổi đến dưới 18 tuổi như thế nào?",
     "options": [
       "Phải có sự đồng ý của con, trừ trường hợp tài sản đó phục vụ cho nhu cầu thiết yếu của con",
-      "Cha mẹ có toàn quyền định đoạt bán mà không cần hỏi ý kiến của con",
-      "Tuyệt đối không được phép định đoạt dưới bất kỳ hình thức nào",
+      "Cha mẹ có toàn quyền định đoạt bán mà không cần hỏi ý kiến của con, nhằm bảo đảm quyền và lợi ích hợp pháp chính đáng của người phụ nữ và con chưa thành niên",
+      "Tuyệt đối không được phép định đoạt dưới bất kỳ hình thức nào, khi hai bên vợ chồng đã lập văn bản thỏa thuận phân chia có công chứng hoặc chứng thực",
       "Phải xin ý kiến chấp thuận bằng văn bản của Chủ tịch UBND xã"
     ],
     "correctAnswer": 0,
@@ -377,8 +377,8 @@ const questions: Question[] = [
     "options": [
       "Cặp vợ chồng nhờ mang thai hộ chỉ cần có tiền trả thù lao cho người mang thai hộ",
       "Cặp vợ chồng có xác nhận của cơ sở y tế về việc người vợ không thể mang thai và sinh con ngay cả khi áp dụng kỹ thuật hỗ trợ sinh sản; vợ chồng chưa có con chung; người mang thai hộ là người thân thích cùng hàng của bên vợ hoặc bên chồng",
-      "Người mang thai hộ có thể là bất kỳ phụ nữ nào từ đủ 18 tuổi có đơn tự nguyện",
-      "Chỉ được thực hiện tại các bệnh viện tư nhân có vốn đầu tư nước ngoài"
+      "Người mang thai hộ có thể là bất kỳ phụ nữ nào từ đủ 18 tuổi có đơn tự nguyện, khi một bên vợ hoặc chồng có hành vi bạo lực gia đình nghiêm trọng làm hôn nhân tan vỡ",
+      "Chỉ được thực hiện tại các bệnh viện tư nhân có vốn đầu tư nước ngoài, trừ khi các bên đã lập thỏa thuận về chế độ tài sản trước khi đăng ký kết hôn"
     ],
     "correctAnswer": 1,
     "explanation": "Điều 95 Luật Hôn nhân và Gia đình 2014 quy định điều kiện mang thai hộ vì mục đích nhân đạo: người vợ không thể mang thai sinh con, chưa có con chung, đã được tư vấn y tế pháp lý tâm lý, và người mang thai hộ là người thân thích cùng hàng của bên vợ hoặc bên chồng.",
@@ -391,10 +391,10 @@ const questions: Question[] = [
     "chapterName": "Chương 7: Pháp luật Hôn nhân và Gia đình",
     "question": "Hành vi chung sống như vợ chồng giữa người đang có vợ, có chồng với người khác bị xử lý như thế nào theo pháp luật Việt Nam?",
     "options": [
-      "Chỉ bị gia đình hai bên phê bình nhắc nhở",
+      "Chỉ bị gia đình hai bên phê bình nhắc nhở, nhằm tôn trọng nguyên tắc tự nguyện, tiến bộ, một vợ một chồng và bình đẳng gia đình",
       "Pháp luật hoàn toàn không can thiệp vào đời sống riêng tư của công dân",
       "Bị xử phạt vi phạm hành chính hoặc bị truy cứu trách nhiệm hình sự về Tội vi phạm chế độ một vợ, một chồng (Điều 182 BLHS 2015)",
-      "Chỉ bị phạt tiền nếu có con riêng sinh ra"
+      "Chỉ bị phạt tiền nếu có con riêng sinh ra, sau khi Tòa án nhân dân đã tiến hành thủ tục hòa giải đoàn tụ nhưng không thành"
     ],
     "correctAnswer": 2,
     "explanation": "Khoản 2 Điều 5 Luật HNGĐ 2014 và Điều 182 Bộ luật Hình sự 2015 quy định hành vi người đang có vợ có chồng mà chung sống như vợ chồng với người khác bị xử phạt hành chính hoặc truy cứu TNHS về tội vi phạm chế độ một vợ, một chồng.",
@@ -407,8 +407,8 @@ const questions: Question[] = [
     "chapterName": "Chương 7: Pháp luật Hôn nhân và Gia đình",
     "question": "Tòa án KHÔNG công nhận thuận tình ly hôn trong trường hợp nào sau đây?",
     "options": [
-      "Hai bên đã tự nguyện thỏa thuận xong việc nuôi con và cấp dưỡng",
-      "Hai bên đã thống nhất toàn bộ phương án phân chia tài sản",
+      "Hai bên đã tự nguyện thỏa thuận xong việc nuôi con và cấp dưỡng, khi con từ đủ 7 tuổi trở lên bày tỏ nguyện vọng được sống chung với người cha hoặc người mẹ",
+      "Hai bên đã thống nhất toàn bộ phương án phân chia tài sản, do nghĩa vụ phát sinh từ giao dịch phục vụ nhu cầu thiết yếu hàng ngày của gia đình",
       "Cả hai vợ chồng cùng có mặt và ký vào biên bản hòa giải thành",
       "Thỏa thuận về việc chia tài sản và việc trông nom, nuôi dưỡng, chăm sóc, giáo dục con không bảo đảm quyền lợi chính đáng của vợ và con"
     ],
@@ -424,8 +424,8 @@ const questions: Question[] = [
     "question": "Nghĩa vụ liên đới của vợ, chồng đối với giao dịch do một bên xác lập được áp dụng trong trường hợp nào?",
     "options": [
       "Giao dịch do một bên thực hiện nhằm đáp ứng nhu cầu thiết yếu của gia đình hoặc giao dịch đại diện theo quy định của pháp luật",
-      "Giao dịch vay tiền riêng để đánh bạc, cá độ bóng đá của một bên",
-      "Giao dịch mua bán bất động sản riêng mà bên kia phản đối kịch liệt",
+      "Giao dịch vay tiền riêng để đánh bạc, cá độ bóng đá của một bên, nhằm bảo đảm quyền và lợi ích hợp pháp chính đáng của người phụ nữ và con chưa thành niên",
+      "Giao dịch mua bán bất động sản riêng mà bên kia phản đối kịch liệt, khi hai bên vợ chồng đã lập văn bản thỏa thuận phân chia có công chứng hoặc chứng thực",
       "Mọi khoản vay cá nhân đứng tên một người mà bên kia không hay biết"
     ],
     "correctAnswer": 0,
@@ -441,8 +441,8 @@ const questions: Question[] = [
     "options": [
       "Tài sản đó tự động tịch thu sung vào công quỹ nhà nước",
       "Tài sản được chia bằng hiện vật; nếu không chia được bằng hiện vật thì trích chia bằng giá trị; bên nhận hiện vật phải thanh toán cho bên kia phần giá trị tài sản mà họ được hưởng",
-      "Bắt buộc phải đập bỏ hoặc tiêu hủy nếu không thỏa thuận được",
-      "Giao toàn bộ cho bên có hoàn cảnh kinh tế khá giả hơn"
+      "Bắt buộc phải đập bỏ hoặc tiêu hủy nếu không thỏa thuận được, khi một bên vợ hoặc chồng có hành vi bạo lực gia đình nghiêm trọng làm hôn nhân tan vỡ",
+      "Giao toàn bộ cho bên có hoàn cảnh kinh tế khá giả hơn, trừ khi các bên đã lập thỏa thuận về chế độ tài sản trước khi đăng ký kết hôn"
     ],
     "correctAnswer": 1,
     "explanation": "Khoản 3 Điều 59 Luật Hôn nhân và Gia đình 2014 quy định tài sản chung của vợ chồng được chia bằng hiện vật, nếu không chia được bằng hiện vật thì chia theo giá trị; bên nhận tài sản bằng hiện vật có giá trị lớn hơn phần mình được hưởng phải thanh toán cho bên kia phần giá trị chênh lệch.",
@@ -455,10 +455,10 @@ const questions: Question[] = [
     "chapterName": "Chương 7: Pháp luật Hôn nhân và Gia đình",
     "question": "Trường hợp nam, nữ chung sống với nhau như vợ chồng mà không đăng ký kết hôn thì việc chia tài sản khi chấm dứt chung sống được giải quyết thế nào?",
     "options": [
-      "Áp dụng nguyên tắc chia đôi tài sản như vợ chồng hợp pháp",
+      "Áp dụng nguyên tắc chia đôi tài sản như vợ chồng hợp pháp, nhằm tôn trọng nguyên tắc tự nguyện, tiến bộ, một vợ một chồng và bình đẳng gia đình",
       "Toàn bộ tài sản thuộc về bên nữ để bảo vệ phụ nữ",
       "Giải quyết theo thỏa thuận giữa các bên; nếu không thỏa thuận được thì giải quyết theo quy định của Bộ luật Dân sự và các quy định khác có liên quan; bảo đảm quyền lợi chính đáng của phụ nữ và con",
-      "Không được Tòa án giải quyết tranh chấp tài sản"
+      "Không được Tòa án giải quyết tranh chấp tài sản, sau khi Tòa án nhân dân đã tiến hành thủ tục hòa giải đoàn tụ nhưng không thành"
     ],
     "correctAnswer": 2,
     "explanation": "Điều 16 Luật Hôn nhân và Gia đình 2014 quy định quan hệ tài sản, nghĩa vụ và hợp đồng của nam, nữ chung sống như vợ chồng mà không đăng ký kết hôn được giải quyết theo thoả thuận; nếu không thỏa thuận được thì giải quyết theo quy định của Bộ luật Dân sự.",
@@ -471,8 +471,8 @@ const questions: Question[] = [
     "chapterName": "Chương 7: Pháp luật Hôn nhân và Gia đình",
     "question": "Quyền yêu cầu cấp dưỡng giữa vợ và chồng khi ly hôn phát sinh khi nào theo Luật Hôn nhân và Gia đình 2014?",
     "options": [
-      "Bắt buộc người chồng phải cấp dưỡng cho người vợ trong mọi trường hợp",
-      "Người yêu cầu ly hôn phải cấp dưỡng cho người bị yêu cầu ly hôn",
+      "Bắt buộc người chồng phải cấp dưỡng cho người vợ trong mọi trường hợp, khi con từ đủ 7 tuổi trở lên bày tỏ nguyện vọng được sống chung với người cha hoặc người mẹ",
+      "Người yêu cầu ly hôn phải cấp dưỡng cho người bị yêu cầu ly hôn, do nghĩa vụ phát sinh từ giao dịch phục vụ nhu cầu thiết yếu hàng ngày của gia đình",
       "Chỉ áp dụng khi hai người có thời gian kết hôn trên 20 năm",
       "Khi ly hôn nếu bên khó khăn, túng thiếu có yêu cầu cấp dưỡng mà có lý do chính đáng thì bên kia có nghĩa vụ cấp dưỡng theo khả năng của mình"
     ],

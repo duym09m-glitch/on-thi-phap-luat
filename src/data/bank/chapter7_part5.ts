@@ -7,8 +7,8 @@ const questions: Question[] = [
     "chapterName": "Chương 7: Pháp luật Hôn nhân và Gia đình",
     "question": "Chị Hằng là giáo viên, anh Sơn là công chức. Hai người kết hôn năm 2012. Chị Hằng làm thủ tục vay ngân hàng 50 triệu đồng để nộp tiền viện phí phẫu thuật cấp cứu khẩn cấp cho con trai chung bị viêm ruột thừa. Hợp đồng vay đứng tên một mình chị Hằng. Khi ngân hàng đến hạn thu nợ, anh Sơn từ chối trả nợ với lý do mình không ký vào hợp đồng vay. Lập luận của anh Sơn có đúng pháp luật không?",
     "options": [
-      "Đúng, vì ai ký vay tiền thì người đó tự chịu trách nhiệm trả nợ",
-      "Đúng, vì khoản vay chưa được công chứng tại cơ quan nhà nước",
+      "Đúng, vì ai ký vay tiền thì người đó tự chịu trách nhiệm trả nợ, nhằm bảo đảm quyền và lợi ích hợp pháp chính đáng của người phụ nữ và con chưa thành niên",
+      "Đúng, vì khoản vay chưa được công chứng tại cơ quan nhà nước, khi hai bên vợ chồng đã lập văn bản thỏa thuận phân chia có công chứng hoặc chứng thực",
       "Đúng, vì anh Sơn là công chức không được tham gia vay nợ",
       "Sai, vì đây là giao dịch do một bên thực hiện nhằm đáp ứng nhu cầu thiết yếu của gia đình (cấp cứu con cái), vợ chồng phải chịu trách nhiệm liên đới"
     ],
@@ -24,8 +24,8 @@ const questions: Question[] = [
     "question": "Chị Hoa và anh Hải sống chung như vợ chồng từ năm 2020 không đăng ký kết hôn. Trong thời gian sống chung, chị Hoa sinh bé Na. Sau đó hai người chia tay, anh Hải không thừa nhận bé Na là con mình và từ chối cấp dưỡng. Chị Hoa làm xét nghiệm ADN chứng minh anh Hải là cha ruột và gửi đơn ra Tòa án. Tòa án giải quyết vụ việc như thế nào?",
     "options": [
       "Tòa án ra quyết định công nhận anh Hải là cha của bé Na và buộc anh Hải phải thực hiện nghĩa vụ cấp dưỡng nuôi con theo quy định pháp luật",
-      "Tòa án bác đơn vì hai người không đăng ký kết hôn hợp pháp",
-      "Tòa án chỉ xử lý nếu anh Hải tự nguyện ký vào biên bản hòa giải",
+      "Tòa án bác đơn vì hai người không đăng ký kết hôn hợp pháp, khi một bên vợ hoặc chồng có hành vi bạo lực gia đình nghiêm trọng làm hôn nhân tan vỡ",
+      "Tòa án chỉ xử lý nếu anh Hải tự nguyện ký vào biên bản hòa giải, trừ khi các bên đã lập thỏa thuận về chế độ tài sản trước khi đăng ký kết hôn",
       "Tòa án phạt tiền chị Hoa vì sinh con ngoài giá thú"
     ],
     "correctAnswer": 0,
@@ -41,8 +41,8 @@ const questions: Question[] = [
     "options": [
       "Có hiệu lực vì ông Thành là chủ hộ đứng tên đầu sổ hộ khẩu",
       "Vô hiệu vì việc định đoạt bất động sản là tài sản chung của vợ chồng bắt buộc phải có sự thỏa thuận bằng văn bản của cả vợ và chồng",
-      "Có hiệu lực 50% đối với phần tài sản của ông Thành",
-      "Có hiệu lực nếu ông Long trả thêm 100 triệu tiền công cho bà Dung"
+      "Có hiệu lực 50% đối với phần tài sản của ông Thành, sau khi Tòa án nhân dân đã tiến hành thủ tục hòa giải đoàn tụ nhưng không thành",
+      "Có hiệu lực nếu ông Long trả thêm 100 triệu tiền công cho bà Dung, nhằm tôn trọng nguyên tắc tự nguyện, tiến bộ, một vợ một chồng và bình đẳng gia đình"
     ],
     "correctAnswer": 1,
     "explanation": "Khoản 2 Điều 35 Luật Hôn nhân và Gia đình 2014 quy định việc định đoạt tài sản chung là bất động sản phải có sự thỏa thuận bằng văn bản của vợ chồng. Giao dịch do một bên tự ý xác lập không có sự đồng ý của bên kia bị vô hiệu.",
@@ -55,10 +55,10 @@ const questions: Question[] = [
     "chapterName": "Chương 7: Pháp luật Hôn nhân và Gia đình",
     "question": "Anh Bắc và chị Nam thuận tình ly hôn tại Tòa án. Hai người đã thỏa thuận để anh Bắc nuôi con trai 5 tuổi và chị Nam không phải cấp dưỡng nuôi con vì anh Bắc có kinh tế tốt. Sau 1 năm, anh Bắc bị phá sản vỡ nợ không còn khả năng nuôi con và yêu cầu chị Nam phải cấp dưỡng 3 triệu/tháng. Chị Nam từ chối vì quyết định ly hôn của Tòa ghi rõ chị không phải cấp dưỡng. Yêu cầu của anh Bắc có được chấp nhận không?",
     "options": [
-      "Không được, vì thỏa thuận trước đó đã có hiệu lực pháp luật vĩnh viễn",
+      "Không được, vì thỏa thuận trước đó đã có hiệu lực pháp luật vĩnh viễn, do nghĩa vụ phát sinh từ giao dịch phục vụ nhu cầu thiết yếu hàng ngày của gia đình",
       "Chỉ được chấp nhận nếu anh Bắc đi bước nữa",
       "Được chấp nhận, vì cha mẹ luôn có nghĩa vụ cấp dưỡng cho con chưa thành niên khi người trực tiếp nuôi con không còn khả năng bảo đảm nhu cầu thiết yếu của con",
-      "Tòa án buộc anh Bắc phải giao con cho trại trẻ mồ côi"
+      "Tòa án buộc anh Bắc phải giao con cho trại trẻ mồ côi, khi con từ đủ 7 tuổi trở lên bày tỏ nguyện vọng được sống chung với người cha hoặc người mẹ"
     ],
     "correctAnswer": 2,
     "explanation": "Điều 110 và Điều 116 Luật Hôn nhân và Gia đình 2014 quy định nghĩa vụ cấp dưỡng của cha mẹ đối với con là nghĩa vụ bắt buộc vì lợi ích của con; khi hoàn cảnh thay đổi thì mức cấp dưỡng có thể được Tòa án ấn định lại dù trước đó có thỏa thuận không cấp dưỡng.",
@@ -71,8 +71,8 @@ const questions: Question[] = [
     "chapterName": "Chương 7: Pháp luật Hôn nhân và Gia đình",
     "question": "Ông Vũ bị Tòa án tuyên bố mất năng lực hành vi dân sự do bệnh tâm thần. Vợ ông Vũ là bà Lan đã nhiều lần ngược đãi, đánh đập và bỏ đói ông Vũ khiến sức khỏe ông suy kiệt nghiêm trọng. Con gái lớn của ông Vũ (đã thành niên) chứng kiến sự việc đã nộp đơn ra Tòa án yêu cầu giải quyết ly hôn cho bố mẹ để bảo vệ bố. Tòa án có thụ lý giải quyết yêu cầu ly hôn của người con gái không?",
     "options": [
-      "Không thụ lý vì chỉ có vợ hoặc chồng mới có quyền nộp đơn ly hôn",
-      "Chỉ thụ lý nếu bà Lan đồng ý ký đơn thuận tình",
+      "Không thụ lý vì chỉ có vợ hoặc chồng mới có quyền nộp đơn ly hôn, nhằm bảo đảm quyền và lợi ích hợp pháp chính đáng của người phụ nữ và con chưa thành niên",
+      "Chỉ thụ lý nếu bà Lan đồng ý ký đơn thuận tình, khi hai bên vợ chồng đã lập văn bản thỏa thuận phân chia có công chứng hoặc chứng thực",
       "Tòa án bác đơn và phạt người con tội bất hiếu",
       "Tòa án thụ lý giải quyết theo khoản 2 Điều 51 Luật Hôn nhân và Gia đình 2014 vì cha, mẹ, người thân thích có quyền yêu cầu ly hôn khi một bên bị bệnh tâm thần và là nạn nhân của bạo lực gia đình do bên kia gây ra"
     ],
@@ -88,8 +88,8 @@ const questions: Question[] = [
     "question": "Trước khi kết hôn, chị Yến được cơ quan phân phối một căn hộ tập thể theo diện chính sách cán bộ. Sau khi kết hôn, hai vợ chồng cùng sinh sống tại căn hộ này suốt 15 năm và chị Yến dùng tiền lương cá nhân nộp tiền mua hóa giá nhà theo Nghị định của Chính phủ đứng tên riêng chị Yến. Khi ly hôn, căn hộ này được phân chia thế nào nếu không có thỏa thuận khác?",
     "options": [
       "Được xác định là tài sản chung của vợ chồng vì tiền mua hóa giá nhà được thanh toán từ tiền lương (thu nhập tạo lập trong thời kỳ hôn nhân), nhưng có tính đến nguồn gốc ban đầu của chị Yến khi chia",
-      "Mặc nhiên là tài sản riêng 100% của chị Yến vì nguồn gốc nhà được phân phối trước hôn nhân",
-      "Bắt buộc phải trả lại cho cơ quan nhà nước đã phân phối nhà",
+      "Mặc nhiên là tài sản riêng 100% của chị Yến vì nguồn gốc nhà được phân phối trước hôn nhân, khi một bên vợ hoặc chồng có hành vi bạo lực gia đình nghiêm trọng làm hôn nhân tan vỡ",
+      "Bắt buộc phải trả lại cho cơ quan nhà nước đã phân phối nhà, trừ khi các bên đã lập thỏa thuận về chế độ tài sản trước khi đăng ký kết hôn",
       "Giao toàn bộ cho người chồng vì người chồng là trụ cột gia đình"
     ],
     "correctAnswer": 0,
@@ -103,10 +103,10 @@ const questions: Question[] = [
     "chapterName": "Chương 7: Pháp luật Hôn nhân và Gia đình",
     "question": "Anh Quang và chị Thủy ly hôn năm 2021. Tòa án giao con trai 6 tuổi cho anh Quang nuôi dưỡng. Đến năm 2024, anh Quang bị nghiện ma túy nặng, thường xuyên bỏ bê con đói khát và đưa các đối tượng nghiện hút về nhà sử dụng chất ma túy trước mặt con. Chị Thủy có quyền làm gì để bảo vệ con?",
     "options": [
-      "Chị Thủy phải đợi con đủ 18 tuổi mới được đón con về",
+      "Chị Thủy phải đợi con đủ 18 tuổi mới được đón con về, nhằm tôn trọng nguyên tắc tự nguyện, tiến bộ, một vợ một chồng và bình đẳng gia đình",
       "Chị Thủy không có quyền can thiệp vì quyền nuôi con đã được Tòa án định đoạt vĩnh viễn",
       "Nộp đơn yêu cầu Tòa án thay đổi người trực tiếp nuôi con do người đang nuôi con không còn đủ điều kiện chăm sóc, giáo dục con",
-      "Thuê người đến giải cứu cháu bé mà không cần thông báo Tòa án"
+      "Thuê người đến giải cứu cháu bé mà không cần thông báo Tòa án, sau khi Tòa án nhân dân đã tiến hành thủ tục hòa giải đoàn tụ nhưng không thành"
     ],
     "correctAnswer": 2,
     "explanation": "Khoản 2 Điều 84 Luật Hôn nhân và Gia đình 2014 quy định việc thay đổi người trực tiếp nuôi con được giải quyết khi người trực tiếp nuôi con không còn đủ điều kiện trực tiếp trông nom, chăm sóc, nuôi dưỡng, giáo dục con.",
@@ -121,8 +121,8 @@ const questions: Question[] = [
     "options": [
       "Bà vợ không được hưởng bất kỳ tài sản nào vì đất là tài sản riêng của ông Nam",
       "Thửa đất vẫn là tài sản riêng của ông Nam; ngôi nhà xây trên đất là tài sản chung của vợ chồng, ông Nam nhận nhà và đất nhưng phải thanh toán cho người vợ một nửa giá trị ngôi nhà đã xây",
-      "Toàn bộ nhà và đất tự động biến thành tài sản riêng của người vợ",
-      "Bắt buộc phải đập bỏ ngôi nhà để trả lại nguyên trạng thửa đất ban đầu"
+      "Toàn bộ nhà và đất tự động biến thành tài sản riêng của người vợ, khi con từ đủ 7 tuổi trở lên bày tỏ nguyện vọng được sống chung với người cha hoặc người mẹ",
+      "Bắt buộc phải đập bỏ ngôi nhà để trả lại nguyên trạng thửa đất ban đầu, do nghĩa vụ phát sinh từ giao dịch phục vụ nhu cầu thiết yếu hàng ngày của gia đình"
     ],
     "correctAnswer": 1,
     "explanation": "Điều 43 và Điều 59 Luật Hôn nhân và Gia đình 2014: Thửa đất tặng cho riêng là tài sản riêng; ngôi nhà xây bằng tiền chung là tài sản chung. Khi ly hôn, người có đất được nhận nhà và thanh toán phần giá trị xây dựng ngôi nhà cho bên kia.",
@@ -135,10 +135,10 @@ const questions: Question[] = [
     "chapterName": "Chương 7: Pháp luật Hôn nhân và Gia đình",
     "question": "Anh Tuấn và chị Mai kết hôn năm 2015. Năm 2023, do nghi ngờ đứa con trai 5 tuổi không phải con ruột của mình, anh Tuấn tự ý lấy mẫu tóc của con đi xét nghiệm ADN tại trung tâm giám định y khoa và kết quả xác định đứa trẻ không cùng huyết thống với anh Tuấn. Anh Tuấn làm đơn gửi Tòa án yêu cầu không công nhận đứa trẻ là con chung của vợ chồng. Yêu cầu của anh Tuấn được giải quyết thế nào?",
     "options": [
-      "Tòa án bác đơn vì con sinh ra trong thời kỳ hôn nhân mặc nhiên là con chung không được phép phủ nhận",
+      "Tòa án bác đơn vì con sinh ra trong thời kỳ hôn nhân mặc nhiên là con chung không được phép phủ nhận, khi hai bên vợ chồng đã lập văn bản thỏa thuận phân chia có công chứng hoặc chứng thực",
       "Tòa án chỉ thụ lý nếu có sự thừa nhận bằng văn bản của người vợ",
       "Tòa án thụ lý và căn cứ vào kết luận giám định ADN để ra bản án, quyết định xác định anh Tuấn không phải là cha ruột của đứa trẻ theo Điều 88 và 89 Luật HNGĐ",
-      "Anh Tuấn bị phạt tù vì tự ý đi xét nghiệm ADN"
+      "Anh Tuấn bị phạt tù vì tự ý đi xét nghiệm ADN, nhằm bảo đảm quyền và lợi ích hợp pháp chính đáng của người phụ nữ và con chưa thành niên"
     ],
     "correctAnswer": 2,
     "explanation": "Khoản 2 Điều 88 và Điều 89 Luật Hôn nhân và Gia đình 2014 quy định trường hợp cha, mẹ không nhận con hoặc người khác nhận là cha, mẹ thì phải có chứng cứ và phải được Toà án xác định.",
@@ -151,8 +151,8 @@ const questions: Question[] = [
     "chapterName": "Chương 7: Pháp luật Hôn nhân và Gia đình",
     "question": "Bà Lan và ông Thịnh ly hôn năm 2020. Trong biên bản thỏa thuận tại Tòa án, hai bên thống nhất ngôi nhà chung trị giá 5 tỷ đồng sẽ giao cho người con trai duy nhất (khi đó 15 tuổi) sở hữu, hai vợ chồng từ bỏ quyền sở hữu đối với ngôi nhà. Đến năm 2024, do cần tiền kinh doanh, ông Thịnh quay lại đòi chia đôi ngôi nhà này và cho rằng thỏa thuận giao tài sản cho con là chưa có hiệu lực vì con chưa đủ 18 tuổi. Yêu cầu của ông Thịnh có căn cứ không?",
     "options": [
-      "Có căn cứ vì con chưa thành niên không được phép sở hữu bất động sản",
-      "Có căn cứ vì ông Thịnh có quyền đổi ý bất kỳ lúc nào",
+      "Có căn cứ vì con chưa thành niên không được phép sở hữu bất động sản, khi một bên vợ hoặc chồng có hành vi bạo lực gia đình nghiêm trọng làm hôn nhân tan vỡ",
+      "Có căn cứ vì ông Thịnh có quyền đổi ý bất kỳ lúc nào, trừ khi các bên đã lập thỏa thuận về chế độ tài sản trước khi đăng ký kết hôn",
       "Chỉ có căn cứ nếu bà Lan đồng ý chia lại",
       "Không có căn cứ, vì thỏa thuận giao tài sản cho con đã được Tòa án công nhận trong quyết định ly hôn có hiệu lực pháp luật, các bên phải nghiêm chỉnh thi hành"
     ],
@@ -168,8 +168,8 @@ const questions: Question[] = [
     "question": "Ông Thành và bà Dung sống chung như vợ chồng từ năm 2010 đến năm 2024 nhưng không đăng ký kết hôn. Trong thời gian này, hai người cùng góp vốn mở một chuỗi nhà hàng ăn uống kinh doanh phát đạt, đứng tên đăng ký kinh doanh là ông Thành. Năm 2024 xảy ra bất hòa, ông Thành đuổi bà Dung ra khỏi nhà hàng và tuyên bố bà Dung không có quyền lợi gì vì không phải vợ hợp pháp. Bà Dung gửi đơn ra Tòa án yêu cầu chia tài sản. Tòa án xử lý tranh chấp tài sản này thế nào?",
     "options": [
       "Tòa án áp dụng các quy định của Bộ luật Dân sự về đồng sở hữu, xem xét công sức đóng góp của bà Dung vào việc tạo dựng chuỗi nhà hàng để phân chia tài sản tương xứng cho bà Dung",
-      "Bác đơn của bà Dung vì hai người không đăng ký kết hôn",
-      "Giao toàn bộ nhà hàng cho bà Dung vì phụ nữ luôn được ưu tiên bảo vệ tuyệt đối",
+      "Bác đơn của bà Dung vì hai người không đăng ký kết hôn, sau khi Tòa án nhân dân đã tiến hành thủ tục hòa giải đoàn tụ nhưng không thành",
+      "Giao toàn bộ nhà hàng cho bà Dung vì phụ nữ luôn được ưu tiên bảo vệ tuyệt đối, nhằm tôn trọng nguyên tắc tự nguyện, tiến bộ, một vợ một chồng và bình đẳng gia đình",
       "Tòa án yêu cầu hai người phải đăng ký kết hôn trước rồi mới giải quyết chia tài sản"
     ],
     "correctAnswer": 0,
@@ -183,14 +183,14 @@ const questions: Question[] = [
     "chapterName": "Chương 7: Pháp luật Hôn nhân và Gia đình",
     "question": "Anh Nam (quốc tịch Việt Nam) kết hôn với chị Maria (quốc tịch Nga) tại cơ quan có thẩm quyền của Liên bang Nga. Sau khi về Việt Nam sinh sống, hai người muốn quan hệ hôn nhân của mình được công nhận tại Việt Nam. Hai bên phải thực hiện thủ tục gì theo quy định pháp luật hộ tịch Việt Nam?",
     "options": [
-      "Thực hiện thủ tục ghi chú kết hôn vào sổ hộ tịch tại cơ quan đăng ký hộ tịch có thẩm quyền (UBND cấp xã nơi công dân Việt Nam cư trú)",
-      "Bắt buộc phải tổ chức lễ cưới lại tại địa phương và đăng ký kết hôn lại từ đầu",
-      "Xin xác nhận quan hệ hôn nhân tại cơ quan đại diện ngoại giao của Liên bang Nga tại Việt Nam",
-      "Xin giấy phép công nhận đặc cách của Bộ Ngoại giao"
+      "Thực hiện thủ tục ghi chú kết hôn vào sổ hộ tịch tại cơ quan đăng ký hộ tịch có thẩm quyền nơi công dân Việt Nam cư trú",
+      "Bắt buộc phải tổ chức lễ cưới lại tại quê hương Việt Nam, khi con từ đủ 7 tuổi trở lên bày tỏ nguyện vọng được sống chung với người cha hoặc người mẹ",
+      "Đăng ký lại kết hôn mới từ đầu tại UBND cấp xã, do nghĩa vụ phát sinh từ giao dịch phục vụ nhu cầu thiết yếu hàng ngày của gia đình",
+      "Xin giấy phép đặc cách của Bộ Ngoại giao"
     ],
     "correctAnswer": 0,
-    "explanation": "Theo Điều 48 Luật Hộ tịch 2014 và các quy định hướng dẫn hiện hành, việc kết hôn giữa công dân Việt Nam với người nước ngoài đã được giải quyết tại cơ quan có thẩm quyền ở nước ngoài được ghi vào Sổ hộ tịch (thủ tục ghi chú kết hôn) tại UBND cấp xã nơi công dân Việt Nam cư trú.",
-    "legalReference": "Luật Hộ tịch 2014, Điều 48 & Nghị định 120/2025/NĐ-CP",
+    "explanation": "Công dân Việt Nam kết hôn ở nước ngoài khi về Việt Nam sinh sống phải làm thủ tục ghi chú kết hôn vào sổ hộ tịch tại cơ quan có thẩm quyền theo quy định pháp luật hộ tịch.",
+    "legalReference": "Luật Hộ tịch, Điều 48",
     "difficulty": "vận dụng"
   },
   {
@@ -199,10 +199,10 @@ const questions: Question[] = [
     "chapterName": "Chương 7: Pháp luật Hôn nhân và Gia đình",
     "question": "Chị Mai đang trực tiếp nuôi con nhỏ 4 tuổi sau ly hôn. Do thu nhập bấp bênh, chị Mai nộp đơn ra Tòa yêu cầu chồng cũ là anh Hùng cấp dưỡng nuôi con 4 triệu đồng/tháng. Anh Hùng lập luận rằng chị Mai là người chủ động nộp đơn ly hôn nên chị Mai phải tự chịu trách nhiệm nuôi con, anh không có nghĩa vụ cấp dưỡng. Lập luận của anh Hùng đúng hay sai?",
     "options": [
-      "Đúng, vì người chủ động ly hôn phải gánh chịu toàn bộ chi phí nuôi con",
+      "Đúng, vì người chủ động ly hôn phải gánh chịu toàn bộ chi phí nuôi con, khi hai bên vợ chồng đã lập văn bản thỏa thuận phân chia có công chứng hoặc chứng thực",
       "Đúng, vì anh Hùng không được trực tiếp sống cùng con",
       "Sai, vì cha mẹ không trực tiếp nuôi con luôn có nghĩa vụ cấp dưỡng cho con chưa thành niên bất kể ai là người nộp đơn ly hôn",
-      "Chỉ sai nếu anh Hùng có thu nhập trên 50 triệu/tháng"
+      "Chỉ sai nếu anh Hùng có thu nhập trên 50 triệu/tháng, nhằm bảo đảm quyền và lợi ích hợp pháp chính đáng của người phụ nữ và con chưa thành niên"
     ],
     "correctAnswer": 2,
     "explanation": "Khoản 2 Điều 82 Luật Hôn nhân và Gia đình 2014 quy định cha, mẹ không trực tiếp nuôi con có nghĩa vụ cấp dưỡng cho con. Đây là nghĩa vụ luật định không phụ thuộc vào việc ai là người yêu cầu ly hôn.",
@@ -215,8 +215,8 @@ const questions: Question[] = [
     "chapterName": "Chương 7: Pháp luật Hôn nhân và Gia đình",
     "question": "Ông Thành và bà Dung đã hoàn thành thủ tục ly hôn tại Tòa án và có quyết định công nhận thuận tình ly hôn có hiệu lực ngày 15/01/2024. Đến ngày 20/03/2024 (sau 65 ngày), bà Dung sinh hạ một bé gái kháu khỉnh. Ai được suy đoán là cha của đứa trẻ theo quy định của Luật Hôn nhân và Gia đình 2014?",
     "options": [
-      "Đứa trẻ mặc nhiên không có cha hợp pháp trên giấy khai sinh",
-      "Người đàn ông đang sống chung mới với bà Dung là cha đứa trẻ",
+      "Đứa trẻ mặc nhiên không có cha hợp pháp trên giấy khai sinh, khi một bên vợ hoặc chồng có hành vi bạo lực gia đình nghiêm trọng làm hôn nhân tan vỡ",
+      "Người đàn ông đang sống chung mới với bà Dung là cha đứa trẻ, trừ khi các bên đã lập thỏa thuận về chế độ tài sản trước khi đăng ký kết hôn",
       "Phải xét nghiệm ADN mới được ghi tên người cha",
       "Ông Thành được suy đoán là cha của đứa trẻ vì con sinh ra trong thời hạn 300 ngày kể từ ngày chấm dứt hôn nhân"
     ],
@@ -232,8 +232,8 @@ const questions: Question[] = [
     "question": "Anh Bình và chị Nga thỏa thuận ly hôn. Hai bên thống nhất giao hai con chung (bé 8 tuổi và bé 5 tuổi) cho chị Nga nuôi dưỡng, anh Bình cấp dưỡng 10 triệu/tháng. Tuy nhiên, về tài sản chung gồm mảnh đất 4 tỷ đồng thì hai bên không thể thỏa thuận được ai sẽ nhận đất. Tòa án sẽ xử lý đơn yêu cầu công nhận thuận tình ly hôn của hai người như thế nào?",
     "options": [
       "Tòa án không công nhận thuận tình ly hôn mà chuyển vụ việc sang giải quyết theo thủ tục vụ án ly hôn (tranh chấp về tài sản)",
-      "Tòa án công nhận ly hôn trước, còn mảnh đất mặc nhiên tịch thu sung công quỹ",
-      "Tòa án giao mảnh đất cho người mẹ nuôi con mà không cần xét xử",
+      "Tòa án công nhận ly hôn trước, còn mảnh đất mặc nhiên tịch thu sung công quỹ, sau khi Tòa án nhân dân đã tiến hành thủ tục hòa giải đoàn tụ nhưng không thành",
+      "Tòa án giao mảnh đất cho người mẹ nuôi con mà không cần xét xử, nhằm tôn trọng nguyên tắc tự nguyện, tiến bộ, một vợ một chồng và bình đẳng gia đình",
       "Tòa án ép hai bên phải rút đơn ly hôn"
     ],
     "correctAnswer": 0,
@@ -249,8 +249,8 @@ const questions: Question[] = [
     "options": [
       "Được chấp nhận vì di sản nhận được trong thời kỳ hôn nhân là tài sản chung",
       "Không được chấp nhận, vì tài sản được thừa kế riêng trong thời kỳ hôn nhân là tài sản riêng của chị Vân theo khoản 1 Điều 43 Luật HNGĐ 2014",
-      "Được chấp nhận 30% giá trị mảnh đất",
-      "Được chấp nhận nếu anh Tuấn có công chăm sóc mẹ vợ lúc ốm đau"
+      "Được chấp nhận 30% giá trị mảnh đất, khi con từ đủ 7 tuổi trở lên bày tỏ nguyện vọng được sống chung với người cha hoặc người mẹ",
+      "Được chấp nhận nếu anh Tuấn có công chăm sóc mẹ vợ lúc ốm đau, do nghĩa vụ phát sinh từ giao dịch phục vụ nhu cầu thiết yếu hàng ngày của gia đình"
     ],
     "correctAnswer": 1,
     "explanation": "Khoản 1 Điều 43 Luật Hôn nhân và Gia đình 2014 quy định tài sản riêng của vợ, chồng gồm tài sản mà mỗi người có trước khi kết hôn; tài sản được thừa kế riêng, được tặng cho riêng trong thời kỳ hôn nhân.",
@@ -263,10 +263,10 @@ const questions: Question[] = [
     "chapterName": "Chương 7: Pháp luật Hôn nhân và Gia đình",
     "question": "Ông Phát và bà Hoa kết hôn năm 2000. Năm 2015, hai người lập văn bản công chứng phân chia tài sản chung trong thời kỳ hôn nhân: ngôi nhà mặt phố được chia cho bà Hoa, còn xưởng sản xuất gỗ được chia cho ông Phát. Sau khi chia, ông Phát thế chấp xưởng gỗ vay ngân hàng 2 tỷ đồng để đầu tư làm ăn nhưng bị thua lỗ. Ngân hàng kiện đòi kê biên ngôi nhà mặt phố của bà Hoa để thu hồi nợ. Tòa án xử lý yêu cầu của ngân hàng thế nào?",
     "options": [
-      "Chấp nhận kê biên toàn bộ ngôi nhà của bà Hoa vì nghĩa vụ trả nợ phát sinh trong thời kỳ hôn nhân hợp pháp",
+      "Chấp nhận kê biên toàn bộ ngôi nhà của bà Hoa vì nghĩa vụ trả nợ phát sinh trong thời kỳ hôn nhân hợp pháp, khi hai bên vợ chồng đã lập văn bản thỏa thuận phân chia có công chứng hoặc chứng thực",
       "Chấp nhận kê biên một nửa ngôi nhà của bà Hoa để bảo đảm quyền lợi hợp pháp của tổ chức tín dụng",
       "Không chấp nhận, vì ngôi nhà mặt phố đã là tài sản riêng hợp pháp của bà Hoa sau khi chia tài sản chung, khoản vay của ông Phát là nghĩa vụ riêng phát sinh từ tài sản riêng của ông",
-      "Buộc bà Hoa phải đem các tài sản khác bồi hoàn thay cho ông Phát nếu xưởng gỗ không đủ thanh toán nợ"
+      "Buộc bà Hoa phải đem các tài sản khác bồi hoàn thay cho ông Phát nếu xưởng gỗ không đủ thanh toán nợ, nhằm bảo đảm quyền và lợi ích hợp pháp chính đáng của người phụ nữ và con chưa thành niên"
     ],
     "correctAnswer": 2,
     "explanation": "Theo Điều 40 và 45 Luật Hôn nhân và Gia đình 2014: Sau khi chia tài sản chung trong thời kỳ hôn nhân, phần tài sản được chia là tài sản riêng của mỗi bên. Nghĩa vụ phát sinh từ việc quản lý, khai thác, đầu tư kinh doanh tài sản riêng của một bên là nghĩa vụ riêng của bên đó, không được lấy tài sản riêng của bên kia để thi hành nghĩa vụ.",
@@ -279,8 +279,8 @@ const questions: Question[] = [
     "chapterName": "Chương 7: Pháp luật Hôn nhân và Gia đình",
     "question": "Anh Nam và chị Thảo chung sống như vợ chồng từ năm 2019 không đăng ký kết hôn. Trong thời gian sống chung, chị Thảo đứng tên vay ngân hàng 300 triệu đồng để mở cửa hàng trà sữa kinh doanh chung của hai người. Đến năm 2023, hai bên mâu thuẫn chấm dứt chung sống, số nợ ngân hàng chưa thanh toán hết. Nghĩa vụ trả nợ 300 triệu này được xác định thế nào theo pháp luật?",
     "options": [
-      "Chỉ một mình chị Thảo phải trả vì hợp đồng vay đứng tên cá nhân chị Thảo",
-      "Khoản nợ tự động bị xóa bỏ vì hai bên không phải vợ chồng hợp pháp",
+      "Chỉ một mình chị Thảo phải trả vì hợp đồng vay đứng tên cá nhân chị Thảo, khi một bên vợ hoặc chồng có hành vi bạo lực gia đình nghiêm trọng làm hôn nhân tan vỡ",
+      "Khoản nợ tự động bị xóa bỏ vì hai bên không phải vợ chồng hợp pháp, trừ khi các bên đã lập thỏa thuận về chế độ tài sản trước khi đăng ký kết hôn",
       "Ngân hàng phải chịu rủi ro và mất tiền vay",
       "Cả anh Nam và chị Thảo cùng liên đới chịu trách nhiệm thanh toán khoản nợ này căn cứ vào các quy định của Bộ luật Dân sự về nghĩa vụ chung trong hoạt động kinh doanh chung"
     ],
@@ -296,8 +296,8 @@ const questions: Question[] = [
     "question": "Chị Hân và anh Tuấn ly hôn, Tòa án giao con gái 5 tuổi cho chị Hân nuôi. Anh Tuấn hàng tháng gửi tiền cấp dưỡng 5 triệu đồng đầy đủ nhưng không bao giờ đến thăm con. Sau 2 năm, anh Tuấn kết hôn với người khác và sinh thêm con mới. Chị Hân gửi đơn kiện yêu cầu Tòa án tước quyền làm cha của anh Tuấn vì không đến thăm nom con. Yêu cầu của chị Hân có căn cứ pháp luật không?",
     "options": [
       "Không có căn cứ pháp luật, vì pháp luật chỉ hạn chế quyền thăm nom khi lạm dụng gây ảnh hưởng xấu; việc không thăm nom không thuộc các căn cứ hạn chế quyền của cha mẹ theo Điều 85 Luật HNGĐ",
-      "Có căn cứ vì người cha bắt buộc phải đến thăm con ít nhất 1 lần mỗi tuần",
-      "Có căn cứ nếu con gái viết đơn yêu cầu từ chối nhận cha",
+      "Có căn cứ vì người cha bắt buộc phải đến thăm con ít nhất 1 lần mỗi tuần, sau khi Tòa án nhân dân đã tiến hành thủ tục hòa giải đoàn tụ nhưng không thành",
+      "Có căn cứ nếu con gái viết đơn yêu cầu từ chối nhận cha, nhằm tôn trọng nguyên tắc tự nguyện, tiến bộ, một vợ một chồng và bình đẳng gia đình",
       "Tòa án sẽ phạt tiền anh Tuấn 20 triệu đồng"
     ],
     "correctAnswer": 0,

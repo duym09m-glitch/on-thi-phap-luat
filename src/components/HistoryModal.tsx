@@ -2,7 +2,7 @@ import React, { useState } from 'react';
 import { AlertCircle, Calendar, CheckCircle2, Clock, Trash2, X, XCircle } from 'lucide-react';
 import { ExamHistoryItem, ChapterId } from '../types/quiz';
 import { CHAPTERS } from '../data/chapters';
-import { deleteHistoryItem, clearAllHistory, getOverallChapterStats } from '../utils/session';
+import { deleteHistoryItem, clearAllHistory, getOverallChapterStats } from '../lib/session';
 import { ConfirmModal } from './ConfirmModal';
 
 interface HistoryModalProps {

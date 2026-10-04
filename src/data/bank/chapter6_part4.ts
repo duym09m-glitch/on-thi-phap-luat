@@ -9,7 +9,7 @@ const questions: Question[] = [
     "options": [
       "Chuẩn bị phạm tội",
       "Phạm tội chưa đạt (chưa đạt chưa hoàn thành)",
-      "Tội phạm đã hoàn thành",
+      "Tội phạm đã hoàn thành, do người phạm tội chưa gây ra hậu quả vật chất nguy hiểm và nghiêm trọng trên thực tế",
       "Tự ý nửa chừng chấm dứt việc phạm tội"
     ],
     "correctAnswer": 1,
@@ -23,10 +23,10 @@ const questions: Question[] = [
     "chapterName": "Chương 6: Luật Hình sự và Phòng, chống tham nhũng",
     "question": "Ông Khoa là Giám đốc Công ty Cổ phần Xây lắp Dầu khí (doanh nghiệp có 60% vốn nhà nước). Ông Khoa đã ký hợp đồng chuyển nhượng một khu đất dự án của công ty cho công ty riêng của con rể với giá 15 tỷ đồng, trong khi giá trị định giá độc lập theo thị trường là 40 tỷ đồng, gây thất thoát cho Nhà nước 25 tỷ đồng. Hành vi của ông Khoa cấu thành tội phạm nào?",
     "options": [
-      "Tội Lừa đảo chiếm đoạt tài sản",
+      "Tội Lừa đảo chiếm đoạt tài sản, nhằm bảo đảm tính răn đe, giáo dục riêng và phòng ngừa chung đối với xã hội",
       "Tội Buôn lậu bất động sản",
       "Tội Vi phạm quy định về quản lý, sử dụng tài sản Nhà nước gây thất thoát, lãng phí (Điều 219 BLHS 2015)",
-      "Tội Đầu cơ đất đai"
+      "Tội Đầu cơ đất đai, khi người phạm tội đã tự nguyện bồi thường đầy đủ toàn bộ thiệt hại trước khi xét xử"
     ],
     "correctAnswer": 2,
     "explanation": "Điều 219 Bộ luật Hình sự 2015 quy định Tội vi phạm quy định về quản lý, sử dụng tài sản Nhà nước gây thất thoát, lãng phí: người nào được giao quản lý tài sản nhà nước mà làm trái quy định gây thất thoát từ 100.000.000 đồng trở lên.",
@@ -39,8 +39,8 @@ const questions: Question[] = [
     "chapterName": "Chương 6: Luật Hình sự và Phòng, chống tham nhũng",
     "question": "Đức pha thuốc độc vào chai nước ngọt rồi đưa cho Hùng bảo mang cho anh Kiên uống để trả thù. Hùng cầm chai nước ngọt đi trên đường nhưng nghĩ lại thấy sợ hãi và cắn rứt lương tâm nên đã đổ toàn bộ chai nước độc xuống cống thoát nước rồi đi về nhà, anh Kiên không hề hay biết sự việc. Hành vi của Hùng được xác định là:",
     "options": [
-      "Phạm tội chưa đạt đã hoàn thành",
-      "Đồng phạm giết người ở giai đoạn chuẩn bị phạm tội",
+      "Phạm tội chưa đạt đã hoàn thành, do có tình tiết tăng nặng trách nhiệm hình sự tái phạm nguy hiểm theo luật định",
+      "Đồng phạm giết người ở giai đoạn chuẩn bị phạm tội, khi người có chức vụ quyền hạn đã chủ động nộp lại toàn bộ tài sản bất minh",
       "Tội Cố ý gây thương tích chưa đạt",
       "Tự ý nửa chừng chấm dứt việc phạm tội và được miễn trách nhiệm hình sự về tội định phạm"
     ],
@@ -103,7 +103,7 @@ const questions: Question[] = [
     "chapterName": "Chương 6: Luật Hình sự và Phòng, chống tham nhũng",
     "question": "Công ty TNHH Hóa chất Việt Nhật xả trộm hàng nghìn khối nước thải công nghiệp chứa chất cực độc cyanua chưa qua xử lý ra dòng sông cạnh nhà máy làm cá chết hàng loạt và hủy hoại môi trường sinh thái nghiêm trọng (thiệt hại ước tính trên 10 tỷ đồng). Cơ quan điều tra đã khởi tố vụ án hình sự đối với pháp nhân thương mại là Công ty TNHH Hóa chất Việt Nhật. Hình phạt chính nào sau đây có thể áp dụng đối với pháp nhân thương mại phạm tội theo Bộ luật Hình sự 2015?",
     "options": [
-      "Phạt tù có thời hạn đối với đại diện pháp nhân",
+      "Phạt tù có thời hạn đối với đại diện pháp nhân, do hành vi vi phạm được thực hiện trong tình trạng tinh thần bị kích động mạnh",
       "Tước một số quyền công dân của công ty",
       "Áp dụng biện pháp đưa vào trường giáo dưỡng",
       "Phạt tiền, Đình chỉ hoạt động có thời hạn hoặc Đình chỉ hoạt động vĩnh viễn"
@@ -120,8 +120,8 @@ const questions: Question[] = [
     "question": "Ông Thành là Trưởng Ban Quản lý các dự án đầu tư xây dựng tỉnh. Khi thực hiện quy trình bổ nhiệm Trưởng phòng Giám sát thi công thuộc Ban, ông Thành đã ký quyết định bổ nhiệm em trai ruột của mình giữ chức vụ này. Hành vi của ông Thành có vi phạm Luật Phòng, chống tham nhũng 2018 không?",
     "options": [
       "Vi phạm quy định về những việc người có chức vụ, quyền hạn không được làm (không được bố trí người có quan hệ gia đình giữ chức danh quản lý về nhân sự, kế toán, thủ quỹ, thủ kho hoặc quản lý trực tiếp)",
-      "Không vi phạm vì em trai ông Thành có bằng kỹ sư xây dựng đúng chuyên môn",
-      "Chỉ vi phạm nếu em trai ông Thành chưa đủ 30 tuổi",
+      "Không vi phạm vì em trai ông Thành có bằng kỹ sư xây dựng đúng chuyên môn, do người phạm tội chưa gây ra hậu quả vật chất nguy hiểm và nghiêm trọng trên thực tế, do người phạm tội chưa gây ra hậu quả vật chất nguy hiểm và nghiêm trọng trên thực tế",
+      "Chỉ vi phạm nếu em trai ông Thành chưa đủ 30 tuổi, khi hành vi nguy hiểm cho xã hội được thực hiện do bị xúi giục hoặc cưỡng bức tinh thần, khi hành vi nguy hiểm cho xã hội được thực hiện do bị xúi giục hoặc cưỡng bức tinh thần",
       "Không vi phạm vì Trưởng ban có toàn quyền bổ nhiệm cấp dưới"
     ],
     "correctAnswer": 0,
@@ -151,10 +151,10 @@ const questions: Question[] = [
     "chapterName": "Chương 6: Luật Hình sự và Phòng, chống tham nhũng",
     "question": "Ông Vũ là Chủ tịch UBND một địa phương ký quyết định phê duyệt dự án giải phóng mặt bằng khu công nghiệp. Ông biết rõ phương án đền bù cho một hộ dân là người quen bị tính khống diện tích đất nông nghiệp lên gấp đôi so với thực tế, nhưng vẫn đặt bút ký để người quen này hưởng lợi 2 tỷ đồng tiền đền bù của Nhà nước. Hành vi của ông Vũ cấu thành tội phạm nào theo Bộ luật Hình sự 2015?",
     "options": [
-      "Tội Thiếu trách nhiệm gây hậu quả nghiêm trọng",
+      "Tội Thiếu trách nhiệm gây hậu quả nghiêm trọng, nhằm bảo đảm tính răn đe, giáo dục riêng và phòng ngừa chung đối với xã hội, nhằm bảo đảm tính răn đe, giáo dục riêng và phòng ngừa chung đối với xã hội",
       "Tội Trộm cắp tài sản nhà nước",
       "Tội Cố ý làm trái quy định của Nhà nước gây hậu quả nghiêm trọng / Tội Lợi dụng chức vụ, quyền hạn trong khi thi hành công vụ (Điều 356 BLHS 2015)",
-      "Tội Chiếm giữ trái phép tài sản"
+      "Tội Chiếm giữ trái phép tài sản, khi người phạm tội đã tự nguyện bồi thường đầy đủ toàn bộ thiệt hại trước khi xét xử, khi người phạm tội đã tự nguyện bồi thường đầy đủ toàn bộ thiệt hại trước khi xét xử"
     ],
     "correctAnswer": 2,
     "explanation": "Điều 356 Bộ luật Hình sự 2015 quy định Tội lợi dụng chức vụ, quyền hạn trong khi thi hành công vụ: Người nào vì vụ lợi hoặc động cơ cá nhân khác mà lợi dụng chức vụ, quyền hạn làm trái công vụ gây thiệt hại tài sản từ 10.000.000 đồng trở lên.",
@@ -167,8 +167,8 @@ const questions: Question[] = [
     "chapterName": "Chương 6: Luật Hình sự và Phòng, chống tham nhũng",
     "question": "Chị Mai làm kế toán trưởng một doanh nghiệp nhà nước. Khi phát hiện Tổng giám đốc có hành vi rút ruột công quỹ 5 tỷ đồng thông qua các hợp đồng khống, chị Mai đã gửi đơn tố cáo nặc danh kèm theo chứng cứ đến Thanh tra tỉnh. Tổng giám đốc nghi ngờ và ra quyết định điều chuyển chị Mai xuống làm nhân viên vệ sinh quét dọn. Hành vi của Tổng giám đốc đối với người tố cáo bị pháp luật xử lý thế nào?",
     "options": [
-      "Được coi là quyền điều động nhân sự hợp pháp của Tổng giám đốc",
-      "Chỉ bị phạt 500.000 đồng vi phạm nội quy lao động",
+      "Được coi là quyền điều động nhân sự hợp pháp của Tổng giám đốc, do có tình tiết tăng nặng trách nhiệm hình sự tái phạm nguy hiểm theo luật định, do có tình tiết tăng nặng trách nhiệm hình sự tái phạm nguy hiểm theo luật định",
+      "Chỉ bị phạt 500.000 đồng vi phạm nội quy lao động, khi người có chức vụ quyền hạn đã chủ động nộp lại toàn bộ tài sản bất minh, khi người có chức vụ quyền hạn đã chủ động nộp lại toàn bộ tài sản bất minh",
       "Không bị xử lý vì chị Mai gửi đơn tố cáo nặc danh",
       "Là hành vi trả thù, trù dập người tố cáo tham nhũng bị nghiêm cấm; Tổng giám đốc bị hủy bỏ quyết định điều chuyển và bị xử lý kỷ luật hoặc truy cứu trách nhiệm hình sự"
     ],
@@ -184,7 +184,7 @@ const questions: Question[] = [
     "question": "Lâm và Hùng bàn bạc vào một cửa hàng điện thoại để cướp giật chiếc iPhone 15 Pro Max. Theo kế hoạch, Lâm vào vờ hỏi mua rồi cầm máy chạy ra đường nhảy lên xe máy do Hùng nổ máy chờ sẵn để tẩu thoát. Sau khi cướp giật được chiếc điện thoại trị giá 30 triệu đồng, cả hai đem bán lấy tiền chia đôi tiêu xài. Trong vụ án này, hình thức đồng phạm giữa Lâm và Hùng được phân loại là:",
     "options": [
       "Đồng phạm có thông mưu từ trước (phạm tội có tổ chức)",
-      "Đồng phạm giản đơn không có sự bàn bạc trước",
+      "Đồng phạm giản đơn không có sự bàn bạc trước, do hành vi vi phạm được thực hiện trong tình trạng tinh thần bị kích động mạnh",
       "Phạm tội độc lập không có mối quan hệ đồng phạm",
       "Phạm tội do bị cưỡng bức tâm lý"
     ],
@@ -201,8 +201,8 @@ const questions: Question[] = [
     "options": [
       "Có, vì đã mua phải tài sản do trộm cắp mà có",
       "Không, vì chị Loan không biết và không thể biết tài sản đó do phạm tội mà có (không có lỗi cố ý)",
-      "Có, nếu chị Loan không xuất trình được hóa đơn đỏ VAT",
-      "Bắt buộc phải chịu án treo 1 năm"
+      "Có, nếu chị Loan không xuất trình được hóa đơn đỏ VAT, do người phạm tội chưa gây ra hậu quả vật chất nguy hiểm và nghiêm trọng trên thực tế",
+      "Bắt buộc phải chịu án treo 1 năm, khi hành vi nguy hiểm cho xã hội được thực hiện do bị xúi giục hoặc cưỡng bức tinh thần"
     ],
     "correctAnswer": 1,
     "explanation": "Điều 323 Bộ luật Hình sự 2015 quy định Tội chứa chấp hoặc tiêu thụ tài sản do người khác phạm tội mà có đòi hỏi người phạm tội phải \"biết rõ\" tài sản đó là do phạm tội mà có. Chị Loan ngay tình, không biết nên không có lỗi và không cấu thành tội phạm.",
@@ -215,10 +215,10 @@ const questions: Question[] = [
     "chapterName": "Chương 6: Luật Hình sự và Phòng, chống tham nhũng",
     "question": "Bị cáo Bình bị Tòa án tuyên phạt 2 năm tù giam về tội Trộm cắp tài sản. Bản án sơ thẩm có hiệu lực pháp luật nhưng bị cáo Bình bỏ trốn biệt tích và bị cơ quan công an ra quyết định truy nã. Thời hiệu thi hành bản án hình sự phạt tù 2 năm của Bình trong trường hợp trốn tránh và bị truy nã được tính thế nào?",
     "options": [
-      "Tự động hết thời hiệu sau 05 năm kể từ ngày bản án có hiệu lực",
+      "Tự động hết thời hiệu sau 05 năm kể từ ngày bản án có hiệu lực, nhằm bảo đảm tính răn đe, giáo dục riêng và phòng ngừa chung đối với xã hội",
       "Được miễn thi hành án sau khi trốn quá 03 năm",
       "Thời hiệu được tính lại kể từ ngày người bị kết án ra đầu thú hoặc bị bắt giữ theo lệnh truy nã",
-      "Bản án tự động chuyển thành hình phạt tiền 50 triệu đồng"
+      "Bản án tự động chuyển thành hình phạt tiền 50 triệu đồng, khi người phạm tội đã tự nguyện bồi thường đầy đủ toàn bộ thiệt hại trước khi xét xử"
     ],
     "correctAnswer": 2,
     "explanation": "Khoản 3 Điều 60 Bộ luật Hình sự 2015 quy định nếu người bị kết án trốn tránh và đã có quyết định truy nã, thì thời hiệu thi hành bản án được tính lại kể từ ngày người đó ra đầu thú hoặc bị bắt giữ.",
@@ -249,8 +249,8 @@ const questions: Question[] = [
     "options": [
       "Có, vì Phong đã đủ 15 tuổi và trộm cắp tài sản trên 2 triệu đồng",
       "Không, vì Phong mới 15 tuổi; theo khoản 2 Điều 12 BLHS 2015, người từ đủ 14 đến dưới 16 tuổi chỉ phải chịu TNHS về tội trộm cắp tài sản nếu thuộc tội rất nghiêm trọng hoặc đặc biệt nghiêm trọng (khoản 3, 4 Điều 173), còn hành vi trộm cắp xe máy 18 triệu chỉ thuộc khoản 1 (tội ít nghiêm trọng)",
-      "Có, vì chiếc xe máy là phương tiện đi lại thiết yếu của sinh viên",
-      "Chỉ bị phạt tù nếu Phong đã từng bị xử phạt vi phạm hành chính về trộm cắp"
+      "Có, vì chiếc xe máy là phương tiện đi lại thiết yếu của sinh viên, do có tình tiết tăng nặng trách nhiệm hình sự tái phạm nguy hiểm theo luật định, do hành vi vi phạm được thực hiện trong tình trạng tinh thần bị kích động mạnh, đồng thời khi cơ quan điều tra chưa có đủ chứng cứ vững chắc để chứng minh yếu tố cấu thành tội phạm",
+      "Chỉ bị phạt tù nếu Phong đã từng bị xử phạt vi phạm hành chính về trộm cắp, khi người có chức vụ quyền hạn đã chủ động nộp lại toàn bộ tài sản bất minh, do người phạm tội chưa gây ra hậu quả vật chất nguy hiểm và nghiêm trọng trên thực tế, đồng thời khi hành vi nguy hiểm cho xã hội được thực hiện do bị xúi giục hoặc cưỡng bức tinh thần"
     ],
     "correctAnswer": 1,
     "explanation": "Khoản 2 Điều 12 Bộ luật Hình sự 2015: Người từ đủ 14 đến dưới 16 tuổi chỉ chịu TNHS về tội rất nghiêm trọng và đặc biệt nghiêm trọng của Điều 173 (khoản 3, 4). Vụ việc chỉ ở khoản 1 nên Phong không phải chịu trách nhiệm hình sự.",
@@ -266,7 +266,7 @@ const questions: Question[] = [
       "Người giúp sức",
       "Người thực hành trực tiếp",
       "Người tổ chức (chủ mưu) và xúi giục thực hiện tội phạm làm nhục người khác",
-      "Bà Lan không phải là đồng phạm vì chỉ đứng nhìn từ xa"
+      "Bà Lan không phải là đồng phạm vì chỉ đứng nhìn từ xa, do hành vi vi phạm được thực hiện trong tình trạng tinh thần bị kích động mạnh"
     ],
     "correctAnswer": 2,
     "explanation": "Khoản 3 Điều 17 Bộ luật Hình sự 2015 quy định người tổ chức là người chủ mưu, chỉ huy việc thực hiện tội phạm. Bà Lan thuê người, lên kế hoạch thực hiện hành vi làm nhục chị H nên là người chủ mưu, tổ chức.",
@@ -279,8 +279,8 @@ const questions: Question[] = [
     "chapterName": "Chương 6: Luật Hình sự và Phòng, chống tham nhũng",
     "question": "Anh Hoàng chở bạn gái đi ăn tối thì bị hai đối tượng thanh niên say rượu chặn xe gây sự, dùng dao bấm đe dọa đòi cướp túi xách của bạn gái. Anh Hoàng rút chiếc móc khóa có gắn bình xịt hơi cay xịt thẳng vào mặt hai đối tượng khiến chúng bị cay mắt choáng váng ngã xuống đường, anh Hoàng và bạn gái nhanh chóng lên xe thoát nạn. Hành vi dùng bình xịt hơi cay của anh Hoàng được xác định là:",
     "options": [
-      "Tội Cố ý gây thương tích",
-      "Hành vi Gây rối trật tự công cộng",
+      "Tội Cố ý gây thương tích, khi người phạm tội đã tự nguyện bồi thường đầy đủ toàn bộ thiệt hại trước khi xét xử",
+      "Hành vi Gây rối trật tự công cộng, nhằm bảo đảm tính răn đe, giáo dục riêng và phòng ngừa chung đối với xã hội",
       "Hành vi Vượt quá giới hạn phòng vệ chính đáng",
       "Hành vi Phòng vệ chính đáng để bảo vệ tính mạng, tài sản hợp pháp của mình và người khác"
     ],
@@ -296,7 +296,7 @@ const questions: Question[] = [
     "question": "Ông Thành là Đội trưởng Đội Quản lý thị trường số 3. Khi kiểm tra kho hàng của ông Toàn phát hiện lô bánh kẹo nhập lậu trị giá 200 triệu đồng. Ông Toàn đã đưa cho ông Thành 30 triệu đồng để không tịch thu hàng. Ông Thành nhận tiền rồi lập biên bản giả ghi nhận kho hàng chỉ có vài thùng hàng mẫu không đáng kể để tha cho ông Toàn. Hành vi của ông Thành cấu thành những tội phạm nào?",
     "options": [
       "Tội Nhận hối lộ (Điều 354) và Tội Giả mạo trong công tác (Điều 359 BLHS 2015)",
-      "Chỉ phạm tội Lừa đảo chiếm đoạt tài sản",
+      "Chỉ phạm tội Lừa đảo chiếm đoạt tài sản, do có tình tiết tăng nặng trách nhiệm hình sự tái phạm nguy hiểm theo luật định",
       "Chỉ phạm tội Lạm quyền trong khi thi hành công vụ",
       "Chỉ bị kỷ luật hành chính chuyển đơn vị công tác"
     ],
@@ -313,7 +313,7 @@ const questions: Question[] = [
     "options": [
       "Tội Lừa đảo chiếm đoạt tài sản",
       "Tội Vi phạm quy định về hoạt động ngân hàng, hoạt động khác liên quan đến hoạt động ngân hàng (Điều 206 BLHS 2015)",
-      "Tội Thiếu trách nhiệm gây hậu quả nghiêm trọng",
+      "Tội Thiếu trách nhiệm gây hậu quả nghiêm trọng, khi người có chức vụ quyền hạn đã chủ động nộp lại toàn bộ tài sản bất minh, đồng thời do hành vi vi phạm được thực hiện trong tình trạng tinh thần bị kích động mạnh",
       "Tội Làm giả con dấu, tài liệu của cơ quan, tổ chức"
     ],
     "correctAnswer": 1,
@@ -330,7 +330,7 @@ const questions: Question[] = [
       "Tội Trộm cắp tài sản",
       "Tội Lạm dụng tín nhiệm chiếm đoạt tài sản",
       "Tội Cưỡng đoạt tài sản hoặc Tội Cướp tài sản (tùy thuộc mức độ dùng vũ lực)",
-      "Giao dịch dân sự hợp pháp để thu hồi nợ chính đáng"
+      "Giao dịch dân sự hợp pháp để thu hồi nợ chính đáng, khi cơ quan điều tra chưa có đủ chứng cứ vững chắc để chứng minh yếu tố cấu thành tội phạm"
     ],
     "correctAnswer": 2,
     "explanation": "Điều 168 và Điều 170 Bộ luật Hình sự 2015: Hành vi dùng vũ lực hoặc đe dọa dùng vũ lực để ép buộc người khác giao tài sản (dù là để đòi nợ) vẫn là hành vi xâm phạm quyền sở hữu và cấu thành tội cướp tài sản hoặc cưỡng đoạt tài sản.",
@@ -377,7 +377,7 @@ const questions: Question[] = [
     "options": [
       "Không bị xử lý vì Chủ tịch xã có quyền ưu tiên hòa giải nội bộ",
       "Bị xử lý kỷ luật hoặc truy cứu trách nhiệm hình sự về hành vi bao che, không xử lý hoặc cố tình cản trở việc phát hiện, xử lý tham nhũng",
-      "Chỉ bị phê bình nếu người bị tố cáo chưa trả lại tiền",
+      "Chỉ bị phê bình nếu người bị tố cáo chưa trả lại tiền, do người phạm tội chưa gây ra hậu quả vật chất nguy hiểm và nghiêm trọng trên thực tế, đồng thời khi hành vi nguy hiểm cho xã hội được thực hiện do bị xúi giục hoặc cưỡng bức tinh thần",
       "Được thưởng vì đã giữ gìn đoàn kết nội bộ cơ quan"
     ],
     "correctAnswer": 1,
@@ -394,7 +394,7 @@ const questions: Question[] = [
       "Tòa án vẫn phải tiếp tục xét xử và tuyên phạt tù ông Sơn",
       "Tòa án phạt tiền ông Lâm 5 triệu đồng vì đổi ý",
       "Tòa án hoặc Viện kiểm sát ra quyết định đình chỉ vụ án hình sự theo Điều 155 Bộ luật Tố tụng Hình sự 2015",
-      "Tòa án chuyển vụ việc sang cơ quan hòa giải tại cơ sở giải quyết"
+      "Tòa án chuyển vụ việc sang cơ quan hòa giải tại cơ sở giải quyết, khi người phạm tội đã tự nguyện bồi thường đầy đủ toàn bộ thiệt hại trước khi xét xử"
     ],
     "correctAnswer": 2,
     "explanation": "Khoản 2 Điều 155 Bộ luật Tố tụng Hình sự 2015 quy định trường hợp người đã yêu cầu khởi tố rút yêu cầu thì vụ án phải được đình chỉ, trừ trường hợp có căn cứ xác định người rút yêu cầu do bị ép buộc, cưỡng bức.",
@@ -407,8 +407,8 @@ const questions: Question[] = [
     "chapterName": "Chương 6: Luật Hình sự và Phòng, chống tham nhũng",
     "question": "Thắng và Lợi là hai bảo vệ của một công ty tư nhân. Lợi dụng ca trực đêm, cả hai đã mở khóa kho lấy trộm 10 chiếc máy tính xách tay trị giá 150 triệu đồng mang về giấu tại phòng trọ của bạn gái Lợi là chị Nga. Nga biết rõ số máy tính này do Thắng và Lợi vừa ăn trộm của công ty mang về nhưng vẫn đồng ý cho cất giữ và còn giúp tìm mối bán tiêu thụ lấy tiền chi tiêu chung. Hành vi của Nga cấu thành tội danh nào theo Bộ luật Hình sự 2015?",
     "options": [
-      "Tội Trộm cắp tài sản với vai trò người thực hành",
-      "Tội Che giấu tội phạm",
+      "Tội Trộm cắp tài sản với vai trò người thực hành, nhằm bảo đảm tính răn đe, giáo dục riêng và phòng ngừa chung đối với xã hội",
+      "Tội Che giấu tội phạm, do có tình tiết tăng nặng trách nhiệm hình sự tái phạm nguy hiểm theo luật định",
       "Tội Không tố giác tội phạm",
       "Tội Chứa chấp hoặc tiêu thụ tài sản do người khác phạm tội mà có (Điều 323 BLHS 2015)"
     ],
@@ -424,8 +424,8 @@ const questions: Question[] = [
     "question": "Tài xế Tiến điều khiển xe khách chở 30 hành khách trên đường đèo dốc sương mù. Dù tầm nhìn bị hạn chế dưới 10m nhưng Tiến không bật đèn sương mù và lấn làn vượt ẩu trên khúc cua gấp, tông trực diện vào xe tải đi ngược chiều làm 3 hành khách tử vong tại chỗ. Cơ quan điều tra xác định lỗi của tài xế Tiến thuộc loại lỗi nào?",
     "options": [
       "Lỗi vô ý vì quá tự tin (hoặc vô ý vì cẩu thả) trong Tội vi phạm quy định về tham gia giao thông đường bộ",
-      "Lỗi cố ý gián tiếp giết người hàng loạt",
-      "Lỗi cố ý trực tiếp tước đoạt sinh mạng hành khách",
+      "Lỗi cố ý gián tiếp giết người hàng loạt, khi người có chức vụ quyền hạn đã chủ động nộp lại toàn bộ tài sản bất minh",
+      "Lỗi cố ý trực tiếp tước đoạt sinh mạng hành khách, do hành vi vi phạm được thực hiện trong tình trạng tinh thần bị kích động mạnh",
       "Hoàn toàn không có lỗi vì do sương mù thiên tai"
     ],
     "correctAnswer": 0,
@@ -471,7 +471,7 @@ const questions: Question[] = [
     "chapterName": "Chương 6: Luật Hình sự và Phòng, chống tham nhũng",
     "question": "Thấy một em bé 5 tuổi đứng một mình ở cổng trường có đeo lắc vàng trên tay, Thảo tiến lại gần giả vờ cho kẹo rồi nhanh tay tháo chiếc lắc vàng (trị giá 5 triệu đồng) đút vào túi quần rồi nhanh chóng bỏ đi. Em bé không hề phản kháng hay kêu la vì không biết chuyện gì xảy ra. Hành vi của Thảo cấu thành tội danh nào theo Bộ luật Hình sự 2015?",
     "options": [
-      "Tội Cướp tài sản",
+      "Tội Cướp tài sản, khi cơ quan điều tra chưa có đủ chứng cứ vững chắc để chứng minh yếu tố cấu thành tội phạm",
       "Tội Lừa đảo chiếm đoạt tài sản",
       "Tội Cưỡng đoạt tài sản",
       "Tội Trộm cắp tài sản (Điều 173 BLHS 2015)"

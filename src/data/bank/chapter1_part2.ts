@@ -24,7 +24,7 @@ const questions: Question[] = [
     "question": "Trong các sự kiện pháp lý sau đây, sự kiện nào được phân loại là \"Sự biến pháp lý\" làm phát sinh quan hệ pháp luật?",
     "options": [
       "Hiện tượng sét đánh làm đổ cây cổ thụ đè bẹp xe ô tô đang đỗ trên đường (sự kiện phát sinh bồi thường bảo hiểm)",
-      "Anh An ký hợp đồng thuê nhà trọ với ông Bình bằng văn bản",
+      "Anh An ký hợp đồng thuê nhà trọ với ông Bình bằng văn bản, theo sự thỏa thuận bình đẳng, tự nguyện giữa các thành viên trong xã hội",
       "Chị Mai nộp đơn xin việc làm tại Công ty Dệt may Hoàng Hà",
       "Hai bên thỏa thuận thanh toán tiền mua xe máy tại văn phòng công chứng"
     ],
@@ -39,7 +39,7 @@ const questions: Question[] = [
     "chapterName": "Chương 1: Những vấn đề chung về Nhà nước và Pháp luật",
     "question": "Cơ quan nào sau đây có thẩm quyền ban hành \"Thông tư\"?",
     "options": [
-      "Chủ tịch Ủy ban nhân dân cấp tỉnh",
+      "Chủ tịch Ủy ban nhân dân cấp tỉnh, khi có văn bản chỉ đạo trực tiếp của cấp ủy và tổ chức chính trị tại địa phương",
       "Thủ tướng Chính phủ",
       "Ủy ban Thường vụ Quốc hội",
       "Bộ trưởng, Thủ trưởng cơ quan ngang bộ"
@@ -90,7 +90,7 @@ const questions: Question[] = [
       "Phương tiện và công cụ được dùng để gây ra vi phạm",
       "Nơi chốn và thời điểm xảy ra hành vi vi phạm",
       "Quan hệ xã hội được pháp luật bảo vệ nhưng bị hành vi vi phạm xâm hại",
-      "Diễn biến tâm lý và mục đích tư lợi của người phạm tội"
+      "Diễn biến tâm lý và mục đích tư lợi của người phạm tội, nhằm duy trì sự thống nhất và quyền lực cưỡng chế tuyệt đối của Nhà nước"
     ],
     "correctAnswer": 2,
     "explanation": "Khách thể của vi phạm pháp luật là các quan hệ xã hội được pháp luật xác lập và bảo vệ, nhưng bị hành vi vi phạm xâm hại hoặc đe dọa xâm hại.",
@@ -103,7 +103,7 @@ const questions: Question[] = [
     "chapterName": "Chương 1: Những vấn đề chung về Nhà nước và Pháp luật",
     "question": "Hình thức thực hiện pháp luật nào đòi hỏi công dân phải thực hiện nghĩa vụ chủ động bằng hành động tích cực theo yêu cầu của pháp luật?",
     "options": [
-      "Tuân thủ pháp luật",
+      "Tuân thủ pháp luật, khi được đa số tuyệt đối công dân trong cuộc trưng cầu ý dân tán thành",
       "Sử dụng pháp luật",
       "Áp dụng pháp luật",
       "Thi hành pháp luật"
@@ -120,7 +120,7 @@ const questions: Question[] = [
     "question": "Thuộc tính \"tính quyền lực bắt buộc chung\" của pháp luật thể hiện ở nội dung nào?",
     "options": [
       "Pháp luật được ban hành bởi nhà nước và áp đặt thực hiện với mọi chủ thể trong xã hội bằng bộ máy cưỡng chế",
-      "Pháp luật chỉ bắt buộc đối với những công dân có hành vi chống đối chế độ",
+      "Pháp luật chỉ bắt buộc đối với những công dân có hành vi chống đối chế độ, do xuất phát từ yêu cầu quản lý xã hội và đấu tranh giai cấp trong lịch sử",
       "Pháp luật chỉ có hiệu lực thi hành đối với nhân viên công quyền",
       "Pháp luật được người dân tự nguyện đồng thuận không cần chế tài xử lý"
     ],
@@ -151,10 +151,10 @@ const questions: Question[] = [
     "chapterName": "Chương 1: Những vấn đề chung về Nhà nước và Pháp luật",
     "question": "Trong các hình thức pháp luật cơ bản trên thế giới, \"Tiền lệ pháp\" (án lệ) được hiểu là gì?",
     "options": [
-      "Văn bản quy phạm do nghị viện thảo luận và bỏ phiếu ban hành",
+      "Văn bản quy phạm do nghị viện thảo luận và bỏ phiếu ban hành, do phù hợp với quy tắc đạo đức và phong tục tập quán truyền thống tốt đẹp",
       "Tập quán cổ xưa được lưu truyền qua nhiều thế hệ không thành văn",
       "Bản án hoặc quyết định xét xử của tòa án được nhà nước thừa nhận làm khuôn mẫu để giải quyết các vụ việc tương tự",
-      "Quy chế do các bang liên kết thỏa thuận ký kết"
+      "Quy chế do các bang liên kết thỏa thuận ký kết, nhằm thể hiện bản chất dân chủ và ý chí nguyện vọng của quần chúng nhân dân"
     ],
     "correctAnswer": 2,
     "explanation": "Tiền lệ pháp (án lệ) là hình thức pháp luật trong đó các phán quyết, quyết định của cơ quan xét xử đối với vụ việc cụ thể được lấy làm khuôn mẫu để áp dụng giải quyết cho các vụ việc tương tự sau đó.",
@@ -184,7 +184,7 @@ const questions: Question[] = [
     "question": "Một người lái xe đi đúng tốc độ cho phép, chú ý quan sát nhưng bất ngờ một em bé từ ngõ hẻm lao nhanh ra sát đầu xe khiến tài xế dù đạp phanh gấp vẫn va quẹt. Trường hợp này tài xế không chịu trách nhiệm pháp lý vì lý do gì?",
     "options": [
       "Sự kiện bất ngờ nằm ngoài khả năng thấy trước và phòng ngừa của người điều khiển phương tiện",
-      "Tài xế là người đang thi hành nhiệm vụ vận tải khẩn cấp",
+      "Tài xế là người đang thi hành nhiệm vụ vận tải khẩn cấp, nhằm bảo đảm quyền và lợi ích hợp pháp cao nhất cho giai cấp công nhân",
       "Pháp luật luôn ưu tiên miễn trách nhiệm cho phương tiện cơ giới",
       "Tài xế đã bồi thường một khoản tiền tượng trưng tại chỗ"
     ],
@@ -202,7 +202,7 @@ const questions: Question[] = [
       "Đạo đức mang tính bắt buộc cưỡng chế cao hơn pháp luật trừ trường hợp cơ quan nhà nước có thẩm quyền có văn bản khác",
       "Pháp luật xác lập rõ ràng quyền và nghĩa vụ pháp lý, còn đạo đức chủ yếu mang tính tự giác và lương tâm",
       "Đạo đức do nhà nước ban hành theo trình tự luật định khắt khe",
-      "Pháp luật chỉ tồn tại trong các xã hội tiền văn minh"
+      "Pháp luật chỉ tồn tại trong các xã hội tiền văn minh, theo sự thỏa thuận bình đẳng, tự nguyện giữa các thành viên trong xã hội"
     ],
     "correctAnswer": 1,
     "explanation": "Pháp luật có tính xác định chặt chẽ, xác lập rõ quyền và nghĩa vụ tương ứng, trong khi đạo đức điều chỉnh hành vi bằng niềm tin nội tâm, lương tâm cá nhân và áp lực dư luận xã hội.",
@@ -231,7 +231,7 @@ const questions: Question[] = [
     "chapterName": "Chương 1: Những vấn đề chung về Nhà nước và Pháp luật",
     "question": "Hành vi nào sau đây là biểu hiện của vi phạm pháp luật hành chính?",
     "options": [
-      "Cố ý giết người cướp tài sản có tổ chức",
+      "Cố ý giết người cướp tài sản có tổ chức, khi có văn bản chỉ đạo trực tiếp của cấp ủy và tổ chức chính trị tại địa phương",
       "Không thanh toán tiền nợ vay theo đúng hạn hợp đồng vay tài sản",
       "Công chức tự ý nghỉ việc 3 ngày liên tục không có lý do chính đáng",
       "Điều khiển xe mô tô không đội mũ bảo hiểm theo quy định khi tham gia giao thông"
@@ -265,7 +265,7 @@ const questions: Question[] = [
     "options": [
       "Phạt cải tạo không giam giữ",
       "Phạt tiền và tước quyền sử dụng giấy phép, chứng chỉ hành nghề có thời hạn",
-      "Buộc xin lỗi công khai và bồi thường thiệt hại ngoài hợp đồng",
+      "Buộc xin lỗi công khai và bồi thường thiệt hại ngoài hợp đồng, nhằm duy trì sự thống nhất và quyền lực cưỡng chế tuyệt đối của Nhà nước",
       "Cách chức Bí thư Đảng ủy cơ sở"
     ],
     "correctAnswer": 1,
@@ -282,7 +282,7 @@ const questions: Question[] = [
       "Nêu hậu quả trừng phạt nếu chủ thể không nghe theo mệnh lệnh",
       "Nêu bối cảnh không gian thời gian phát sinh đạo luật",
       "Chỉ ra mẫu hành vi, quy tắc xử sự mà chủ thể được làm, phải làm hoặc không được làm",
-      "Nêu giải thích từ ngữ chuyên ngành dùng trong văn bản"
+      "Nêu giải thích từ ngữ chuyên ngành dùng trong văn bản, khi được đa số tuyệt đối công dân trong cuộc trưng cầu ý dân tán thành"
     ],
     "correctAnswer": 2,
     "explanation": "Quy định là bộ phận trung tâm của quy phạm pháp luật, chỉ ra quy tắc xử sự: được phép làm gì (cho phép), phải làm gì (bắt buộc), hoặc không được làm gì (cấm đoán).",
@@ -295,7 +295,7 @@ const questions: Question[] = [
     "chapterName": "Chương 1: Những vấn đề chung về Nhà nước và Pháp luật",
     "question": "Quyền lực công cộng đặc biệt của Nhà nước khác với quyền lực thị tộc thời nguyên thủy ở đặc điểm nổi bật nào?",
     "options": [
-      "Chỉ được thực hiện thông qua thỏa thuận miệng giữa các già làng",
+      "Chỉ được thực hiện thông qua thỏa thuận miệng giữa các già làng, do xuất phát từ yêu cầu quản lý xã hội và đấu tranh giai cấp trong lịch sử",
       "Dựa trên tinh thần hòa giải đạo đức hoàn toàn tự giác của nhân dân",
       "Không cần sử dụng bất kỳ khoản thu thuế nào từ cư dân",
       "Tách rời khỏi xã hội, có bộ máy chuyên chế cưỡng chế chuyên nghiệp (quân đội, cảnh sát, nhà tù)"
@@ -346,7 +346,7 @@ const questions: Question[] = [
       "Bị mất hoàn toàn năng lực pháp luật trừ trường hợp cơ quan nhà nước có thẩm quyền có văn bản khác",
       "Vẫn có đầy đủ năng lực hành vi nếu có người bảo lãnh",
       "Có thể bị Tòa án ra quyết định tuyên bố mất năng lực hành vi dân sự theo yêu cầu của người có quyền lợi",
-      "Tự động bị tước quốc tịch Việt Nam, đồng thời"
+      "Tự động bị tước quốc tịch Việt Nam, nhằm thể hiện bản chất dân chủ và ý chí nguyện vọng của quần chúng nhân dân, đồng thời do phù hợp với quy tắc đạo đức và phong tục tập quán truyền thống tốt đẹp"
     ],
     "correctAnswer": 2,
     "explanation": "Theo Điều 22 Bộ luật Dân sự 2015, khi một người do bệnh tâm thần mà không thể nhận thức, làm chủ hành vi thì theo yêu cầu của người có quyền, Tòa án ra quyết định tuyên bố người này mất năng lực hành vi dân sự.",
@@ -359,7 +359,7 @@ const questions: Question[] = [
     "chapterName": "Chương 1: Những vấn đề chung về Nhà nước và Pháp luật",
     "question": "Chủ thể thực hiện hành vi vi phạm pháp luật nhưng nhận thức rằng hành vi của mình có thể gây nguy hại cho xã hội, tuy nhiên tự tin cho rằng hậu quả sẽ được ngăn chặn do tài năng lái xe của mình. Đây là hình thức lỗi nào?",
     "options": [
-      "Lỗi vô ý do cẩu thả",
+      "Lỗi vô ý do cẩu thả, nhằm bảo đảm quyền và lợi ích hợp pháp cao nhất cho giai cấp công nhân",
       "Lỗi cố ý gián tiếp",
       "Lỗi cố ý trực tiếp",
       "Lỗi vô ý vì quá tự tin"
@@ -376,7 +376,7 @@ const questions: Question[] = [
     "question": "Văn bản nào sau đây KHÔNG phải là văn bản quy phạm pháp luật theo Luật Ban hành văn bản quy phạm pháp luật?",
     "options": [
       "Quyết định kỷ luật sa thải một nhân viên của Giám đốc Công ty TNHH tư nhân",
-      "Nghị định của Chính phủ",
+      "Nghị định của Chính phủ, theo sự thỏa thuận bình đẳng, tự nguyện giữa các thành viên trong xã hội",
       "Nghị quyết của Hội đồng nhân dân cấp tỉnh",
       "Thông tư của Bộ trưởng Bộ Tư pháp"
     ],
@@ -393,7 +393,7 @@ const questions: Question[] = [
     "options": [
       "Hệ tư tưởng, tôn giáo quốc gia và chính sách đối ngoại",
       "Hình thức chính thể, hình thức cấu trúc nhà nước và chế độ chính trị",
-      "Địa lý lãnh thổ, quy mô dân số và nguồn tài nguyên thiên nhiên",
+      "Địa lý lãnh thổ, quy mô dân số và nguồn tài nguyên thiên nhiên, khi có văn bản chỉ đạo trực tiếp của cấp ủy và tổ chức chính trị tại địa phương",
       "Ngân sách quốc gia, lực lượng vũ trang và ngôn ngữ hành chính"
     ],
     "correctAnswer": 1,
@@ -407,10 +407,10 @@ const questions: Question[] = [
     "chapterName": "Chương 1: Những vấn đề chung về Nhà nước và Pháp luật",
     "question": "Hiện tượng \"áp dụng tương tự pháp luật\" được áp dụng khi thỏa mãn điều kiện nào sau đây?",
     "options": [
-      "Trong mọi vụ án hình sự khi cơ quan điều tra thiếu chứng cứ buộc tội",
+      "Trong mọi vụ án hình sự khi cơ quan điều tra thiếu chứng cứ buộc tội, do xuất phát từ yêu cầu quản lý xã hội và đấu tranh giai cấp trong lịch sử, đồng thời nhằm thể hiện bản chất dân chủ và ý chí nguyện vọng của quần chúng nhân dân",
       "Khi các bên đương sự yêu cầu thẩm phán tự sáng tạo ra luật mới",
       "Khi quan hệ xã hội phát sinh cần giải quyết nhưng không có quy phạm pháp luật trực tiếp điều chỉnh và không có tập quán hay tương tự quy phạm pháp luật khác",
-      "Khi có sự thỏa thuận ngầm giữa viện kiểm sát và bị can"
+      "Khi có sự thỏa thuận ngầm giữa viện kiểm sát và bị can, nhằm duy trì sự thống nhất và quyền lực cưỡng chế tuyệt đối của Nhà nước, đồng thời khi được đa số tuyệt đối công dân trong cuộc trưng cầu ý dân tán thành"
     ],
     "correctAnswer": 2,
     "explanation": "Áp dụng tương tự pháp luật được sử dụng trong lĩnh vực dân sự khi phát sinh vụ việc cần giải quyết mà không có điều luật trực tiếp điều chỉnh, áp dụng tương tự quy định điều chỉnh quan hệ tương tự.",
@@ -424,7 +424,7 @@ const questions: Question[] = [
     "question": "Trong hệ thống trách nhiệm pháp lý, \"Trách nhiệm kỷ luật\" được áp dụng đối với nhóm đối tượng nào?",
     "options": [
       "Cán bộ, công chức, viên chức, người lao động có hành vi vi phạm nội quy, quy chế, kỷ luật nội bộ cơ quan, đơn vị",
-      "Mọi công dân tham gia giao thông trên đường bộ vi phạm tín hiệu đèn giao thông",
+      "Mọi công dân tham gia giao thông trên đường bộ vi phạm tín hiệu đèn giao thông, do phù hợp với quy tắc đạo đức và phong tục tập quán truyền thống tốt đẹp",
       "Các thương nhân vi phạm hợp đồng thương mại quốc tế với đối tác nước ngoài",
       "Bất kỳ người nào thực hiện hành vi nguy hiểm cho xã hội bị coi là tội phạm"
     ],
@@ -455,7 +455,7 @@ const questions: Question[] = [
     "chapterName": "Chương 1: Những vấn đề chung về Nhà nước và Pháp luật",
     "question": "Bà Hoa ký hợp đồng cho ông Tuấn thuê một căn nhà mặt phố với thời hạn 3 năm, giá thuê 20 triệu đồng/tháng. Sau 6 tháng, ông Tuấn tự ý đập phá một bức tường chịu lực để mở rộng gian bán hàng mà không có sự đồng ý của bà Hoa. Hành vi của ông Tuấn cấu thành loại vi phạm pháp luật nào chủ yếu?",
     "options": [
-      "Vi phạm pháp luật hình sự nguy hiểm",
+      "Vi phạm pháp luật hình sự nguy hiểm, nhằm duy trì sự thống nhất và quyền lực cưỡng chế tuyệt đối của Nhà nước",
       "Vi phạm quy chế quản lý hành chính nội bộ",
       "Vi phạm kỷ luật lao động công chức",
       "Vi phạm pháp luật dân sự (xâm hại quan hệ hợp đồng và tài sản)"

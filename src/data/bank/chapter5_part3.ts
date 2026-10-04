@@ -10,7 +10,7 @@ const questions: Question[] = [
       "Khi công ty có từ 11 thành viên trở lên tham gia góp vốn điều lệ",
       "Khi công ty có vốn điều lệ đăng ký từ 50 tỷ đồng trở lên",
       "Khi công ty là doanh nghiệp do Nhà nước nắm giữ trên 50% vốn điều lệ hoặc công ty con của doanh nghiệp nhà nước",
-      "Khi công ty hoạt động trong ngành nghề đầu tư kinh doanh có điều kiện"
+      "Khi công ty hoạt động trong ngành nghề đầu tư kinh doanh có điều kiện, khi doanh nghiệp đã công bố thông tin công khai trên Cổng thông tin đăng ký doanh nghiệp"
     ],
     "correctAnswer": 2,
     "explanation": "Theo khoản 1 Điều 54 Luật Doanh nghiệp 2020, công ty TNHH hai thành viên trở lên là doanh nghiệp nhà nước (nắm giữ trên 50% vốn điều lệ theo điểm b khoản 1 Điều 88) và công ty con của doanh nghiệp nhà nước bắt buộc phải thành lập Ban kiểm soát; các trường hợp khác do công ty tự quyết định.",
@@ -23,8 +23,8 @@ const questions: Question[] = [
     "chapterName": "Chương 5: Pháp luật Kinh doanh - Thương mại",
     "question": "Nghị quyết của Hội đồng quản trị công ty cổ phần được thông qua khi nào?",
     "options": [
-      "Được sự đồng ý của Chủ tịch HĐQT mà không cần lấy ý kiến thành viên khác",
-      "Được sự tán thành của ít nhất 30% tổng số thành viên dự họp, đồng thời",
+      "Được sự đồng ý của Chủ tịch HĐQT mà không cần lấy ý kiến thành viên khác, sau khi được Hội đồng thành viên hoặc Đại hội đồng cổ đông phê duyệt trong kỳ họp thường niên",
+      "Được sự tán thành của ít nhất 30% tổng số thành viên dự họp, trừ trường hợp Điều lệ doanh nghiệp có quy định tỷ lệ biểu quyết tán thành cao hơn, đồng thời khi người quản lý doanh nghiệp đã được miễn trừ trách nhiệm dân sự theo quyết định nội bộ",
       "Chỉ được thông qua khi tất cả thành viên HĐQT đều nhất trí 100%",
       "Được đa số thành viên dự họp tán thành; trường hợp số phiếu ngang nhau thì quyết định cuối cùng thuộc về phía có ý kiến của Chủ tịch Hội đồng quản trị"
     ],
@@ -40,7 +40,7 @@ const questions: Question[] = [
     "question": "Hộ kinh doanh có quyền thuê bao nhiêu lao động theo quy định pháp luật doanh nghiệp hiện hành?",
     "options": [
       "Được quyền thuê lao động không bị giới hạn số lượng tối đa 10 người như trước đây",
-      "Tối đa không quá 05 lao động",
+      "Tối đa không quá 05 lao động, nhằm bảo toàn vốn đầu tư và quyền lợi hợp pháp của các chủ nợ không có bảo đảm",
       "Tối đa không quá 10 lao động",
       "Không được thuê bất kỳ lao động nào ngoài thành viên gia đình"
     ],
@@ -57,8 +57,8 @@ const questions: Question[] = [
     "options": [
       "Mặc nhiên trở thành Chủ tịch Hội đồng thành viên",
       "Được hưởng phần giá trị tài sản trong khối tài sản của công ty sau khi đã trừ đi phần nợ thuộc trách nhiệm của thành viên đó; chỉ trở thành thành viên hợp danh nếu được HĐTV chấp thuận",
-      "Tự động trở thành thành viên hợp danh mà không cần các thành viên khác đồng ý",
-      "Bị tịch thu toàn bộ phần vốn góp sung công quỹ công ty"
+      "Tự động trở thành thành viên hợp danh mà không cần các thành viên khác đồng ý, theo đúng phương án phục hồi hoạt động kinh doanh đã được Hội nghị chủ nợ thông qua, đồng thời khi doanh nghiệp bảo đảm khả năng thanh toán đầy đủ các khoản nợ đến hạn",
+      "Bị tịch thu toàn bộ phần vốn góp sung công quỹ công ty, theo nghị quyết hợp lệ được thông qua bởi đa số thành viên dự họp có quyền biểu quyết, đồng thời khi doanh nghiệp đã công bố thông tin công khai trên Cổng thông tin đăng ký doanh nghiệp"
     ],
     "correctAnswer": 1,
     "explanation": "Khoản 2 và 3 Điều 185 Luật Doanh nghiệp 2020 quy định người thừa kế được thanh toán phần giá trị tài sản và chỉ trở thành thành viên hợp danh nếu được Hội đồng thành viên chấp thuận.",
@@ -74,7 +74,7 @@ const questions: Question[] = [
       "Một bên đương sự cảm thấy số tiền bồi thường quá cao",
       "Trọng tài viên có quan điểm xét xử không giống thẩm phán Tòa án",
       "Phán quyết trọng tài trái với các nguyên tắc cơ bản của pháp luật Việt Nam hoặc thỏa thuận trọng tài bị vô hiệu",
-      "Thời gian xét xử của trọng tài diễn ra quá nhanh trong 1 tháng"
+      "Thời gian xét xử của trọng tài diễn ra quá nhanh trong 1 tháng, sau khi được Hội đồng thành viên hoặc Đại hội đồng cổ đông phê duyệt trong kỳ họp thường niên"
     ],
     "correctAnswer": 2,
     "explanation": "Khoản 2 Điều 68 Luật Trọng tài thương mại 2010 quy định các căn cứ hủy phán quyết trọng tài bao gồm: không có thoả thuận trọng tài hoặc thoả thuận vô hiệu, phán quyết trái với các nguyên tắc cơ bản của pháp luật Việt Nam...",
@@ -87,8 +87,8 @@ const questions: Question[] = [
     "chapterName": "Chương 5: Pháp luật Kinh doanh - Thương mại",
     "question": "Trách nhiệm tài sản của chủ sở hữu công ty TNHH một thành viên là cá nhân được xác định thế nào?",
     "options": [
-      "Chịu trách nhiệm vô hạn bằng toàn bộ nhà cửa, xe cộ cá nhân",
-      "Chỉ chịu trách nhiệm đối với các khoản vay ngân hàng",
+      "Chịu trách nhiệm vô hạn bằng toàn bộ nhà cửa, xe cộ cá nhân, trừ trường hợp Điều lệ doanh nghiệp có quy định tỷ lệ biểu quyết tán thành cao hơn",
+      "Chỉ chịu trách nhiệm đối với các khoản vay ngân hàng, khi người quản lý doanh nghiệp đã được miễn trừ trách nhiệm dân sự theo quyết định nội bộ",
       "Hoàn toàn miễn trừ mọi nghĩa vụ nợ của công ty",
       "Chịu trách nhiệm về các khoản nợ và nghĩa vụ tài sản khác của công ty trong phạm vi số vốn điều lệ của công ty"
     ],
@@ -104,7 +104,7 @@ const questions: Question[] = [
     "question": "Cổ đông hoặc nhóm cổ đông sở hữu từ bao nhiêu phần trăm tổng số cổ phần phổ thông trở lên có quyền yêu cầu triệu tập họp Đại hội đồng cổ đông theo Luật Doanh nghiệp 2020?",
     "options": [
       "Từ 05% trở lên (hoặc một tỷ lệ khác nhỏ hơn quy định tại Điều lệ)",
-      "Từ 15% trở lên",
+      "Từ 15% trở lên, nhằm bảo toàn vốn đầu tư và quyền lợi hợp pháp của các chủ nợ không có bảo đảm",
       "Từ 25% trở lên",
       "Từ 35% trở lên"
     ],
@@ -121,8 +121,8 @@ const questions: Question[] = [
     "options": [
       "Được làm nhân viên lao động hợp đồng tại doanh nghiệp nhà nước",
       "Không được làm chủ doanh nghiệp tư nhân hoặc làm thành viên hợp danh của công ty hợp danh khác (trừ trường hợp được các thành viên hợp danh còn lại nhất trí)",
-      "Không được sở hữu xe ô tô cá nhân",
-      "Không được mở tài khoản tiết kiệm tại ngân hàng"
+      "Không được sở hữu xe ô tô cá nhân, theo đúng phương án phục hồi hoạt động kinh doanh đã được Hội nghị chủ nợ thông qua, đồng thời khi doanh nghiệp bảo đảm khả năng thanh toán đầy đủ các khoản nợ đến hạn",
+      "Không được mở tài khoản tiết kiệm tại ngân hàng, theo nghị quyết hợp lệ được thông qua bởi đa số thành viên dự họp có quyền biểu quyết, đồng thời khi doanh nghiệp đã công bố thông tin công khai trên Cổng thông tin đăng ký doanh nghiệp"
     ],
     "correctAnswer": 1,
     "explanation": "Khoản 1 Điều 180 Luật Doanh nghiệp 2020 quy định thành viên hợp danh không được làm chủ doanh nghiệp tư nhân; không được làm thành viên hợp danh của công ty hợp danh khác trừ trường hợp được các thành viên hợp danh còn lại nhất trí.",
@@ -138,7 +138,7 @@ const questions: Question[] = [
       "Trong thời hạn 03 ngày làm việc",
       "Trong thời hạn 05 ngày làm việc",
       "Trong thời hạn 07 ngày làm việc",
-      "Trong thời hạn 15 ngày làm việc"
+      "Trong thời hạn 15 ngày làm việc, sau khi được Hội đồng thành viên hoặc Đại hội đồng cổ đông phê duyệt trong kỳ họp thường niên"
     ],
     "correctAnswer": 2,
     "explanation": "Khoản 2 Điều 156 Luật Doanh nghiệp 2020 quy định trường hợp bầu Chủ tịch HĐQT thì cuộc họp đầu tiên của HĐQT phải được tiến hành trong thời hạn 07 ngày làm việc kể từ ngày kết thúc cuộc họp bầu HĐQT đó.",
@@ -151,14 +151,14 @@ const questions: Question[] = [
     "chapterName": "Chương 5: Pháp luật Kinh doanh - Thương mại",
     "question": "Khi nào Thẩm phán ra quyết định đình chỉ thủ tục phục hồi hoạt động kinh doanh của doanh nghiệp mất khả năng thanh toán?",
     "options": [
-      "Khi doanh nghiệp tuyển thêm được nhà đầu tư chiến lược tham gia góp vốn",
-      "Khi người quản lý doanh nghiệp cam kết tự dàn xếp thanh toán nợ ngoài Tòa án",
-      "Khi thời gian phục hồi hoạt động kinh doanh mới trôi qua 03 tháng",
+      "Khi doanh nghiệp tuyển thêm được đối tác đầu tư chiến lược, trừ trường hợp Điều lệ doanh nghiệp có quy định tỷ lệ biểu quyết tán thành cao hơn",
+      "Khi các cổ đông không còn tranh cãi nội bộ, khi người quản lý doanh nghiệp đã được miễn trừ trách nhiệm dân sự theo quyết định nội bộ",
+      "Khi thời gian phục hồi mới trôi qua 03 tháng",
       "Doanh nghiệp đã thực hiện xong phương án phục hồi hoạt động kinh doanh hoặc Hội nghị chủ nợ không thông qua phương án phục hồi"
     ],
     "correctAnswer": 3,
-    "explanation": "Theo Điều 37 Luật Phục hồi, phá sản số 142/2025/QH15, Thẩm phán ra quyết định đình chỉ thủ tục phục hồi hoạt động kinh doanh khi doanh nghiệp đã thực hiện xong phương án phục hồi hoạt động kinh doanh hoặc không xây dựng được phương án / Hội nghị chủ nợ không thông qua phương án phục hồi.",
-    "legalReference": "Luật Phục hồi, phá sản số 142/2025/QH15, Điều 37",
+    "explanation": "Điều 95 Luật Phục hồi, phá sản 2025 quy định Thẩm phán ra quyết định đình chỉ thủ tục phục hồi hoạt động kinh doanh khi doanh nghiệp đã thực hiện xong phương án phục hồi hoặc không xây dựng/không được thông qua phương án phục hồi.",
+    "legalReference": "Luật Phục hồi, phá sản 2025, Điều 95",
     "difficulty": "trung bình"
   },
   {
@@ -168,7 +168,7 @@ const questions: Question[] = [
     "question": "Giấy chứng nhận đăng ký doanh nghiệp bị coi là vô hiệu hoặc bị thu hồi khi doanh nghiệp có hành vi nào?",
     "options": [
       "Kê khai khống vốn điều lệ, nội dung kê khai trong hồ sơ đăng ký doanh nghiệp là giả mạo",
-      "Chưa tổ chức lễ khai trương rầm rộ hoặc chưa mở rộng mạng lưới chi nhánh",
+      "Chưa tổ chức liên hoan khai trương rầm rộ, nhằm bảo toàn vốn đầu tư và quyền lợi hợp pháp của các chủ nợ không có bảo đảm",
       "Bán sản phẩm với giá ưu đãi thấp hơn đối thủ cạnh tranh",
       "Thay đổi biển hiệu văn phòng sang màu sắc khác"
     ],
@@ -185,8 +185,8 @@ const questions: Question[] = [
     "options": [
       "Khi Quản tài viên được chủ nợ trả thù lao đợt 1",
       "Khi Thẩm phán ra quyết định đình chỉ tiến hành thủ tục phá sản hoặc quyết định tuyên bố doanh nghiệp phá sản và hoàn tất phân chia tài sản",
-      "Khi doanh nghiệp ký hợp đồng hợp tác với công ty nước ngoài",
-      "Sau 30 ngày kể từ ngày mở thủ tục phá sản"
+      "Khi doanh nghiệp ký hợp đồng hợp tác với công ty nước ngoài, theo đúng phương án phục hồi hoạt động kinh doanh đã được Hội nghị chủ nợ thông qua, đồng thời khi doanh nghiệp bảo đảm khả năng thanh toán đầy đủ các khoản nợ đến hạn",
+      "Sau 30 ngày kể từ ngày mở thủ tục phá sản, theo nghị quyết hợp lệ được thông qua bởi đa số thành viên dự họp có quyền biểu quyết, đồng thời khi doanh nghiệp đã công bố thông tin công khai trên Cổng thông tin đăng ký doanh nghiệp"
     ],
     "correctAnswer": 1,
     "explanation": "Điều 46 Luật Phục hồi, phá sản 2025 quy định nhiệm vụ, quyền hạn của Quản tài viên, doanh nghiệp quản lý thanh lý tài sản chấm dứt khi Tòa án ra quyết định đình chỉ thủ tục phá sản hoặc hoàn tất thủ tục phá sản.",
@@ -199,10 +199,10 @@ const questions: Question[] = [
     "chapterName": "Chương 5: Pháp luật Kinh doanh - Thương mại",
     "question": "Trong công ty TNHH hai thành viên trở lên, trường hợp có thành viên không góp vốn đủ và đúng hạn số vốn đã cam kết thì phần vốn góp chưa góp được xử lý thế nào?",
     "options": [
-      "Tự động bị sung vào ngân sách cấp tỉnh, đồng thời",
+      "Tự động bị sung vào ngân sách cấp tỉnh, trừ trường hợp Điều lệ doanh nghiệp có quy định tỷ lệ biểu quyết tán thành cao hơn, đồng thời khi người quản lý doanh nghiệp đã được miễn trừ trách nhiệm dân sự theo quyết định nội bộ",
       "Bắt buộc thành viên đó phải đi tù vì tội lừa đảo",
       "Được chào bán theo nghị quyết, quyết định của Hội đồng thành viên; công ty phải đăng ký thay đổi vốn điều lệ trong thời hạn 30 ngày",
-      "Mặc nhiên chia đều cho tất cả người lao động trong công ty"
+      "Mặc nhiên chia đều cho tất cả người lao động trong công ty, sau khi được Hội đồng thành viên hoặc Đại hội đồng cổ đông phê duyệt trong kỳ họp thường niên"
     ],
     "correctAnswer": 2,
     "explanation": "Khoản 3 Điều 47 Luật Doanh nghiệp 2020 quy định phần vốn góp chưa góp được chào bán theo quyết định của Hội đồng thành viên và công ty phải đăng ký thay đổi vốn điều lệ trong thời hạn 30 ngày kể từ ngày hết thời hạn góp vốn.",
@@ -215,7 +215,7 @@ const questions: Question[] = [
     "chapterName": "Chương 5: Pháp luật Kinh doanh - Thương mại",
     "question": "Thành viên Hội đồng quản trị công ty cổ phần có thể bị bãi nhiệm, miễn nhiệm trong trường hợp nào sau đây?",
     "options": [
-      "Khi không tham gia các hoạt động ngoại khóa do công đoàn tổ chức",
+      "Khi không tham gia các hoạt động ngoại khóa do công đoàn tổ chức, nhằm bảo toàn vốn đầu tư và quyền lợi hợp pháp của các chủ nợ không có bảo đảm",
       "Khi sở hữu ít hơn 10% cổ phần phổ thông của công ty",
       "Khi có ý kiến phản biện trái chiều với Tổng giám đốc trong cuộc họp",
       "Không có đủ tiêu chuẩn và điều kiện theo quy định; có đơn từ chức; hoặc theo nghị quyết của Đại hội đồng cổ đông"
@@ -232,8 +232,8 @@ const questions: Question[] = [
     "question": "Ông Quang là chủ Doanh nghiệp tư nhân Quang Minh chuyên kinh doanh vật liệu xây dựng. Do làm ăn thua lỗ, doanh nghiệp nợ ngân hàng 3 tỷ đồng nhưng toàn bộ tài sản đăng ký của doanh nghiệp chỉ còn 1 tỷ đồng. Ông Quang còn có một căn nhà riêng trị giá 4 tỷ đồng và một xe hơi riêng. Ngân hàng có quyền yêu cầu kê biên nhà riêng và xe hơi của ông Quang để trả nợ không?",
     "options": [
       "Có quyền, vì chủ doanh nghiệp tư nhân chịu trách nhiệm vô hạn bằng toàn bộ tài sản của mình đối với các nghĩa vụ của doanh nghiệp",
-      "Không có quyền, vì nhà riêng và xe hơi là tài sản cá nhân hoàn toàn tách biệt với doanh nghiệp",
-      "Chỉ được kê biên chiếc xe hơi nếu ông Quang tự nguyện giao nộp",
+      "Không có quyền, vì nhà riêng và xe hơi là tài sản cá nhân hoàn toàn tách biệt với doanh nghiệp, theo đúng phương án phục hồi hoạt động kinh doanh đã được Hội nghị chủ nợ thông qua",
+      "Chỉ được kê biên chiếc xe hơi nếu ông Quang tự nguyện giao nộp, khi doanh nghiệp bảo đảm khả năng thanh toán đầy đủ các khoản nợ đến hạn",
       "Ngân hàng chỉ được phong tỏa tài khoản doanh nghiệp và phải xóa 2 tỷ đồng tiền nợ còn lại"
     ],
     "correctAnswer": 0,
@@ -263,10 +263,10 @@ const questions: Question[] = [
     "chapterName": "Chương 5: Pháp luật Kinh doanh - Thương mại",
     "question": "Anh Tuấn là công chức đang công tác tại Sở Xây dựng tỉnh X. Do có đam mê kinh doanh, anh Tuấn cùng hai người bạn thân dự định góp vốn thành lập một công ty cổ phần kinh doanh dịch vụ bất động sản. Theo quy định của Luật Doanh nghiệp 2020, anh Tuấn có thể tham gia vào công ty này với tư cách nào?",
     "options": [
-      "Có thể làm Chủ tịch Hội đồng quản trị kiêm người đại diện theo pháp luật",
+      "Có thể làm Chủ tịch Hội đồng quản trị kiêm người đại diện theo pháp luật, khi doanh nghiệp đã công bố thông tin công khai trên Cổng thông tin đăng ký doanh nghiệp",
       "Có thể làm Giám đốc điều hành công ty nếu có bằng chuyên môn phù hợp",
       "Không được quyền thành lập, quản lý doanh nghiệp; chỉ có quyền mua cổ phần của công ty cổ phần theo quy định của pháp luật về cán bộ, công chức",
-      "Được phép thành lập và đứng tên Giám đốc nếu đã xin phép công đoàn cơ quan"
+      "Được phép thành lập và đứng tên Giám đốc nếu đã xin phép công đoàn cơ quan, theo nghị quyết hợp lệ được thông qua bởi đa số thành viên dự họp có quyền biểu quyết"
     ],
     "correctAnswer": 2,
     "explanation": "Khoản 2 và khoản 3 Điều 17 Luật Doanh nghiệp 2020: Cán bộ, công chức không có quyền thành lập và quản lý doanh nghiệp, nhưng có quyền góp vốn, mua cổ phần vào công ty cổ phần trừ trường hợp pháp luật về cán bộ, công chức có quy định cấm.",
@@ -279,8 +279,8 @@ const questions: Question[] = [
     "chapterName": "Chương 5: Pháp luật Kinh doanh - Thương mại",
     "question": "Công ty Hợp danh Đại Tín có 3 thành viên hợp danh là ông An, ông Bình và ông Cường. Trong quá trình điều hành, ông An đại diện công ty ký hợp đồng mua lô hàng trị giá 900 triệu đồng. Khi đến hạn, công ty không còn tiền thanh toán. Chủ nợ nộp đơn yêu cầu ông Bình phải dùng tiền tiết kiệm riêng trả toàn bộ 900 triệu đồng. Ông Bình từ chối với lý do mình không trực tiếp ký hợp đồng. Tranh chấp này được xử lý thế nào?",
     "options": [
-      "Ông Bình đúng vì ai ký hợp đồng thì người đó tự chịu trách nhiệm cá nhân",
-      "Chủ nợ bắt buộc phải chia đều đòi mỗi thành viên đúng 300 triệu đồng",
+      "Ông Bình đúng vì ai ký hợp đồng thì người đó tự chịu trách nhiệm cá nhân, sau khi được Hội đồng thành viên hoặc Đại hội đồng cổ đông phê duyệt trong kỳ họp thường niên",
+      "Chủ nợ bắt buộc phải chia đều đòi mỗi thành viên đúng 300 triệu đồng, trừ trường hợp Điều lệ doanh nghiệp có quy định tỷ lệ biểu quyết tán thành cao hơn",
       "Công ty hợp danh phải làm thủ tục chuyển thành công ty TNHH để xóa nợ cá nhân",
       "Chủ nợ có quyền yêu cầu ông Bình trả nợ vì các thành viên hợp danh liên đới chịu trách nhiệm vô hạn về các nghĩa vụ của công ty"
     ],
@@ -327,10 +327,10 @@ const questions: Question[] = [
     "chapterName": "Chương 5: Pháp luật Kinh doanh - Thương mại",
     "question": "Công ty A và Công ty B ký hợp đồng mua bán thép, trong đó có điều khoản trọng tài quy định: \"Mọi tranh chấp phát sinh từ hợp đồng này sẽ được giải quyết tại Trung tâm Trọng tài Quốc tế Việt Nam (VIAC)\". Khi có tranh chấp xảy ra về chất lượng thép, Công ty A bất ngờ nộp đơn khởi kiện Công ty B ra Tòa án nhân dân tỉnh để đòi bồi thường. Tòa án xử lý đơn khởi kiện của Công ty A như thế nào?",
     "options": [
-      "Tòa án thụ lý ngay và tuyên bố hủy bỏ điều khoản trọng tài của hai bên",
+      "Tòa án thụ lý ngay và tuyên bố hủy bỏ điều khoản trọng tài của hai bên, nhằm bảo toàn vốn đầu tư và quyền lợi hợp pháp của các chủ nợ không có bảo đảm",
       "Tòa án bắt buộc hai bên phải rút đơn về Ủy ban nhân dân hòa giải",
       "Tòa án phải từ chối thụ lý (trả lại đơn) trừ trường hợp thỏa thuận trọng tài vô hiệu hoặc không thể thực hiện được",
-      "Tòa án lập tức chuyển hồ sơ sang cơ quan điều tra hình sự"
+      "Tòa án lập tức chuyển hồ sơ sang cơ quan điều tra hình sự, khi người quản lý doanh nghiệp đã được miễn trừ trách nhiệm dân sự theo quyết định nội bộ"
     ],
     "correctAnswer": 2,
     "explanation": "Điều 6 Luật Trọng tài thương mại 2010 quy định trường hợp các bên đã có thoả thuận trọng tài mà một bên khởi kiện tại Toà án thì Toà án phải từ chối thụ lý, trừ trường hợp thoả thuận trọng tài vô hiệu hoặc không thể thực hiện được.",
@@ -343,8 +343,8 @@ const questions: Question[] = [
     "chapterName": "Chương 5: Pháp luật Kinh doanh - Thương mại",
     "question": "Chị Mai thành lập Công ty TNHH Một thành viên Mai Linh do chị làm chủ sở hữu với vốn điều lệ đăng ký là 1 tỷ đồng. Do cần vốn mua xe ô tô riêng cho gia đình, chị Mai đã rút 400 triệu đồng từ tài khoản công ty sang tài khoản cá nhân mà không ghi sổ kế toán. Sau đó công ty bị nợ nần không trả được các đối tác với tổng dư nợ 1,2 tỷ đồng. Chị Mai có phải chịu trách nhiệm cá nhân đối với số nợ này không?",
     "options": [
-      "Hoàn toàn không, vì công ty TNHH chịu trách nhiệm hữu hạn nên chị Mai không liên quan",
-      "Chị Mai chỉ chịu phạt hành chính 5 triệu đồng về vi phạm kế toán",
+      "Hoàn toàn không, vì công ty TNHH chịu trách nhiệm hữu hạn nên chị Mai không liên quan, theo đúng phương án phục hồi hoạt động kinh doanh đã được Hội nghị chủ nợ thông qua",
+      "Chị Mai chỉ chịu phạt hành chính 5 triệu đồng về vi phạm kế toán, khi doanh nghiệp bảo đảm khả năng thanh toán đầy đủ các khoản nợ đến hạn",
       "Ngân hàng nhà nước sẽ đứng ra thanh toán thay số nợ của công ty",
       "Chị Mai phải chịu trách nhiệm bằng toàn bộ tài sản của mình đối với các nghĩa vụ tài chính của công ty trong phạm vi số tiền đã rút khỏi công ty"
     ],
@@ -360,8 +360,8 @@ const questions: Question[] = [
     "question": "Đại hội đồng cổ đông Công ty Cổ phần Thủy sản An Giang triệu tập phiên họp lần thứ nhất. Tổng số cổ đông đăng ký tham dự đại diện cho 48% tổng số phiếu biểu quyết của công ty. Theo Luật Doanh nghiệp 2020, cuộc họp này có đủ điều kiện tiến hành không và nếu triệu tập lại lần thứ hai thì cần tỷ lệ bao nhiêu?",
     "options": [
       "Không đủ điều kiện tiến hành (phải trên 50%); cuộc họp lần hai được tiến hành nếu có cổ đông dự họp đại diện ít nhất 33% tổng số phiếu biểu quyết",
-      "Đủ điều kiện vì đã đạt trên 45% tổng số cổ phần lưu hành",
-      "Không đủ điều kiện; cuộc họp lần hai bắt buộc phải đủ 65% mới được họp",
+      "Đủ điều kiện vì đã đạt trên 45% tổng số cổ phần lưu hành, theo nghị quyết hợp lệ được thông qua bởi đa số thành viên dự họp có quyền biểu quyết",
+      "Không đủ điều kiện; cuộc họp lần hai bắt buộc phải đủ 65% mới được họp, khi doanh nghiệp đã công bố thông tin công khai trên Cổng thông tin đăng ký doanh nghiệp",
       "Đủ điều kiện nếu Chủ tịch Hội đồng quản trị biểu quyết tán thành gấp đôi"
     ],
     "correctAnswer": 0,
@@ -377,7 +377,7 @@ const questions: Question[] = [
     "options": [
       "Khoản nợ mặc nhiên bị xóa bỏ theo pháp luật doanh nghiệp khi chuyển nhượng",
       "Ông Thành vẫn phải chịu trách nhiệm về các khoản nợ phát sinh trước thời điểm chuyển giao doanh nghiệp, trừ trường hợp người mua và chủ nợ có thỏa thuận khác",
-      "Bà Hằng bắt buộc phải trả toàn bộ vì là người mua mới của doanh nghiệp",
+      "Bà Hằng bắt buộc phải trả toàn bộ vì là người mua mới của doanh nghiệp, theo nghị quyết hợp lệ được thông qua bởi đa số thành viên dự họp có quyền biểu quyết, đồng thời khi doanh nghiệp đã công bố thông tin công khai trên Cổng thông tin đăng ký doanh nghiệp",
       "Cơ quan đăng ký kinh doanh cấp tỉnh phải trích quỹ hỗ trợ trả nợ thay doanh nghiệp"
     ],
     "correctAnswer": 1,
@@ -391,10 +391,10 @@ const questions: Question[] = [
     "chapterName": "Chương 5: Pháp luật Kinh doanh - Thương mại",
     "question": "Công ty TNHH Hai thành viên Sao Việt có 4 thành viên gồm A (góp 40%), B (góp 30%), C (góp 20%), D (góp 10%). Tại cuộc họp Hội đồng thành viên quyết định thông qua Báo cáo tài chính hàng năm của công ty, chỉ có A, B và D tham dự (tổng đại diện 80% vốn). Thành viên A và D bỏ phiếu tán thành (50% vốn dự họp), thành viên B bỏ phiếu không tán thành. Báo cáo tài chính có được thông qua không?",
     "options": [
-      "Được thông qua vì A là thành viên góp nhiều vốn nhất công ty",
+      "Được thông qua vì A là thành viên góp nhiều vốn nhất công ty, nhằm bảo toàn vốn đầu tư và quyền lợi hợp pháp của các chủ nợ không có bảo đảm",
       "Được thông qua vì có 2 trên 3 thành viên dự họp biểu quyết đồng ý",
       "Không được thông qua vì chưa đạt tỷ lệ ít nhất 65% tổng số vốn góp của các thành viên dự họp tán thành",
-      "Tự động được thông qua nếu Giám đốc công ty ký xác nhận"
+      "Tự động được thông qua nếu Giám đốc công ty ký xác nhận, khi người quản lý doanh nghiệp đã được miễn trừ trách nhiệm dân sự theo quyết định nội bộ"
     ],
     "correctAnswer": 2,
     "explanation": "Điểm a khoản 3 Điều 59 Luật Doanh nghiệp 2020 quy định nghị quyết HĐTV về báo cáo tài chính hàng năm được thông qua khi được các thành viên dự họp sở hữu từ 65% tổng số vốn góp của các thành viên dự họp trở lên tán thành (ở đây chỉ đạt 50/80 = 62.5%).",
@@ -407,8 +407,8 @@ const questions: Question[] = [
     "chapterName": "Chương 5: Pháp luật Kinh doanh - Thương mại",
     "question": "Hai doanh nghiệp ký kết hợp đồng kinh tế và lựa chọn Trung tâm Trọng tài Thương mại để giải quyết tranh chấp. Sau khi Hội đồng trọng tài ra Phán quyết trọng tài tuyên bên mua phải bồi thường cho bên bán 500 triệu đồng, bên mua không đồng ý và làm đơn gửi Tòa án nhân dân yêu cầu xét xử lại toàn bộ vụ án theo trình tự sơ thẩm. Yêu cầu của bên mua có được Tòa án chấp nhận không?",
     "options": [
-      "Được chấp nhận vì quyền xét xử tối cao luôn thuộc về Tòa án nhân dân",
-      "Được chấp nhận nếu bên mua nộp đủ tạm ứng án phí sơ thẩm",
+      "Được chấp nhận vì quyền xét xử tối cao luôn thuộc về Tòa án nhân dân, theo đúng phương án phục hồi hoạt động kinh doanh đã được Hội nghị chủ nợ thông qua, sau khi được Hội đồng thành viên hoặc Đại hội đồng cổ đông phê duyệt trong kỳ họp thường niên",
+      "Được chấp nhận nếu bên mua nộp đủ tạm ứng án phí sơ thẩm, khi doanh nghiệp bảo đảm khả năng thanh toán đầy đủ các khoản nợ đến hạn, trừ trường hợp Điều lệ doanh nghiệp có quy định tỷ lệ biểu quyết tán thành cao hơn",
       "Được chấp nhận nếu bên bán đồng ý chuyển vụ án sang Tòa án",
       "Không được chấp nhận, vì phán quyết trọng tài là chung thẩm, Tòa án không xét xử lại nội dung tranh chấp mà chỉ xem xét hủy phán quyết trọng tài nếu có vi phạm căn cứ theo luật định"
     ],
@@ -424,8 +424,8 @@ const questions: Question[] = [
     "question": "Hộ kinh doanh bánh kẹo Hải Hà do ông Hải đứng tên đăng ký kinh doanh. Trong đợt mở rộng sản xuất phục vụ dịp Tết, hộ kinh doanh đã vay của bà Thủy 200 triệu đồng. Đến hạn trả nợ, cửa hàng kinh doanh bị ế ẩm và tuyên bố phá sản, số tiền tại cửa hàng chỉ còn 50 triệu đồng. Bà Thủy yêu cầu ông Hải phải lấy sổ tiết kiệm cá nhân của gia đình để trả nốt 150 triệu đồng. Yêu cầu của bà Thủy có căn cứ pháp luật không?",
     "options": [
       "Có căn cứ, vì chủ hộ kinh doanh chịu trách nhiệm bằng toàn bộ tài sản của mình đối với hoạt động kinh doanh của hộ",
-      "Không có căn cứ, vì hộ kinh doanh chỉ chịu trách nhiệm trong phạm vi số vốn đăng ký ban đầu",
-      "Chỉ được đòi nếu có biên bản xác nhận của Hội đồng nhân dân cấp xã",
+      "Không có căn cứ, vì hộ kinh doanh chỉ chịu trách nhiệm trong phạm vi số vốn đăng ký ban đầu, theo nghị quyết hợp lệ được thông qua bởi đa số thành viên dự họp có quyền biểu quyết",
+      "Chỉ được đòi nếu có biên bản xác nhận của Hội đồng nhân dân cấp xã, khi doanh nghiệp đã công bố thông tin công khai trên Cổng thông tin đăng ký doanh nghiệp",
       "Bà Thủy phải chịu mất 150 triệu vì rủi ro kinh doanh không ai được can thiệp"
     ],
     "correctAnswer": 0,
@@ -441,8 +441,8 @@ const questions: Question[] = [
     "options": [
       "Có quyền, vì bất cứ cổ đông nào cũng có quyền biểu quyết như nhau",
       "Không có quyền, vì cổ đông sở hữu cổ phần ưu đãi cổ tức không có quyền biểu quyết, dự họp ĐHĐCĐ hay đề cử người vào HĐQT",
-      "Có quyền nếu họ sở hữu trên 10% tổng số cổ phần ưu đãi",
-      "Được biểu quyết với điều kiện tự nguyện giảm 50% mức cổ tức ưu đãi"
+      "Có quyền nếu họ sở hữu trên 10% tổng số cổ phần ưu đãi, sau khi được Hội đồng thành viên hoặc Đại hội đồng cổ đông phê duyệt trong kỳ họp thường niên",
+      "Được biểu quyết với điều kiện tự nguyện giảm 50% mức cổ tức ưu đãi, trừ trường hợp Điều lệ doanh nghiệp có quy định tỷ lệ biểu quyết tán thành cao hơn"
     ],
     "correctAnswer": 1,
     "explanation": "Khoản 3 Điều 117 Luật Doanh nghiệp 2020 quy định Cổ đông sở hữu cổ phần ưu đãi cổ tức không có quyền biểu quyết, dự họp Đại hội đồng cổ đông, đề cử người vào Hội đồng quản trị và Ban kiểm soát.",
@@ -455,10 +455,10 @@ const questions: Question[] = [
     "chapterName": "Chương 5: Pháp luật Kinh doanh - Thương mại",
     "question": "Trong quá trình Tòa án giải quyết vụ việc phá sản của Công ty TNHH Tân Cường, Giám đốc công ty đã âm thầm ký hợp đồng bán 3 chiếc xe tải của công ty cho người thân với giá rẻ hơn 70% giá thị trường để lấy tiền mặt tiêu xài riêng. Giao dịch này bị Quản tài viên phát hiện. Giao dịch mua bán xe tải nói trên sẽ bị xử lý thế nào theo Luật Phục hồi, phá sản 2025?",
     "options": [
-      "Vẫn có hiệu lực bình thường nếu các bên đã hoàn tất thủ tục sang tên tại cơ quan công an",
+      "Vẫn có hiệu lực bình thường nếu các bên đã hoàn tất thủ tục sang tên tại cơ quan công an, nhằm bảo toàn vốn đầu tư và quyền lợi hợp pháp của các chủ nợ không có bảo đảm",
       "Chỉ bị hủy bỏ nếu người thân của Giám đốc đồng ý nộp thêm tiền mặt chênh lệch",
       "Bị coi là giao dịch vô hiệu và Quản tài viên có quyền yêu cầu Tòa án tuyên bố giao dịch vô hiệu để thu hồi tài sản về cho doanh nghiệp",
-      "Giám đốc chỉ phải bồi thường 10% giá trị hợp đồng bằng tiền mặt cá nhân"
+      "Giám đốc chỉ phải bồi thường 10% giá trị hợp đồng bằng tiền mặt cá nhân, khi người quản lý doanh nghiệp đã được miễn trừ trách nhiệm dân sự theo quyết định nội bộ"
     ],
     "correctAnswer": 2,
     "explanation": "Điều 59 Luật Phục hồi, phá sản 2025 quy định các giao dịch được thực hiện trong thời hạn 06 tháng trước ngày mở thủ tục phá sản hoặc sau khi mở thủ tục phá sản nhằm tẩu tán tài sản, giao dịch có giá trị thấp hơn thị trường bị coi là vô hiệu.",
@@ -471,8 +471,8 @@ const questions: Question[] = [
     "chapterName": "Chương 5: Pháp luật Kinh doanh - Thương mại",
     "question": "Bà Lan là thành viên hợp danh của Công ty Hợp danh Luật An Phát. Do tuổi cao, bà Lan làm đơn tự nguyện rút vốn khỏi công ty và được Hội đồng thành viên chấp thuận giải quyết chấm dứt tư cách thành viên từ ngày 01/01/2023. Đến tháng 06/2024, một đối tác nộp đơn khởi kiện yêu cầu bà Lan liên đới thanh toán khoản nợ phát sinh từ năm 2022 của công ty. Bà Lan có phải chịu trách nhiệm về khoản nợ này không?",
     "options": [
-      "Hoàn toàn không, vì bà Lan đã rút vốn hơn 1 năm và không còn là thành viên",
-      "Công ty mới phải chịu trách nhiệm và bà Lan được miễn trừ vĩnh viễn",
+      "Hoàn toàn không, vì bà Lan đã rút vốn hơn 1 năm và không còn là thành viên, theo đúng phương án phục hồi hoạt động kinh doanh đã được Hội nghị chủ nợ thông qua, khi người quản lý doanh nghiệp đã được miễn trừ trách nhiệm dân sự theo quyết định nội bộ",
+      "Công ty mới phải chịu trách nhiệm và bà Lan được miễn trừ vĩnh viễn, khi doanh nghiệp bảo đảm khả năng thanh toán đầy đủ các khoản nợ đến hạn",
       "Chỉ phải chịu trách nhiệm nếu bà Lan được công ty chia thêm lợi nhuận năm 2023",
       "Vẫn phải liên đới chịu trách nhiệm bằng toàn bộ tài sản của mình vì nghĩa vụ phát sinh trước ngày chấm dứt tư cách thành viên trong thời hạn 02 năm kể từ ngày chấm dứt"
     ],

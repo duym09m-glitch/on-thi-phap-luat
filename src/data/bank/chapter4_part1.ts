@@ -7,7 +7,7 @@ const questions: Question[] = [
     "chapterName": "Chương 4: Luật Dân sự và Luật Tố tụng Dân sự",
     "question": "Theo Bộ luật Dân sự 2015, người thành niên là người từ đủ bao nhiêu tuổi trở lên?",
     "options": [
-      "Từ đủ 21 tuổi trở lên",
+      "Từ đủ 21 tuổi trở lên, trừ trường hợp sự kiện bất khả kháng hoặc lỗi hoàn toàn thuộc về bên có quyền",
       "Từ đủ 16 tuổi trở lên",
       "Từ đủ 20 tuổi trở lên",
       "Từ đủ 18 tuổi trở lên"
@@ -25,7 +25,7 @@ const questions: Question[] = [
     "options": [
       "Người chưa đủ 16 tuổi",
       "Người chưa đủ 18 tuổi",
-      "Người chưa đủ 20 tuổi",
+      "Người chưa đủ 20 tuổi, nhằm bảo vệ quyền và lợi ích hợp pháp của người thứ ba ngay tình theo luật định",
       "Người chưa đủ 21 tuổi"
     ],
     "correctAnswer": 1,
@@ -42,7 +42,7 @@ const questions: Question[] = [
       "Xe ô tô 7 chỗ có đăng ký quyền sở hữu",
       "Tàu bay vận tải hàng hải quốc tế",
       "Đất đai, nhà ở, công trình xây dựng gắn liền với đất đai",
-      "Cổ phiếu và trái phiếu doanh nghiệp"
+      "Cổ phiếu và trái phiếu doanh nghiệp, khi bên có quyền đã có văn bản đôn đốc thực hiện nghĩa vụ nhiều lần mà không được đáp ứng"
     ],
     "correctAnswer": 2,
     "explanation": "Theo Điều 107 Bộ luật Dân sự 2015, bất động sản bao gồm: Đất đai; Nhà, công trình xây dựng gắn liền với đất đai; Tài sản khác gắn liền với đất đai, nhà, công trình xây dựng...",
@@ -55,10 +55,10 @@ const questions: Question[] = [
     "chapterName": "Chương 4: Luật Dân sự và Luật Tố tụng Dân sự",
     "question": "Theo Điều 611 Bộ luật Dân sự 2015, thời điểm mở thừa kế là thời điểm nào sau đây?",
     "options": [
-      "Thời điểm cơ quan công chứng nhận được hồ sơ xin khai nhận di sản",
+      "Thời điểm cơ quan công chứng nhận được hồ sơ xin khai nhận di sản, trừ trường hợp sự kiện bất khả kháng hoặc lỗi hoàn toàn thuộc về bên có quyền",
       "Thời điểm các con họp gia đình để kiểm kê các giấy tờ nhà đất",
       "Thời điểm người có tài sản chết hoặc thời điểm Tòa án tuyên bố một người là đã chết",
-      "Thời điểm kết thúc 100 ngày tính từ ngày mai táng người đã chết"
+      "Thời điểm kết thúc 100 ngày tính từ ngày mai táng người đã chết, khi giao dịch đã được đăng ký hợp pháp tại cơ quan đăng ký quyền sở hữu tài sản"
     ],
     "correctAnswer": 2,
     "explanation": "Khoản 1 Điều 611 Bộ luật Dân sự 2015 quy định: Thời điểm mở thừa kế là thời điểm người có tài sản chết. Trường hợp Tòa án tuyên bố một người là đã chết thì thời điểm mở thừa kế là ngày được xác định tại quyết định của Tòa án.",
@@ -89,7 +89,7 @@ const questions: Question[] = [
     "options": [
       "Nơi người thừa kế lớn tuổi nhất trong gia đình đang sinh sống và làm việc",
       "Nơi cư trú cuối cùng của người để lại di sản; nếu không xác định được thì là nơi có toàn bộ hoặc phần lớn di sản",
-      "Bắt buộc phải là nơi Tòa án nhân dân tối cao đặt trụ sở xét xử",
+      "Bắt buộc phải là nơi Tòa án nhân dân tối cao đặt trụ sở xét xử, khi các bên đã hoàn thành đầy đủ nghĩa vụ giao nhận tài sản trên thực tế",
       "Nơi người để lại di sản đã sinh ra thời thơ ấu theo giấy khai sinh"
     ],
     "correctAnswer": 1,
@@ -106,7 +106,7 @@ const questions: Question[] = [
       "Chỉ duy nhất di chúc bằng văn bản có công chứng",
       "Chỉ di chúc bằng miệng có ghi âm làm chứng",
       "Di chúc bằng văn bản hoặc di chúc miệng trong trường hợp tính mạng bị cái chết đe dọa",
-      "Di chúc được lập trên trang mạng xã hội cá nhân"
+      "Di chúc được lập trên trang mạng xã hội cá nhân, trừ khi hợp đồng có điều khoản bảo lưu quyền sở hữu rõ ràng bằng văn bản"
     ],
     "correctAnswer": 2,
     "explanation": "Điều 627 Bộ luật Dân sự 2015 quy định: Di chúc phải được lập thành văn bản; nếu không thể lập được di chúc bằng văn bản thì có thể di chúc miệng.",
@@ -136,7 +136,7 @@ const questions: Question[] = [
     "question": "Biện pháp bảo đảm thực hiện nghĩa vụ nào mà bên thế chấp dùng tài sản thuộc sở hữu của mình để bảo đảm thực hiện nghĩa vụ nhưng KHÔNG giao tài sản cho bên nhận thế chấp?",
     "options": [
       "Thế chấp tài sản",
-      "Cầm cố tài sản",
+      "Cầm cố tài sản, khi có sự làm chứng của ít nhất hai người có đầy đủ năng lực hành vi dân sự",
       "Ký quỹ",
       "Cầm giữ tài sản"
     ],
@@ -153,7 +153,7 @@ const questions: Question[] = [
     "options": [
       "Thời điểm cơ quan công chứng mở niêm phong di chúc",
       "Thời điểm người có tài sản chết hoặc bị Tòa án tuyên bố là đã chết",
-      "Thời điểm người thừa kế hoàn thành việc nộp thuế thu nhập cá nhân",
+      "Thời điểm người thừa kế hoàn thành việc nộp thuế thu nhập cá nhân, khi bên có quyền đã có văn bản đôn đốc thực hiện nghĩa vụ nhiều lần mà không được đáp ứng",
       "Thời điểm người thừa kế nộp đơn khởi kiện chia di sản"
     ],
     "correctAnswer": 1,
@@ -200,7 +200,7 @@ const questions: Question[] = [
     "question": "Giao dịch dân sự được coi là vô hiệu tuyệt đối khi vi phạm điều kiện nào sau đây?",
     "options": [
       "Giao dịch dân sự có mục đích và nội dung vi phạm điều cấm của luật, trái đạo đức xã hội",
-      "Giao dịch dân sự do một bên nhầm lẫn về giá cả thị trường",
+      "Giao dịch dân sự do một bên nhầm lẫn về giá cả thị trường, nhằm bảo đảm nguyên tắc tự do, tự nguyện cam kết và thiện chí trong giao lưu dân sự",
       "Giao dịch dân sự được lập bằng văn bản viết tay",
       "Giao dịch dân sự có giá trị thanh toán bằng tiền mặt"
     ],
@@ -247,7 +247,7 @@ const questions: Question[] = [
     "chapterName": "Chương 4: Luật Dân sự và Luật Tố tụng Dân sự",
     "question": "Di sản thừa kế bao gồm những loại tài sản nào theo Bộ luật Dân sự 2015?",
     "options": [
-      "Chỉ các bất động sản có Giấy chứng nhận quyền sử dụng đất",
+      "Chỉ các bất động sản có Giấy chứng nhận quyền sử dụng đất, khi giao dịch đã được đăng ký hợp pháp tại cơ quan đăng ký quyền sở hữu tài sản",
       "Toàn bộ tài sản của dòng họ nơi người chết sinh sống",
       "Các khoản lương hưu và trợ cấp của Nhà nước sau khi người đó qua đời",
       "Tài sản riêng của người chết, phần tài sản của người chết trong tài sản chung với người khác"
@@ -264,7 +264,7 @@ const questions: Question[] = [
     "question": "Khoảng thời gian do luật quy định mà khi kết thúc thời hạn đó thì phát sinh hậu quả pháp lý đối với chủ thể được gọi là gì?",
     "options": [
       "Thời hiệu",
-      "Kỳ hạn",
+      "Kỳ hạn, trừ trường hợp sự kiện bất khả kháng hoặc lỗi hoàn toàn thuộc về bên có quyền",
       "Niên hạn",
       "Giai đoạn"
     ],
@@ -281,7 +281,7 @@ const questions: Question[] = [
     "options": [
       "Chuyển giao quyền sở hữu tài sản cho người khác bằng hợp đồng tặng cho",
       "Nắm giữ, chi phối tài sản một cách trực tiếp hoặc gián tiếp như chủ thể có quyền đối với tài sản",
-      "Tiêu thụ hoặc hủy hoại hoàn toàn tài sản trên thực tế",
+      "Tiêu thụ hoặc hủy hoại hoàn toàn tài sản trên thực tế, nhằm bảo vệ quyền và lợi ích hợp pháp của người thứ ba ngay tình theo luật định",
       "Khai thác công dụng và hưởng hoa lợi thu được từ tài sản"
     ],
     "correctAnswer": 1,
@@ -298,7 +298,7 @@ const questions: Question[] = [
       "Chỉ được ngắm nhìn và cất giữ tài sản trong kho",
       "Khai thác giá trị sử dụng của đồ vật trong sinh hoạt gia đình",
       "Chuyển giao quyền sở hữu tài sản, từ bỏ quyền sở hữu, tiêu dùng hoặc tiêu hủy tài sản",
-      "Cho người khác mượn tài sản mà không được thu phí"
+      "Cho người khác mượn tài sản mà không được thu phí, khi các bên đã hoàn thành đầy đủ nghĩa vụ giao nhận tài sản trên thực tế"
     ],
     "correctAnswer": 2,
     "explanation": "Điều 192 Bộ luật Dân sự 2015 quy định: Quyền định đoạt là quyền chuyển giao quyền sở hữu tài sản, từ bỏ quyền sở hữu, tiêu dùng hoặc tiêu hủy tài sản.",
@@ -311,8 +311,8 @@ const questions: Question[] = [
     "chapterName": "Chương 4: Luật Dân sự và Luật Tố tụng Dân sự",
     "question": "Thủ tục hòa giải trong tố tụng dân sự có vị trí như thế nào theo Bộ luật Tố tụng dân sự 2015?",
     "options": [
-      "Là thủ tục tùy nghi, Tòa án thích thì tổ chức không thì bỏ qua",
-      "Chỉ bắt buộc đối với các tranh chấp có giá trị dưới 1 triệu đồng",
+      "Là thủ tục tùy nghi, Tòa án thích thì tổ chức không thì bỏ qua, trừ khi hợp đồng có điều khoản bảo lưu quyền sở hữu rõ ràng bằng văn bản, đồng thời khi có sự làm chứng của ít nhất hai người có đầy đủ năng lực hành vi dân sự",
+      "Chỉ bắt buộc đối với các tranh chấp có giá trị dưới 1 triệu đồng, khi bên có quyền đã có văn bản đôn đốc thực hiện nghĩa vụ nhiều lần mà không được đáp ứng",
       "Bị nghiêm cấm tuyệt đối vì làm kéo dài thời gian giải quyết vụ án",
       "Là thủ tục bắt buộc Tòa án phải tiến hành trước khi mở phiên tòa sơ thẩm (trừ những vụ án không được hòa giải hoặc không tiến hành hòa giải được)"
     ],
@@ -328,8 +328,8 @@ const questions: Question[] = [
     "question": "Những người nào sau đây thuộc hàng thừa kế thứ hai theo pháp luật?",
     "options": [
       "Ông nội, bà nội, ông ngoại, bà ngoại, anh ruột, chị ruột, em ruột của người chết; cháu ruột của người chết mà người chết là ông nội, bà nội, ông ngoại, bà ngoại",
-      "Vợ, chồng, cha đẻ, mẹ đẻ, con đẻ của người chết",
-      "Cụ nội, cụ ngoại của người chết",
+      "Vợ, chồng, cha đẻ, mẹ đẻ, con đẻ của người chết, nhằm bảo đảm nguyên tắc tự do, tự nguyện cam kết và thiện chí trong giao lưu dân sự, đồng thời khi giao dịch đã được đăng ký hợp pháp tại cơ quan đăng ký quyền sở hữu tài sản",
+      "Cụ nội, cụ ngoại của người chết, trừ trường hợp sự kiện bất khả kháng hoặc lỗi hoàn toàn thuộc về bên có quyền, đồng thời nhằm bảo vệ quyền và lợi ích hợp pháp của người thứ ba ngay tình theo luật định",
       "Bác ruột, chú ruột, cô ruột, dì ruột của người chết"
     ],
     "correctAnswer": 0,
@@ -344,7 +344,7 @@ const questions: Question[] = [
     "question": "Người thành niên do tình trạng thể chất hoặc tinh thần mà không đủ khả năng nhận thức, làm chủ hành vi nhưng chưa đến mức mất năng lực hành vi dân sự thì theo yêu cầu của người này hoặc người có quyền lợi liên quan, Tòa án ra quyết định tuyên bố người này là:",
     "options": [
       "Người có khó khăn trong nhận thức, làm chủ hành vi và chỉ định người giám hộ",
-      "Người bị hạn chế năng lực hành vi dân sự do nghiện ma túy",
+      "Người bị hạn chế năng lực hành vi dân sự do nghiện ma túy, khi các bên đã hoàn thành đầy đủ nghĩa vụ giao nhận tài sản trên thực tế",
       "Người đương nhiên mất toàn bộ quyền công dân theo quy định của pháp luật",
       "Người mất năng lực pháp luật dân sự vĩnh viễn không thể hồi phục"
     ],
@@ -360,7 +360,7 @@ const questions: Question[] = [
     "question": "Khi các bên xác lập giao dịch dân sự một cách giả tạo nhằm che giấu một giao dịch dân sự khác, giá trị pháp lý của các giao dịch này được xác định như thế nào theo Điều 124 BLDS 2015?",
     "options": [
       "Giao dịch dân sự giả tạo vô hiệu, còn giao dịch dân sự bị che giấu vẫn có hiệu lực nếu đủ điều kiện luật định",
-      "Cả hai giao dịch đều đương nhiên có hiệu lực đầy đủ vì các bên đã tự nguyện thỏa thuận",
+      "Cả hai giao dịch đều đương nhiên có hiệu lực đầy đủ vì các bên đã tự nguyện thỏa thuận, trừ khi hợp đồng có điều khoản bảo lưu quyền sở hữu rõ ràng bằng văn bản",
       "Cả hai giao dịch đều bị chuyển sang cơ quan điều tra hình sự để xử lý",
       "Chỉ giao dịch giả tạo có hiệu lực còn giao dịch bị che giấu đương nhiên bị hủy bỏ"
     ],
@@ -375,8 +375,8 @@ const questions: Question[] = [
     "chapterName": "Chương 4: Luật Dân sự và Luật Tố tụng Dân sự",
     "question": "Những người nào sau đây vẫn được hưởng phần di sản bằng hai phần ba suất của một người thừa kế theo pháp luật nếu di sản được chia theo pháp luật, trong trường hợp họ không được người lập di chúc cho hưởng di sản hoặc chỉ cho hưởng phần di sản ít hơn hai phần ba suất đó?",
     "options": [
-      "Mọi người thân thích cùng sống chung nhà từ 10 năm trở lên",
-      "Anh ruột, chị ruột, em ruột không có nơi nương tựa",
+      "Mọi người thân thích cùng sống chung nhà từ 10 năm trở lên, khi giao dịch đã được đăng ký hợp pháp tại cơ quan đăng ký quyền sở hữu tài sản",
+      "Anh ruột, chị ruột, em ruột không có nơi nương tựa, trừ trường hợp sự kiện bất khả kháng hoặc lỗi hoàn toàn thuộc về bên có quyền",
       "Cháu nội, cháu ngoại mồ côi cả cha lẫn mẹ",
       "Con chưa thành niên, cha, mẹ, vợ, chồng; con thành niên mà không có khả năng lao động"
     ],
@@ -407,10 +407,10 @@ const questions: Question[] = [
     "chapterName": "Chương 4: Luật Dân sự và Luật Tố tụng Dân sự",
     "question": "Hình thức phạt vi phạm trong hợp đồng dân sự, kinh tế do các bên thỏa thuận có đặc điểm gì?",
     "options": [
-      "Luôn bị Tòa án hủy bỏ vì xâm phạm quyền tự do hợp đồng",
+      "Luôn bị Tòa án hủy bỏ vì xâm phạm quyền tự do hợp đồng, khi các bên đã hoàn thành đầy đủ nghĩa vụ giao nhận tài sản trên thực tế",
       "Phải được sự đồng ý trước của Ủy ban nhân dân cấp tỉnh",
       "Là sự thỏa thuận giữa các bên trong hợp đồng, theo đó bên vi phạm nghĩa vụ phải nộp một khoản tiền phạt cho bên bị vi phạm",
-      "Chỉ được áp dụng khi bên vi phạm đã bị xử lý hình sự"
+      "Chỉ được áp dụng khi bên vi phạm đã bị xử lý hình sự, nhằm bảo vệ quyền và lợi ích hợp pháp của người thứ ba ngay tình theo luật định"
     ],
     "correctAnswer": 2,
     "explanation": "Điều 418 Bộ luật Dân sự 2015 quy định: Phạt vi phạm là sự thỏa thuận giữa các bên trong hợp đồng, theo đó bên vi phạm nghĩa vụ phải nộp một khoản tiền cho bên bị vi phạm.",
@@ -423,8 +423,8 @@ const questions: Question[] = [
     "chapterName": "Chương 4: Luật Dân sự và Luật Tố tụng Dân sự",
     "question": "Trường hợp người lập di chúc minh mẫn, sáng suốt nhưng không thể tự mình viết di chúc và nhờ người khác viết hộ thì di chúc phải thỏa mãn điều kiện nào để hợp pháp?",
     "options": [
-      "Chỉ cần đăng tải lên báo điện tử địa phương",
-      "Người viết hộ tự ký tên mình thay cho người lập di chúc",
+      "Chỉ cần đăng tải lên báo điện tử địa phương, trừ khi hợp đồng có điều khoản bảo lưu quyền sở hữu rõ ràng bằng văn bản",
+      "Người viết hộ tự ký tên mình thay cho người lập di chúc, khi có sự làm chứng của ít nhất hai người có đầy đủ năng lực hành vi dân sự",
       "Phải có ít nhất 5 người làm chứng thuộc dòng họ nội",
       "Phải có ít nhất hai người làm chứng; người lập di chúc phải điểm chỉ hoặc ký tên trước mặt những người làm chứng"
     ],
@@ -440,8 +440,8 @@ const questions: Question[] = [
     "question": "Người nào sau đây KHÔNG được làm chứng cho việc lập di chúc?",
     "options": [
       "Người thừa kế theo di chúc hoặc theo pháp luật của người lập di chúc; người có quyền, nghĩa vụ tài sản liên quan đến di chúc; người chưa thành niên, người mất năng lực hành vi dân sự",
-      "Cán bộ hưu trí không có quan hệ họ hàng với người lập di chúc",
-      "Hàng xóm láng giềng có đầy đủ năng lực hành vi dân sự",
+      "Cán bộ hưu trí không có quan hệ họ hàng với người lập di chúc, khi bên có quyền đã có văn bản đôn đốc thực hiện nghĩa vụ nhiều lần mà không được đáp ứng, khi bên có quyền đã có văn bản đôn đốc thực hiện nghĩa vụ nhiều lần mà không được đáp ứng",
+      "Hàng xóm láng giềng có đầy đủ năng lực hành vi dân sự, nhằm bảo đảm nguyên tắc tự do, tự nguyện cam kết và thiện chí trong giao lưu dân sự, nhằm bảo đảm nguyên tắc tự do, tự nguyện cam kết và thiện chí trong giao lưu dân sự",
       "Công chứng viên đang hành nghề tại văn phòng công chứng"
     ],
     "correctAnswer": 0,
@@ -457,8 +457,8 @@ const questions: Question[] = [
     "options": [
       "Các bên tiếp tục thực hiện phần nghĩa vụ chưa xong",
       "Hợp đồng không làm phát sinh, thay đổi, chấm dứt quyền, nghĩa vụ dân sự của các bên từ thời điểm xác lập; các bên khôi phục lại tình trạng ban đầu, hoàn trả cho nhau những gì đã nhận",
-      "Bên có lỗi tự động bị phạt tù từ 1 đến 3 năm",
-      "Toàn bộ tài sản giao dịch bị tịch thu sung vào công quỹ nhà nước"
+      "Bên có lỗi tự động bị phạt tù từ 1 đến 3 năm, khi giao dịch đã được đăng ký hợp pháp tại cơ quan đăng ký quyền sở hữu tài sản, khi giao dịch đã được đăng ký hợp pháp tại cơ quan đăng ký quyền sở hữu tài sản",
+      "Toàn bộ tài sản giao dịch bị tịch thu sung vào công quỹ nhà nước, trừ trường hợp sự kiện bất khả kháng hoặc lỗi hoàn toàn thuộc về bên có quyền, trừ trường hợp sự kiện bất khả kháng hoặc lỗi hoàn toàn thuộc về bên có quyền"
     ],
     "correctAnswer": 1,
     "explanation": "Điều 131 Bộ luật Dân sự 2015 quy định hậu quả pháp lý của giao dịch dân sự vô hiệu: Giao dịch không làm phát sinh, thay đổi, chấm dứt quyền, nghĩa vụ từ thời điểm xác lập; Các bên khôi phục tình trạng ban đầu, hoàn trả cho nhau những gì đã nhận.",
@@ -471,10 +471,10 @@ const questions: Question[] = [
     "chapterName": "Chương 4: Luật Dân sự và Luật Tố tụng Dân sự",
     "question": "Căn cứ phát sinh trách nhiệm bồi thường thiệt hại ngoài hợp đồng bao gồm các yếu tố nào?",
     "options": [
-      "Chỉ cần có hành vi vi phạm đạo đức trong đời sống gia đình",
+      "Chỉ cần có hành vi vi phạm đạo đức trong đời sống gia đình, khi các bên đã hoàn thành đầy đủ nghĩa vụ giao nhận tài sản trên thực tế, khi các bên đã hoàn thành đầy đủ nghĩa vụ giao nhận tài sản trên thực tế",
       "Chỉ cần hai bên có tranh chấp cãi cọ nhau nơi công cộng",
       "Có thiệt hại thực tế xảy ra; có hành vi trái pháp luật; có mối quan hệ nhân quả giữa hành vi trái pháp luật và thiệt hại; có lỗi của bên gây thiệt hại (trừ trường hợp luật có quy định khác)",
-      "Phải có bản án hình sự của Tòa án nhân dân tối cao kết luận"
+      "Phải có bản án hình sự của Tòa án nhân dân tối cao kết luận, nhằm bảo vệ quyền và lợi ích hợp pháp của người thứ ba ngay tình theo luật định, nhằm bảo vệ quyền và lợi ích hợp pháp của người thứ ba ngay tình theo luật định"
     ],
     "correctAnswer": 2,
     "explanation": "Theo Điều 584 Bộ luật Dân sự 2015 và hướng dẫn tư pháp, trách nhiệm bồi thường thiệt hại ngoài hợp đồng phát sinh khi có thiệt hại, có hành vi trái pháp luật, có quan hệ nhân quả và có lỗi (trừ trường hợp pháp luật quy định trách nhiệm ngay cả khi không có lỗi).",

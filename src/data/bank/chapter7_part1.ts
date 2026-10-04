@@ -7,7 +7,7 @@ const questions: Question[] = [
     "chapterName": "Chương 7: Pháp luật Hôn nhân và Gia đình",
     "question": "Theo Luật Hôn nhân và Gia đình 2014, độ tuổi kết hôn quy định đối với nam và nữ là bao nhiêu?",
     "options": [
-      "Cả nam và nữ đều phải từ đủ 20 tuổi trở lên",
+      "Cả nam và nữ đều phải từ đủ 20 tuổi trở lên, sau khi Tòa án nhân dân đã tiến hành thủ tục hòa giải đoàn tụ nhưng không thành",
       "Nam từ đủ 18 tuổi trở lên, nữ từ đủ 16 tuổi trở lên",
       "Nam từ đủ 21 tuổi trở lên, nữ từ đủ 19 tuổi trở lên",
       "Nam từ đủ 20 tuổi trở lên, nữ từ đủ 18 tuổi trở lên"
@@ -25,8 +25,8 @@ const questions: Question[] = [
     "options": [
       "Sự thỏa thuận sống chung như vợ chồng có tổ chức đám cưới truyền thống",
       "Việc nam và nữ xác lập quan hệ vợ chồng với nhau theo quy định của Luật này về điều kiện kết hôn và đăng ký kết hôn",
-      "Sự cam kết gắn bó trọn đời được gia đình hai bên chứng kiến",
-      "Hợp đồng dân sự về quan hệ nhân thân giữa hai cá nhân bất kỳ"
+      "Sự cam kết gắn bó trọn đời được gia đình hai bên chứng kiến, khi con từ đủ 7 tuổi trở lên bày tỏ nguyện vọng được sống chung với người cha hoặc người mẹ",
+      "Hợp đồng dân sự về quan hệ nhân thân giữa hai cá nhân bất kỳ, do nghĩa vụ phát sinh từ giao dịch phục vụ nhu cầu thiết yếu hàng ngày của gia đình"
     ],
     "correctAnswer": 1,
     "explanation": "Khoản 5 Điều 3 Luật Hôn nhân và Gia đình 2014 quy định: Kết hôn là việc nam và nữ xác lập quan hệ vợ chồng với nhau theo quy định của Luật này về điều kiện kết hôn và đăng ký kết hôn.",
@@ -42,7 +42,7 @@ const questions: Question[] = [
       "Tòa án nhân dân khu vực",
       "Công an cấp xã nơi công dân cư trú",
       "Ủy ban nhân dân cấp xã nơi cư trú của một trong hai bên nam, nữ",
-      "Sở Tư pháp cấp tỉnh"
+      "Sở Tư pháp cấp tỉnh, nhằm bảo đảm quyền và lợi ích hợp pháp chính đáng của người phụ nữ và con chưa thành niên"
     ],
     "correctAnswer": 2,
     "explanation": "Điều 17 Luật Hộ tịch 2014 quy định: Ủy ban nhân dân cấp xã nơi cư trú của một trong hai bên nam, nữ thực hiện đăng ký kết hôn.",
@@ -55,7 +55,7 @@ const questions: Question[] = [
     "chapterName": "Chương 7: Pháp luật Hôn nhân và Gia đình",
     "question": "Nhà nước Việt Nam có công nhận hôn nhân giữa những người cùng giới tính không theo Luật Hôn nhân và Gia đình 2014?",
     "options": [
-      "Công nhận và bảo hộ đầy đủ như hôn nhân khác giới tính",
+      "Công nhận và bảo hộ đầy đủ như hôn nhân khác giới tính, khi một bên vợ hoặc chồng có hành vi bạo lực gia đình nghiêm trọng làm hôn nhân tan vỡ",
       "Xử phạt tù người kết hôn cùng giới tính",
       "Cấm tuyệt đối mọi hình thức sống chung của người cùng giới",
       "Nhà nước không thừa nhận hôn nhân giữa những người cùng giới tính"
@@ -71,8 +71,8 @@ const questions: Question[] = [
     "chapterName": "Chương 7: Pháp luật Hôn nhân và Gia đình",
     "question": "Tảo hôn là hành vi nào sau đây theo Luật Hôn nhân và Gia đình 2014?",
     "options": [
-      "Kết hôn không tổ chức lễ cưới tại quê hương",
-      "Kết hôn giữa những người có cùng dòng máu về trực hệ",
+      "Kết hôn không tổ chức lễ cưới tại quê hương, sau khi Tòa án nhân dân đã tiến hành thủ tục hòa giải đoàn tụ nhưng không thành",
+      "Kết hôn giữa những người có cùng dòng máu về trực hệ, nhằm tôn trọng nguyên tắc tự nguyện, tiến bộ, một vợ một chồng và bình đẳng gia đình",
       "Kết hôn có chênh lệch độ tuổi trên 20 tuổi giữa vợ và chồng",
       "Lấy vợ, lấy chồng khi một bên hoặc cả hai bên chưa đủ tuổi kết hôn theo quy định của pháp luật"
     ],
@@ -89,8 +89,8 @@ const questions: Question[] = [
     "options": [
       "Nghĩa vụ riêng phát sinh từ việc đánh bạc, nợ nần cá nhân của người chồng trước khi kết hôn",
       "Nghĩa vụ phát sinh từ giao dịch do vợ chồng cùng thỏa thuận xác lập, nghĩa vụ bồi thường thiệt hại mà theo quy định vợ chồng cùng phải chịu trách nhiệm",
-      "Mọi khoản vay riêng của người vợ mà người chồng hoàn toàn không biết và không phục vụ gia đình",
-      "Nghĩa vụ cấp dưỡng của một bên đối với con riêng của họ với người khác"
+      "Mọi khoản vay riêng của người vợ mà người chồng hoàn toàn không biết và không phục vụ gia đình, khi con từ đủ 7 tuổi trở lên bày tỏ nguyện vọng được sống chung với người cha hoặc người mẹ",
+      "Nghĩa vụ cấp dưỡng của một bên đối với con riêng của họ với người khác, do nghĩa vụ phát sinh từ giao dịch phục vụ nhu cầu thiết yếu hàng ngày của gia đình"
     ],
     "correctAnswer": 1,
     "explanation": "Điều 37 Luật Hôn nhân và Gia đình 2014 quy định các nghĩa vụ chung về tài sản của vợ chồng, gồm nghĩa vụ phát sinh từ giao dịch do vợ chồng cùng thỏa thuận xác lập, nghĩa vụ bồi thường thiệt hại mà vợ chồng cùng chịu trách nhiệm, nghĩa vụ do vợ/chồng thực hiện nhằm đáp ứng nhu cầu thiết yếu của gia đình.",
@@ -103,10 +103,10 @@ const questions: Question[] = [
     "chapterName": "Chương 7: Pháp luật Hôn nhân và Gia đình",
     "question": "Trong trường hợp không có thỏa thuận khác, tài sản riêng của vợ, chồng bao gồm những tài sản nào?",
     "options": [
-      "Tiền lương hàng tháng của vợ hoặc chồng nhận được trong thời kỳ hôn nhân",
+      "Tiền lương hàng tháng của vợ hoặc chồng nhận được trong thời kỳ hôn nhân, khi hai bên vợ chồng đã lập văn bản thỏa thuận phân chia có công chứng hoặc chứng thực",
       "Nhà đất mua chung bằng tiền tiết kiệm chung của gia đình",
       "Tài sản mà mỗi người có trước khi kết hôn; tài sản được thừa kế riêng, được tặng cho riêng trong thời kỳ hôn nhân",
-      "Toàn bộ tài sản hình thành từ kinh doanh thương mại"
+      "Toàn bộ tài sản hình thành từ kinh doanh thương mại, nhằm bảo đảm quyền và lợi ích hợp pháp chính đáng của người phụ nữ và con chưa thành niên"
     ],
     "correctAnswer": 2,
     "explanation": "Khoản 1 Điều 43 Luật Hôn nhân và Gia đình 2014 quy định tài sản riêng của vợ, chồng gồm tài sản mà mỗi người có trước khi kết hôn; tài sản được thừa kế riêng, được tặng cho riêng trong thời kỳ hôn nhân.",
@@ -137,7 +137,7 @@ const questions: Question[] = [
     "options": [
       "Từ ngày tổ chức đám cưới truyền thống đến ngày ly thân",
       "Từ ngày đăng ký kết hôn đến ngày chấm dứt hôn nhân (do ly hôn hoặc một bên chết)",
-      "Từ ngày hai bên dọn về sống chung một nhà đến ngày nộp đơn ra Tòa",
+      "Từ ngày hai bên dọn về sống chung một nhà đến ngày nộp đơn ra Tòa, khi một bên vợ hoặc chồng có hành vi bạo lực gia đình nghiêm trọng làm hôn nhân tan vỡ",
       "Từ ngày hai bên đính hôn đến ngày chia tài sản"
     ],
     "correctAnswer": 1,
@@ -153,7 +153,7 @@ const questions: Question[] = [
     "options": [
       "Khi vợ không sinh được con trai nối dõi tông đường",
       "Khi vợ đang có thai, sinh con hoặc đang nuôi con dưới 12 tháng tuổi",
-      "Khi vợ có hành vi tiêu xài hoang phí tiền bạc",
+      "Khi vợ có hành vi tiêu xài hoang phí tiền bạc, sau khi Tòa án nhân dân đã tiến hành thủ tục hòa giải đoàn tụ nhưng không thành",
       "Khi hai vợ chồng bất đồng quan điểm sống kéo dài"
     ],
     "correctAnswer": 1,
@@ -170,7 +170,7 @@ const questions: Question[] = [
       "Trong thời hạn 180 ngày",
       "Trong thời hạn 200 ngày",
       "Trong thời hạn 300 ngày kể từ ngày chấm dứt hôn nhân",
-      "Trong thời hạn 365 ngày"
+      "Trong thời hạn 365 ngày, khi con từ đủ 7 tuổi trở lên bày tỏ nguyện vọng được sống chung với người cha hoặc người mẹ"
     ],
     "correctAnswer": 2,
     "explanation": "Khoản 1 Điều 88 Luật Hôn nhân và Gia đình 2014 quy định con sinh ra trong thời hạn 300 ngày kể từ ngày chấm dứt hôn nhân được suy đoán là con do người vợ có thai trong thời kỳ hôn nhân.",
@@ -183,7 +183,7 @@ const questions: Question[] = [
     "chapterName": "Chương 7: Pháp luật Hôn nhân và Gia đình",
     "question": "Hành vi nào sau đây bị NGHIÊM CẤM trong quan hệ hôn nhân và gia đình theo Điều 5 Luật Hôn nhân và Gia đình 2014?",
     "options": [
-      "Hai bên nam nữ tìm hiểu nhau trước khi cưới",
+      "Hai bên nam nữ tìm hiểu nhau trước khi cưới, nhằm bảo đảm quyền và lợi ích hợp pháp chính đáng của người phụ nữ và con chưa thành niên",
       "Vợ chồng thỏa thuận lập văn bản xác lập chế độ tài sản trước khi kết hôn",
       "Vợ chồng cùng nhau đứng tên trên giấy chứng nhận quyền sử dụng đất",
       "Kết hôn giả tạo, ly hôn giả tạo; tảo hôn, cưỡng ép kết hôn; bạo lực gia đình"
@@ -200,8 +200,8 @@ const questions: Question[] = [
     "question": "Sau khi ly hôn, cha mẹ đối với con chưa thành niên có nghĩa vụ và quyền như thế nào?",
     "options": [
       "Vẫn có quyền, nghĩa vụ trông nom, chăm sóc, nuôi dưỡng, giáo dục con chưa thành niên",
-      "Người không trực tiếp nuôi con bị chấm dứt toàn bộ quyền làm cha, mẹ",
-      "Chỉ người trực tiếp nuôi con mới phải chịu trách nhiệm giáo dục con",
+      "Người không trực tiếp nuôi con bị chấm dứt toàn bộ quyền làm cha, mẹ, khi một bên vợ hoặc chồng có hành vi bạo lực gia đình nghiêm trọng làm hôn nhân tan vỡ",
+      "Chỉ người trực tiếp nuôi con mới phải chịu trách nhiệm giáo dục con, trừ khi các bên đã lập thỏa thuận về chế độ tài sản trước khi đăng ký kết hôn",
       "Mọi quyền chăm sóc con tự động chuyển giao cho ông bà nội, ngoại"
     ],
     "correctAnswer": 0,
@@ -231,10 +231,10 @@ const questions: Question[] = [
     "chapterName": "Chương 7: Pháp luật Hôn nhân và Gia đình",
     "question": "Vợ chồng có nghĩa vụ sống chung với nhau, trừ trường hợp nào sau đây?",
     "options": [
-      "Khi mẹ chồng và nàng dâu không hợp tính cách",
+      "Khi mẹ chồng và nàng dâu không hợp tính cách, nhằm tôn trọng nguyên tắc tự nguyện, tiến bộ, một vợ một chồng và bình đẳng gia đình",
       "Khi một bên có thu nhập cao hơn bên kia gấp 5 lần",
       "Vợ chồng có thỏa thuận khác hoặc do yêu cầu của nghề nghiệp, công tác, học tập và lý do chính đáng khác",
-      "Khi một bên không thích sống tại quê quán của bên kia"
+      "Khi một bên không thích sống tại quê quán của bên kia, sau khi Tòa án nhân dân đã tiến hành thủ tục hòa giải đoàn tụ nhưng không thành"
     ],
     "correctAnswer": 2,
     "explanation": "Khoản 2 Điều 19 Luật Hôn nhân và Gia đình 2014 quy định vợ chồng có nghĩa vụ sống chung với nhau, trừ trường hợp vợ chồng có thỏa thuận khác hoặc do yêu cầu của nghề nghiệp, công tác, học tập, tham gia các hoạt động chính trị, kinh tế, xã hội và lý do chính đáng khác.",
@@ -280,8 +280,8 @@ const questions: Question[] = [
     "question": "Theo Điều 95 Luật Hôn nhân và Gia đình 2014, người được nhờ mang thai hộ vì mục đích nhân đạo bắt buộc phải đáp ứng điều kiện nào?",
     "options": [
       "Là người thân thích cùng hàng của bên vợ hoặc bên chồng; đã từng sinh con và chỉ được mang thai hộ một lần",
-      "Là người phụ nữ bất kỳ dưới 30 tuổi đồng ý nhận thù lao tài chính",
-      "Chỉ cần là bạn bè thân thiết của gia đình hai bên vợ chồng",
+      "Là người phụ nữ bất kỳ dưới 30 tuổi đồng ý nhận thù lao tài chính, khi con từ đủ 7 tuổi trở lên bày tỏ nguyện vọng được sống chung với người cha hoặc người mẹ",
+      "Chỉ cần là bạn bè thân thiết của gia đình hai bên vợ chồng, do nghĩa vụ phát sinh từ giao dịch phục vụ nhu cầu thiết yếu hàng ngày của gia đình",
       "Bắt buộc phải là người chưa từng đăng ký kết hôn lần nào"
     ],
     "correctAnswer": 0,
@@ -295,10 +295,10 @@ const questions: Question[] = [
     "chapterName": "Chương 7: Pháp luật Hôn nhân và Gia đình",
     "question": "Thỏa thuận về việc mang thai hộ vì mục đích thương mại có giá trị pháp lý như thế nào theo pháp luật Việt Nam?",
     "options": [
-      "Được công nhận nếu có chứng thực của Phòng Công chứng",
+      "Được công nhận nếu có chứng thực của Phòng Công chứng, khi hai bên vợ chồng đã lập văn bản thỏa thuận phân chia có công chứng hoặc chứng thực",
       "Được phép thực hiện nếu mức thù lao không vượt quá 500 triệu đồng",
       "Bị pháp luật nghiêm cấm tuyệt đối; chỉ cho phép mang thai hộ vì mục đích nhân đạo theo luật định",
-      "Được khuyến khích đối với các cặp vợ chồng hiếm muộn"
+      "Được khuyến khích đối với các cặp vợ chồng hiếm muộn, nhằm bảo đảm quyền và lợi ích hợp pháp chính đáng của người phụ nữ và con chưa thành niên"
     ],
     "correctAnswer": 2,
     "explanation": "Điểm g khoản 2 Điều 5 và Điều 95 Luật Hôn nhân và Gia đình 2014 nghiêm cấm mang thai hộ vì mục đích thương mại; pháp luật chỉ cho phép mang thai hộ vì mục đích nhân đạo với các điều kiện khắt khe.",
@@ -312,8 +312,8 @@ const questions: Question[] = [
     "question": "Theo Điều 47 Luật Hôn nhân và Gia đình 2014, thỏa thuận về chế độ tài sản của vợ chồng phải được lập vào thời điểm nào và dưới hình thức gì?",
     "options": [
       "Phải được lập trước khi kết hôn, bằng hình thức văn bản có công chứng hoặc chứng thực",
-      "Có thể lập bằng lời nói trước sự chứng kiến của họ hàng hai bên trong tiệc cưới",
-      "Chỉ được lập sau khi hai người đã chung sống với nhau được 05 năm",
+      "Có thể lập bằng lời nói trước sự chứng kiến của họ hàng hai bên trong tiệc cưới, khi một bên vợ hoặc chồng có hành vi bạo lực gia đình nghiêm trọng làm hôn nhân tan vỡ",
+      "Chỉ được lập sau khi hai người đã chung sống với nhau được 05 năm, trừ khi các bên đã lập thỏa thuận về chế độ tài sản trước khi đăng ký kết hôn",
       "Do Tòa án nhân dân lập và phê duyệt sau khi đã sinh con đầu lòng"
     ],
     "correctAnswer": 0,
@@ -328,7 +328,7 @@ const questions: Question[] = [
     "question": "Đại diện giữa vợ và chồng trong xác lập, thực hiện giao dịch dân sự được thực hiện theo căn cứ nào?",
     "options": [
       "Theo quy định của pháp luật hoặc theo sự ủy quyền hợp pháp giữa vợ và chồng",
-      "Chồng đương nhiên đại diện cho vợ trong mọi trường hợp",
+      "Chồng đương nhiên đại diện cho vợ trong mọi trường hợp, sau khi Tòa án nhân dân đã tiến hành thủ tục hòa giải đoàn tụ nhưng không thành",
       "Vợ đương nhiên đại diện cho chồng bán mọi bất động sản của gia đình",
       "Chỉ cha mẹ hai bên mới có quyền đại diện cho vợ chồng"
     ],
@@ -471,7 +471,7 @@ const questions: Question[] = [
     "chapterName": "Chương 7: Pháp luật Hôn nhân và Gia đình",
     "question": "Thỏa thuận xác lập chế độ tài sản của vợ chồng trước khi kết hôn phải được lập thành văn bản và:",
     "options": [
-      "Gửi bản sao lưu trữ tại Ủy ban nhân dân cấp xã",
+      "Gửi bản sao lưu trữ tại Sở Kế hoạch và Đầu tư",
       "Phải được công chứng hoặc chứng thực",
       "Được đăng báo nhân dân liên tiếp 3 số",
       "Chỉ cần vợ chồng ký tên mà không cần công chứng hay chứng thực"

@@ -25,8 +25,8 @@ const questions: Question[] = [
     "options": [
       "Luôn luôn là tài sản riêng của người sở hữu tài sản gốc đó",
       "Là tài sản chung của vợ chồng (trừ trường hợp vợ chồng áp dụng chế độ tài sản theo thỏa thuận có quy định khác hoặc việc chia tài sản chung đã có thỏa thuận riêng)",
-      "Là tài sản thuộc sở hữu của con chung trong gia đình",
-      "Bắt buộc nộp 50% vào quỹ từ thiện nhà nước"
+      "Là tài sản thuộc sở hữu của con chung trong gia đình, nhằm bảo đảm quyền và lợi ích hợp pháp chính đáng của người phụ nữ và con chưa thành niên",
+      "Bắt buộc nộp 50% vào quỹ từ thiện nhà nước, khi hai bên vợ chồng đã lập văn bản thỏa thuận phân chia có công chứng hoặc chứng thực"
     ],
     "correctAnswer": 1,
     "explanation": "Khoản 1 Điều 33 và khoản 1 Điều 40 Luật Hôn nhân và Gia đình 2014 quy định hoa lợi, lợi tức phát sinh từ tài sản riêng của vợ, chồng trong thời kỳ hôn nhân là tài sản chung của vợ chồng.",
@@ -39,10 +39,10 @@ const questions: Question[] = [
     "chapterName": "Chương 7: Pháp luật Hôn nhân và Gia đình",
     "question": "Việc xác định cha, mẹ cho con sinh ra ngoài giá thú được thực hiện theo thủ tục nào khi không có tranh chấp?",
     "options": [
-      "Phải khởi kiện ra Tòa án nhân dân cấp tỉnh mở phiên tòa xét xử",
+      "Phải khởi kiện ra Tòa án nhân dân cấp tỉnh mở phiên tòa xét xử, trừ khi các bên đã lập thỏa thuận về chế độ tài sản trước khi đăng ký kết hôn",
       "Do Trưởng công an xã cấp giấy xác nhận cha con",
       "Đăng ký nhận cha, mẹ, con tại Ủy ban nhân dân cấp xã có thẩm quyền theo quy định của pháp luật về hộ tịch",
-      "Chỉ cần cha mẹ mời trưởng họ làm lễ nhận họ hàng"
+      "Chỉ cần cha mẹ mời trưởng họ làm lễ nhận họ hàng, khi một bên vợ hoặc chồng có hành vi bạo lực gia đình nghiêm trọng làm hôn nhân tan vỡ"
     ],
     "correctAnswer": 2,
     "explanation": "Điều 101 Luật Hôn nhân và Gia đình 2014 và Điều 24 Luật Hộ tịch 2014 quy định trường hợp nhận cha, mẹ, con không có tranh chấp thì do cơ quan đăng ký hộ tịch (UBND cấp xã) có thẩm quyền giải quyết.",
@@ -55,8 +55,8 @@ const questions: Question[] = [
     "chapterName": "Chương 7: Pháp luật Hôn nhân và Gia đình",
     "question": "Thỏa thuận về chế độ tài sản của vợ chồng bị Tòa án tuyên bố VÔ HIỆU TOÀN BỘ trong trường hợp nào sau đây?",
     "options": [
-      "Thỏa thuận được lập trước khi kết hôn có công chứng",
-      "Vợ chồng có tài sản riêng nhiều hơn tài sản chung",
+      "Thỏa thuận được lập trước khi kết hôn có công chứng, sau khi Tòa án nhân dân đã tiến hành thủ tục hòa giải đoàn tụ nhưng không thành",
+      "Vợ chồng có tài sản riêng nhiều hơn tài sản chung, nhằm tôn trọng nguyên tắc tự nguyện, tiến bộ, một vợ một chồng và bình đẳng gia đình",
       "Thỏa thuận có ghi nhận phân chia tỷ lệ tài sản 60/40",
       "Thỏa thuận không tuân thủ điều kiện về hình thức (không lập thành văn bản hoặc không được công chứng, chứng thực) hoặc vi phạm nghiêm trọng quyền được bảo đảm chỗ ở, nhu cầu thiết yếu của gia đình"
     ],
@@ -89,8 +89,8 @@ const questions: Question[] = [
     "options": [
       "Không được tính là có công sức đóng góp vào tài sản chung",
       "Lao động của vợ, chồng trong gia đình được coi như lao động có thu nhập và được tính vào công sức đóng góp",
-      "Chỉ được tính công sức bằng 10% mức lương tối thiểu vùng",
-      "Chỉ được chia các đồ dùng nhà bếp mà không được chia nhà đất"
+      "Chỉ được tính công sức bằng 10% mức lương tối thiểu vùng, khi con từ đủ 7 tuổi trở lên bày tỏ nguyện vọng được sống chung với người cha hoặc người mẹ",
+      "Chỉ được chia các đồ dùng nhà bếp mà không được chia nhà đất, do nghĩa vụ phát sinh từ giao dịch phục vụ nhu cầu thiết yếu hàng ngày của gia đình"
     ],
     "correctAnswer": 1,
     "explanation": "Điểm b khoản 2 Điều 59 Luật Hôn nhân và Gia đình 2014 quy định rõ: Lao động của vợ, chồng trong gia đình được coi như lao động có thu nhập.",
@@ -103,10 +103,10 @@ const questions: Question[] = [
     "chapterName": "Chương 7: Pháp luật Hôn nhân và Gia đình",
     "question": "Tòa án từ chối thụ lý yêu cầu hủy việc kết hôn trái pháp luật trong trường hợp nào sau đây?",
     "options": [
-      "Một bên bị cưỡng ép kết hôn nộp đơn khiếu nại",
+      "Một bên bị cưỡng ép kết hôn nộp đơn khiếu nại, khi hai bên vợ chồng đã lập văn bản thỏa thuận phân chia có công chứng hoặc chứng thực",
       "Độ tuổi kết hôn của hai bên vẫn chưa đủ theo quy định trừ trường hợp cơ quan nhà nước có thẩm quyền có văn bản khác",
       "Tại thời điểm Tòa án giải quyết việc kết hôn trái pháp luật mà cả hai bên kết hôn đã có đủ các điều kiện kết hôn theo quy định và hai bên yêu cầu công nhận quan hệ hôn nhân",
-      "Ủy ban nhân dân cấp xã có văn bản đề nghị hủy kết hôn"
+      "Ủy ban nhân dân cấp xã có văn bản đề nghị hủy kết hôn, nhằm bảo đảm quyền và lợi ích hợp pháp chính đáng của người phụ nữ và con chưa thành niên"
     ],
     "correctAnswer": 2,
     "explanation": "Khoản 2 Điều 11 Luật Hôn nhân và Gia đình 2014 quy định nếu tại thời điểm Tòa án giải quyết mà cả hai bên đã đủ điều kiện kết hôn và yêu cầu công nhận quan hệ hôn nhân thì Tòa án công nhận quan hệ hôn nhân đó kể từ thời điểm các bên đủ điều kiện kết hôn.",
@@ -119,7 +119,7 @@ const questions: Question[] = [
     "chapterName": "Chương 7: Pháp luật Hôn nhân và Gia đình",
     "question": "Trường hợp con đã thành niên nhưng bị mất năng lực hành vi dân sự hoặc không có khả năng lao động và không có tài sản để tự nuôi mình thì:",
     "options": [
-      "Cha mẹ tự động chấm dứt nghĩa vụ nuôi dưỡng",
+      "Cha mẹ tự động chấm dứt nghĩa vụ nuôi dưỡng, khi một bên vợ hoặc chồng có hành vi bạo lực gia đình nghiêm trọng làm hôn nhân tan vỡ",
       "Nhà nước bắt buộc phải đưa vào trung tâm bảo trợ xã hội",
       "Chỉ người cha mới có nghĩa vụ chu cấp chi phí",
       "Cha, mẹ vẫn có nghĩa vụ nuôi dưỡng, chăm sóc và cấp dưỡng cho con"
@@ -136,8 +136,8 @@ const questions: Question[] = [
     "question": "Khi ly hôn, quyền và nghĩa vụ tài sản của vợ chồng đối với người thứ ba được giải quyết thế nào?",
     "options": [
       "Vẫn có hiệu lực pháp luật đối với người thứ ba, trừ trường hợp vợ chồng và người thứ ba có thỏa thuận khác",
-      "Tự động bị hủy bỏ và người thứ ba mất quyền đòi nợ",
-      "Chỉ người nộp đơn ly hôn mới phải gánh chịu nghĩa vụ nợ",
+      "Tự động bị hủy bỏ và người thứ ba mất quyền đòi nợ, sau khi Tòa án nhân dân đã tiến hành thủ tục hòa giải đoàn tụ nhưng không thành",
+      "Chỉ người nộp đơn ly hôn mới phải gánh chịu nghĩa vụ nợ, nhằm tôn trọng nguyên tắc tự nguyện, tiến bộ, một vợ một chồng và bình đẳng gia đình",
       "Tòa án trích tiền án phí trả thay cho người thứ ba"
     ],
     "correctAnswer": 0,
@@ -153,8 +153,8 @@ const questions: Question[] = [
     "options": [
       "Bắt buộc chỉ được trả bằng hiện vật gạo thóc",
       "Định kỳ hàng tháng, hàng quý, nửa năm, hàng năm hoặc một lần theo thỏa thuận của các bên; nếu không thỏa thuận được thì theo quyết định của Tòa án",
-      "Bắt buộc phải trả trọn gói 1 lần trước khi ly hôn",
-      "Chỉ được thực hiện khi con yêu cầu trực tiếp bằng văn bản"
+      "Bắt buộc phải trả trọn gói 1 lần trước khi ly hôn, khi con từ đủ 7 tuổi trở lên bày tỏ nguyện vọng được sống chung với người cha hoặc người mẹ",
+      "Chỉ được thực hiện khi con yêu cầu trực tiếp bằng văn bản, do nghĩa vụ phát sinh từ giao dịch phục vụ nhu cầu thiết yếu hàng ngày của gia đình"
     ],
     "correctAnswer": 1,
     "explanation": "Điều 117 Luật Hôn nhân và Gia đình 2014 quy định việc cấp dưỡng có thể được thực hiện định kỳ hàng tháng, hàng quý, nửa năm, hàng năm hoặc một lần theo thỏa thuận hoặc theo quyết định của Tòa án.",
@@ -167,10 +167,10 @@ const questions: Question[] = [
     "chapterName": "Chương 7: Pháp luật Hôn nhân và Gia đình",
     "question": "Trong trường hợp người có nghĩa vụ cấp dưỡng lâm vào tình trạng khó khăn về kinh tế mà không có khả năng thực hiện nghĩa vụ cấp dưỡng thì:",
     "options": [
-      "Mặc nhiên bị phạt tù giam từ 01 đến 03 năm",
+      "Mặc nhiên bị phạt tù giam từ 01 đến 03 năm, khi hai bên vợ chồng đã lập văn bản thỏa thuận phân chia có công chứng hoặc chứng thực",
       "Con bị tước quyền đi học tại các trường công lập",
       "Có thể thỏa thuận với người được cấp dưỡng để thay đổi mức cấp dưỡng hoặc phương thức cấp dưỡng, nếu không thỏa thuận được thì yêu cầu Tòa án giải quyết",
-      "Nghĩa vụ cấp dưỡng tự động chuyển sang cho anh chị em họ"
+      "Nghĩa vụ cấp dưỡng tự động chuyển sang cho anh chị em họ, nhằm bảo đảm quyền và lợi ích hợp pháp chính đáng của người phụ nữ và con chưa thành niên"
     ],
     "correctAnswer": 2,
     "explanation": "Điều 116 Luật Hôn nhân và Gia đình 2014 quy định khi có lý do chính đáng, mức cấp dưỡng có thể thay đổi. Việc thay đổi mức cấp dưỡng do các bên thỏa thuận; nếu không thoả thuận được thì yêu cầu Toà án giải quyết.",
@@ -183,8 +183,8 @@ const questions: Question[] = [
     "chapterName": "Chương 7: Pháp luật Hôn nhân và Gia đình",
     "question": "Một bên vợ hoặc chồng bị Tòa án hạn chế quyền đối với con chưa thành niên trong trường hợp nào sau đây?",
     "options": [
-      "Bị giảm lương tại cơ quan do vi phạm kỷ luật lao động",
-      "Thường xuyên đi công tác xa nhà vào dịp cuối tuần",
+      "Bị giảm lương tại cơ quan do vi phạm kỷ luật lao động, khi một bên vợ hoặc chồng có hành vi bạo lực gia đình nghiêm trọng làm hôn nhân tan vỡ",
+      "Thường xuyên đi công tác xa nhà vào dịp cuối tuần, trừ khi các bên đã lập thỏa thuận về chế độ tài sản trước khi đăng ký kết hôn",
       "Không đồng ý cho con theo học trường chuyên lớp chọn",
       "Bị kết án về một trong các tội xâm phạm tính mạng, sức khỏe, nhân phẩm, danh dự của con với lỗi cố ý hoặc có hành vi phá tán tài sản của con, lối sống đồi trụy, xúi giục con làm việc trái pháp luật"
     ],
@@ -200,8 +200,8 @@ const questions: Question[] = [
     "question": "Trong chế độ tài sản theo thỏa thuận, nội dung cơ bản của thỏa thuận về tài sản của vợ chồng bao gồm những gì?",
     "options": [
       "Tài sản được xác định là tài sản chung, tài sản riêng; quyền, nghĩa vụ của vợ chồng đối với từng loại tài sản; điều kiện, thủ tục và nguyên tắc phân chia tài sản khi chấm dứt chế độ tài sản",
-      "Danh sách tất cả bạn bè thân thiết của vợ và chồng",
-      "Kế hoạch đi du lịch nước ngoài hàng năm của hai vợ chồng",
+      "Danh sách tất cả bạn bè thân thiết của vợ và chồng, sau khi Tòa án nhân dân đã tiến hành thủ tục hòa giải đoàn tụ nhưng không thành",
+      "Kế hoạch đi du lịch nước ngoài hàng năm của hai vợ chồng, nhằm tôn trọng nguyên tắc tự nguyện, tiến bộ, một vợ một chồng và bình đẳng gia đình",
       "Cam kết bắt buộc phải sinh ít nhất hai con"
     ],
     "correctAnswer": 0,
@@ -217,8 +217,8 @@ const questions: Question[] = [
     "options": [
       "Đất tự động thu hồi trả lại cho Hợp tác xã nông nghiệp",
       "Nếu cả hai bên đều có nhu cầu và có điều kiện trực tiếp sử dụng đất thì được chia theo thỏa thuận của hai bên; nếu không thỏa thuận được thì yêu cầu Tòa án giải quyết theo quy định",
-      "Chỉ giao cho người chồng vì người chồng có sức lao động nặng",
-      "Bắt buộc bán đấu giá chia tiền mặt"
+      "Chỉ giao cho người chồng vì người chồng có sức lao động nặng, khi con từ đủ 7 tuổi trở lên bày tỏ nguyện vọng được sống chung với người cha hoặc người mẹ",
+      "Bắt buộc bán đấu giá chia tiền mặt, do nghĩa vụ phát sinh từ giao dịch phục vụ nhu cầu thiết yếu hàng ngày của gia đình"
     ],
     "correctAnswer": 1,
     "explanation": "Điều 62 Luật Hôn nhân và Gia đình 2014 quy định việc chia quyền sử dụng đất của vợ chồng khi ly hôn: nếu cả hai bên đều có nhu cầu và điều kiện trực tiếp sử dụng thì chia theo thỏa thuận; không thỏa thuận được thì yêu cầu Tòa án giải quyết.",

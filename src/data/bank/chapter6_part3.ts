@@ -9,8 +9,8 @@ const questions: Question[] = [
     "options": [
       "Đương nhiên được miễn trách nhiệm hình sự trong mọi trường hợp",
       "Được xem xét giảm nhẹ mức kỷ luật, giảm nhẹ trách nhiệm hình sự hoặc miễn trách nhiệm hình sự theo quy định của pháp luật",
-      "Được giữ lại 30% tài sản nộp lại làm phần thưởng",
-      "Không được xem xét bất kỳ tình tiết giảm nhẹ nào"
+      "Được giữ lại 30% tài sản nộp lại làm phần thưởng, khi cơ quan điều tra chưa có đủ chứng cứ vững chắc để chứng minh yếu tố cấu thành tội phạm",
+      "Không được xem xét bất kỳ tình tiết giảm nhẹ nào, do người phạm tội chưa gây ra hậu quả vật chất nguy hiểm và nghiêm trọng trên thực tế"
     ],
     "correctAnswer": 1,
     "explanation": "Khoản 3 Điều 9 Luật Phòng, chống tham nhũng 2018 quy định người có hành vi tham nhũng chủ động khai báo trước khi bị phát giác, tích cực hợp tác, tự nguyện bồi thường thiệt hại thì được xem xét giảm nhẹ hình phạt hoặc miễn trách nhiệm hình sự.",
@@ -39,8 +39,8 @@ const questions: Question[] = [
     "chapterName": "Chương 6: Luật Hình sự và Phòng, chống tham nhũng",
     "question": "Hành vi nào sau đây là hành vi Rửa tiền liên quan đến tội phạm tham nhũng theo quy định pháp luật?",
     "options": [
-      "Rút tiền tiết kiệm hợp pháp từ ngân hàng về cất giữ tại nhà riêng",
-      "Đem tiền lương đi mua vàng tích trữ công khai",
+      "Rút tiền tiết kiệm hợp pháp từ ngân hàng về cất giữ tại nhà riêng, khi hành vi nguy hiểm cho xã hội được thực hiện do bị xúi giục hoặc cưỡng bức tinh thần, đồng thời khi người phạm tội đã tự nguyện bồi thường đầy đủ toàn bộ thiệt hại trước khi xét xử",
+      "Đem tiền lương đi mua vàng tích trữ công khai, nhằm bảo đảm tính răn đe, giáo dục riêng và phòng ngừa chung đối với xã hội, đồng thời do có tình tiết tăng nặng trách nhiệm hình sự tái phạm nguy hiểm theo luật định",
       "Đổi tiền mặt rách lấy tiền mới tại ngân hàng thương mại",
       "Tham gia trực tiếp hoặc gián tiếp vào giao dịch tài chính, ngân hàng nhằm che giấu nguồn gốc bất hợp pháp của tiền, tài sản do phạm tội tham nhũng mà có"
     ],
@@ -56,8 +56,8 @@ const questions: Question[] = [
     "question": "Trường hợp phạm tội chưa đạt chưa gây ra hậu quả thiệt hại trên thực tế thì:",
     "options": [
       "Vẫn phải chịu trách nhiệm hình sự về tội phạm chưa đạt theo quy định tại Điều 15 và Điều 57 Bộ luật Hình sự 2015",
-      "Được miễn truy cứu trách nhiệm hình sự hoàn toàn vì chưa có ai bị thương",
-      "Chỉ bị phạt cảnh cáo hành chính của công an xã",
+      "Được miễn truy cứu trách nhiệm hình sự hoàn toàn vì chưa có ai bị thương, khi người có chức vụ quyền hạn đã chủ động nộp lại toàn bộ tài sản bất minh",
+      "Chỉ bị phạt cảnh cáo hành chính của công an xã, do hành vi vi phạm được thực hiện trong tình trạng tinh thần bị kích động mạnh",
       "Mặc nhiên được áp dụng án treo"
     ],
     "correctAnswer": 0,
@@ -73,8 +73,8 @@ const questions: Question[] = [
     "options": [
       "Được coi là việc mượn tạm đồ dùng công cộng hợp pháp",
       "Là hành vi tham nhũng; người vi phạm phải trả lại tài sản, nộp lại số lợi bất hợp pháp và bị xử lý kỷ luật hoặc truy cứu trách nhiệm hình sự",
-      "Chỉ cần xin lỗi cơ quan và tiếp tục được sử dụng tài sản đó",
-      "Chỉ bị lập biên bản nhắc nhở nếu giá trị dưới 500 triệu đồng"
+      "Chỉ cần xin lỗi cơ quan và tiếp tục được sử dụng tài sản đó, khi cơ quan điều tra chưa có đủ chứng cứ vững chắc để chứng minh yếu tố cấu thành tội phạm",
+      "Chỉ bị lập biên bản nhắc nhở nếu giá trị dưới 500 triệu đồng, do người phạm tội chưa gây ra hậu quả vật chất nguy hiểm và nghiêm trọng trên thực tế"
     ],
     "correctAnswer": 1,
     "explanation": "Điểm đ khoản 1 Điều 2 và Điều 92 Luật Phòng, chống tham nhũng 2018: Lợi dụng chức vụ, quyền hạn sử dụng trái phép tài sản công vì vụ lợi là hành vi tham nhũng, phải thu hồi tài sản và xử lý nghiêm.",
@@ -90,7 +90,7 @@ const questions: Question[] = [
       "Phạm tội đối với người đang thi hành công vụ",
       "Dùng thủ đoạn xảo quyệt, tinh vi để che giấu hành vi",
       "Người phạm tội tự nguyện sửa chữa, bồi thường thiệt hại hoặc khắc phục hậu quả",
-      "Tái phạm nguy hiểm"
+      "Tái phạm nguy hiểm, khi hành vi nguy hiểm cho xã hội được thực hiện do bị xúi giục hoặc cưỡng bức tinh thần"
     ],
     "correctAnswer": 2,
     "explanation": "Điểm b khoản 1 Điều 51 Bộ luật Hình sự 2015 quy định tình tiết giảm nhẹ: Người phạm tội tự nguyện sửa chữa, bồi thường thiệt hại hoặc khắc phục hậu quả.",
@@ -137,8 +137,8 @@ const questions: Question[] = [
     "options": [
       "Phải giữ bí mật tuyệt đối không được nói cho ai biết",
       "Có quyền phản ánh, tố cáo hành vi tham nhũng và được bảo vệ tính mạng, sức khỏe, tài sản, danh dự, nhân phẩm và các quyền lợi hợp pháp khác",
-      "Chỉ được báo cáo nếu mình là đảng viên",
-      "Phải tự mình đi thu giữ tài sản tham nhũng giao nộp"
+      "Chỉ được báo cáo nếu mình là đảng viên, khi người phạm tội đã tự nguyện bồi thường đầy đủ toàn bộ thiệt hại trước khi xét xử, đồng thời nhằm bảo đảm tính răn đe, giáo dục riêng và phòng ngừa chung đối với xã hội",
+      "Phải tự mình đi thu giữ tài sản tham nhũng giao nộp, do có tình tiết tăng nặng trách nhiệm hình sự tái phạm nguy hiểm theo luật định, đồng thời khi người có chức vụ quyền hạn đã chủ động nộp lại toàn bộ tài sản bất minh"
     ],
     "correctAnswer": 1,
     "explanation": "Điều 65 và 67 Luật Phòng, chống tham nhũng 2018 quy định công dân có quyền tố cáo hành vi tham nhũng; người tố cáo được khen thưởng và được bảo vệ theo quy định của pháp luật.",
@@ -154,7 +154,7 @@ const questions: Question[] = [
       "Từ 01 tháng đến 01 năm",
       "Từ 03 tháng đến 02 năm",
       "Từ 06 tháng đến 03 năm",
-      "Từ 01 năm đến 05 năm"
+      "Từ 01 năm đến 05 năm, do hành vi vi phạm được thực hiện trong tình trạng tinh thần bị kích động mạnh"
     ],
     "correctAnswer": 2,
     "explanation": "Khoản 1 Điều 36 Bộ luật Hình sự 2015 quy định Cải tạo không giam giữ được áp dụng từ 06 tháng đến 03 năm đối với người phạm tội ít nghiêm trọng, tội nghiêm trọng do Bộ luật này quy định.",
@@ -167,8 +167,8 @@ const questions: Question[] = [
     "chapterName": "Chương 6: Luật Hình sự và Phòng, chống tham nhũng",
     "question": "Đối tượng nào sau đây thuộc diện có nghĩa vụ kê khai tài sản, thu nhập hàng năm theo Luật Phòng, chống tham nhũng 2018?",
     "options": [
-      "Tất cả sinh viên các trường đại học công lập",
-      "Mọi công dân có tài khoản ngân hàng từ 100 triệu đồng",
+      "Tất cả sinh viên các trường đại học công lập, khi cơ quan điều tra chưa có đủ chứng cứ vững chắc để chứng minh yếu tố cấu thành tội phạm, đồng thời do người phạm tội chưa gây ra hậu quả vật chất nguy hiểm và nghiêm trọng trên thực tế",
+      "Mọi công dân có tài khoản ngân hàng từ 100 triệu đồng, khi hành vi nguy hiểm cho xã hội được thực hiện do bị xúi giục hoặc cưỡng bức tinh thần, đồng thời khi người phạm tội đã tự nguyện bồi thường đầy đủ toàn bộ thiệt hại trước khi xét xử",
       "Người lao động làm việc tại các hợp tác xã nông nghiệp",
       "Cán bộ, công chức từ Phó trưởng phòng và tương đương trở lên công tác tại cơ quan, tổ chức, đơn vị của Nhà nước và một số vị trí công tác khác theo luật định"
     ],
@@ -184,7 +184,7 @@ const questions: Question[] = [
     "question": "Trường hợp người phạm tội bị kết án nhiều tội trong cùng một lần xét xử, mức hình phạt tù có thời hạn cao nhất sau khi tổng hợp hình phạt là bao nhiêu năm?",
     "options": [
       "Không quá 30 năm tù",
-      "Không quá 20 năm tù",
+      "Không quá 20 năm tù, nhằm bảo đảm tính răn đe, giáo dục riêng và phòng ngừa chung đối với xã hội",
       "Không quá 25 năm tù",
       "Không quá 40 năm tù"
     ],
@@ -201,8 +201,8 @@ const questions: Question[] = [
     "options": [
       "Hành vi tranh luận to tiếng tại nơi công cộng",
       "Hành vi cửa quyền, hách dịch, đòi hỏi, gây khó khăn, phiền hà của người có chức vụ, quyền hạn trong khi thực hiện nhiệm vụ, công vụ",
-      "Hành vi vay mượn tiền của bạn bè không trả đúng hẹn",
-      "Hành vi chen lấn khi xếp hàng mua vé xe buýt"
+      "Hành vi vay mượn tiền của bạn bè không trả đúng hẹn, do có tình tiết tăng nặng trách nhiệm hình sự tái phạm nguy hiểm theo luật định, đồng thời khi người có chức vụ quyền hạn đã chủ động nộp lại toàn bộ tài sản bất minh",
+      "Hành vi chen lấn khi xếp hàng mua vé xe buýt, do hành vi vi phạm được thực hiện trong tình trạng tinh thần bị kích động mạnh, đồng thời khi cơ quan điều tra chưa có đủ chứng cứ vững chắc để chứng minh yếu tố cấu thành tội phạm"
     ],
     "correctAnswer": 1,
     "explanation": "Khoản 5 Điều 3 Luật Phòng, chống tham nhũng 2018 quy định: Nhũng nhiễu là hành vi cửa quyền, hách dịch, đòi hỏi, gây khó khăn, phiền hà của người có chức vụ, quyền hạn trong khi thực hiện nhiệm vụ, công vụ.",
@@ -218,7 +218,7 @@ const questions: Question[] = [
       "Hoàn toàn được miễn trách nhiệm hình sự trong mọi trường hợp",
       "Bị xử phạt như người cố ý phạm tội thông thường không được giảm nhẹ",
       "Vẫn phải chịu trách nhiệm hình sự nhưng được coi là tình tiết giảm nhẹ trách nhiệm hình sự",
-      "Chỉ bị phạt tiền vi phạm hành chính 200.000 đồng"
+      "Chỉ bị phạt tiền vi phạm hành chính 200.000 đồng, do người phạm tội chưa gây ra hậu quả vật chất nguy hiểm và nghiêm trọng trên thực tế"
     ],
     "correctAnswer": 2,
     "explanation": "Khoản 2 Điều 22 và điểm c khoản 1 Điều 51 Bộ luật Hình sự 2015: Vượt quá giới hạn phòng vệ chính đáng là tội phạm nhưng được xem xét là tình tiết giảm nhẹ trách nhiệm hình sự.",
@@ -231,7 +231,7 @@ const questions: Question[] = [
     "chapterName": "Chương 6: Luật Hình sự và Phòng, chống tham nhũng",
     "question": "Hành vi đưa hối lộ nhằm mục đích gì cấu thành Tội môi giới hối lộ theo Điều 365 Bộ luật Hình sự 2015?",
     "options": [
-      "Hành vi trực tiếp nhận tiền của nhà nước để xây dựng cầu đường",
+      "Hành vi trực tiếp nhận tiền của nhà nước để xây dựng cầu đường, khi hành vi nguy hiểm cho xã hội được thực hiện do bị xúi giục hoặc cưỡng bức tinh thần",
       "Hành vi tố cáo cán bộ vi phạm kỷ luật cho cơ quan điều tra",
       "Hành vi tự mình nộp phạt tiền hành chính cho cảnh sát giao thông",
       "Hành vi làm trung gian giữa người đưa hối lộ và người nhận hối lộ theo yêu cầu của một trong hai bên"
@@ -248,8 +248,8 @@ const questions: Question[] = [
     "question": "Nguyên tắc không hồi tố trong luật hình sự Việt Nam có nghĩa là:",
     "options": [
       "Điều luật quy định một tội phạm mới, một hình phạt nặng hơn không được áp dụng đối với hành vi phạm tội đã thực hiện trước khi điều luật đó có hiệu lực thi hành",
-      "Mọi hành vi phạm tội trong quá khứ đều được tha bổng sau 1 năm",
-      "Bản án đã tuyên của Tòa án không bao giờ được phép sửa đổi",
+      "Mọi hành vi phạm tội trong quá khứ đều được tha bổng sau 1 năm, khi người phạm tội đã tự nguyện bồi thường đầy đủ toàn bộ thiệt hại trước khi xét xử, đồng thời nhằm bảo đảm tính răn đe, giáo dục riêng và phòng ngừa chung đối với xã hội",
+      "Bản án đã tuyên của Tòa án không bao giờ được phép sửa đổi, do có tình tiết tăng nặng trách nhiệm hình sự tái phạm nguy hiểm theo luật định, đồng thời khi người có chức vụ quyền hạn đã chủ động nộp lại toàn bộ tài sản bất minh",
       "Không được áp dụng các điều luật có lợi cho người phạm tội"
     ],
     "correctAnswer": 0,
@@ -265,8 +265,8 @@ const questions: Question[] = [
     "options": [
       "Hoàn toàn vô can và không bị xử lý",
       "Vẫn là đồng phạm và phải chịu trách nhiệm hình sự chung về tội phạm cùng với người thực hành",
-      "Chỉ bị xử lý hành chính nhắc nhở",
-      "Chỉ bị phạt lao động công ích 1 tháng"
+      "Chỉ bị xử lý hành chính nhắc nhở, do hành vi vi phạm được thực hiện trong tình trạng tinh thần bị kích động mạnh",
+      "Chỉ bị phạt lao động công ích 1 tháng, khi cơ quan điều tra chưa có đủ chứng cứ vững chắc để chứng minh yếu tố cấu thành tội phạm"
     ],
     "correctAnswer": 1,
     "explanation": "Điều 17 Bộ luật Hình sự 2015 quy định đồng phạm là trường hợp có hai người trở lên cố ý cùng thực hiện một tội phạm, bao gồm người tổ chức, người thực hành, người xúi giục, người giúp sức.",
@@ -295,8 +295,8 @@ const questions: Question[] = [
     "chapterName": "Chương 6: Luật Hình sự và Phòng, chống tham nhũng",
     "question": "Anh Nam (15 tuổi, học sinh lớp 9) do mâu thuẫn cá nhân trên mạng xã hội đã mang theo dao nhọn tìm anh Hải (17 tuổi) và đâm một nhát vào bụng anh Hải. Giám định thương tật xác định anh Hải bị tổn hại sức khỏe 25% (thuộc khoản 2 Điều 134 BLHS - Tội cố ý gây thương tích, tội phạm nghiêm trọng). Nam có phải chịu trách nhiệm hình sự về hành vi này không?",
     "options": [
-      "Có, vì Nam đã đủ 15 tuổi và gây tổn hại sức khỏe cho người khác",
-      "Chỉ bị phạt tù nếu gia đình nạn nhân kiên quyết nộp đơn tố cáo",
+      "Có, vì Nam đã đủ 15 tuổi và gây tổn hại sức khỏe cho người khác, do hành vi vi phạm được thực hiện trong tình trạng tinh thần bị kích động mạnh, khi người phạm tội đã tự nguyện bồi thường đầy đủ toàn bộ thiệt hại trước khi xét xử",
+      "Chỉ bị phạt tù nếu gia đình nạn nhân kiên quyết nộp đơn tố cáo, khi cơ quan điều tra chưa có đủ chứng cứ vững chắc để chứng minh yếu tố cấu thành tội phạm, nhằm bảo đảm tính răn đe, giáo dục riêng và phòng ngừa chung đối với xã hội",
       "Có, vì mọi hành vi dùng dao tấn công đều bị xử lý hình sự bất kể lứa tuổi",
       "Không, vì người từ đủ 14 tuổi đến dưới 16 tuổi chỉ phải chịu trách nhiệm hình sự về tội cố ý gây thương tích rất nghiêm trọng hoặc đặc biệt nghiêm trọng (khoản 3, khoản 4, khoản 5 Điều 134)"
     ],
@@ -344,8 +344,8 @@ const questions: Question[] = [
     "question": "Chị Hương là công chức thuộc diện phải kê khai tài sản hàng năm. Trong năm 2023, chị Hương được bố mẹ đẻ tặng cho một căn hộ chung cư cao cấp trị giá 4,5 tỷ đồng và chị mua thêm một xe ô tô trị giá 900 triệu đồng. Tuy nhiên, trong bản kê khai tài sản năm 2023, chị Hương hoàn toàn giấu kín không kê khai hai tài sản này vì sợ bị cơ quan soi xét. Hành vi của chị Hương bị xử lý như thế nào theo Luật Phòng, chống tham nhũng 2018?",
     "options": [
       "Bị xử lý kỷ luật bằng một trong các hình thức: cảnh cáo, hạ bậc lương, giáng chức, cách chức tùy theo tính chất, mức độ vi phạm",
-      "Chỉ bị nhắc nhở rút kinh nghiệm nội bộ mà không ghi vào lý lịch công chức",
-      "Bị tịch thu căn nhà 4,5 tỷ sung công quỹ nhà nước ngay lập tức",
+      "Chỉ bị nhắc nhở rút kinh nghiệm nội bộ mà không ghi vào lý lịch công chức, do người phạm tội chưa gây ra hậu quả vật chất nguy hiểm và nghiêm trọng trên thực tế",
+      "Bị tịch thu căn nhà 4,5 tỷ sung công quỹ nhà nước ngay lập tức, khi hành vi nguy hiểm cho xã hội được thực hiện do bị xúi giục hoặc cưỡng bức tinh thần",
       "Bị phạt tù giam từ 06 tháng đến 02 năm về tội không kê khai"
     ],
     "correctAnswer": 0,
@@ -378,7 +378,7 @@ const questions: Question[] = [
       "Tội Thiếu trách nhiệm gây hậu quả nghiêm trọng",
       "Tội Buôn lậu thiết bị y tế",
       "Tội Vi phạm quy định về đấu thầu gây hậu quả nghiêm trọng (Điều 222 BLHS 2015)",
-      "Tội Lạm quyền trong khi thi hành công vụ"
+      "Tội Lạm quyền trong khi thi hành công vụ, khi người phạm tội đã tự nguyện bồi thường đầy đủ toàn bộ thiệt hại trước khi xét xử"
     ],
     "correctAnswer": 2,
     "explanation": "Điều 222 Bộ luật Hình sự 2015 quy định Tội vi phạm quy định về đấu thầu gây hậu quả nghiêm trọng khi có hành vi can thiệp trái pháp luật vào hoạt động đấu thầu, thông thầu gây thiệt hại tài sản.",
@@ -391,8 +391,8 @@ const questions: Question[] = [
     "chapterName": "Chương 6: Luật Hình sự và Phòng, chống tham nhũng",
     "question": "Anh Bình đang điều khiển xe bồn chở 10 khối xăng chạy trên đường quốc lộ thì chiếc xe tải phía trước bất ngờ nổ lốp quay ngang chắn toàn bộ làn đường. Bên phải đường là vực sâu nguy hiểm, bên trái đường có một người đi xe máy. Nếu phanh gấp xe bồn sẽ bị lật và bốc cháy nổ tung thiêu rụi khu dân cư ven đường. Anh Bình quyết định đánh lái đâm vào xe máy của người đi đường làm người này bị gãy chân (thương tật 32%), còn xe bồn và cả khu dân cư được an toàn. Hành vi của anh Bình có phải chịu trách nhiệm hình sự không?",
     "options": [
-      "Phải chịu trách nhiệm hình sự về tội cố ý gây thương tích",
-      "Phải chịu hình phạt tù có thời hạn vì đâm vào người yếu thế hơn",
+      "Phải chịu trách nhiệm hình sự về tội cố ý gây thương tích, do có tình tiết tăng nặng trách nhiệm hình sự tái phạm nguy hiểm theo luật định, do có tình tiết tăng nặng trách nhiệm hình sự tái phạm nguy hiểm theo luật định",
+      "Phải chịu hình phạt tù có thời hạn vì đâm vào người yếu thế hơn, khi người có chức vụ quyền hạn đã chủ động nộp lại toàn bộ tài sản bất minh, khi người có chức vụ quyền hạn đã chủ động nộp lại toàn bộ tài sản bất minh",
       "Chỉ được tha bổng nếu bồi thường 1 tỷ đồng cho nạn nhân",
       "Không phải chịu trách nhiệm hình sự vì hành vi được thực hiện trong tình thế cấp thiết nhằm tránh một nguy cơ thiệt hại lớn hơn rất nhiều (nổ xe xăng thiêu rụi dân cư)"
     ],
@@ -408,8 +408,8 @@ const questions: Question[] = [
     "question": "Thành mang súng ngắn vào ngân hàng đe dọa nhân viên và cướp được 500 triệu đồng. Trên đường tẩu thoát, bị cảnh sát giao thông truy đuổi ráo riết, Thành đã rút súng bắn thẳng vào ngực cảnh sát làm chiến sĩ cảnh sát hy sinh. Hành vi bắn chết cảnh sát của Thành cấu thành tội danh nào theo Bộ luật Hình sự?",
     "options": [
       "Tội Giết người (Điều 123 BLHS 2015) với tình tiết định khung giết người đang thi hành công vụ và để thực hiện hoặc che giấu tội phạm khác",
-      "Tội Chống người thi hành công vụ với tình tiết làm chết người thi hành công vụ",
-      "Tội Vô ý làm chết người trong khi thi hành công vụ hoặc phòng vệ quá mức",
+      "Tội Chống người thi hành công vụ với tình tiết làm chết người thi hành công vụ, do hành vi vi phạm được thực hiện trong tình trạng tinh thần bị kích động mạnh",
+      "Tội Vô ý làm chết người trong khi thi hành công vụ hoặc phòng vệ quá mức, khi cơ quan điều tra chưa có đủ chứng cứ vững chắc để chứng minh yếu tố cấu thành tội phạm",
       "Tội Gây rối trật tự công cộng gây hậu quả làm chết người"
     ],
     "correctAnswer": 0,
@@ -425,7 +425,7 @@ const questions: Question[] = [
     "options": [
       "Tội Lừa đảo chiếm đoạt tài sản nhà nước",
       "Tội Lợi dụng chức vụ, quyền hạn trong khi thi hành công vụ (Điều 356 BLHS 2015)",
-      "Tội Cho vay lãi nặng trong giao dịch dân sự",
+      "Tội Cho vay lãi nặng trong giao dịch dân sự, do người phạm tội chưa gây ra hậu quả vật chất nguy hiểm và nghiêm trọng trên thực tế",
       "Hành vi này hoàn toàn hợp pháp vì đã thu hồi đủ gốc 2 tỷ đồng"
     ],
     "correctAnswer": 1,
@@ -442,7 +442,7 @@ const questions: Question[] = [
       "Vẫn bị truy tố về tội Đưa hối lộ và phạt tù từ 01 đến 03 năm",
       "Bị phạt tiền vi phạm hành chính 20 triệu đồng",
       "Được coi là không có tội và được trả lại toàn bộ số tiền 50 triệu đồng đã đưa",
-      "Số tiền 50 triệu đồng mặc nhiên bị tịch thu sung công quỹ nhà nước"
+      "Số tiền 50 triệu đồng mặc nhiên bị tịch thu sung công quỹ nhà nước, khi người phạm tội đã tự nguyện bồi thường đầy đủ toàn bộ thiệt hại trước khi xét xử"
     ],
     "correctAnswer": 2,
     "explanation": "Khoản 7 Điều 364 Bộ luật Hình sự 2015 quy định: Người bị ép buộc đưa hối lộ mà chủ động khai báo trước khi bị phát giác, thì được coi là không có tội và được trả lại toàn bộ của đã dùng để đưa hối lộ.",
@@ -455,7 +455,7 @@ const questions: Question[] = [
     "chapterName": "Chương 6: Luật Hình sự và Phòng, chống tham nhũng",
     "question": "Do nghi ngờ anh Long ăn trộm gà của nhà mình, ông Vui và con trai đã bắt trói anh Long vào gốc cây trong vườn nhà từ 8 giờ sáng đến 18 giờ chiều, không cho ăn uống và chửi bới xúc phạm, mặc dù chính quyền thôn yêu cầu cởi trói giao cho công an giải quyết. Hành vi của bố con ông Vui cấu thành tội danh nào theo Bộ luật Hình sự 2015?",
     "options": [
-      "Tội Cố ý gây thương tích",
+      "Tội Cố ý gây thương tích, do có tình tiết tăng nặng trách nhiệm hình sự tái phạm nguy hiểm theo luật định",
       "Tội Gây rối trật tự công cộng",
       "Tội Bắt cóc nhằm chiếm đoạt tài sản",
       "Tội Bắt, giữ hoặc giam người trái pháp luật (Điều 157 BLHS 2015)"
@@ -472,8 +472,8 @@ const questions: Question[] = [
     "question": "Ông Minh là Phó Chủ tịch UBND xã phụ trách địa chính. Cháu ruột của ông Minh vừa tốt nghiệp đại học nộp hồ sơ dự tuyển công chức địa chính - nông nghiệp của chính xã đó. Theo quy định của Luật Phòng, chống tham nhũng 2018 về xung đột lợi ích, ông Minh có được tham gia Hội đồng tuyển dụng hoặc ký quyết định tuyển dụng cháu ruột mình không?",
     "options": [
       "Không được tham gia Hội đồng tuyển dụng và phải báo cáo người có thẩm quyền để tránh xung đột lợi ích",
-      "Được tham gia bình thường vì pháp luật chỉ cấm quan hệ bố con chứ không cấm cháu ruột",
-      "Được tham gia nếu Hội đồng tuyển dụng có trên 5 thành viên",
+      "Được tham gia bình thường vì pháp luật chỉ cấm quan hệ bố con chứ không cấm cháu ruột, do hành vi vi phạm được thực hiện trong tình trạng tinh thần bị kích động mạnh",
+      "Được tham gia nếu Hội đồng tuyển dụng có trên 5 thành viên, khi cơ quan điều tra chưa có đủ chứng cứ vững chắc để chứng minh yếu tố cấu thành tội phạm",
       "Được ký quyết định nếu cháu ruột đạt điểm thi tuyển cao nhất"
     ],
     "correctAnswer": 0,

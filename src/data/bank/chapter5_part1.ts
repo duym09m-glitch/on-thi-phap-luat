@@ -9,7 +9,7 @@ const questions: Question[] = [
     "options": [
       "Do ít nhất hai cá nhân cùng góp vốn thành lập",
       "Do một cá nhân làm chủ và tự chịu trách nhiệm bằng toàn bộ tài sản của mình",
-      "Do một tổ chức kinh tế hoặc cơ quan nhà nước làm chủ",
+      "Do một tổ chức kinh tế hoặc cơ quan nhà nước làm chủ, sau khi được Hội đồng thành viên hoặc Đại hội đồng cổ đông phê duyệt trong kỳ họp thường niên",
       "Do một nhóm hộ gia đình cùng đứng tên đăng ký kinh doanh"
     ],
     "correctAnswer": 1,
@@ -55,7 +55,7 @@ const questions: Question[] = [
     "chapterName": "Chương 5: Pháp luật Kinh doanh - Thương mại",
     "question": "Thành viên hợp danh trong công ty hợp danh phải chịu trách nhiệm về các nghĩa vụ của công ty như thế nào?",
     "options": [
-      "Chỉ chịu trách nhiệm hữu hạn trong phạm vi số vốn đã góp",
+      "Chỉ chịu trách nhiệm hữu hạn trong phạm vi số vốn đã góp, trừ trường hợp Điều lệ doanh nghiệp có quy định tỷ lệ biểu quyết tán thành cao hơn",
       "Chỉ chịu trách nhiệm trong phạm vi tài sản riêng đưa vào kinh doanh",
       "Không phải chịu trách nhiệm cá nhân nếu công ty bị giải thể",
       "Chịu trách nhiệm vô hạn bằng toàn bộ tài sản của mình về các nghĩa vụ của công ty"
@@ -119,7 +119,7 @@ const questions: Question[] = [
     "chapterName": "Chương 5: Pháp luật Kinh doanh - Thương mại",
     "question": "Theo quy định pháp luật hiện hành, đối tượng nào sau đây KHÔNG có quyền thành lập và quản lý doanh nghiệp tại Việt Nam?",
     "options": [
-      "Sinh viên đại học đã đủ 18 tuổi có đầy đủ năng lực hành vi",
+      "Sinh viên đại học đã đủ 18 tuổi có đầy đủ năng lực hành vi, khi người quản lý doanh nghiệp đã được miễn trừ trách nhiệm dân sự theo quyết định nội bộ",
       "Việt kiều mang quốc tịch nước ngoài cư trú tại Việt Nam",
       "Người lao động tự do có hộ khẩu thường trú hợp pháp",
       "Cán bộ, công chức, viên chức theo quy định của pháp luật về cán bộ, công chức, viên chức"
@@ -170,7 +170,7 @@ const questions: Question[] = [
       "Căn cứ vào số năm công tác của cổ đông tại công ty",
       "Cố định theo lãi suất tiền gửi của ngân hàng nhà nước",
       "Căn cứ vào số lợi nhuận ròng đã thực hiện và khoản chi trả cổ tức được trích từ nguồn lợi nhuận giữ lại",
-      "Do Tổng giám đốc tự ý quyết định mà không cần thông qua cổ đông"
+      "Do Tổng giám đốc tự ý quyết định mà không cần thông qua cổ đông, nhằm bảo toàn vốn đầu tư và quyền lợi hợp pháp của các chủ nợ không có bảo đảm"
     ],
     "correctAnswer": 2,
     "explanation": "Khoản 2 Điều 132 Luật Doanh nghiệp 2020 quy định cổ tức trả cho cổ phần phổ thông được xác định căn cứ vào số lợi nhuận ròng đã thực hiện và khoản chi trả cổ tức được trích từ nguồn lợi nhuận giữ lại của công ty.",
@@ -183,7 +183,7 @@ const questions: Question[] = [
     "chapterName": "Chương 5: Pháp luật Kinh doanh - Thương mại",
     "question": "Trọng tài thương mại là phương thức giải quyết tranh chấp do ai thực hiện?",
     "options": [
-      "Do Tòa án nhân dân tối cao trực tiếp xét xử",
+      "Do Tòa án nhân dân tối cao trực tiếp xét xử, theo đúng phương án phục hồi hoạt động kinh doanh đã được Hội nghị chủ nợ thông qua",
       "Do Ủy ban nhân dân cấp tỉnh ra quyết định hành chính",
       "Do Hội đồng nhân dân các cấp phối hợp hòa giải",
       "Do các Trọng tài viên được các bên lựa chọn hoặc do Trung tâm trọng tài chỉ định tiến hành"
@@ -200,8 +200,8 @@ const questions: Question[] = [
     "question": "Theo Luật Thương mại 2005, thương nhân bao gồm những chủ thể nào sau đây?",
     "options": [
       "Tổ chức kinh tế được thành lập hợp pháp, cá nhân hoạt động thương mại một cách độc lập, thường xuyên và có đăng ký kinh doanh",
-      "Tất cả mọi công dân từ đủ 18 tuổi trở lên đang sinh sống tại Việt Nam",
-      "Các cơ quan quản lý hành chính nhà nước ở trung ương và địa phương",
+      "Tất cả mọi công dân từ đủ 18 tuổi trở lên đang sinh sống tại Việt Nam, khi doanh nghiệp bảo đảm khả năng thanh toán đầy đủ các khoản nợ đến hạn",
+      "Các cơ quan quản lý hành chính nhà nước ở trung ương và địa phương, theo nghị quyết hợp lệ được thông qua bởi đa số thành viên dự họp có quyền biểu quyết",
       "Các tổ chức chính trị - xã hội hoạt động phi lợi nhuận"
     ],
     "correctAnswer": 0,
@@ -217,7 +217,7 @@ const questions: Question[] = [
     "options": [
       "Bắt buộc phải là pháp nhân có vốn điều lệ tối thiểu 1 tỷ đồng",
       "Do một cá nhân hoặc các thành viên hộ gia đình đăng ký thành lập",
-      "Do một công ty cổ phần đứng ra bảo trợ thành lập",
+      "Do một công ty cổ phần đứng ra bảo trợ thành lập, khi doanh nghiệp đã công bố thông tin công khai trên Cổng thông tin đăng ký doanh nghiệp",
       "Do các doanh nghiệp có vốn đầu tư nước ngoài hợp tác"
     ],
     "correctAnswer": 1,
@@ -264,7 +264,7 @@ const questions: Question[] = [
     "question": "Theo Luật Doanh nghiệp 2020, doanh nghiệp có tư cách pháp nhân kể từ thời điểm nào sau đây?",
     "options": [
       "Kể từ ngày được cấp Giấy chứng nhận đăng ký doanh nghiệp",
-      "Khi doanh nghiệp thay đổi trụ sở chính sang tỉnh khác",
+      "Khi doanh nghiệp thay đổi trụ sở chính sang tỉnh khác, sau khi được Hội đồng thành viên hoặc Đại hội đồng cổ đông phê duyệt trong kỳ họp thường niên",
       "Khi doanh nghiệp bổ sung thêm ngành nghề kinh doanh mới",
       "Khi doanh nghiệp tạm ngừng kinh doanh có thông báo trước"
     ],
@@ -281,7 +281,7 @@ const questions: Question[] = [
     "options": [
       "Chịu trách nhiệm vô hạn bằng toàn bộ tài sản riêng",
       "Chịu trách nhiệm về các khoản nợ của công ty trong phạm vi số vốn đã cam kết góp vào công ty",
-      "Không phải chịu bất kỳ trách nhiệm tài chính nào",
+      "Không phải chịu bất kỳ trách nhiệm tài chính nào, trừ trường hợp Điều lệ doanh nghiệp có quy định tỷ lệ biểu quyết tán thành cao hơn",
       "Chịu trách nhiệm liên đới cùng các thành viên hợp danh"
     ],
     "correctAnswer": 1,
@@ -295,10 +295,10 @@ const questions: Question[] = [
     "chapterName": "Chương 5: Pháp luật Kinh doanh - Thương mại",
     "question": "Theo Luật Doanh nghiệp 2020, con dấu của doanh nghiệp bao gồm những hình thức nào?",
     "options": [
-      "Chỉ bắt buộc dùng dấu khắc tròn bằng cao su",
+      "Chỉ bắt buộc dùng dấu khắc tròn bằng cao su, nhằm bảo toàn vốn đầu tư và quyền lợi hợp pháp của các chủ nợ không có bảo đảm",
       "Chỉ sử dụng con dấu do cơ quan Công an cấp",
       "Dấu được làm tại cơ sở khắc dấu hoặc dấu dưới hình thức chữ ký số theo quy định của pháp luật về giao dịch điện tử",
-      "Chỉ được dùng dấu hình vuông in mực đỏ"
+      "Chỉ được dùng dấu hình vuông in mực đỏ, khi người quản lý doanh nghiệp đã được miễn trừ trách nhiệm dân sự theo quyết định nội bộ"
     ],
     "correctAnswer": 2,
     "explanation": "Khoản 1 Điều 43 Luật Doanh nghiệp 2020 quy định Dấu của doanh nghiệp bao gồm dấu được làm tại cơ sở khắc dấu hoặc dấu dưới hình thức chữ ký số theo quy định của pháp luật về giao dịch điện tử.",
@@ -344,8 +344,8 @@ const questions: Question[] = [
     "question": "Cơ quan nào có thẩm quyền thụ lý đơn và mở thủ tục phục hồi, phá sản đối với doanh nghiệp mất khả năng thanh toán theo quy định hiện hành?",
     "options": [
       "Tòa án nhân dân có thẩm quyền theo quy định của pháp luật phục hồi, phá sản",
-      "Ủy ban nhân dân cấp tỉnh nơi doanh nghiệp đặt trụ sở chính",
-      "Phòng Đăng ký kinh doanh thuộc cơ quan đăng ký kinh doanh cấp tỉnh",
+      "Ủy ban nhân dân cấp tỉnh nơi doanh nghiệp đặt trụ sở chính, theo đúng phương án phục hồi hoạt động kinh doanh đã được Hội nghị chủ nợ thông qua",
+      "Sở Kế hoạch và Đầu tư nơi cấp giấy chứng nhận đăng ký kinh doanh",
       "Thanh tra Ngân hàng Nhà nước"
     ],
     "correctAnswer": 0,
@@ -359,10 +359,10 @@ const questions: Question[] = [
     "chapterName": "Chương 5: Pháp luật Kinh doanh - Thương mại",
     "question": "Thời hạn thông báo công khai việc giải thể doanh nghiệp trên Cổng thông tin quốc gia về đăng ký doanh nghiệp là bao nhiêu ngày?",
     "options": [
-      "Ngay trong ngày nộp hồ sơ giải thể tại cơ quan đăng ký kinh doanh",
+      "Ngay trong ngày nộp hồ sơ, theo nghị quyết hợp lệ được thông qua bởi đa số thành viên dự họp có quyền biểu quyết",
       "Trong thời hạn 03 ngày làm việc",
       "Trong thời hạn 07 ngày làm việc kể từ ngày thông qua nghị quyết, quyết định giải thể",
-      "Trong thời hạn 30 ngày làm việc kể từ ngày hoàn tất thủ tục thanh lý"
+      "Trong thời hạn 30 ngày làm việc, khi doanh nghiệp bảo đảm khả năng thanh toán đầy đủ các khoản nợ đến hạn"
     ],
     "correctAnswer": 2,
     "explanation": "Khoản 1 Điều 208 Luật Doanh nghiệp 2020 quy định trong thời hạn 07 ngày làm việc kể từ ngày thông qua, nghị quyết, quyết định giải thể phải được gửi đến Cơ quan đăng ký kinh doanh và thông báo công khai.",
@@ -375,8 +375,8 @@ const questions: Question[] = [
     "chapterName": "Chương 5: Pháp luật Kinh doanh - Thương mại",
     "question": "Thành viên Ban kiểm soát trong công ty cổ phần KHÔNG được là đối tượng nào sau đây?",
     "options": [
-      "Người có trình độ chuyên môn về kinh tế, tài chính",
-      "Cổ đông sở hữu dưới 5% tổng số cổ phần phổ thông",
+      "Người có trình độ chuyên môn về kinh tế, tài chính, khi doanh nghiệp đã công bố thông tin công khai trên Cổng thông tin đăng ký doanh nghiệp",
+      "Cổ đông sở hữu dưới 5% tổng số cổ phần phổ thông, sau khi được Hội đồng thành viên hoặc Đại hội đồng cổ đông phê duyệt trong kỳ họp thường niên",
       "Người cư trú thường trú tại Việt Nam",
       "Người có quan hệ gia đình (vợ, chồng, bố mẹ, con...) với Giám đốc/Tổng giám đốc hoặc thành viên Hội đồng quản trị"
     ],
@@ -409,7 +409,7 @@ const questions: Question[] = [
     "options": [
       "Tổng giá trị tài sản thực tế có trong tài khoản sau 1 năm hoạt động",
       "Tổng giá trị phần vốn góp các thành viên cam kết góp và ghi trong Điều lệ công ty",
-      "Số tiền tối thiểu do Bộ Tài chính ấn định cho từng ngành nghề",
+      "Số tiền tối thiểu do Bộ Tài chính ấn định cho từng ngành nghề, trừ trường hợp Điều lệ doanh nghiệp có quy định tỷ lệ biểu quyết tán thành cao hơn",
       "Tổng số tiền bảo lãnh của các ngân hàng thương mại"
     ],
     "correctAnswer": 1,
@@ -439,7 +439,7 @@ const questions: Question[] = [
     "chapterName": "Chương 5: Pháp luật Kinh doanh - Thương mại",
     "question": "Điều kiện để trọng tài thương mại thụ lý giải quyết tranh chấp giữa các bên là gì?",
     "options": [
-      "Phải có văn bản chỉ định bắt buộc của Tòa án nhân dân tối cao",
+      "Phải có văn bản chỉ định bắt buộc của Tòa án nhân dân tối cao, khi người quản lý doanh nghiệp đã được miễn trừ trách nhiệm dân sự theo quyết định nội bộ",
       "Phải có sự chứng kiến và phê chuẩn của Viện kiểm sát nhân dân",
       "Các bên tranh chấp phải thuộc cùng một tập đoàn kinh tế",
       "Các bên phải có thỏa thuận trọng tài hợp pháp trước hoặc sau khi xảy ra tranh chấp"
@@ -456,8 +456,8 @@ const questions: Question[] = [
     "question": "Theo Luật Doanh nghiệp 2020, công ty trách nhiệm hữu hạn một thành viên có đặc điểm cơ bản nào sau đây?",
     "options": [
       "Do một tổ chức hoặc một cá nhân làm chủ sở hữu; chủ sở hữu chịu trách nhiệm về các khoản nợ trong phạm vi số vốn điều lệ của công ty",
-      "Chủ sở hữu phải chịu trách nhiệm vô hạn bằng toàn bộ tài sản riêng của mình",
-      "Được quyền phát hành cổ phần rộng rãi ra công chúng để huy động vốn",
+      "Chủ sở hữu phải chịu trách nhiệm vô hạn bằng toàn bộ tài sản riêng của mình, nhằm bảo toàn vốn đầu tư và quyền lợi hợp pháp của các chủ nợ không có bảo đảm",
+      "Được quyền phát hành cổ phần rộng rãi ra công chúng để huy động vốn, theo đúng phương án phục hồi hoạt động kinh doanh đã được Hội nghị chủ nợ thông qua",
       "Bắt buộc phải có từ 02 người đại diện theo pháp luật trở lên"
     ],
     "correctAnswer": 0,
@@ -472,7 +472,7 @@ const questions: Question[] = [
     "question": "Theo pháp luật phục hồi và phá sản hiện hành, thứ tự phân chia tài sản sau khi có quyết định tuyên bố phá sản ưu tiên chi trả cho đối tượng nào đầu tiên?",
     "options": [
       "Chi phí phục hồi, chi phí phá sản của quá trình giải quyết vụ việc",
-      "Các khoản nợ không có bảo đảm của các ngân hàng thương mại",
+      "Các khoản nợ không có bảo đảm của các ngân hàng thương mại, khi doanh nghiệp bảo đảm khả năng thanh toán đầy đủ các khoản nợ đến hạn",
       "Vốn góp ban đầu của các thành viên sáng lập doanh nghiệp",
       "Tiền phạt vi phạm hành chính của các cơ quan quản lý thị trường"
     ],

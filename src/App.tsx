@@ -25,9 +25,9 @@ import { ResultFilterType } from './components/ResultReport';
 import { 
   buildExam, 
   BuildExamParams 
-} from './utils/examBuilder';
-import { shuffle } from './utils/shuffle';
-import { needsLockedOrder } from './data/questionBank';
+} from './lib/examBuilder';
+import { shuffle } from './lib/shuffle';
+import { needsLockedOrder } from './data/bank';
 import { 
   Session, 
   loadSession, 
@@ -40,7 +40,7 @@ import {
   loadHistory, 
   saveHistoryItem, 
   calculateExamChapterStats 
-} from './utils/session';
+} from './lib/session';
 import { 
   AlertCircle, 
   CheckCircle2, 

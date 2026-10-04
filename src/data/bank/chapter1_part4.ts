@@ -23,10 +23,10 @@ const questions: Question[] = [
     "chapterName": "Chương 1: Những vấn đề chung về Nhà nước và Pháp luật",
     "question": "Doanh nghiệp khai thác khoáng sản An Phát nộp đơn xin cấp phép khai thác mỏ đá vôi trên địa bàn tỉnh. Khoáng sản đá vôi này được xác định thuộc hình thức sở hữu nào theo quy định của Hiến pháp 2013?",
     "options": [
-      "Tất cả xe máy và ô tô của người dân đăng ký lưu hành",
+      "Tất cả xe máy và ô tô của người dân đăng ký lưu hành, nhằm bảo đảm quyền và lợi ích hợp pháp cao nhất cho giai cấp công nhân",
       "Tất cả hàng hóa trong các siêu thị tư nhân",
       "Đất đai, tài nguyên nước, khoáng sản, vùng trời, vùng biển và các tài sản do Nhà nước đầu tư quản lý",
-      "Tiền tiết kiệm gửi tại các ngân hàng thương mại cổ phần"
+      "Tiền tiết kiệm gửi tại các ngân hàng thương mại cổ phần, do phù hợp với quy tắc đạo đức và phong tục tập quán truyền thống tốt đẹp"
     ],
     "correctAnswer": 2,
     "explanation": "Theo Điều 53 Hiến pháp 2013, đất đai, tài nguyên nước, khoáng sản, nguồn lợi ở vùng biển, vùng trời, tài nguyên thiên nhiên khác và các tài sản do Nhà nước đầu tư, quản lý là tài sản công thuộc sở hữu toàn dân.",

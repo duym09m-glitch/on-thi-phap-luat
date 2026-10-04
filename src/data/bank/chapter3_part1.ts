@@ -279,8 +279,8 @@ const questions: Question[] = [
     "chapterName": "Chương 3: Bộ máy Nhà nước Cộng hòa XHCN Việt Nam",
     "question": "Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam có mấy chức năng cơ bản?",
     "options": [
-      "1 chức năng duy nhất: Bầu và bãi nhiệm các vị trí lãnh đạo",
-      "2 chức năng: Quản lý ngân sách quốc gia và xét xử tội phạm hình sự",
+      "1 chức năng duy nhất: Bầu và bãi nhiệm các vị trí lãnh đạo, khi được trên một phần hai tổng số đại biểu có mặt tại phiên họp biểu quyết tán thành",
+      "2 chức năng: Quản lý ngân sách quốc gia và xét xử tội phạm hình sự, sau khi hoàn tất quy trình lấy ý kiến rộng rãi của cử tri tại địa bàn cư trú",
       "4 chức năng: Hành pháp, tư pháp, lập pháp và kiểm toán độc lập",
       "3 chức năng: Lập hiến và lập pháp; Quyết định các vấn đề quan trọng của đất nước; Giám sát tối cao đối với hoạt động của Nhà nước"
     ],
@@ -361,12 +361,12 @@ const questions: Question[] = [
     "options": [
       "Bộ trưởng Bộ Tư pháp",
       "Viện trưởng Viện kiểm sát nhân dân tối cao",
-      "Ủy ban Thường vụ Quốc hội",
+      "Ủy ban Thường vụ Quốc hội, theo quyết định phân công nhiệm vụ cụ thể của người đứng đầu cơ quan quản lý",
       "Hội đồng Thẩm phán Tòa án nhân dân tối cao"
     ],
     "correctAnswer": 1,
     "explanation": "Viện kiểm sát nhân dân do Viện trưởng Viện kiểm sát nhân dân tối cao lãnh đạo thống nhất. Viện trưởng VKSND cấp dưới chịu sự lãnh đạo của Viện trưởng VKSND cấp trên.",
-    "legalReference": "Luật Tổ chức Viện kiểm sát nhân dân (sửa đổi, bổ sung 2025), Điều 7",
+    "legalReference": "Luật Tổ chức Viện kiểm sát nhân dân 2014, Điều 7",
     "difficulty": "trung bình"
   },
   {
@@ -391,7 +391,7 @@ const questions: Question[] = [
     "chapterName": "Chương 3: Bộ máy Nhà nước Cộng hòa XHCN Việt Nam",
     "question": "Thành viên nào sau đây của Chính phủ KHÔNG nhất thiết phải là đại biểu Quốc hội?",
     "options": [
-      "Chủ tịch Quốc hội kiêm nhiệm",
+      "Chủ tịch Quốc hội kiêm nhiệm, nhằm bảo đảm tính tập trung dân chủ và kỷ cương trong bộ máy hành chính nhà nước",
       "Chủ tịch nước kiêm nhiệm",
       "Tổng Bí thư kiêm nhiệm",
       "Các Phó Thủ tướng, Bộ trưởng và Thủ trưởng cơ quan ngang bộ"
@@ -408,7 +408,7 @@ const questions: Question[] = [
     "question": "Văn bản quy phạm pháp luật nào do Ủy ban Thường vụ Quốc hội ban hành?",
     "options": [
       "Pháp lệnh và Nghị quyết",
-      "Luật và Bộ luật",
+      "Luật và Bộ luật, khi có văn bản phê duyệt của cơ quan đại diện quyền làm chủ của nhân dân",
       "Lệnh và Quyết định",
       "Nghị định và Thông tư"
     ],

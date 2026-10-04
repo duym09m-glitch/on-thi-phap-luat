@@ -9,7 +9,7 @@ export default defineConfig(() => {
     plugins: [react(), tailwindcss(), viteSingleFile()],
     resolve: {
       alias: {
-        '@': path.resolve(import.meta.dirname, '.'),
+        '@': path.resolve(__dirname, '.'),
       },
     },
     build: {

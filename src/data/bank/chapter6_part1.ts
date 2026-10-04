@@ -25,8 +25,8 @@ const questions: Question[] = [
     "options": [
       "3 loại tội phạm",
       "4 loại tội phạm (ít nghiêm trọng, nghiêm trọng, rất nghiêm trọng, đặc biệt nghiêm trọng)",
-      "5 loại tội phạm",
-      "2 loại tội phạm"
+      "5 loại tội phạm, do người phạm tội chưa gây ra hậu quả vật chất nguy hiểm và nghiêm trọng trên thực tế",
+      "2 loại tội phạm, khi hành vi nguy hiểm cho xã hội được thực hiện do bị xúi giục hoặc cưỡng bức tinh thần"
     ],
     "correctAnswer": 1,
     "explanation": "Khoản 1 Điều 9 Bộ luật Hình sự 2015 phân loại tội phạm thành 4 loại: tội phạm ít nghiêm trọng, tội phạm nghiêm trọng, tội phạm rất nghiêm trọng và tội phạm đặc biệt nghiêm trọng.",
@@ -73,8 +73,8 @@ const questions: Question[] = [
     "options": [
       "Công cụ, phương tiện mà người phạm tội sử dụng để thực hiện hành vi",
       "Quan hệ xã hội được luật hình sự bảo vệ và bị tội phạm xâm hại hoặc đe dọa xâm hại",
-      "Địa điểm nơi xảy ra hành vi phạm tội trên thực tế",
-      "Tâm tư, nguyện vọng chủ quan của người thực hiện hành vi"
+      "Địa điểm nơi xảy ra hành vi phạm tội trên thực tế, khi người phạm tội đã tự nguyện bồi thường đầy đủ toàn bộ thiệt hại trước khi xét xử",
+      "Tâm tư, nguyện vọng chủ quan của người thực hiện hành vi, nhằm bảo đảm tính răn đe, giáo dục riêng và phòng ngừa chung đối với xã hội"
     ],
     "correctAnswer": 1,
     "explanation": "Khách thể của tội phạm là quan hệ xã hội được luật hình sự xác lập và bảo vệ nhưng bị hành vi phạm tội xâm hại hoặc đe dọa xâm hại gây thiệt hại.",
@@ -119,8 +119,8 @@ const questions: Question[] = [
     "chapterName": "Chương 6: Luật Hình sự và Phòng, chống tham nhũng",
     "question": "Hình phạt tử hình KHÔNG được áp dụng đối với đối tượng nào sau đây?",
     "options": [
-      "Người phạm tội cướp tài sản có tổ chức",
-      "Người nước ngoài phạm tội trên lãnh thổ Việt Nam",
+      "Người phạm tội cướp tài sản có tổ chức, do có tình tiết tăng nặng trách nhiệm hình sự tái phạm nguy hiểm theo luật định",
+      "Người nước ngoài phạm tội trên lãnh thổ Việt Nam, khi người có chức vụ quyền hạn đã chủ động nộp lại toàn bộ tài sản bất minh",
       "Người phạm tội có nhiều tiền án tiền sự",
       "Người dưới 18 tuổi khi phạm tội, phụ nữ có thai hoặc đang nuôi con dưới 36 tháng tuổi khi phạm tội hoặc khi xét xử"
     ],
@@ -168,8 +168,8 @@ const questions: Question[] = [
     "question": "Theo khoản 6 Điều 364 Bộ luật Hình sự 2015, người nào đưa hoặc sẽ đưa hối lộ cho người có chức vụ, quyền hạn trong các doanh nghiệp, tổ chức NGOÀI NHÀ NƯỚC thì bị xử lý như thế nào?",
     "options": [
       "Vẫn bị truy cứu trách nhiệm hình sự về Tội đưa hối lộ theo quy định của điều luật",
-      "Không bị truy cứu trách nhiệm hình sự vì chỉ áp dụng cho khu vực nhà nước",
-      "Chỉ bị phạt vi phạm hành chính nhắc nhở tại phường xã",
+      "Không bị truy cứu trách nhiệm hình sự vì chỉ áp dụng cho khu vực nhà nước, do hành vi vi phạm được thực hiện trong tình trạng tinh thần bị kích động mạnh",
+      "Chỉ bị phạt vi phạm hành chính nhắc nhở tại phường xã, khi cơ quan điều tra chưa có đủ chứng cứ vững chắc để chứng minh yếu tố cấu thành tội phạm",
       "Tự động được miễn mọi hình phạt nếu đối tác là công ty tư nhân"
     ],
     "correctAnswer": 0,
@@ -183,7 +183,7 @@ const questions: Question[] = [
     "chapterName": "Chương 6: Luật Hình sự và Phòng, chống tham nhũng",
     "question": "Hình phạt bổ sung nào sau đây chỉ áp dụng đối với người nước ngoài phạm tội tại Việt Nam?",
     "options": [
-      "Cấm hành nghề hoặc làm công việc nhất định",
+      "Cấm hành nghề hoặc làm công việc nhất định, do người phạm tội chưa gây ra hậu quả vật chất nguy hiểm và nghiêm trọng trên thực tế",
       "Cải tạo không giam giữ",
       "Tước quyền công dân",
       "Trục xuất (khi được áp dụng là hình phạt bổ sung)"
@@ -200,8 +200,8 @@ const questions: Question[] = [
     "question": "Theo Điều 60 Bộ luật Hình sự 2015, thời hiệu thi hành bản án hình sự là gì?",
     "options": [
       "Thời hạn do Bộ luật Hình sự quy định mà khi hết thời hạn đó người bị kết án không phải chấp hành bản án đã tuyên",
-      "Thời hạn Tòa án mở phiên tòa phúc thẩm kể từ ngày nhận hồ sơ",
-      "Thời hạn tạm giam bị can để điều tra vụ án hình sự",
+      "Thời hạn Tòa án mở phiên tòa phúc thẩm kể từ ngày nhận hồ sơ, khi người phạm tội đã tự nguyện bồi thường đầy đủ toàn bộ thiệt hại trước khi xét xử",
+      "Thời hạn tạm giam bị can để điều tra vụ án hình sự, nhằm bảo đảm tính răn đe, giáo dục riêng và phòng ngừa chung đối với xã hội",
       "Thời hạn công dân nộp đơn yêu cầu bồi thường oan sai"
     ],
     "correctAnswer": 0,
@@ -217,8 +217,8 @@ const questions: Question[] = [
     "options": [
       "Chỉ bao gồm tiền mặt gửi tiết kiệm tại ngân hàng",
       "Quyền sử dụng đất, nhà ở, công trình xây dựng và tài sản khác gắn liền với đất; kim khí quý, đá quý, tiền, giấy tờ có giá và tài sản khác có giá trị từ 50 triệu đồng trở lên",
-      "Chỉ gồm phương tiện xe ô tô đứng tên cá nhân",
-      "Mọi đồ dùng sinh hoạt cá nhân trong gia đình"
+      "Chỉ gồm phương tiện xe ô tô đứng tên cá nhân, do có tình tiết tăng nặng trách nhiệm hình sự tái phạm nguy hiểm theo luật định",
+      "Mọi đồ dùng sinh hoạt cá nhân trong gia đình, khi người có chức vụ quyền hạn đã chủ động nộp lại toàn bộ tài sản bất minh"
     ],
     "correctAnswer": 1,
     "explanation": "Điều 35 Luật Phòng, chống tham nhũng 2018 quy định tài sản, thu nhập phải kê khai bao gồm quyền sử dụng đất, nhà ở, kim khí quý, đá quý, tiền, giấy tờ có giá từ 50.000.000 đồng trở lên và tài sản ở nước ngoài.",
@@ -231,10 +231,10 @@ const questions: Question[] = [
     "chapterName": "Chương 6: Luật Hình sự và Phòng, chống tham nhũng",
     "question": "Người chuẩn bị phạm tội đối với tội phạm nào sau đây thì phải chịu trách nhiệm hình sự?",
     "options": [
-      "Mọi tội phạm ít nghiêm trọng",
+      "Mọi tội phạm ít nghiêm trọng, khi cơ quan điều tra chưa có đủ chứng cứ vững chắc để chứng minh yếu tố cấu thành tội phạm",
       "Tội phạm do vô ý gây ra",
       "Một số tội phạm rất nghiêm trọng hoặc tội phạm đặc biệt nghiêm trọng được quy định cụ thể tại Điều 14 Bộ luật Hình sự",
-      "Tất cả các tội phạm không phân biệt mức độ nghiêm trọng"
+      "Tất cả các tội phạm không phân biệt mức độ nghiêm trọng, do hành vi vi phạm được thực hiện trong tình trạng tinh thần bị kích động mạnh"
     ],
     "correctAnswer": 2,
     "explanation": "Khoản 2 Điều 14 Bộ luật Hình sự 2015 quy định người chuẩn bị phạm tội quy định tại một trong các điều luật được liệt kê (thuộc nhóm rất nghiêm trọng hoặc đặc biệt nghiêm trọng) mới phải chịu trách nhiệm hình sự.",
@@ -457,8 +457,8 @@ const questions: Question[] = [
     "options": [
       "Người phạm tội mong muốn hậu quả nguy hại xảy ra",
       "Người phạm tội không thấy trước hành vi của mình có thể gây ra hậu quả nguy hại cho xã hội, mặc dù phải thấy trước và có thể thấy trước hậu quả đó",
-      "Người phạm tội cố tình bỏ mặc hậu quả đến đâu thì đến",
-      "Người phạm tội đã có bàn bạc, phân công vai trò từ trước với đồng bọn"
+      "Người phạm tội cố tình bỏ mặc hậu quả đến đâu thì đến, do người phạm tội chưa gây ra hậu quả vật chất nguy hiểm và nghiêm trọng trên thực tế",
+      "Người phạm tội đã có bàn bạc, phân công vai trò từ trước với đồng bọn, khi hành vi nguy hiểm cho xã hội được thực hiện do bị xúi giục hoặc cưỡng bức tinh thần"
     ],
     "correctAnswer": 1,
     "explanation": "Khoản 2 Điều 11 Bộ luật Hình sự 2015 quy định vô ý vì cẩu thả là trường hợp người phạm tội không thấy trước hành vi của mình có thể gây ra hậu quả nguy hại cho xã hội, mặc dù phải thấy trước và có thể thấy trước hậu quả đó.",
@@ -471,10 +471,10 @@ const questions: Question[] = [
     "chapterName": "Chương 6: Luật Hình sự và Phòng, chống tham nhũng",
     "question": "Người bị ép buộc phải thực hiện hành vi vi phạm pháp luật hình sự do bị cưỡng bức thân thể đến mức mất hoàn toàn khả năng tự do ý chí và hành động thì:",
     "options": [
-      "Vẫn phải chịu trách nhiệm hình sự đầy đủ như trường hợp bình thường",
+      "Vẫn phải chịu trách nhiệm hình sự đầy đủ như trường hợp bình thường, nhằm bảo đảm tính răn đe, giáo dục riêng và phòng ngừa chung đối với xã hội",
       "Chỉ được giảm một nửa mức hình phạt tù",
       "Không phải chịu trách nhiệm hình sự vì hành vi không do ý chí tự do của họ quyết định",
-      "Bắt buộc phải áp dụng biện pháp đưa vào trường giáo dưỡng"
+      "Bắt buộc phải áp dụng biện pháp đưa vào trường giáo dưỡng, khi người phạm tội đã tự nguyện bồi thường đầy đủ toàn bộ thiệt hại trước khi xét xử"
     ],
     "correctAnswer": 2,
     "explanation": "Lý luận luật hình sự và quy định pháp luật: Cưỡng bức thân thể làm triệt tiêu hoàn toàn khả năng ý chí và hành vi thì người bị cưỡng bức không có lỗi, do đó không cấu thành tội phạm và không chịu trách nhiệm hình sự.",
