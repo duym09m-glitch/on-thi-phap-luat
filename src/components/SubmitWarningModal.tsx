@@ -24,8 +24,8 @@ export const SubmitWarningModal: React.FC<SubmitWarningModalProps> = ({
   const isComplete = unansweredIndices.length === 0;
 
   return (
-    <div className="fixed inset-0 z-50 flex items-center justify-center p-4 bg-slate-900/60 backdrop-blur-sm animate-in fade-in duration-200">
-      <div className="relative w-full max-w-lg bg-white rounded-2xl shadow-2xl border border-slate-200 overflow-hidden">
+    <div className="fixed inset-0 z-50 flex items-center justify-center p-4 bg-slate-900/60 dark:bg-slate-950/80 backdrop-blur-sm animate-in fade-in duration-200">
+      <div className="relative w-full max-w-lg bg-white dark:bg-slate-900 rounded-2xl shadow-2xl border border-slate-200 dark:border-slate-800 overflow-hidden">
         {/* Header */}
         <div
           className={`flex items-center justify-between px-6 py-4 text-white ${
@@ -40,7 +40,7 @@ export const SubmitWarningModal: React.FC<SubmitWarningModalProps> = ({
             ) : (
               <ShieldAlert className="w-6 h-6 text-amber-200 animate-pulse" />
             )}
-            <h3 className="text-lg font-bold">
+            <h3 className="text-base sm:text-lg font-bold">
               {isComplete ? 'Xác Nhận Nộp Bài Thi' : 'Chưa Hoàn Thành Hết Đề Thi!'}
             </h3>
           </div>
@@ -56,58 +56,58 @@ export const SubmitWarningModal: React.FC<SubmitWarningModalProps> = ({
         <div className="p-6 space-y-4">
           {isComplete ? (
             <div className="text-center py-4 space-y-3">
-              <div className="inline-flex p-3 bg-emerald-100 text-emerald-700 rounded-full">
+              <div className="inline-flex p-3 bg-emerald-100 dark:bg-emerald-950 text-emerald-700 dark:text-emerald-300 rounded-full">
                 <CheckCircle2 className="w-10 h-10" />
               </div>
-              <p className="text-base font-semibold text-slate-800">
+              <p className="text-base font-semibold text-slate-800 dark:text-slate-100">
                 Chúc mừng! Bạn đã hoàn thành trọn vẹn cả {totalQuestions}/{totalQuestions} câu hỏi.
               </p>
-              <p className="text-sm text-slate-500">
+              <p className="text-sm text-slate-500 dark:text-slate-400">
                 Bạn có chắc chắn muốn nộp bài để xem điểm số, xếp loại và lời giải thích chi tiết từng câu?
               </p>
             </div>
           ) : (
             <>
               {/* Alert Banner */}
-              <div className="p-3.5 bg-rose-50 border border-rose-200 rounded-xl flex items-start gap-3">
-                <AlertTriangle className="w-5 h-5 text-rose-600 shrink-0 mt-0.5" />
-                <div className="text-sm text-rose-900 leading-snug">
+              <div className="p-3.5 bg-rose-50 dark:bg-rose-950/40 border border-rose-200 dark:border-rose-800 rounded-xl flex items-start gap-3">
+                <AlertTriangle className="w-5 h-5 text-rose-600 dark:text-rose-400 shrink-0 mt-0.5" />
+                <div className="text-sm text-rose-900 dark:text-rose-200 leading-snug">
                   <p className="font-bold">
                     Quy chế thi: Cần điền đầy đủ đáp án trước khi bấm nộp bài!
                   </p>
-                  <p className="text-xs text-rose-700 mt-1">
-                    Bạn mới làm <span className="font-bold text-emerald-700">{answeredCount}/{totalQuestions}</span> câu. 
-                    Còn lại <span className="font-bold text-rose-700">{unansweredIndices.length}</span> câu chưa chọn đáp án.
+                  <p className="text-xs text-rose-700 dark:text-rose-300 mt-1">
+                    Bạn mới làm <span className="font-bold text-emerald-600 dark:text-emerald-400">{answeredCount}/{totalQuestions}</span> câu. 
+                    Còn lại <span className="font-bold text-rose-600 dark:text-rose-400">{unansweredIndices.length}</span> câu chưa chọn đáp án.
                   </p>
                 </div>
               </div>
 
               {/* Status bar */}
               <div>
-                <div className="flex justify-between text-xs font-semibold text-slate-600 mb-1.5">
-                  <span className="text-emerald-700 flex items-center gap-1">
-                    <span className="w-2.5 h-2.5 rounded-full bg-emerald-500 inline-block"></span>
+                <div className="flex justify-between text-xs font-semibold text-slate-600 dark:text-slate-400 mb-1.5">
+                  <span className="text-emerald-600 dark:text-emerald-400 flex items-center gap-1">
+                    <span className="w-2.5 h-2.5 rounded-full bg-emerald-500 inline-block" />
                     Đã làm: {answeredCount} câu
                   </span>
-                  <span className="text-rose-700 flex items-center gap-1">
-                    <span className="w-2.5 h-2.5 rounded-full bg-rose-500 inline-block"></span>
+                  <span className="text-rose-600 dark:text-rose-400 flex items-center gap-1">
+                    <span className="w-2.5 h-2.5 rounded-full bg-rose-500 inline-block" />
                     Chưa làm: {unansweredIndices.length} câu
                   </span>
                 </div>
-                <div className="w-full bg-slate-100 rounded-full h-2.5 overflow-hidden">
+                <div className="w-full bg-slate-100 dark:bg-slate-800 rounded-full h-2.5 overflow-hidden">
                   <div
                     className="bg-emerald-500 h-2.5 rounded-full transition-all duration-300"
                     style={{ width: `${(answeredCount / totalQuestions) * 100}%` }}
-                  ></div>
+                  />
                 </div>
               </div>
 
               {/* List of unanswered question numbers */}
               <div>
-                <label className="block text-xs font-bold text-slate-700 mb-2 uppercase tracking-wide">
+                <label className="block text-xs font-bold text-slate-700 dark:text-slate-300 mb-2 uppercase tracking-wide">
                   Danh sách {unansweredIndices.length} câu chưa chọn (Nhấp để nhảy đến câu):
                 </label>
-                <div className="max-h-44 overflow-y-auto p-2.5 bg-slate-50 border border-slate-200 rounded-xl grid grid-cols-6 sm:grid-cols-8 gap-2">
+                <div className="max-h-44 overflow-y-auto p-2.5 bg-slate-50 dark:bg-slate-950/50 border border-slate-200 dark:border-slate-800 rounded-xl grid grid-cols-6 sm:grid-cols-8 gap-2">
                   {unansweredIndices.map((idx) => (
                     <button
                       key={idx}
@@ -115,14 +115,14 @@ export const SubmitWarningModal: React.FC<SubmitWarningModalProps> = ({
                         onJumpToQuestion(idx);
                         onClose();
                       }}
-                      className="px-2 py-1.5 text-xs font-bold text-rose-700 bg-rose-100 hover:bg-rose-200 border border-rose-300 rounded-lg transition-transform active:scale-95 text-center shadow-xs"
+                      className="px-2 py-1.5 text-xs font-bold text-rose-700 dark:text-rose-300 bg-rose-100 dark:bg-rose-950/60 hover:bg-rose-200 dark:hover:bg-rose-900 border border-rose-300 dark:border-rose-800 rounded-lg transition-transform active:scale-95 text-center shadow-xs"
                       title={`Đến câu ${idx + 1}`}
                     >
                       Câu {idx + 1}
                     </button>
                   ))}
                 </div>
-                <p className="text-[11px] text-slate-400 mt-1 italic">
+                <p className="text-[11px] text-slate-400 dark:text-slate-500 mt-1 italic">
                   * Gợi ý: Bấm vào số câu trên để chuyển ngay tới câu đó và hoàn thành bài.
                 </p>
               </div>
@@ -131,7 +131,7 @@ export const SubmitWarningModal: React.FC<SubmitWarningModalProps> = ({
         </div>
 
         {/* Footer actions */}
-        <div className="px-6 py-4 bg-slate-50 border-t border-slate-100 flex flex-col sm:flex-row items-center justify-between gap-3">
+        <div className="px-6 py-4 bg-slate-50 dark:bg-slate-950/50 border-t border-slate-100 dark:border-slate-800 flex flex-col sm:flex-row items-center justify-between gap-3">
           {!isComplete ? (
             <>
               <button
@@ -148,7 +148,7 @@ export const SubmitWarningModal: React.FC<SubmitWarningModalProps> = ({
               </button>
               <button
                 onClick={onConfirmSubmit}
-                className="w-full sm:w-auto px-4 py-2 text-xs font-medium text-slate-400 hover:text-rose-600 hover:underline transition-colors"
+                className="w-full sm:w-auto px-4 py-2 text-xs font-medium text-slate-400 hover:text-rose-600 dark:hover:text-rose-400 hover:underline transition-colors"
                 title="Vẫn nộp bài dù chưa hoàn thành đầy đủ"
               >
                 Vẫn nộp bài ngay (Chấp nhận trừ điểm câu trống)
@@ -158,7 +158,7 @@ export const SubmitWarningModal: React.FC<SubmitWarningModalProps> = ({
             <>
               <button
                 onClick={onClose}
-                className="w-full sm:w-auto px-5 py-2.5 border border-slate-200 text-slate-700 hover:bg-slate-100 text-sm font-medium rounded-xl transition-colors"
+                className="w-full sm:w-auto px-5 py-2.5 border border-slate-200 dark:border-slate-700 text-slate-700 dark:text-slate-300 hover:bg-slate-100 dark:hover:bg-slate-800 text-sm font-medium rounded-xl transition-colors"
               >
                 Kiểm tra lại bài
               </button>
