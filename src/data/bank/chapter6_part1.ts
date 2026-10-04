@@ -5,16 +5,16 @@ const questions: Question[] = [
     "id": 16001,
     "chapterId": 6,
     "chapterName": "Chương 6: Luật Hình sự và Phòng, chống tham nhũng",
-    "question": "Theo Điều 22 Bộ luật Hình sự 2015, hành vi của người vì bảo vệ quyền hoặc lợi ích chính đáng của mình, của người khác hoặc lợi ích Nhà nước mà chống trả lại một cách cần thiết người đang có hành vi xâm phạm được gọi là gì?",
+    "question": "Theo Bộ luật Hình sự 2015, người từ đủ bao nhiêu tuổi trở lên phải chịu trách nhiệm hình sự về mọi tội phạm?",
     "options": [
-      "Sự kiện bất ngờ hoàn toàn được miễn hình phạt",
-      "Tình thế cấp thiết gây hậu quả nghiêm trọng",
-      "Phạm tội chưa đạt do nguyên nhân khách quan",
-      "Phòng vệ chính đáng (không phải là tội phạm)"
+      "Từ đủ 16 tuổi trở lên",
+      "Từ đủ 14 tuổi trở lên",
+      "Từ đủ 18 tuổi trở lên",
+      "Từ đủ 21 tuổi trở lên"
     ],
-    "correctAnswer": 3,
-    "explanation": "Khoản 1 Điều 22 Bộ luật Hình sự 2015 quy định: Phòng vệ chính đáng là hành vi của người vì bảo vệ quyền hoặc lợi ích chính đáng của mình, của người khác hoặc lợi ích của Nhà nước, của cơ quan, tổ chức mà chống trả lại một cách cần thiết người đang có hành vi xâm phạm. Phòng vệ chính đáng không phải là tội phạm.",
-    "legalReference": "Bộ luật Hình sự 2015, Điều 22",
+    "correctAnswer": 0,
+    "explanation": "Khoản 1 Điều 12 Bộ luật Hình sự 2015 quy định: Người từ đủ 16 tuổi trở lên phải chịu trách nhiệm hình sự về mọi tội phạm, trừ những tội phạm mà Bộ luật này có quy định khác.",
+    "legalReference": "Bộ luật Hình sự 2015, Điều 12",
     "difficulty": "dễ"
   },
   {
@@ -25,8 +25,8 @@ const questions: Question[] = [
     "options": [
       "3 loại tội phạm",
       "4 loại tội phạm (ít nghiêm trọng, nghiêm trọng, rất nghiêm trọng, đặc biệt nghiêm trọng)",
-      "5 loại tội phạm, do người phạm tội chưa gây ra hậu quả vật chất nguy hiểm và nghiêm trọng trên thực tế",
-      "2 loại tội phạm, khi hành vi nguy hiểm cho xã hội được thực hiện do bị xúi giục hoặc cưỡng bức tinh thần"
+      "5 loại tội phạm",
+      "2 loại tội phạm"
     ],
     "correctAnswer": 1,
     "explanation": "Khoản 1 Điều 9 Bộ luật Hình sự 2015 phân loại tội phạm thành 4 loại: tội phạm ít nghiêm trọng, tội phạm nghiêm trọng, tội phạm rất nghiêm trọng và tội phạm đặc biệt nghiêm trọng.",
@@ -53,16 +53,16 @@ const questions: Question[] = [
     "id": 16004,
     "chapterId": 6,
     "chapterName": "Chương 6: Luật Hình sự và Phòng, chống tham nhũng",
-    "question": "Hành vi của người vì muốn tránh gây thiệt hại cho quyền, lợi ích của Nhà nước, của mình hoặc người khác mà không còn cách nào khác là phải gây một thiệt hại nhỏ hơn thiệt hại cần ngăn ngừa được gọi là gì theo Bộ luật Hình sự?",
+    "question": "Theo Luật Phòng, chống tham nhũng 2018, tham nhũng là hành vi của đối tượng nào?",
     "options": [
-      "Tội thiếu trách nhiệm gây hậu quả nghiêm trọng",
-      "Phòng vệ chính đáng vượt quá giới hạn",
-      "Tình thế cấp thiết (không phải là tội phạm)",
-      "Tự ý nửa chừng chấm dứt việc phạm tội"
+      "Hành vi trộm cắp của mọi công dân trong xã hội",
+      "Hành vi gian lận thương mại của các doanh nghiệp tư nhân",
+      "Hành vi buôn lậu qua biên giới của các tổ chức tội phạm",
+      "Hành vi của người có chức vụ, quyền hạn đã lợi dụng chức vụ, quyền hạn đó vì vụ lợi"
     ],
-    "correctAnswer": 2,
-    "explanation": "Điều 23 Bộ luật Hình sự 2015 quy định: Tình thế cấp thiết là tình thế của người vì muốn tránh gây thiệt hại cho quyền, lợi ích của Nhà nước, của cơ quan, tổ chức, quyền, lợi ích chính đáng của mình hoặc của người khác mà không còn cách nào khác là phải gây một thiệt hại nhỏ hơn thiệt hại cần ngăn ngừa. Tình thế cấp thiết không phải là tội phạm.",
-    "legalReference": "Bộ luật Hình sự 2015, Điều 23",
+    "correctAnswer": 3,
+    "explanation": "Khoản 1 Điều 3 Luật Phòng, chống tham nhũng 2018 quy định: Tham nhũng là hành vi của người có chức vụ, quyền hạn đã lợi dụng chức vụ, quyền hạn đó vì vụ lợi.",
+    "legalReference": "Luật Phòng, chống tham nhũng 2018, Điều 3",
     "difficulty": "dễ"
   },
   {
@@ -71,12 +71,12 @@ const questions: Question[] = [
     "chapterName": "Chương 6: Luật Hình sự và Phòng, chống tham nhũng",
     "question": "Khách thể của tội phạm là gì theo lý luận luật hình sự Việt Nam?",
     "options": [
-      "Công cụ, phương tiện mà người phạm tội sử dụng để thực hiện hành vi",
       "Quan hệ xã hội được luật hình sự bảo vệ và bị tội phạm xâm hại hoặc đe dọa xâm hại",
-      "Địa điểm nơi xảy ra hành vi phạm tội trên thực tế, khi người phạm tội đã tự nguyện bồi thường đầy đủ toàn bộ thiệt hại trước khi xét xử",
-      "Tâm tư, nguyện vọng chủ quan của người thực hiện hành vi, nhằm bảo đảm tính răn đe, giáo dục riêng và phòng ngừa chung đối với xã hội"
+      "Công cụ, phương tiện mà người phạm tội sử dụng để thực hiện hành vi",
+      "Địa điểm nơi xảy ra hành vi phạm tội trên thực tế",
+      "Tâm tư, nguyện vọng chủ quan của người thực hiện hành vi"
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 0,
     "explanation": "Khách thể của tội phạm là quan hệ xã hội được luật hình sự xác lập và bảo vệ nhưng bị hành vi phạm tội xâm hại hoặc đe dọa xâm hại gây thiệt hại.",
     "legalReference": "Giáo trình Pháp luật đại cương & BLHS 2015, Điều 8",
     "difficulty": "dễ"
@@ -85,16 +85,16 @@ const questions: Question[] = [
     "id": 16006,
     "chapterId": 6,
     "chapterName": "Chương 6: Luật Hình sự và Phòng, chống tham nhũng",
-    "question": "Theo Điều 14 Bộ luật Hình sự 2015, hành vi tìm kiếm, sửa soạn công cụ, phương tiện hoặc tạo ra những điều kiện khác để thực hiện tội phạm được gọi là giai đoạn nào của tội phạm?",
+    "question": "Mặt khách quan của tội phạm bao gồm những yếu tố cơ bản nào?",
     "options": [
-      "Chuẩn bị phạm tội",
-      "Phạm tội chưa đạt đã hoàn thành",
-      "Tội phạm hoàn thành trên thực tế",
-      "Tự ý nửa chừng chấm dứt phạm tội"
+      "Động cơ và mục đích phạm tội của cá nhân",
+      "Hành vi nguy hiểm cho xã hội, hậu quả tác hại, mối quan hệ nhân quả, cùng thời gian, địa điểm, phương tiện phạm tội",
+      "Độ tuổi và khả năng nhận thức của người thực hiện hành vi",
+      "Hình phạt mà Tòa án dự kiến áp dụng cho bị cáo"
     ],
-    "correctAnswer": 0,
-    "explanation": "Khoản 1 Điều 14 Bộ luật Hình sự 2015 quy định: Chuẩn bị phạm tội là tìm kiếm, sửa soạn công cụ, phương tiện hoặc tạo ra những điều kiện khác để thực hiện tội phạm hoặc thành lập, tham gia nhóm tội phạm.",
-    "legalReference": "Bộ luật Hình sự 2015, Điều 14",
+    "correctAnswer": 1,
+    "explanation": "Mặt khách quan của tội phạm là biểu hiện bên ngoài của tội phạm, gồm hành vi nguy hiểm cho xã hội, hậu quả thiệt hại, mối quan hệ nhân quả giữa hành vi và hậu quả, phương tiện, công cụ, hoàn cảnh phạm tội.",
+    "legalReference": "Giáo trình Pháp luật đại cương - Cấu thành tội phạm",
     "difficulty": "dễ"
   },
   {
@@ -119,8 +119,8 @@ const questions: Question[] = [
     "chapterName": "Chương 6: Luật Hình sự và Phòng, chống tham nhũng",
     "question": "Hình phạt tử hình KHÔNG được áp dụng đối với đối tượng nào sau đây?",
     "options": [
-      "Người phạm tội cướp tài sản có tổ chức, do có tình tiết tăng nặng trách nhiệm hình sự tái phạm nguy hiểm theo luật định",
-      "Người nước ngoài phạm tội trên lãnh thổ Việt Nam, khi người có chức vụ quyền hạn đã chủ động nộp lại toàn bộ tài sản bất minh",
+      "Người phạm tội cướp tài sản có tổ chức",
+      "Người nước ngoài phạm tội trên lãnh thổ Việt Nam",
       "Người phạm tội có nhiều tiền án tiền sự",
       "Người dưới 18 tuổi khi phạm tội, phụ nữ có thai hoặc đang nuôi con dưới 36 tháng tuổi khi phạm tội hoặc khi xét xử"
     ],
@@ -133,16 +133,16 @@ const questions: Question[] = [
     "id": 16009,
     "chapterId": 6,
     "chapterName": "Chương 6: Luật Hình sự và Phòng, chống tham nhũng",
-    "question": "Cố ý thực hiện tội phạm nhưng không thực hiện được đến cùng vì những nguyên nhân ngoài ý muốn của người phạm tội được gọi là gì theo Điều 15 BLHS 2015?",
+    "question": "Tội phạm ít nghiêm trọng là tội phạm có tính chất và mức độ nguy hiểm cho xã hội không lớn mà mức cao nhất của khung hình phạt là:",
     "options": [
-      "Phạm tội chưa đạt",
-      "Chuẩn bị phạm tội",
-      "Tự ý nửa chừng chấm dứt việc phạm tội",
-      "Tội phạm đã hoàn thành"
+      "Phạt tiền, phạt cải tạo không giam giữ hoặc phạt tù đến 03 năm",
+      "Phạt tù từ trên 03 năm đến 07 năm",
+      "Phạt tù từ trên 07 năm đến 15 năm",
+      "Phạt tù từ 15 năm đến 20 năm"
     ],
     "correctAnswer": 0,
-    "explanation": "Điều 15 Bộ luật Hình sự 2015: Phạm tội chưa đạt là cố ý thực hiện tội phạm nhưng không thực hiện được đến cùng vì những nguyên nhân ngoài ý muốn của người phạm tội.",
-    "legalReference": "Bộ luật Hình sự 2015, Điều 15",
+    "explanation": "Điểm a khoản 1 Điều 9 Bộ luật Hình sự 2015 quy định tội phạm ít nghiêm trọng có mức cao nhất của khung hình phạt do Bộ luật này quy định là phạt tiền, phạt cải tạo không giam giữ hoặc phạt tù đến 03 năm.",
+    "legalReference": "Bộ luật Hình sự 2015, Điều 9",
     "difficulty": "dễ"
   },
   {
@@ -165,16 +165,16 @@ const questions: Question[] = [
     "id": 16011,
     "chapterId": 6,
     "chapterName": "Chương 6: Luật Hình sự và Phòng, chống tham nhũng",
-    "question": "Theo khoản 6 Điều 364 Bộ luật Hình sự 2015, người nào đưa hoặc sẽ đưa hối lộ cho người có chức vụ, quyền hạn trong các doanh nghiệp, tổ chức NGOÀI NHÀ NƯỚC thì bị xử lý như thế nào?",
+    "question": "Hành vi nào sau đây là hành vi tham nhũng trong khu vực nhà nước theo Luật Phòng, chống tham nhũng 2018?",
     "options": [
-      "Vẫn bị truy cứu trách nhiệm hình sự về Tội đưa hối lộ theo quy định của điều luật",
-      "Không bị truy cứu trách nhiệm hình sự vì chỉ áp dụng cho khu vực nhà nước, do hành vi vi phạm được thực hiện trong tình trạng tinh thần bị kích động mạnh",
-      "Chỉ bị phạt vi phạm hành chính nhắc nhở tại phường xã, khi cơ quan điều tra chưa có đủ chứng cứ vững chắc để chứng minh yếu tố cấu thành tội phạm",
-      "Tự động được miễn mọi hình phạt nếu đối tác là công ty tư nhân"
+      "Trốn đóng bảo hiểm xã hội cho người lao động",
+      "Kinh doanh hàng hóa không rõ nguồn gốc xuất xứ",
+      "Tham ô tài sản, nhận hối lộ, lạm dụng chức vụ quyền hạn chiếm đoạt tài sản",
+      "Vi phạm quy định về an toàn giao thông đường bộ"
     ],
-    "correctAnswer": 0,
-    "explanation": "Khoản 6 Điều 364 Bộ luật Hình sự 2015 quy định rõ: Người nào đưa hoặc sẽ đưa hối lộ cho người có chức vụ, quyền hạn trong các doanh nghiệp, tổ chức ngoài nhà nước cũng bị xử lý hình sự theo Tội đưa hối lộ.",
-    "legalReference": "Bộ luật Hình sự 2015, Điều 364",
+    "correctAnswer": 2,
+    "explanation": "Khoản 1 Điều 2 Luật Phòng, chống tham nhũng 2018 quy định các hành vi tham nhũng trong khu vực nhà nước bao gồm tham ô tài sản, nhận hối lộ, lạm dụng chức vụ, quyền hạn chiếm đoạt tài sản...",
+    "legalReference": "Luật Phòng, chống tham nhũng 2018, Điều 2",
     "difficulty": "dễ"
   },
   {
@@ -183,7 +183,7 @@ const questions: Question[] = [
     "chapterName": "Chương 6: Luật Hình sự và Phòng, chống tham nhũng",
     "question": "Hình phạt bổ sung nào sau đây chỉ áp dụng đối với người nước ngoài phạm tội tại Việt Nam?",
     "options": [
-      "Cấm hành nghề hoặc làm công việc nhất định, do người phạm tội chưa gây ra hậu quả vật chất nguy hiểm và nghiêm trọng trên thực tế",
+      "Cấm hành nghề hoặc làm công việc nhất định",
       "Cải tạo không giam giữ",
       "Tước quyền công dân",
       "Trục xuất (khi được áp dụng là hình phạt bổ sung)"
@@ -197,16 +197,16 @@ const questions: Question[] = [
     "id": 16013,
     "chapterId": 6,
     "chapterName": "Chương 6: Luật Hình sự và Phòng, chống tham nhũng",
-    "question": "Theo Điều 60 Bộ luật Hình sự 2015, thời hiệu thi hành bản án hình sự là gì?",
+    "question": "Tội phạm rất nghiêm trọng là tội phạm có mức cao nhất của khung hình phạt do Bộ luật Hình sự quy định là:",
     "options": [
-      "Thời hạn do Bộ luật Hình sự quy định mà khi hết thời hạn đó người bị kết án không phải chấp hành bản án đã tuyên",
-      "Thời hạn Tòa án mở phiên tòa phúc thẩm kể từ ngày nhận hồ sơ, khi người phạm tội đã tự nguyện bồi thường đầy đủ toàn bộ thiệt hại trước khi xét xử",
-      "Thời hạn tạm giam bị can để điều tra vụ án hình sự, nhằm bảo đảm tính răn đe, giáo dục riêng và phòng ngừa chung đối với xã hội",
-      "Thời hạn công dân nộp đơn yêu cầu bồi thường oan sai"
+      "Từ trên 07 năm tù đến 15 năm tù",
+      "Phạt tù đến 03 năm",
+      "Từ trên 03 năm tù đến 07 năm tù",
+      "Từ trên 15 năm tù đến 20 năm tù, tù chung thân hoặc tử hình"
     ],
     "correctAnswer": 0,
-    "explanation": "Khoản 1 Điều 60 Bộ luật Hình sự 2015 quy định: Thời hiệu thi hành bản án hình sự là thời hạn do Bộ luật này quy định mà khi hết thời hạn đó người bị kết án, pháp nhân thương mại bị kết án không phải chấp hành bản án đã tuyên.",
-    "legalReference": "Bộ luật Hình sự 2015, Điều 60",
+    "explanation": "Điểm c khoản 1 Điều 9 Bộ luật Hình sự 2015 quy định tội phạm rất nghiêm trọng có mức cao nhất của khung hình phạt là từ trên 07 năm tù đến 15 năm tù.",
+    "legalReference": "Bộ luật Hình sự 2015, Điều 9",
     "difficulty": "dễ"
   },
   {
@@ -217,8 +217,8 @@ const questions: Question[] = [
     "options": [
       "Chỉ bao gồm tiền mặt gửi tiết kiệm tại ngân hàng",
       "Quyền sử dụng đất, nhà ở, công trình xây dựng và tài sản khác gắn liền với đất; kim khí quý, đá quý, tiền, giấy tờ có giá và tài sản khác có giá trị từ 50 triệu đồng trở lên",
-      "Chỉ gồm phương tiện xe ô tô đứng tên cá nhân, do có tình tiết tăng nặng trách nhiệm hình sự tái phạm nguy hiểm theo luật định",
-      "Mọi đồ dùng sinh hoạt cá nhân trong gia đình, khi người có chức vụ quyền hạn đã chủ động nộp lại toàn bộ tài sản bất minh"
+      "Chỉ gồm phương tiện xe ô tô đứng tên cá nhân",
+      "Mọi đồ dùng sinh hoạt cá nhân trong gia đình"
     ],
     "correctAnswer": 1,
     "explanation": "Điều 35 Luật Phòng, chống tham nhũng 2018 quy định tài sản, thu nhập phải kê khai bao gồm quyền sử dụng đất, nhà ở, kim khí quý, đá quý, tiền, giấy tờ có giá từ 50.000.000 đồng trở lên và tài sản ở nước ngoài.",
@@ -231,10 +231,10 @@ const questions: Question[] = [
     "chapterName": "Chương 6: Luật Hình sự và Phòng, chống tham nhũng",
     "question": "Người chuẩn bị phạm tội đối với tội phạm nào sau đây thì phải chịu trách nhiệm hình sự?",
     "options": [
-      "Mọi tội phạm ít nghiêm trọng, khi cơ quan điều tra chưa có đủ chứng cứ vững chắc để chứng minh yếu tố cấu thành tội phạm",
+      "Mọi tội phạm ít nghiêm trọng",
       "Tội phạm do vô ý gây ra",
       "Một số tội phạm rất nghiêm trọng hoặc tội phạm đặc biệt nghiêm trọng được quy định cụ thể tại Điều 14 Bộ luật Hình sự",
-      "Tất cả các tội phạm không phân biệt mức độ nghiêm trọng, do hành vi vi phạm được thực hiện trong tình trạng tinh thần bị kích động mạnh"
+      "Tất cả các tội phạm không phân biệt mức độ nghiêm trọng"
     ],
     "correctAnswer": 2,
     "explanation": "Khoản 2 Điều 14 Bộ luật Hình sự 2015 quy định người chuẩn bị phạm tội quy định tại một trong các điều luật được liệt kê (thuộc nhóm rất nghiêm trọng hoặc đặc biệt nghiêm trọng) mới phải chịu trách nhiệm hình sự.",
@@ -309,16 +309,16 @@ const questions: Question[] = [
     "id": 16020,
     "chapterId": 6,
     "chapterName": "Chương 6: Luật Hình sự và Phòng, chống tham nhũng",
-    "question": "Hình phạt nào sau đây chỉ được áp dụng là hình phạt bổ sung đối với cá nhân phạm tội theo quy định của Bộ luật Hình sự 2015?",
+    "question": "Thời hiệu truy cứu trách nhiệm hình sự đối với tội phạm ít nghiêm trọng là bao nhiêu năm?",
     "options": [
-      "Cảnh cáo",
-      "Phạt tiền",
-      "Cải tạo không giam giữ",
-      "Tước một số quyền công dân"
+      "02 năm",
+      "10 năm",
+      "15 năm",
+      "05 năm"
     ],
     "correctAnswer": 3,
-    "explanation": "Theo khoản 2 Điều 32 Bộ luật Hình sự 2015, Tước một số quyền công dân (Điều 44) là hình phạt chỉ được áp dụng là hình phạt bổ sung; trong khi Cảnh cáo, Cải tạo không giam giữ là hình phạt chính, còn Phạt tiền có thể là hình phạt chính hoặc hình phạt bổ sung.",
-    "legalReference": "Bộ luật Hình sự 2015, Điều 32 (khoản 2) & Điều 44",
+    "explanation": "Điểm a khoản 2 Điều 27 Bộ luật Hình sự 2015 quy định thời hiệu truy cứu trách nhiệm hình sự là 05 năm đối với tội phạm ít nghiêm trọng.",
+    "legalReference": "Bộ luật Hình sự 2015, Điều 27",
     "difficulty": "dễ"
   },
   {
@@ -439,12 +439,12 @@ const questions: Question[] = [
     "chapterName": "Chương 6: Luật Hình sự và Phòng, chống tham nhũng",
     "question": "Lỗi cố ý trực tiếp được xác định khi người phạm tội nhận thức và mong muốn hậu quả như thế nào?",
     "options": [
-      "Không thấy trước hành vi của mình có thể gây hậu quả nguy hại mặc dù phải thấy trước và có thể thấy trước",
+      "Nhận thức rõ hành vi của mình là nguy hiểm cho xã hội, thấy trước hậu quả và mong muốn hậu quả đó xảy ra",
       "Nhận thức hành vi nguy hiểm, thấy trước hậu quả, không mong muốn nhưng có ý thức để mặc cho hậu quả xảy ra",
       "Tuy thấy trước hành vi có thể gây hậu quả nhưng cho rằng hậu quả sẽ không xảy ra hoặc có thể ngăn ngừa được",
-      "Nhận thức rõ hành vi của mình là nguy hiểm cho xã hội, thấy trước hậu quả và mong muốn hậu quả đó xảy ra"
+      "Không thấy trước hành vi của mình có thể gây hậu quả nguy hại mặc dù phải thấy trước và có thể thấy trước"
     ],
-    "correctAnswer": 3,
+    "correctAnswer": 0,
     "explanation": "Khoản 1 Điều 10 Bộ luật Hình sự 2015 quy định Cố ý phạm tội trực tiếp là trường hợp người phạm tội nhận thức rõ hành vi của mình là nguy hiểm cho xã hội, thấy trước hậu quả của hành vi đó và mong muốn hậu quả xảy ra.",
     "legalReference": "Bộ luật Hình sự 2015, Điều 10",
     "difficulty": "trung bình"
@@ -457,8 +457,8 @@ const questions: Question[] = [
     "options": [
       "Người phạm tội mong muốn hậu quả nguy hại xảy ra",
       "Người phạm tội không thấy trước hành vi của mình có thể gây ra hậu quả nguy hại cho xã hội, mặc dù phải thấy trước và có thể thấy trước hậu quả đó",
-      "Người phạm tội cố tình bỏ mặc hậu quả đến đâu thì đến, do người phạm tội chưa gây ra hậu quả vật chất nguy hiểm và nghiêm trọng trên thực tế",
-      "Người phạm tội đã có bàn bạc, phân công vai trò từ trước với đồng bọn, khi hành vi nguy hiểm cho xã hội được thực hiện do bị xúi giục hoặc cưỡng bức tinh thần"
+      "Người phạm tội cố tình bỏ mặc hậu quả đến đâu thì đến",
+      "Người phạm tội đã có bàn bạc, phân công vai trò từ trước với đồng bọn"
     ],
     "correctAnswer": 1,
     "explanation": "Khoản 2 Điều 11 Bộ luật Hình sự 2015 quy định vô ý vì cẩu thả là trường hợp người phạm tội không thấy trước hành vi của mình có thể gây ra hậu quả nguy hại cho xã hội, mặc dù phải thấy trước và có thể thấy trước hậu quả đó.",
@@ -471,10 +471,10 @@ const questions: Question[] = [
     "chapterName": "Chương 6: Luật Hình sự và Phòng, chống tham nhũng",
     "question": "Người bị ép buộc phải thực hiện hành vi vi phạm pháp luật hình sự do bị cưỡng bức thân thể đến mức mất hoàn toàn khả năng tự do ý chí và hành động thì:",
     "options": [
-      "Vẫn phải chịu trách nhiệm hình sự đầy đủ như trường hợp bình thường, nhằm bảo đảm tính răn đe, giáo dục riêng và phòng ngừa chung đối với xã hội",
+      "Vẫn phải chịu trách nhiệm hình sự đầy đủ như trường hợp bình thường",
       "Chỉ được giảm một nửa mức hình phạt tù",
       "Không phải chịu trách nhiệm hình sự vì hành vi không do ý chí tự do của họ quyết định",
-      "Bắt buộc phải áp dụng biện pháp đưa vào trường giáo dưỡng, khi người phạm tội đã tự nguyện bồi thường đầy đủ toàn bộ thiệt hại trước khi xét xử"
+      "Bắt buộc phải áp dụng biện pháp đưa vào trường giáo dưỡng"
     ],
     "correctAnswer": 2,
     "explanation": "Lý luận luật hình sự và quy định pháp luật: Cưỡng bức thân thể làm triệt tiêu hoàn toàn khả năng ý chí và hành vi thì người bị cưỡng bức không có lỗi, do đó không cấu thành tội phạm và không chịu trách nhiệm hình sự.",

@@ -42,7 +42,7 @@ const questions: Question[] = [
       "Không quá 5 tháng lương tối thiểu vùng",
       "Không quá 20 triệu đồng",
       "Không quá 10 tháng lương tối thiểu vùng do Chính phủ công bố",
-      "Không quá 50 triệu đồng, trừ trường hợp nội quy lao động hợp pháp của doanh nghiệp có quy định hình thức xử lý khác"
+      "Không quá 50 triệu đồng"
     ],
     "correctAnswer": 2,
     "explanation": "Khoản 1 Điều 129 Bộ luật Lao động 2019 quy định trường hợp gây thiệt hại không nghiêm trọng do sơ suất với giá trị không quá 10 tháng lương tối thiểu vùng do Chính phủ công bố thì người lao động phải bồi thường nhiều nhất là 03 tháng tiền lương và bị khấu trừ hằng tháng.",
@@ -72,8 +72,8 @@ const questions: Question[] = [
     "question": "Trường hợp người lao động bị sa thải trái pháp luật nhưng người lao động không muốn trở lại làm việc thì ngoài các khoản tiền phải bồi thường theo Điều 41 BLLĐ, người sử dụng lao động còn phải trả khoản tiền nào?",
     "options": [
       "Trợ cấp thôi việc theo quy định tại Điều 46 của Bộ luật Lao động để chấm dứt hợp đồng lao động",
-      "Trợ cấp thất nghiệp trọn đời, khi người sử dụng lao động đã báo trước cho người lao động đủ thời hạn luật định",
-      "Tiền thưởng 01 năm lương cơ sở, do người lao động tự ý bỏ việc nhiều ngày liên tục mà không có lý do chính đáng",
+      "Trợ cấp thất nghiệp trọn đời",
+      "Tiền thưởng 01 năm lương cơ sở",
       "Tiền mua bảo hiểm nhân thọ 10 năm"
     ],
     "correctAnswer": 0,
@@ -89,7 +89,7 @@ const questions: Question[] = [
     "options": [
       "Trong thời hạn 05 ngày làm việc",
       "Trong thời hạn 10 ngày kể từ ngày ban hành nội quy lao động",
-      "Trong thời hạn 15 ngày kể từ ngày ban hành, sau khi đã trao đổi ý kiến chính thức với tổ chức đại diện người lao động tại cơ sở",
+      "Trong thời hạn 15 ngày kể từ ngày ban hành",
       "Trong thời hạn 30 ngày kể từ ngày ban hành"
     ],
     "correctAnswer": 1,
@@ -120,8 +120,8 @@ const questions: Question[] = [
     "question": "Trường hợp nào sau đây người sử dụng lao động KHÔNG PHẢI trả trợ cấp thôi việc cho người lao động khi chấm dứt hợp đồng lao động?",
     "options": [
       "Người lao động đủ điều kiện hưởng lương hưu theo quy định của pháp luật về bảo hiểm xã hội; hoặc người lao động bị sa thải theo quy định của Bộ luật Lao động",
-      "Hai bên tự nguyện thỏa thuận chấm dứt hợp đồng lao động, do người sử dụng lao động thay đổi cơ cấu tổ chức, công nghệ hoặc vì lý do kinh tế",
-      "Hợp đồng lao động xác định thời hạn hết hạn mà không ký tiếp, khi hợp đồng lao động đã được hai bên tự nguyện giao kết bằng văn bản theo luật định",
+      "Hai bên tự nguyện thỏa thuận chấm dứt hợp đồng lao động",
+      "Hợp đồng lao động xác định thời hạn hết hạn mà không ký tiếp",
       "Doanh nghiệp chấm dứt hoạt động giải thể"
     ],
     "correctAnswer": 0,
@@ -135,10 +135,10 @@ const questions: Question[] = [
     "chapterName": "Chương 9: Pháp luật Lao động",
     "question": "Tiền lương làm căn cứ để tính trả trợ cấp thôi việc, trợ cấp mất việc làm cho người lao động là:",
     "options": [
-      "Mức lương tối thiểu vùng do Chính phủ quy định trừ trường hợp cơ quan nhà nước có thẩm quyền có văn bản khác",
+      "Mức lương tối thiểu vùng do Chính phủ quy định",
       "Tiền lương bình quân của 06 tháng liền kề theo hợp đồng lao động trước khi người lao động thôi việc, mất việc làm",
-      "Mức lương tháng đầu tiên khi người lao động vào làm việc, trừ trường hợp nội quy lao động hợp pháp của doanh nghiệp có quy định hình thức xử lý khác",
-      "Tiền lương của tháng làm việc cao nhất trong năm, nhằm bảo vệ quyền lợi việc làm bền vững và bảo đảm an toàn vệ sinh cho người lao động"
+      "Mức lương tháng đầu tiên khi người lao động vào làm việc",
+      "Tiền lương của tháng làm việc cao nhất trong năm"
     ],
     "correctAnswer": 1,
     "explanation": "Khoản 3 Điều 46 và khoản 3 Điều 47 Bộ luật Lao động 2019 quy định tiền lương để tính trợ cấp thôi việc, mất việc làm là tiền lương bình quân của 06 tháng liền kề theo hợp đồng lao động trước khi người lao động thôi việc, mất việc làm.",
@@ -151,10 +151,10 @@ const questions: Question[] = [
     "chapterName": "Chương 9: Pháp luật Lao động",
     "question": "Hành vi nào sau đây vi phạm quy định về nguyên tắc trả lương cho người lao động theo Điều 94 Bộ luật Lao động 2019?",
     "options": [
-      "Trả lương bằng tiền mặt trực tiếp cho người lao động, do người lao động tự ý bỏ việc nhiều ngày liên tục mà không có lý do chính đáng",
+      "Trả lương bằng tiền mặt trực tiếp cho người lao động",
       "Trả lương qua tài khoản ngân hàng cá nhân của người lao động",
       "Người sử dụng lao động can thiệp vào quyền tự quyết chi tiêu lương của người lao động; ép buộc người lao động chi tiêu lương vào việc mua hàng hóa, sử dụng dịch vụ của người sử dụng lao động hoặc của đơn vị khác do người sử dụng lao động chỉ định",
-      "Cung cấp bảng kê trả lương chi tiết hàng tháng cho người lao động, khi người sử dụng lao động đã báo trước cho người lao động đủ thời hạn luật định"
+      "Cung cấp bảng kê trả lương chi tiết hàng tháng cho người lao động"
     ],
     "correctAnswer": 2,
     "explanation": "Khoản 2 Điều 94 Bộ luật Lao động 2019 quy định người sử dụng lao động không được hạn chế hoặc can thiệp vào quyền tự quyết chi tiêu lương của người lao động; không được ép buộc người lao động chi tiêu lương vào việc mua hàng hóa, sử dụng dịch vụ của mình hoặc của đơn vị khác chỉ định.",
@@ -231,8 +231,8 @@ const questions: Question[] = [
     "chapterName": "Chương 9: Pháp luật Lao động",
     "question": "Trường hợp trả lương chậm từ 15 ngày trở lên thì người sử dụng lao động phải đền bù cho người lao động một khoản tiền:",
     "options": [
-      "Cố định 500.000 đồng/ngày, sau khi đã trao đổi ý kiến chính thức với tổ chức đại diện người lao động tại cơ sở",
-      "Bằng 50% tiền lương của tháng đó, khi người lao động đã được đào tạo bồi dưỡng nâng cao tay nghề nhưng vẫn không đáp ứng yêu cầu",
+      "Cố định 500.000 đồng/ngày",
+      "Bằng 50% tiền lương của tháng đó",
       "Tùy lòng hảo tâm của người sử dụng lao động",
       "Ít nhất bằng số tiền lãi của số tiền trả chậm tính theo lãi suất huy động tiền gửi có kỳ hạn 01 tháng do ngân hàng nơi người sử dụng lao động mở tài khoản trả lương công bố tại thời điểm trả lương"
     ],
@@ -248,8 +248,8 @@ const questions: Question[] = [
     "question": "Người sử dụng lao động được sử dụng người lao động làm thêm giờ trong các trường hợp đặc biệt không bị giới hạn số giờ làm thêm (vào bất kỳ ngày nào) khi nào?",
     "options": [
       "Thực hiện lệnh động viên, huy động bảo đảm nhiệm vụ quốc phòng, an ninh; thực hiện các công việc nhằm bảo vệ tính mạng con người, tài sản của cơ quan, tổ chức, cá nhân trong phòng ngừa, khắc phục hậu quả thiên tai, hỏa hoạn, dịch bệnh nguy hiểm",
-      "Khi có đơn hàng gấp của đối tác nước ngoài để tăng lợi nhuận công ty, do người sử dụng lao động thay đổi cơ cấu tổ chức, công nghệ hoặc vì lý do kinh tế",
-      "Khi công ty muốn hoàn thành kế hoạch trước Tết Nguyên đán, khi hợp đồng lao động đã được hai bên tự nguyện giao kết bằng văn bản theo luật định",
+      "Khi có đơn hàng gấp của đối tác nước ngoài để tăng lợi nhuận công ty",
+      "Khi công ty muốn hoàn thành kế hoạch trước Tết Nguyên đán",
       "Khi Giám đốc công ty yêu cầu toàn bộ nhân viên tăng ca"
     ],
     "correctAnswer": 0,
@@ -265,8 +265,8 @@ const questions: Question[] = [
     "options": [
       "Không quá 150 giờ trong 01 năm",
       "Không quá 200 giờ trong 01 năm (trừ một số ngành nghề, công việc được làm thêm không quá 300 giờ)",
-      "Không quá 400 giờ trong 01 năm, trừ trường hợp nội quy lao động hợp pháp của doanh nghiệp có quy định hình thức xử lý khác",
-      "Không quá 500 giờ trong 01 năm, nhằm bảo vệ quyền lợi việc làm bền vững và bảo đảm an toàn vệ sinh cho người lao động"
+      "Không quá 400 giờ trong 01 năm",
+      "Không quá 500 giờ trong 01 năm"
     ],
     "correctAnswer": 1,
     "explanation": "Điểm c khoản 2 Điều 107 Bộ luật Lao động 2019 quy định số giờ làm thêm không quá 200 giờ trong 01 năm, trừ trường hợp quy định tại khoản 3 Điều này được làm thêm không quá 300 giờ.",
@@ -295,7 +295,7 @@ const questions: Question[] = [
     "chapterName": "Chương 9: Pháp luật Lao động",
     "question": "Người lao động nước ngoài làm việc tại Việt Nam theo hợp đồng lao động có thời hạn tối đa của giấy phép lao động là bao lâu?",
     "options": [
-      "Không quá 01 năm, khi người sử dụng lao động đã báo trước cho người lao động đủ thời hạn luật định",
+      "Không quá 01 năm",
       "Không quá 03 năm",
       "Không quá 05 năm",
       "Không quá 02 năm và chỉ được gia hạn một lần với thời hạn tối đa 02 năm"
@@ -312,8 +312,8 @@ const questions: Question[] = [
     "question": "Hội đồng trọng tài lao động giải quyết tranh chấp lao động có thẩm quyền giải quyết khi nào?",
     "options": [
       "Khi có sự đồng thuận yêu cầu của cả hai bên tranh chấp và vụ việc đã qua hòa giải không thành (hoặc hết thời hạn hòa giải mà hòa giải viên không tiến hành)",
-      "Chỉ khi có chỉ thị bắt buộc của Tòa án nhân dân tối cao, sau khi đã trao đổi ý kiến chính thức với tổ chức đại diện người lao động tại cơ sở",
-      "Khi người sử dụng lao động tự ý nộp đơn yêu cầu một mình, khi người lao động đã được đào tạo bồi dưỡng nâng cao tay nghề nhưng vẫn không đáp ứng yêu cầu",
+      "Chỉ khi có chỉ thị bắt buộc của Tòa án nhân dân tối cao",
+      "Khi người sử dụng lao động tự ý nộp đơn yêu cầu một mình",
       "Khi công an cấp tỉnh chuyển hồ sơ yêu cầu trọng tài xử phạt"
     ],
     "correctAnswer": 0,
@@ -343,10 +343,10 @@ const questions: Question[] = [
     "chapterName": "Chương 9: Pháp luật Lao động",
     "question": "Khi giải quyết tranh chấp lao động tập thể về lợi ích, nếu hòa giải không thành thì tổ chức đại diện người lao động có quyền thực hiện thủ tục nào?",
     "options": [
-      "Lập tức đập phá máy móc của nhà máy, khi hợp đồng lao động đã được hai bên tự nguyện giao kết bằng văn bản theo luật định",
+      "Lập tức đập phá máy móc của nhà máy",
       "Tự ý bắt giữ giám đốc doanh nghiệp",
       "Yêu cầu Hội đồng trọng tài lao động giải quyết hoặc tiến hành thủ tục đình công theo quy định của pháp luật",
-      "Khởi kiện ra Tòa án hình sự, do người sử dụng lao động thay đổi cơ cấu tổ chức, công nghệ hoặc vì lý do kinh tế"
+      "Khởi kiện ra Tòa án hình sự"
     ],
     "correctAnswer": 2,
     "explanation": "Khoản 1 Điều 195 Bộ luật Lao động 2019 quy định trường hợp hòa giải không thành đối với tranh chấp lao động tập thể về lợi ích thì các bên có quyền yêu cầu Hội đồng trọng tài lao động hoặc tổ chức đại diện NLĐ tiến hành thủ tục đình công.",
@@ -359,8 +359,8 @@ const questions: Question[] = [
     "chapterName": "Chương 9: Pháp luật Lao động",
     "question": "Cuộc đình công bị coi là BẤT HỢP PHÁP trong trường hợp nào sau đây theo Điều 204 Bộ luật Lao động 2019?",
     "options": [
-      "Được tổ chức bởi tổ chức đại diện người lao động có quyền tại cơ sở, trừ trường hợp nội quy lao động hợp pháp của doanh nghiệp có quy định hình thức xử lý khác",
-      "Phát sinh từ tranh chấp lao động tập thể về lợi ích, nhằm bảo vệ quyền lợi việc làm bền vững và bảo đảm an toàn vệ sinh cho người lao động",
+      "Được tổ chức bởi tổ chức đại diện người lao động có quyền tại cơ sở",
+      "Phát sinh từ tranh chấp lao động tập thể về lợi ích",
       "Đã lấy ý kiến của trên 50% người lao động đồng ý đình công",
       "Không thuộc trường hợp được đình công; không do tổ chức đại diện người lao động có quyền tổ chức và lãnh đạo; vi phạm các quy định về trình tự, thủ tục tiến hành đình công; hoặc tiến hành đình công tại nơi cấm đình công"
     ],
@@ -393,8 +393,8 @@ const questions: Question[] = [
     "options": [
       "Ngay khi nhận được thông báo đình công của công đoàn",
       "Do người lao động đình công không tuân thủ quy định hoặc do việc đình công có nguy cơ gây thiệt hại nghiêm trọng đến tài sản của người sử dụng lao động",
-      "Bất kỳ lúc nào người sử dụng lao động muốn để phản đối người lao động, khi người sử dụng lao động đã báo trước cho người lao động đủ thời hạn luật định",
-      "Khi chưa có thông báo thời điểm bắt đầu đình công, do người lao động tự ý bỏ việc nhiều ngày liên tục mà không có lý do chính đáng"
+      "Bất kỳ lúc nào người sử dụng lao động muốn để phản đối người lao động",
+      "Khi chưa có thông báo thời điểm bắt đầu đình công"
     ],
     "correctAnswer": 1,
     "explanation": "Điều 206 Bộ luật Lao động 2019 quy định người sử dụng lao động có quyền đóng cửa tạm thời nơi làm việc trong cuộc đình công nếu xét thấy không có đủ điều kiện để duy trì hoạt động bình thường hoặc để bảo vệ tài sản.",
@@ -407,10 +407,10 @@ const questions: Question[] = [
     "chapterName": "Chương 9: Pháp luật Lao động",
     "question": "Tiền lương ngừng việc trong trường hợp phải ngừng việc do lỗi của người lao động được quy định thế nào?",
     "options": [
-      "Được trả đủ 100% tiền lương theo hợp đồng, khi người lao động đã được đào tạo bồi dưỡng nâng cao tay nghề nhưng vẫn không đáp ứng yêu cầu",
+      "Được trả đủ 100% tiền lương theo hợp đồng",
       "Được trả 50% tiền lương theo hợp đồng",
       "Người lao động không được trả lương; những người lao động khác trong cùng đơn vị phải ngừng việc thì được trả lương theo mức do hai bên thỏa thuận nhưng không thấp hơn mức lương tối thiểu",
-      "Được hưởng trợ cấp bảo hiểm xã hội chi trả thay, sau khi đã trao đổi ý kiến chính thức với tổ chức đại diện người lao động tại cơ sở"
+      "Được hưởng trợ cấp bảo hiểm xã hội chi trả thay"
     ],
     "correctAnswer": 2,
     "explanation": "Khoản 2 Điều 99 Bộ luật Lao động 2019 quy định nếu do lỗi của người lao động thì người đó không được trả lương; những người lao động khác trong cùng đơn vị phải ngừng việc thì được trả lương theo mức do hai bên thỏa thuận.",
@@ -423,12 +423,12 @@ const questions: Question[] = [
     "chapterName": "Chương 9: Pháp luật Lao động",
     "question": "Khi hợp đồng lao động chấm dứt, người sử dụng lao động có trách nhiệm nào sau đây đối với sổ bảo hiểm xã hội của người lao động?",
     "options": [
-      "Hoàn thành thủ tục xác nhận thời gian đóng bảo hiểm xã hội, bảo hiểm thất nghiệp và trả lại cùng với bản chính giấy tờ khác nếu đã giữ của người lao động",
       "Được giữ lại sổ bảo hiểm xã hội nếu người lao động còn nợ tiền công ty",
       "Hủy bỏ sổ bảo hiểm xã hội cũ để người lao động làm sổ mới ở nơi khác",
-      "Bàn giao sổ bảo hiểm xã hội cho cơ quan bảo hiểm lưu trữ"
+      "Bàn giao sổ bảo hiểm xã hội cho công an cấp huyện lưu trữ",
+      "Hoàn thành thủ tục xác nhận thời gian đóng bảo hiểm xã hội, bảo hiểm thất nghiệp và trả lại cùng với bản chính giấy tờ khác nếu đã giữ của người lao động"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "explanation": "Khoản 1 Điều 48 Bộ luật Lao động 2019 quy định người sử dụng lao động có trách nhiệm hoàn thành thủ tục xác nhận thời gian đóng BHXH, BHTN và trả lại cùng với bản chính giấy tờ khác nếu đã giữ của người lao động.",
     "legalReference": "Bộ luật Lao động 2019, Điều 48",
     "difficulty": "trung bình"

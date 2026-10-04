@@ -7,12 +7,12 @@ const questions: Question[] = [
     "chapterName": "Chương 3: Bộ máy Nhà nước Cộng hòa XHCN Việt Nam",
     "question": "Cơ quan nào sau đây là cơ quan đại biểu cao nhất của Nhân dân và là cơ quan quyền lực nhà nước cao nhất của nước Cộng hòa XHCN Việt Nam?",
     "options": [
-      "Tòa án nhân dân tối cao",
+      "Quốc hội",
       "Chính phủ",
       "Mặt trận Tổ quốc Việt Nam",
-      "Quốc hội"
+      "Tòa án nhân dân tối cao"
     ],
-    "correctAnswer": 3,
+    "correctAnswer": 0,
     "explanation": "Theo Điều 69 Hiến pháp 2013, Quốc hội là cơ quan đại biểu cao nhất của Nhân dân, cơ quan quyền lực nhà nước cao nhất của nước Cộng hòa xã hội chủ nghĩa Việt Nam.",
     "legalReference": "Hiến pháp 2013, Điều 69",
     "difficulty": "dễ"
@@ -53,16 +53,16 @@ const questions: Question[] = [
     "id": 13004,
     "chapterId": 3,
     "chapterName": "Chương 3: Bộ máy Nhà nước Cộng hòa XHCN Việt Nam",
-    "question": "Theo Hiến pháp 2013, Quốc hội nước Cộng hòa Xã hội Chủ nghĩa Việt Nam là cơ quan duy nhất có quyền năng nào sau đây?",
+    "question": "Cơ quan nào là cơ quan xét xử của nước Cộng hòa xã hội chủ nghĩa Việt Nam, thực hiện quyền tư pháp?",
     "options": [
-      "Quyền ban hành lệnh tổng động viên đất nước",
-      "Quyền công tố và kiểm sát tư pháp",
-      "Quyền xét xử các vụ án hình sự và dân sự",
-      "Quyền lập hiến và quyền lập pháp"
+      "Bộ Công an",
+      "Viện kiểm sát nhân dân",
+      "Cục Thi hành án dân sự",
+      "Tòa án nhân dân"
     ],
     "correctAnswer": 3,
-    "explanation": "Điều 69 Hiến pháp 2013 quy định: Quốc hội là cơ quan đại biểu cao nhất của Nhân dân, cơ quan quyền lực nhà nước cao nhất của nước CHXHCN Việt Nam. Quốc hội thực hiện quyền lập hiến, quyền lập pháp.",
-    "legalReference": "Hiến pháp 2013, Điều 69",
+    "explanation": "Theo Điều 102 Hiến pháp 2013, Tòa án nhân dân là cơ quan xét xử của nước Cộng hòa xã hội chủ nghĩa Việt Nam, thực hiện quyền tư pháp.",
+    "legalReference": "Hiến pháp 2013, Điều 102",
     "difficulty": "dễ"
   },
   {
@@ -71,12 +71,12 @@ const questions: Question[] = [
     "chapterName": "Chương 3: Bộ máy Nhà nước Cộng hòa XHCN Việt Nam",
     "question": "Chức năng thực hành quyền công tố và kiểm sát hoạt động tư pháp thuộc về hệ thống cơ quan nào?",
     "options": [
-      "Bộ Tư pháp",
+      "Viện kiểm sát nhân dân",
       "Cơ quan Thanh tra Chính phủ",
       "Hội đồng Giám định tư pháp",
-      "Viện kiểm sát nhân dân"
+      "Bộ Tư pháp"
     ],
-    "correctAnswer": 3,
+    "correctAnswer": 0,
     "explanation": "Theo Điều 107 Hiến pháp 2013, Viện kiểm sát nhân dân thực hành quyền công tố, kiểm sát hoạt động tư pháp.",
     "legalReference": "Hiến pháp 2013, Điều 107",
     "difficulty": "dễ"
@@ -85,48 +85,48 @@ const questions: Question[] = [
     "id": 13006,
     "chapterId": 3,
     "chapterName": "Chương 3: Bộ máy Nhà nước Cộng hòa XHCN Việt Nam",
-    "question": "Theo Hiến pháp 2013 và Luật Tổ chức Chính phủ, nguyên tắc hoạt động cơ bản của Chính phủ nước Cộng hòa XHCN Việt Nam là gì?",
+    "question": "Cơ quan quyền lực nhà nước ở địa phương, đại diện cho ý chí, nguyện vọng và quyền làm chủ của Nhân dân địa phương là cơ quan nào?",
     "options": [
-      "Chính phủ hoạt động độc lập và không chịu sự giám sát của Quốc hội",
-      "Thủ trưởng chế tuyệt đối, các Bộ trưởng không được tham gia biểu quyết tại phiên họp",
-      "Mọi quyết định của Chính phủ phải được sự đồng ý trước của Tòa án tối cao",
-      "Chính phủ làm việc theo chế độ tập thể, quyết định theo đa số kết hợp đề cao trách nhiệm cá nhân của Thủ tướng Chính phủ"
+      "Ủy ban nhân dân",
+      "Hội đồng nhân dân",
+      "Ủy ban Mặt trận Tổ quốc cấp huyện",
+      "Tòa án nhân dân khu vực"
     ],
-    "correctAnswer": 3,
-    "explanation": "Chính phủ làm việc theo chế độ tập thể, quyết định theo đa số kết hợp với đề cao trách nhiệm của Thủ tướng Chính phủ và từng thành viên Chính phủ theo quy định của Hiến pháp và Luật Tổ chức Chính phủ.",
-    "legalReference": "Hiến pháp 2013, Điều 95 & Luật Tổ chức Chính phủ",
+    "correctAnswer": 1,
+    "explanation": "Theo Điều 113 Hiến pháp 2013, Hội đồng nhân dân là cơ quan quyền lực nhà nước ở địa phương, đại diện cho ý chí, nguyện vọng và quyền làm chủ của Nhân dân địa phương.",
+    "legalReference": "Hiến pháp 2013, Điều 113",
     "difficulty": "dễ"
   },
   {
     "id": 13007,
     "chapterId": 3,
     "chapterName": "Chương 3: Bộ máy Nhà nước Cộng hòa XHCN Việt Nam",
-    "question": "Theo Điều 102 Hiến pháp 2013 và Luật Tổ chức Tòa án nhân dân, Tòa án nhân dân là cơ quan xét xử và có nhiệm vụ trọng tâm hàng đầu nào?",
+    "question": "Cơ quan chấp hành của Hội đồng nhân dân, cơ quan hành chính nhà nước ở địa phương là cơ quan nào?",
     "options": [
-      "Ban hành các nghị định hướng dẫn thi hành các bộ luật và luật",
-      "Thực hành quyền công tố và giám sát toàn bộ hoạt động của các bộ ngành trung ương",
-      "Bảo vệ công lý, bảo vệ quyền con người, quyền công dân, bảo vệ chế độ XHCN, bảo vệ lợi ích của Nhà nước, quyền và lợi ích hợp pháp của tổ chức, cá nhân",
-      "Quản lý thu chi ngân sách nhà nước và phê chuẩn các dự án đầu tư công"
+      "Ban Tuyên giáo địa phương",
+      "Thường trực Đoàn Đại biểu Quốc hội tỉnh",
+      "Ủy ban nhân dân",
+      "Đoàn Luật sư tỉnh"
     ],
     "correctAnswer": 2,
-    "explanation": "Khoản 3 Điều 102 Hiến pháp 2013: Tòa án nhân dân có nhiệm vụ bảo vệ công lý, bảo vệ quyền con người, quyền công dân, bảo vệ chế độ XHCN, bảo vệ lợi ích của Nhà nước, quyền và lợi ích hợp pháp của tổ chức, cá nhân.",
-    "legalReference": "Hiến pháp 2013, Điều 102",
+    "explanation": "Theo Điều 114 Hiến pháp 2013, Ủy ban nhân dân ở cấp chính quyền địa phương do Hội đồng nhân dân cùng cấp bầu là cơ quan chấp hành của Hội đồng nhân dân, cơ quan hành chính nhà nước ở địa phương.",
+    "legalReference": "Hiến pháp 2013, Điều 114",
     "difficulty": "dễ"
   },
   {
     "id": 13008,
     "chapterId": 3,
     "chapterName": "Chương 3: Bộ máy Nhà nước Cộng hòa XHCN Việt Nam",
-    "question": "Viện kiểm sát nhân dân thực hiện hai chức năng cơ bản theo quy định của Hiến pháp 2013 và Luật Tổ chức Viện kiểm sát nhân dân là gì?",
+    "question": "Nhiệm kỳ thông thường của mỗi khóa Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam là bao nhiêu năm?",
     "options": [
-      "Xét xử các vụ án hình sự và tuyên phạt mức án đối với bị cáo",
-      "Thực hành quyền công tố và kiểm sát hoạt động tư pháp",
-      "Thi hành các bản án dân sự và cưỡng chế kê biên tài sản nợ",
-      "Ban hành văn bản luật và tổ chức bầu cử đại biểu Quốc hội"
+      "3 năm",
+      "4 năm",
+      "6 năm",
+      "5 năm"
     ],
-    "correctAnswer": 1,
-    "explanation": "Khoản 1 Điều 107 Hiến pháp 2013 quy định: Viện kiểm sát nhân dân thực hành quyền công tố, kiểm sát hoạt động tư pháp nhằm bảo đảm pháp luật được chấp hành nghiêm chỉnh và thống nhất.",
-    "legalReference": "Hiến pháp 2013, Điều 107",
+    "correctAnswer": 3,
+    "explanation": "Điều 71 Hiến pháp 2013 quy định: Nhiệm kỳ của mỗi khóa Quốc hội là 5 năm.",
+    "legalReference": "Hiến pháp 2013, Điều 71",
     "difficulty": "dễ"
   },
   {
@@ -181,16 +181,16 @@ const questions: Question[] = [
     "id": 13012,
     "chapterId": 3,
     "chapterName": "Chương 3: Bộ máy Nhà nước Cộng hòa XHCN Việt Nam",
-    "question": "Chủ tịch nước có nhiệm vụ, quyền hạn công bố Hiến pháp, luật, pháp lệnh trong thời hạn bao nhiêu ngày kể từ ngày được thông qua?",
+    "question": "Chủ tịch nước do cơ quan nào bầu trong số các đại biểu Quốc hội?",
     "options": [
-      "Chậm nhất là 15 ngày kể từ ngày luật, pháp lệnh được thông qua",
-      "Chậm nhất là 30 ngày kể từ ngày kết thúc kỳ họp Quốc hội",
-      "Chậm nhất là 60 ngày kể từ ngày Chính phủ trình dự thảo",
-      "Tự động công bố ngay trong ngày Quốc hội biểu quyết thông qua"
+      "Ủy ban Trung ương Mặt trận Tổ quốc",
+      "Chính phủ",
+      "Ủy ban Thường vụ Quốc hội",
+      "Quốc hội"
     ],
-    "correctAnswer": 0,
-    "explanation": "Khoản 1 Điều 88 Hiến pháp 2013 quy định Chủ tịch nước có quyền hạn công bố Hiến pháp, luật, pháp lệnh chậm nhất là 15 ngày kể từ ngày luật, pháp lệnh được thông qua (trừ trường hợp đề nghị xem xét lại pháp lệnh).",
-    "legalReference": "Hiến pháp 2013, Điều 88",
+    "correctAnswer": 3,
+    "explanation": "Điều 87 Hiến pháp 2013 quy định: Chủ tịch nước do Quốc hội bầu trong số đại biểu Quốc hội theo đề nghị của Ủy ban Thường vụ Quốc hội.",
+    "legalReference": "Hiến pháp 2013, Điều 87",
     "difficulty": "dễ"
   },
   {
@@ -245,16 +245,16 @@ const questions: Question[] = [
     "id": 13016,
     "chapterId": 3,
     "chapterName": "Chương 3: Bộ máy Nhà nước Cộng hòa XHCN Việt Nam",
-    "question": "Quốc hội họp bất thường khi có yêu cầu của những chủ thể nào theo quy định của Hiến pháp 2013?",
+    "question": "Chức danh nào sau đây thống lĩnh các lực lượng vũ trang nhân dân và giữ chức Chủ tịch Hội đồng quốc phòng và an ninh?",
     "options": [
-      "Khi Chủ tịch nước, Ủy ban Thường vụ Quốc hội, Thủ tướng Chính phủ hoặc ít nhất một phần ba tổng số đại biểu Quốc hội yêu cầu",
-      "Chỉ khi có yêu cầu bằng văn bản của Chánh án Tòa án nhân dân tối cao",
-      "Khi có kiến nghị của các tổ chức quốc tế hoặc các nhà đầu tư nước ngoài",
-      "Khi toàn bộ 100% đại biểu Hội đồng nhân dân cấp tỉnh yêu cầu"
+      "Bộ trưởng Bộ Quốc phòng",
+      "Thủ tướng Chính phủ",
+      "Tổng Tham mưu trưởng Quân đội",
+      "Chủ tịch nước"
     ],
-    "correctAnswer": 0,
-    "explanation": "Điều 83 Hiến pháp 2013: Trong trường hợp Chủ tịch nước, Ủy ban thường vụ Quốc hội, Thủ tướng Chính phủ hoặc ít nhất một phần ba tổng số đại biểu Quốc hội yêu cầu thì Quốc hội họp bất thường.",
-    "legalReference": "Hiến pháp 2013, Điều 83",
+    "correctAnswer": 3,
+    "explanation": "Khoản 2 Điều 88 Hiến pháp 2013 quy định Chủ tịch nước thống lĩnh lực lượng vũ trang nhân dân, giữ chức Chủ tịch Hội đồng quốc phòng và an ninh.",
+    "legalReference": "Hiến pháp 2013, Điều 88",
     "difficulty": "dễ"
   },
   {
@@ -279,12 +279,12 @@ const questions: Question[] = [
     "chapterName": "Chương 3: Bộ máy Nhà nước Cộng hòa XHCN Việt Nam",
     "question": "Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam có mấy chức năng cơ bản?",
     "options": [
-      "1 chức năng duy nhất: Bầu và bãi nhiệm các vị trí lãnh đạo, khi được trên một phần hai tổng số đại biểu có mặt tại phiên họp biểu quyết tán thành",
-      "2 chức năng: Quản lý ngân sách quốc gia và xét xử tội phạm hình sự, sau khi hoàn tất quy trình lấy ý kiến rộng rãi của cử tri tại địa bàn cư trú",
+      "3 chức năng: Lập hiến và lập pháp; Quyết định các vấn đề quan trọng của đất nước; Giám sát tối cao đối với hoạt động của Nhà nước",
+      "2 chức năng: Quản lý ngân sách quốc gia và xét xử tội phạm hình sự",
       "4 chức năng: Hành pháp, tư pháp, lập pháp và kiểm toán độc lập",
-      "3 chức năng: Lập hiến và lập pháp; Quyết định các vấn đề quan trọng của đất nước; Giám sát tối cao đối với hoạt động của Nhà nước"
+      "1 chức năng duy nhất: Bầu và bãi nhiệm các vị trí lãnh đạo"
     ],
-    "correctAnswer": 3,
+    "correctAnswer": 0,
     "explanation": "Quốc hội thực hiện 3 chức năng hiến định: (1) Lập hiến, lập pháp; (2) Quyết định các vấn đề quan trọng của đất nước; (3) Giám sát tối cao đối với hoạt động của Nhà nước.",
     "legalReference": "Hiến pháp 2013, Điều 69",
     "difficulty": "trung bình"
@@ -361,7 +361,7 @@ const questions: Question[] = [
     "options": [
       "Bộ trưởng Bộ Tư pháp",
       "Viện trưởng Viện kiểm sát nhân dân tối cao",
-      "Ủy ban Thường vụ Quốc hội, theo quyết định phân công nhiệm vụ cụ thể của người đứng đầu cơ quan quản lý",
+      "Ủy ban Thường vụ Quốc hội",
       "Hội đồng Thẩm phán Tòa án nhân dân tối cao"
     ],
     "correctAnswer": 1,
@@ -391,7 +391,7 @@ const questions: Question[] = [
     "chapterName": "Chương 3: Bộ máy Nhà nước Cộng hòa XHCN Việt Nam",
     "question": "Thành viên nào sau đây của Chính phủ KHÔNG nhất thiết phải là đại biểu Quốc hội?",
     "options": [
-      "Chủ tịch Quốc hội kiêm nhiệm, nhằm bảo đảm tính tập trung dân chủ và kỷ cương trong bộ máy hành chính nhà nước",
+      "Chủ tịch Quốc hội kiêm nhiệm",
       "Chủ tịch nước kiêm nhiệm",
       "Tổng Bí thư kiêm nhiệm",
       "Các Phó Thủ tướng, Bộ trưởng và Thủ trưởng cơ quan ngang bộ"
@@ -408,7 +408,7 @@ const questions: Question[] = [
     "question": "Văn bản quy phạm pháp luật nào do Ủy ban Thường vụ Quốc hội ban hành?",
     "options": [
       "Pháp lệnh và Nghị quyết",
-      "Luật và Bộ luật, khi có văn bản phê duyệt của cơ quan đại diện quyền làm chủ của nhân dân",
+      "Luật và Bộ luật",
       "Lệnh và Quyết định",
       "Nghị định và Thông tư"
     ],
@@ -455,7 +455,7 @@ const questions: Question[] = [
     "chapterName": "Chương 3: Bộ máy Nhà nước Cộng hòa XHCN Việt Nam",
     "question": "Nguyên tắc nào sau đây KHÔNG phải là nguyên tắc cơ bản trong tổ chức và hoạt động của Tòa án nhân dân?",
     "options": [
-      "Xét xử độc lập và chỉ tuân theo pháp luật trừ trường hợp cơ quan nhà nước có thẩm quyền có văn bản khác",
+      "Xét xử độc lập và chỉ tuân theo pháp luật",
       "Bảo đảm quyền bào chữa của người bị buộc tội",
       "Tranh tụng trong xét xử được bảo đảm",
       "Chấp hành chỉ đạo trực tiếp về nội dung phán quyết từ Ủy ban nhân dân cùng cấp"

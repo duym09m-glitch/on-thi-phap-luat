@@ -58,6 +58,19 @@ export const QuestionCard: React.FC<QuestionCardProps> = ({
           <span className="text-xs font-medium text-slate-600 dark:text-slate-300 bg-slate-200/80 dark:bg-slate-800 px-2.5 py-1 rounded-md max-w-[160px] xs:max-w-xs sm:max-w-md truncate">
             {question.chapterName}
           </span>
+          {question.difficulty && (
+            <span
+              className={`text-[10px] font-bold px-2 py-0.5 rounded uppercase ${
+                question.difficulty === 'dễ'
+                  ? 'bg-emerald-100 dark:bg-emerald-950 text-emerald-700 dark:text-emerald-400'
+                  : question.difficulty === 'vận dụng'
+                  ? 'bg-purple-100 dark:bg-purple-950 text-purple-700 dark:text-purple-400'
+                  : 'bg-amber-100 dark:bg-amber-950 text-amber-700 dark:text-amber-400'
+              }`}
+            >
+              {question.difficulty}
+            </span>
+          )}
         </div>
 
         <div className="flex items-center gap-2 shrink-0">

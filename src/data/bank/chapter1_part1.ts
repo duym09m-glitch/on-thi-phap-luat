@@ -25,7 +25,7 @@ const questions: Question[] = [
     "options": [
       "Tính quy phạm phổ biến",
       "Tính xác định chặt chẽ về mặt hình thức",
-      "Tính quyền lực nhà nước bắt buộc chung, nhằm bảo đảm quyền và lợi ích hợp pháp cao nhất cho giai cấp công nhân",
+      "Tính quyền lực nhà nước bắt buộc chung",
       "Tính cưỡng chế tuyệt đối của quân đội"
     ],
     "correctAnswer": 1,
@@ -89,7 +89,7 @@ const questions: Question[] = [
     "options": [
       "Thi hành pháp luật",
       "Tuân thủ pháp luật",
-      "Sử dụng pháp luật, theo sự thỏa thuận bình đẳng, tự nguyện giữa các thành viên trong xã hội",
+      "Sử dụng pháp luật",
       "Áp dụng pháp luật"
     ],
     "correctAnswer": 1,
@@ -106,7 +106,7 @@ const questions: Question[] = [
       "Viết đơn xin nghỉ việc hợp pháp",
       "Ký kết hợp đồng thuê nhà ở",
       "Sét đánh gây hỏa hoạn làm thiêu rụi nhà xưởng có bảo hiểm",
-      "Lái xe vượt đèn đỏ gây va quẹt giao thông, khi có văn bản chỉ đạo trực tiếp của cấp ủy và tổ chức chính trị tại địa phương"
+      "Lái xe vượt đèn đỏ gây va quẹt giao thông"
     ],
     "correctAnswer": 2,
     "explanation": "Sự biến pháp lý là hiện tượng tự nhiên xảy ra ngoài ý chí chủ quan của con người (thiên tai, sét đánh, chết tự nhiên) nhưng làm phát sinh, thay đổi hoặc chấm dứt quan hệ pháp luật.",
@@ -119,8 +119,8 @@ const questions: Question[] = [
     "chapterName": "Chương 1: Những vấn đề chung về Nhà nước và Pháp luật",
     "question": "Vi phạm pháp luật được định nghĩa là hành vi có các đặc trưng cơ bản nào sau đây?",
     "options": [
-      "Hành vi đạo đức bị xã hội và người thân lên án gay gắt, nhằm duy trì sự thống nhất và quyền lực cưỡng chế tuyệt đối của Nhà nước",
-      "Ý nghĩ tiêu cực có hại chưa bộc lộ ra thế giới bên ngoài, khi được đa số tuyệt đối công dân trong cuộc trưng cầu ý dân tán thành",
+      "Hành vi đạo đức bị xã hội và người thân lên án gay gắt",
+      "Ý nghĩ tiêu cực có hại chưa bộc lộ ra thế giới bên ngoài",
       "Hành vi chỉ do cơ quan công quyền nhà nước gây ra trong công vụ",
       "Hành vi xác định của con người, trái pháp luật, có lỗi và do chủ thể có năng lực trách nhiệm pháp lý thực hiện"
     ],
@@ -153,7 +153,7 @@ const questions: Question[] = [
     "options": [
       "Cách thức phân chia các đơn vị hành chính lãnh thổ trong nước",
       "Cách thức tổ chức và trình tự thành lập các cơ quan quyền lực tối cao của nhà nước",
-      "Mối quan hệ ngoại giao giữa nhà nước với các quốc gia láng giềng, do xuất phát từ yêu cầu quản lý xã hội và đấu tranh giai cấp trong lịch sử",
+      "Mối quan hệ ngoại giao giữa nhà nước với các quốc gia láng giềng",
       "Chính sách kinh tế và tài khóa của chính phủ đương nhiệm"
     ],
     "correctAnswer": 1,
@@ -183,12 +183,12 @@ const questions: Question[] = [
     "chapterName": "Chương 1: Những vấn đề chung về Nhà nước và Pháp luật",
     "question": "Điểm khác biệt cơ bản giữa quy phạm pháp luật với các quy phạm xã hội khác (đạo đức, tôn giáo) là gì?",
     "options": [
-      "Quy phạm pháp luật do các tổ chức tôn giáo cùng nhà nước soạn thảo trừ trường hợp cơ quan nhà nước có thẩm quyền có văn bản khác",
+      "Quy phạm pháp luật được đảm bảo thực hiện bằng các chế tài cưỡng chế của nhà nước",
       "Quy phạm pháp luật chỉ áp dụng cho tầng lớp lao động nghèo trong xã hội",
-      "Quy phạm pháp luật không bao giờ bị thay đổi theo thời gian phát triển trừ trường hợp cơ quan nhà nước có thẩm quyền có văn bản khác",
-      "Quy phạm pháp luật được đảm bảo thực hiện bằng các chế tài cưỡng chế của nhà nước"
+      "Quy phạm pháp luật không bao giờ bị thay đổi theo thời gian phát triển",
+      "Quy phạm pháp luật do các tổ chức tôn giáo cùng nhà nước soạn thảo"
     ],
-    "correctAnswer": 3,
+    "correctAnswer": 0,
     "explanation": "Khác với quy phạm đạo đức dựa vào lương tâm và dư luận xã hội, quy phạm pháp luật do nhà nước ban hành hoặc thừa nhận và được bảo đảm thực hiện bằng quyền lực cưỡng chế của nhà nước.",
     "legalReference": "Giáo trình Pháp luật đại cương - Đặc trưng của pháp luật",
     "difficulty": "trung bình"
@@ -200,11 +200,11 @@ const questions: Question[] = [
     "question": "Trường hợp một công dân sử dụng quyền tự do kinh doanh để thành lập công ty TNHH là biểu hiện của hình thức thực hiện pháp luật nào?",
     "options": [
       "Thi hành pháp luật",
-      "Áp dụng pháp luật",
+      "Sử dụng pháp luật",
       "Tuân thủ pháp luật",
-      "Sử dụng pháp luật"
+      "Áp dụng pháp luật"
     ],
-    "correctAnswer": 3,
+    "correctAnswer": 1,
     "explanation": "Sử dụng pháp luật là hình thức các chủ thể pháp luật thực hiện quyền chủ thể của mình (làm những gì mà pháp luật cho phép làm theo ý chí của họ).",
     "legalReference": "Giáo trình Pháp luật đại cương - Hình thức Sử dụng pháp luật",
     "difficulty": "trung bình"
@@ -215,10 +215,10 @@ const questions: Question[] = [
     "chapterName": "Chương 1: Những vấn đề chung về Nhà nước và Pháp luật",
     "question": "Điều kiện để một tổ chức được công nhận có tư cách pháp nhân theo quy định chung của pháp luật Việt Nam gồm những yếu tố nào?",
     "options": [
-      "Phải có trụ sở đặt tại thủ đô và có vốn điều lệ tối thiểu 10 tỷ đồng, khi được đa số tuyệt đối công dân trong cuộc trưng cầu ý dân tán thành",
+      "Phải có trụ sở đặt tại thủ đô và có vốn điều lệ tối thiểu 10 tỷ đồng",
       "Phải do Thủ tướng Chính phủ ký quyết định bổ nhiệm người đứng đầu",
       "Được thành lập hợp pháp, có cơ cấu tổ chức chặt chẽ, có tài sản độc lập và tự chịu trách nhiệm, nhân danh mình tham gia quan hệ pháp luật",
-      "Được thành lập bởi ít nhất 5 cá nhân có quốc tịch Việt Nam đủ 18 tuổi trở lên, nhằm duy trì sự thống nhất và quyền lực cưỡng chế tuyệt đối của Nhà nước"
+      "Được thành lập bởi ít nhất 5 cá nhân có quốc tịch Việt Nam đủ 18 tuổi trở lên"
     ],
     "correctAnswer": 2,
     "explanation": "Theo Điều 74 Bộ luật Dân sự 2015, pháp nhân phải có 4 điều kiện: Thành lập hợp pháp; Có cơ cấu tổ chức; Có tài sản độc lập và tự chịu trách nhiệm; Nhân danh mình tham gia các quan hệ pháp luật.",
@@ -229,16 +229,16 @@ const questions: Question[] = [
     "id": 11015,
     "chapterId": 1,
     "chapterName": "Chương 1: Những vấn đề chung về Nhà nước và Pháp luật",
-    "question": "Văn bản áp dụng pháp luật có đặc điểm cơ bản nào sau đây để phân biệt với Văn bản quy phạm pháp luật?",
+    "question": "Yếu tố \"mặt khách quan\" của vi phạm pháp luật KHÔNG bao gồm thành phần nào sau đây?",
     "options": [
-      "Do Quốc hội ban hành theo trình tự lập pháp nghiêm ngặt của Hiến pháp, do xuất phát từ yêu cầu quản lý xã hội và đấu tranh giai cấp trong lịch sử",
-      "Được áp dụng nhiều lần trong thực tế đời sống cho mọi chủ thể trong xã hội, nhằm thể hiện bản chất dân chủ và ý chí nguyện vọng của quần chúng nhân dân",
-      "Chứa đựng các quy tắc xử sự chung bắt buộc đối với toàn thể nhân dân",
-      "Mang tính cá biệt, chỉ áp dụng một lần cho đối tượng cụ thể được xác định trong văn bản"
+      "Hành vi trái pháp luật thực tế đã diễn ra",
+      "Hậu quả nguy hại do hành vi trái pháp luật gây ra cho xã hội",
+      "Mối quan hệ nhân quả giữa hành vi và hậu quả thiệt hại",
+      "Động cơ và mục đích thúc đẩy chủ thể thực hiện hành vi"
     ],
     "correctAnswer": 3,
-    "explanation": "Văn bản áp dụng pháp luật là văn bản do cơ quan, người có thẩm quyền ban hành nhằm giải quyết một vụ việc cụ thể, mang tính cá biệt và chỉ áp dụng một lần đối với đối tượng được xác định rõ.",
-    "legalReference": "Giáo trình Pháp luật đại cương - Văn bản áp dụng pháp luật",
+    "explanation": "Động cơ và mục đích của người vi phạm thuộc về \"mặt chủ quan\" (tâm lý bên trong), không thuộc về \"mặt khách quan\" (biểu hiện bên ngoài của vi phạm).",
+    "legalReference": "Giáo trình Pháp luật đại cương - Cấu thành vi phạm pháp luật",
     "difficulty": "trung bình"
   },
   {
@@ -247,12 +247,12 @@ const questions: Question[] = [
     "chapterName": "Chương 1: Những vấn đề chung về Nhà nước và Pháp luật",
     "question": "Lỗi cố ý gián tiếp được xác định khi chủ thể thực hiện hành vi nhận thức được tính chất nguy hại của hành vi và có thái độ tâm lý như thế nào?",
     "options": [
-      "Không thấy trước hậu quả nguy hại mặc dù phải thấy trước và có thể thấy trước, nhằm bảo đảm quyền và lợi ích hợp pháp cao nhất cho giai cấp công nhân",
-      "Thấy trước hậu quả nguy hại và mong muốn cho hậu quả đó phát sinh trên thực tế",
       "Thấy trước hậu quả nguy hại, tuy không mong muốn nhưng có ý thức để mặc cho hậu quả xảy ra",
-      "Thấy trước hậu quả nhưng tin tưởng một cách thiếu căn cứ rằng hậu quả sẽ không xảy ra, do phù hợp với quy tắc đạo đức và phong tục tập quán truyền thống tốt đẹp"
+      "Thấy trước hậu quả nguy hại và mong muốn cho hậu quả đó phát sinh trên thực tế",
+      "Không thấy trước hậu quả nguy hại mặc dù phải thấy trước và có thể thấy trước",
+      "Thấy trước hậu quả nhưng tin tưởng một cách thiếu căn cứ rằng hậu quả sẽ không xảy ra"
     ],
-    "correctAnswer": 2,
+    "correctAnswer": 0,
     "explanation": "Lỗi cố ý gián tiếp: Nhận thức rõ hành vi nguy hại, thấy trước hậu quả, không mong muốn nhưng có ý thức bỏ mặc cho hậu quả xảy ra.",
     "legalReference": "Giáo trình Pháp luật đại cương - Các hình thức lỗi",
     "difficulty": "trung bình"
@@ -279,10 +279,10 @@ const questions: Question[] = [
     "chapterName": "Chương 1: Những vấn đề chung về Nhà nước và Pháp luật",
     "question": "Năng lực hành vi của cá nhân là gì?",
     "options": [
-      "Khả năng có quyền và nghĩa vụ do nhà nước thừa nhận từ khi mới sinh ra, khi có văn bản chỉ đạo trực tiếp của cấp ủy và tổ chức chính trị tại địa phương",
+      "Khả năng có quyền và nghĩa vụ do nhà nước thừa nhận từ khi mới sinh ra",
       "Khả năng lao động để tạo ra thu nhập nuôi sống bản thân và gia đình",
       "Khả năng bằng chính hành vi của mình xác lập, thực hiện các quyền và nghĩa vụ pháp lý",
-      "Quyền được tham gia bầu cử và ứng cử đại biểu Quốc hội khi đủ tuổi, theo sự thỏa thuận bình đẳng, tự nguyện giữa các thành viên trong xã hội"
+      "Quyền được tham gia bầu cử và ứng cử đại biểu Quốc hội khi đủ tuổi"
     ],
     "correctAnswer": 2,
     "explanation": "Năng lực hành vi pháp lý là khả năng của chủ thể bằng chính hành vi của mình xác lập và thực hiện các quyền chủ thể cũng như nghĩa vụ pháp lý.",
@@ -311,12 +311,12 @@ const questions: Question[] = [
     "chapterName": "Chương 1: Những vấn đề chung về Nhà nước và Pháp luật",
     "question": "Hình thức thực hiện pháp luật nào bắt buộc phải có sự tham gia và phán quyết mang tính quyền lực của cơ quan nhà nước có thẩm quyền?",
     "options": [
-      "Tuân thủ pháp luật",
-      "Sử dụng pháp luật",
       "Áp dụng pháp luật",
+      "Sử dụng pháp luật",
+      "Tuân thủ pháp luật",
       "Thi hành pháp luật"
     ],
-    "correctAnswer": 2,
+    "correctAnswer": 0,
     "explanation": "Áp dụng pháp luật là hoạt động mang tính quyền lực nhà nước, do cơ quan nhà nước hoặc nhà chức trách có thẩm quyền tiến hành nhằm giải quyết các vụ việc cụ thể.",
     "legalReference": "Giáo trình Pháp luật đại cương - Áp dụng pháp luật",
     "difficulty": "trung bình"
@@ -345,7 +345,7 @@ const questions: Question[] = [
     "options": [
       "Mọi công dân thực hiện hành vi vi phạm trật tự an toàn giao thông",
       "Cán bộ, công chức, viên chức, người lao động vi phạm kỷ luật nội bộ, quy chế làm việc",
-      "Pháp nhân thương mại trốn thuế và rửa tiền quy mô lớn, khi có văn bản chỉ đạo trực tiếp của cấp ủy và tổ chức chính trị tại địa phương",
+      "Pháp nhân thương mại trốn thuế và rửa tiền quy mô lớn",
       "Người nước ngoài cư trú bất hợp pháp trên lãnh thổ Việt Nam"
     ],
     "correctAnswer": 1,
@@ -357,16 +357,16 @@ const questions: Question[] = [
     "id": 11023,
     "chapterId": 1,
     "chapterName": "Chương 1: Những vấn đề chung về Nhà nước và Pháp luật",
-    "question": "Theo Luật Ban hành văn bản quy phạm pháp luật, nguyên tắc áp dụng văn bản quy phạm pháp luật theo thời gian được quy định như thế nào?",
+    "question": "Văn bản nào sau đây có hiệu lực pháp lý cao nhất trong hệ thống văn bản quy phạm pháp luật của nước Cộng hòa XHCN Việt Nam?",
     "options": [
-      "Văn bản quy phạm pháp luật được áp dụng từ thời điểm có hiệu lực và không có hiệu lực trở về trước (trừ trường hợp thật cần thiết do luật định có lợi cho đối tượng áp dụng)",
-      "Mọi văn bản quy phạm pháp luật tự động có hiệu lực hồi tố về trước 05 năm trừ trường hợp cơ quan nhà nước có thẩm quyền có văn bản khác, nhằm duy trì sự thống nhất và quyền lực cưỡng chế tuyệt đối của Nhà nước",
-      "Văn bản chỉ có hiệu lực thi hành sau khi được đăng tải trên mạng xã hội 30 ngày, khi được đa số tuyệt đối công dân trong cuộc trưng cầu ý dân tán thành, đồng thời do xuất phát từ yêu cầu quản lý xã hội và đấu tranh giai cấp trong lịch sử",
-      "Chỉ áp dụng đối với các sự việc xảy ra sau khi văn bản đã hết hiệu lực thi hành"
+      "Bộ luật Hình sự",
+      "Nghị quyết của Quốc hội",
+      "Hiến pháp",
+      "Nghị định của Chính phủ"
     ],
-    "correctAnswer": 0,
-    "explanation": "Điều 152 Luật Ban hành văn bản quy phạm pháp luật 2015 quy định văn bản QPPL được áp dụng từ thời điểm có hiệu lực. Không được quy định hiệu lực trở về trước trừ trường hợp thật cần thiết để bảo đảm lợi ích chung của xã hội, thực hiện các quyền có lợi hơn cho đối tượng áp dụng.",
-    "legalReference": "Luật Ban hành văn bản quy phạm pháp luật 2015, Điều 152",
+    "correctAnswer": 2,
+    "explanation": "Hiến pháp là luật cơ bản của Nhà nước, có hiệu lực pháp lý tối cao. Mọi văn bản quy phạm pháp luật khác đều phải phù hợp với Hiến pháp.",
+    "legalReference": "Hiến pháp 2013, Điều 119",
     "difficulty": "trung bình"
   },
   {
@@ -375,7 +375,7 @@ const questions: Question[] = [
     "chapterName": "Chương 1: Những vấn đề chung về Nhà nước và Pháp luật",
     "question": "Chủ thể của vi phạm pháp luật hình sự (tội phạm) theo quy định hiện hành của pháp luật Việt Nam có thể là ai?",
     "options": [
-      "Chỉ có cá nhân người Việt Nam đủ 18 tuổi, nhằm thể hiện bản chất dân chủ và ý chí nguyện vọng của quần chúng nhân dân",
+      "Chỉ có cá nhân người Việt Nam đủ 18 tuổi",
       "Cá nhân và mọi tổ chức kinh tế phi pháp nhân",
       "Chỉ các tổ chức phi chính phủ và cơ quan hành chính",
       "Cá nhân có năng lực trách nhiệm hình sự và pháp nhân thương mại trong các tội luật định"
@@ -392,7 +392,7 @@ const questions: Question[] = [
     "question": "Tính quy phạm phổ biến của pháp luật thể hiện ở điểm nào sau đây?",
     "options": [
       "Pháp luật là khuôn mẫu chung được áp dụng nhiều lần cho nhiều đối tượng trong phạm vi toàn quốc",
-      "Pháp luật chỉ dành riêng cho công dân thuộc độ tuổi thành niên, do phù hợp với quy tắc đạo đức và phong tục tập quán truyền thống tốt đẹp",
+      "Pháp luật chỉ dành riêng cho công dân thuộc độ tuổi thành niên",
       "Pháp luật được ban hành bởi các hiệp hội nghề nghiệp tự nguyện",
       "Pháp luật chỉ có giá trị hiệu lực tại các đô thị lớn"
     ],
@@ -473,7 +473,7 @@ const questions: Question[] = [
     "options": [
       "Chủ thể",
       "Khách thể",
-      "Nội dung, nhằm bảo đảm quyền và lợi ích hợp pháp cao nhất cho giai cấp công nhân",
+      "Nội dung",
       "Quy chế"
     ],
     "correctAnswer": 1,

@@ -7,12 +7,12 @@ const questions: Question[] = [
     "chapterName": "Chương 5: Pháp luật Kinh doanh - Thương mại",
     "question": "Theo Luật Doanh nghiệp 2020, doanh nghiệp tư nhân do ai làm chủ?",
     "options": [
-      "Do ít nhất hai cá nhân cùng góp vốn thành lập",
       "Do một cá nhân làm chủ và tự chịu trách nhiệm bằng toàn bộ tài sản của mình",
-      "Do một tổ chức kinh tế hoặc cơ quan nhà nước làm chủ, sau khi được Hội đồng thành viên hoặc Đại hội đồng cổ đông phê duyệt trong kỳ họp thường niên",
+      "Do ít nhất hai cá nhân cùng góp vốn thành lập",
+      "Do một tổ chức kinh tế hoặc cơ quan nhà nước làm chủ",
       "Do một nhóm hộ gia đình cùng đứng tên đăng ký kinh doanh"
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 0,
     "explanation": "Khoản 1 Điều 188 Luật Doanh nghiệp 2020 quy định Doanh nghiệp tư nhân là doanh nghiệp do một cá nhân làm chủ và tự chịu trách nhiệm bằng toàn bộ tài sản của mình về mọi hoạt động của doanh nghiệp.",
     "legalReference": "Luật Doanh nghiệp 2020, Điều 188",
     "difficulty": "dễ"
@@ -55,7 +55,7 @@ const questions: Question[] = [
     "chapterName": "Chương 5: Pháp luật Kinh doanh - Thương mại",
     "question": "Thành viên hợp danh trong công ty hợp danh phải chịu trách nhiệm về các nghĩa vụ của công ty như thế nào?",
     "options": [
-      "Chỉ chịu trách nhiệm hữu hạn trong phạm vi số vốn đã góp, trừ trường hợp Điều lệ doanh nghiệp có quy định tỷ lệ biểu quyết tán thành cao hơn",
+      "Chỉ chịu trách nhiệm hữu hạn trong phạm vi số vốn đã góp",
       "Chỉ chịu trách nhiệm trong phạm vi tài sản riêng đưa vào kinh doanh",
       "Không phải chịu trách nhiệm cá nhân nếu công ty bị giải thể",
       "Chịu trách nhiệm vô hạn bằng toàn bộ tài sản của mình về các nghĩa vụ của công ty"
@@ -71,12 +71,12 @@ const questions: Question[] = [
     "chapterName": "Chương 5: Pháp luật Kinh doanh - Thương mại",
     "question": "Theo Luật Doanh nghiệp 2020, số lượng cổ đông tối thiểu trong công ty cổ phần là bao nhiêu?",
     "options": [
-      "Tối thiểu là 2 cổ đông",
       "Tối thiểu là 3 cổ đông",
+      "Tối thiểu là 2 cổ đông",
       "Tối thiểu là 5 cổ đông",
       "Tối thiểu là 10 cổ đông"
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 0,
     "explanation": "Điểm b khoản 1 Điều 111 Luật Doanh nghiệp 2020 quy định cổ đông của công ty cổ phần có số lượng tối thiểu là 03 và không hạn chế số lượng tối đa.",
     "legalReference": "Luật Doanh nghiệp 2020, Điều 111",
     "difficulty": "dễ"
@@ -119,7 +119,7 @@ const questions: Question[] = [
     "chapterName": "Chương 5: Pháp luật Kinh doanh - Thương mại",
     "question": "Theo quy định pháp luật hiện hành, đối tượng nào sau đây KHÔNG có quyền thành lập và quản lý doanh nghiệp tại Việt Nam?",
     "options": [
-      "Sinh viên đại học đã đủ 18 tuổi có đầy đủ năng lực hành vi, khi người quản lý doanh nghiệp đã được miễn trừ trách nhiệm dân sự theo quyết định nội bộ",
+      "Sinh viên đại học đã đủ 18 tuổi có đầy đủ năng lực hành vi",
       "Việt kiều mang quốc tịch nước ngoài cư trú tại Việt Nam",
       "Người lao động tự do có hộ khẩu thường trú hợp pháp",
       "Cán bộ, công chức, viên chức theo quy định của pháp luật về cán bộ, công chức, viên chức"
@@ -170,7 +170,7 @@ const questions: Question[] = [
       "Căn cứ vào số năm công tác của cổ đông tại công ty",
       "Cố định theo lãi suất tiền gửi của ngân hàng nhà nước",
       "Căn cứ vào số lợi nhuận ròng đã thực hiện và khoản chi trả cổ tức được trích từ nguồn lợi nhuận giữ lại",
-      "Do Tổng giám đốc tự ý quyết định mà không cần thông qua cổ đông, nhằm bảo toàn vốn đầu tư và quyền lợi hợp pháp của các chủ nợ không có bảo đảm"
+      "Do Tổng giám đốc tự ý quyết định mà không cần thông qua cổ đông"
     ],
     "correctAnswer": 2,
     "explanation": "Khoản 2 Điều 132 Luật Doanh nghiệp 2020 quy định cổ tức trả cho cổ phần phổ thông được xác định căn cứ vào số lợi nhuận ròng đã thực hiện và khoản chi trả cổ tức được trích từ nguồn lợi nhuận giữ lại của công ty.",
@@ -183,7 +183,7 @@ const questions: Question[] = [
     "chapterName": "Chương 5: Pháp luật Kinh doanh - Thương mại",
     "question": "Trọng tài thương mại là phương thức giải quyết tranh chấp do ai thực hiện?",
     "options": [
-      "Do Tòa án nhân dân tối cao trực tiếp xét xử, theo đúng phương án phục hồi hoạt động kinh doanh đã được Hội nghị chủ nợ thông qua",
+      "Do Tòa án nhân dân tối cao trực tiếp xét xử",
       "Do Ủy ban nhân dân cấp tỉnh ra quyết định hành chính",
       "Do Hội đồng nhân dân các cấp phối hợp hòa giải",
       "Do các Trọng tài viên được các bên lựa chọn hoặc do Trung tâm trọng tài chỉ định tiến hành"
@@ -197,16 +197,16 @@ const questions: Question[] = [
     "id": 15013,
     "chapterId": 5,
     "chapterName": "Chương 5: Pháp luật Kinh doanh - Thương mại",
-    "question": "Theo Luật Thương mại 2005, thương nhân bao gồm những chủ thể nào sau đây?",
+    "question": "Theo Luật Phá sản 2014, doanh nghiệp bị coi là mất khả năng thanh toán khi nào?",
     "options": [
-      "Tổ chức kinh tế được thành lập hợp pháp, cá nhân hoạt động thương mại một cách độc lập, thường xuyên và có đăng ký kinh doanh",
-      "Tất cả mọi công dân từ đủ 18 tuổi trở lên đang sinh sống tại Việt Nam, khi doanh nghiệp bảo đảm khả năng thanh toán đầy đủ các khoản nợ đến hạn",
-      "Các cơ quan quản lý hành chính nhà nước ở trung ương và địa phương, theo nghị quyết hợp lệ được thông qua bởi đa số thành viên dự họp có quyền biểu quyết",
-      "Các tổ chức chính trị - xã hội hoạt động phi lợi nhuận"
+      "Không thực hiện nghĩa vụ thanh toán khoản nợ trong thời hạn 03 tháng kể từ ngày đến hạn thanh toán",
+      "Không thực hiện nghĩa vụ thanh toán khoản nợ trong thời hạn 01 tháng kể từ ngày đến hạn",
+      "Có tổng số nợ phải trả lớn hơn tổng tài sản hiện có trên sổ sách kế toán",
+      "Bị ngân hàng phong tỏa tài khoản giao dịch quá 15 ngày"
     ],
     "correctAnswer": 0,
-    "explanation": "Khoản 1 Điều 6 Luật Thương mại 2005: Thương nhân bao gồm tổ chức kinh tế được thành lập hợp pháp, cá nhân hoạt động thương mại một cách độc lập, thường xuyên và có đăng ký kinh doanh.",
-    "legalReference": "Luật Thương mại 2005, Điều 6",
+    "explanation": "Khoản 1 Điều 4 Luật Phá sản 2014 quy định: Doanh nghiệp, hợp tác xã mất khả năng thanh toán là doanh nghiệp, hợp tác xã không thực hiện nghĩa vụ thanh toán khoản nợ trong thời hạn 03 tháng kể từ ngày đến hạn thanh toán.",
+    "legalReference": "Luật Phá sản 2014, Điều 4",
     "difficulty": "dễ"
   },
   {
@@ -217,12 +217,12 @@ const questions: Question[] = [
     "options": [
       "Bắt buộc phải là pháp nhân có vốn điều lệ tối thiểu 1 tỷ đồng",
       "Do một cá nhân hoặc các thành viên hộ gia đình đăng ký thành lập",
-      "Do một công ty cổ phần đứng ra bảo trợ thành lập, khi doanh nghiệp đã công bố thông tin công khai trên Cổng thông tin đăng ký doanh nghiệp",
+      "Do một công ty cổ phần đứng ra bảo trợ thành lập",
       "Do các doanh nghiệp có vốn đầu tư nước ngoài hợp tác"
     ],
     "correctAnswer": 1,
-    "explanation": "Khoản 1 Điều 79 Nghị định 168/2025/NĐ-CP quy định Hộ kinh doanh do một cá nhân hoặc các thành viên hộ gia đình đăng ký thành lập và chịu trách nhiệm bằng toàn bộ tài sản của mình đối với hoạt động kinh doanh.",
-    "legalReference": "Nghị định 168/2025/NĐ-CP, Điều 79",
+    "explanation": "Khoản 1 Điều 79 Nghị định 01/2021/NĐ-CP quy định Hộ kinh doanh do một cá nhân hoặc các thành viên hộ gia đình đăng ký thành lập và chịu trách nhiệm bằng toàn bộ tài sản của mình đối với hoạt động kinh doanh.",
+    "legalReference": "Nghị định 01/2021/NĐ-CP, Điều 79",
     "difficulty": "dễ"
   },
   {
@@ -264,7 +264,7 @@ const questions: Question[] = [
     "question": "Theo Luật Doanh nghiệp 2020, doanh nghiệp có tư cách pháp nhân kể từ thời điểm nào sau đây?",
     "options": [
       "Kể từ ngày được cấp Giấy chứng nhận đăng ký doanh nghiệp",
-      "Khi doanh nghiệp thay đổi trụ sở chính sang tỉnh khác, sau khi được Hội đồng thành viên hoặc Đại hội đồng cổ đông phê duyệt trong kỳ họp thường niên",
+      "Khi doanh nghiệp thay đổi trụ sở chính sang tỉnh khác",
       "Khi doanh nghiệp bổ sung thêm ngành nghề kinh doanh mới",
       "Khi doanh nghiệp tạm ngừng kinh doanh có thông báo trước"
     ],
@@ -281,7 +281,7 @@ const questions: Question[] = [
     "options": [
       "Chịu trách nhiệm vô hạn bằng toàn bộ tài sản riêng",
       "Chịu trách nhiệm về các khoản nợ của công ty trong phạm vi số vốn đã cam kết góp vào công ty",
-      "Không phải chịu bất kỳ trách nhiệm tài chính nào, trừ trường hợp Điều lệ doanh nghiệp có quy định tỷ lệ biểu quyết tán thành cao hơn",
+      "Không phải chịu bất kỳ trách nhiệm tài chính nào",
       "Chịu trách nhiệm liên đới cùng các thành viên hợp danh"
     ],
     "correctAnswer": 1,
@@ -295,10 +295,10 @@ const questions: Question[] = [
     "chapterName": "Chương 5: Pháp luật Kinh doanh - Thương mại",
     "question": "Theo Luật Doanh nghiệp 2020, con dấu của doanh nghiệp bao gồm những hình thức nào?",
     "options": [
-      "Chỉ bắt buộc dùng dấu khắc tròn bằng cao su, nhằm bảo toàn vốn đầu tư và quyền lợi hợp pháp của các chủ nợ không có bảo đảm",
+      "Chỉ bắt buộc dùng dấu khắc tròn bằng cao su",
       "Chỉ sử dụng con dấu do cơ quan Công an cấp",
       "Dấu được làm tại cơ sở khắc dấu hoặc dấu dưới hình thức chữ ký số theo quy định của pháp luật về giao dịch điện tử",
-      "Chỉ được dùng dấu hình vuông in mực đỏ, khi người quản lý doanh nghiệp đã được miễn trừ trách nhiệm dân sự theo quyết định nội bộ"
+      "Chỉ được dùng dấu hình vuông in mực đỏ"
     ],
     "correctAnswer": 2,
     "explanation": "Khoản 1 Điều 43 Luật Doanh nghiệp 2020 quy định Dấu của doanh nghiệp bao gồm dấu được làm tại cơ sở khắc dấu hoặc dấu dưới hình thức chữ ký số theo quy định của pháp luật về giao dịch điện tử.",
@@ -341,16 +341,16 @@ const questions: Question[] = [
     "id": 15022,
     "chapterId": 5,
     "chapterName": "Chương 5: Pháp luật Kinh doanh - Thương mại",
-    "question": "Cơ quan nào có thẩm quyền thụ lý đơn và mở thủ tục phục hồi, phá sản đối với doanh nghiệp mất khả năng thanh toán theo quy định hiện hành?",
+    "question": "Cơ quan nào có thẩm quyền mở thủ tục phá sản đối với doanh nghiệp mất khả năng thanh toán?",
     "options": [
-      "Tòa án nhân dân có thẩm quyền theo quy định của pháp luật phục hồi, phá sản",
-      "Ủy ban nhân dân cấp tỉnh nơi doanh nghiệp đặt trụ sở chính, theo đúng phương án phục hồi hoạt động kinh doanh đã được Hội nghị chủ nợ thông qua",
-      "Sở Kế hoạch và Đầu tư nơi cấp giấy chứng nhận đăng ký kinh doanh",
-      "Thanh tra Ngân hàng Nhà nước"
+      "Sở Kế hoạch và Đầu tư tỉnh",
+      "Tòa án nhân dân",
+      "Bộ Tài chính",
+      "Ủy ban Chứng khoán Nhà nước"
     ],
-    "correctAnswer": 0,
-    "explanation": "Theo quy định của pháp luật về phục hồi và phá sản, Tòa án nhân dân là cơ quan có thẩm quyền thụ lý đơn, xem xét mở thủ tục và quyết định tuyên bố phá sản doanh nghiệp.",
-    "legalReference": "Luật Phục hồi, phá sản 2025",
+    "correctAnswer": 1,
+    "explanation": "Điều 8 Luật Phá sản 2014 quy định Tòa án nhân dân cấp tỉnh và Tòa án nhân dân cấp huyện có thẩm quyền giải quyết phá sản đối với doanh nghiệp, hợp tác xã.",
+    "legalReference": "Luật Phá sản 2014, Điều 8",
     "difficulty": "dễ"
   },
   {
@@ -359,10 +359,10 @@ const questions: Question[] = [
     "chapterName": "Chương 5: Pháp luật Kinh doanh - Thương mại",
     "question": "Thời hạn thông báo công khai việc giải thể doanh nghiệp trên Cổng thông tin quốc gia về đăng ký doanh nghiệp là bao nhiêu ngày?",
     "options": [
-      "Ngay trong ngày nộp hồ sơ, theo nghị quyết hợp lệ được thông qua bởi đa số thành viên dự họp có quyền biểu quyết",
+      "Ngay trong ngày nộp hồ sơ",
       "Trong thời hạn 03 ngày làm việc",
       "Trong thời hạn 07 ngày làm việc kể từ ngày thông qua nghị quyết, quyết định giải thể",
-      "Trong thời hạn 30 ngày làm việc, khi doanh nghiệp bảo đảm khả năng thanh toán đầy đủ các khoản nợ đến hạn"
+      "Trong thời hạn 30 ngày làm việc"
     ],
     "correctAnswer": 2,
     "explanation": "Khoản 1 Điều 208 Luật Doanh nghiệp 2020 quy định trong thời hạn 07 ngày làm việc kể từ ngày thông qua, nghị quyết, quyết định giải thể phải được gửi đến Cơ quan đăng ký kinh doanh và thông báo công khai.",
@@ -375,8 +375,8 @@ const questions: Question[] = [
     "chapterName": "Chương 5: Pháp luật Kinh doanh - Thương mại",
     "question": "Thành viên Ban kiểm soát trong công ty cổ phần KHÔNG được là đối tượng nào sau đây?",
     "options": [
-      "Người có trình độ chuyên môn về kinh tế, tài chính, khi doanh nghiệp đã công bố thông tin công khai trên Cổng thông tin đăng ký doanh nghiệp",
-      "Cổ đông sở hữu dưới 5% tổng số cổ phần phổ thông, sau khi được Hội đồng thành viên hoặc Đại hội đồng cổ đông phê duyệt trong kỳ họp thường niên",
+      "Người có trình độ chuyên môn về kinh tế, tài chính",
+      "Cổ đông sở hữu dưới 5% tổng số cổ phần phổ thông",
       "Người cư trú thường trú tại Việt Nam",
       "Người có quan hệ gia đình (vợ, chồng, bố mẹ, con...) với Giám đốc/Tổng giám đốc hoặc thành viên Hội đồng quản trị"
     ],
@@ -389,16 +389,16 @@ const questions: Question[] = [
     "id": 15025,
     "chapterId": 5,
     "chapterName": "Chương 5: Pháp luật Kinh doanh - Thương mại",
-    "question": "Trong công ty cổ phần, cổ đông sở hữu loại cổ phần nào sau đây có quyền nhận cổ tức ở mức cao hơn so với cổ phần phổ thông nhưng KHÔNG có quyền biểu quyết?",
+    "question": "Trong công ty TNHH một thành viên do cá nhân làm chủ sở hữu, cơ cấu tổ chức quản lý bao gồm:",
     "options": [
-      "Cổ phần ưu đãi cổ tức",
-      "Cổ phần ưu đãi biểu quyết",
-      "Cổ phần phổ thông của cổ đông sáng lập",
-      "Cổ phần ưu đãi hoàn lại có bảo đảm bằng tài sản"
+      "Chủ tịch công ty, Giám đốc hoặc Tổng giám đốc",
+      "Đại hội đồng cổ đông và Ban kiểm soát độc lập",
+      "Hội đồng quản trị và Ban thường trực cổ đông",
+      "Hội đồng thành viên bắt buộc phải có từ 3 người"
     ],
     "correctAnswer": 0,
-    "explanation": "Điều 117 Luật Doanh nghiệp 2020: Cổ phần ưu đãi cổ tức là cổ phần được trả cổ tức với mức cao hơn so với mức cổ tức của cổ phần phổ thông... Cổ đông sở hữu cổ phần ưu đãi cổ tức không có quyền biểu quyết, dự họp ĐHĐCĐ.",
-    "legalReference": "Luật Doanh nghiệp 2020, Điều 117",
+    "explanation": "Khoản 1 Điều 79 Luật Doanh nghiệp 2020 quy định công ty TNHH một thành viên do cá nhân làm chủ sở hữu có Chủ tịch công ty, Giám đốc hoặc Tổng giám đốc.",
+    "legalReference": "Luật Doanh nghiệp 2020, Điều 79",
     "difficulty": "dễ"
   },
   {
@@ -409,7 +409,7 @@ const questions: Question[] = [
     "options": [
       "Tổng giá trị tài sản thực tế có trong tài khoản sau 1 năm hoạt động",
       "Tổng giá trị phần vốn góp các thành viên cam kết góp và ghi trong Điều lệ công ty",
-      "Số tiền tối thiểu do Bộ Tài chính ấn định cho từng ngành nghề, trừ trường hợp Điều lệ doanh nghiệp có quy định tỷ lệ biểu quyết tán thành cao hơn",
+      "Số tiền tối thiểu do Bộ Tài chính ấn định cho từng ngành nghề",
       "Tổng số tiền bảo lãnh của các ngân hàng thương mại"
     ],
     "correctAnswer": 1,
@@ -439,7 +439,7 @@ const questions: Question[] = [
     "chapterName": "Chương 5: Pháp luật Kinh doanh - Thương mại",
     "question": "Điều kiện để trọng tài thương mại thụ lý giải quyết tranh chấp giữa các bên là gì?",
     "options": [
-      "Phải có văn bản chỉ định bắt buộc của Tòa án nhân dân tối cao, khi người quản lý doanh nghiệp đã được miễn trừ trách nhiệm dân sự theo quyết định nội bộ",
+      "Phải có văn bản chỉ định bắt buộc của Tòa án nhân dân tối cao",
       "Phải có sự chứng kiến và phê chuẩn của Viện kiểm sát nhân dân",
       "Các bên tranh chấp phải thuộc cùng một tập đoàn kinh tế",
       "Các bên phải có thỏa thuận trọng tài hợp pháp trước hoặc sau khi xảy ra tranh chấp"
@@ -453,32 +453,32 @@ const questions: Question[] = [
     "id": 15029,
     "chapterId": 5,
     "chapterName": "Chương 5: Pháp luật Kinh doanh - Thương mại",
-    "question": "Theo Luật Doanh nghiệp 2020, công ty trách nhiệm hữu hạn một thành viên có đặc điểm cơ bản nào sau đây?",
+    "question": "Hội đồng quản trị của công ty cổ phần có số lượng thành viên từ bao nhiêu người?",
     "options": [
-      "Do một tổ chức hoặc một cá nhân làm chủ sở hữu; chủ sở hữu chịu trách nhiệm về các khoản nợ trong phạm vi số vốn điều lệ của công ty",
-      "Chủ sở hữu phải chịu trách nhiệm vô hạn bằng toàn bộ tài sản riêng của mình, nhằm bảo toàn vốn đầu tư và quyền lợi hợp pháp của các chủ nợ không có bảo đảm",
-      "Được quyền phát hành cổ phần rộng rãi ra công chúng để huy động vốn, theo đúng phương án phục hồi hoạt động kinh doanh đã được Hội nghị chủ nợ thông qua",
-      "Bắt buộc phải có từ 02 người đại diện theo pháp luật trở lên"
+      "Từ 03 đến 11 thành viên",
+      "Từ 02 đến 05 thành viên",
+      "Từ 05 đến 15 thành viên",
+      "Từ 07 đến 21 thành viên"
     ],
     "correctAnswer": 0,
-    "explanation": "Điều 74 Luật Doanh nghiệp 2020: Công ty TNHH một thành viên là doanh nghiệp do một tổ chức hoặc một cá nhân làm chủ sở hữu; chủ sở hữu công ty chịu trách nhiệm về các khoản nợ và nghĩa vụ tài sản khác của công ty trong phạm vi số vốn điều lệ của công ty.",
-    "legalReference": "Luật Doanh nghiệp 2020, Điều 74",
+    "explanation": "Khoản 1 Điều 154 Luật Doanh nghiệp 2020 quy định Hội đồng quản trị có từ 03 đến 11 thành viên. Điều lệ công ty quy định cụ thể số lượng thành viên Hội đồng quản trị.",
+    "legalReference": "Luật Doanh nghiệp 2020, Điều 154",
     "difficulty": "dễ"
   },
   {
     "id": 15030,
     "chapterId": 5,
     "chapterName": "Chương 5: Pháp luật Kinh doanh - Thương mại",
-    "question": "Theo pháp luật phục hồi và phá sản hiện hành, thứ tự phân chia tài sản sau khi có quyết định tuyên bố phá sản ưu tiên chi trả cho đối tượng nào đầu tiên?",
+    "question": "Theo Luật Phá sản 2014, thứ tự phân chia tài sản sau khi có quyết định tuyên bố phá sản ưu tiên chi trả cho đối tượng nào đầu tiên?",
     "options": [
-      "Chi phí phục hồi, chi phí phá sản của quá trình giải quyết vụ việc",
-      "Các khoản nợ không có bảo đảm của các ngân hàng thương mại, khi doanh nghiệp bảo đảm khả năng thanh toán đầy đủ các khoản nợ đến hạn",
-      "Vốn góp ban đầu của các thành viên sáng lập doanh nghiệp",
-      "Tiền phạt vi phạm hành chính của các cơ quan quản lý thị trường"
+      "Các khoản nợ không có bảo đảm cho đối tác kinh doanh",
+      "Chi phí phá sản",
+      "Các khoản nợ thuế của ngân sách nhà nước",
+      "Chia lại cho các chủ sở hữu và thành viên góp vốn"
     ],
-    "correctAnswer": 0,
-    "explanation": "Theo nguyên tắc phân chia tài sản phá sản, chi phí phá sản luôn là khoản được thanh toán đầu tiên trước khi chi trả lương người lao động và các nghĩa vụ tài chính khác.",
-    "legalReference": "Luật Phục hồi, phá sản 2025",
+    "correctAnswer": 1,
+    "explanation": "Điểm a khoản 1 Điều 54 Luật Phá sản 2014 quy định trường hợp Thẩm phán ra quyết định tuyên bố phá sản thì tài sản của doanh nghiệp được phân chia theo thứ tự đầu tiên là: Chi phí phá sản.",
+    "legalReference": "Luật Phá sản 2014, Điều 54",
     "difficulty": "dễ"
   }
 ];

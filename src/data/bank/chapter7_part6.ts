@@ -5,16 +5,16 @@ const questions: Question[] = [
     "id": 17151,
     "chapterId": 7,
     "chapterName": "Chương 7: Pháp luật Hôn nhân và Gia đình",
-    "question": "Ông Sơn và bà Hà chung sống với nhau từ năm 1995 (trước ngày 01/01/2001) có đủ điều kiện kết hôn nhưng chưa đăng ký kết hôn tại cơ quan nhà nước có thẩm quyền. Hai người sinh sống liên tục, hòa thuận và được cộng đồng dân cư thừa nhận là vợ chồng. Theo quy định pháp luật về hôn nhân thực tế, quan hệ giữa ông Sơn và bà Hà được pháp luật công nhận như thế nào?",
+    "question": "Ông Sơn và bà Hà chung sống với nhau từ năm 1995 (trước ngày 01/01/2001) có đủ điều kiện kết hôn nhưng chưa đăng ký kết hôn tại UBND xã. Hai người sinh sống liên tục, hòa thuận và được bà con xóm giềng thừa nhận là vợ chồng. Theo quy định pháp luật về hôn nhân thực tế, quan hệ giữa ông Sơn và bà Hà được công nhận như thế nào?",
     "options": [
       "Được công nhận là hôn nhân thực tế hợp pháp kể từ ngày xác lập chung sống theo Nghị quyết 35/2000/QH10 và Thông tư liên tịch 01/2001/TTLT",
-      "Không được công nhận quan hệ vợ chồng và mọi giao dịch giữa hai người chỉ được giải quyết theo quy định của Bộ luật Dân sự",
-      "Quan hệ hôn nhân chỉ được công nhận kể từ thời điểm hai người sinh đứa con chung đầu tiên",
-      "Chỉ được công nhận nếu hai người nộp phạt vi phạm hành chính về việc chậm đăng ký hộ tịch"
+      "Hoàn toàn không được công nhận là vợ chồng",
+      "Bị coi là vi phạm pháp luật và bắt buộc phải phạt tiền",
+      "Chỉ được công nhận nếu đăng ký kết hôn lại vào năm 2024"
     ],
     "correctAnswer": 0,
-    "explanation": "Theo Nghị quyết số 35/2000/QH10 của Quốc hội và Thông tư liên tịch 01/2001/TTLT, nam và nữ chung sống với nhau như vợ chồng từ ngày 03/01/1987 đến trước ngày 01/01/2001 mà có đủ điều kiện kết hôn thì được công nhận là hôn nhân thực tế hợp pháp kể từ ngày xác lập chung sống.",
-    "legalReference": "Nghị quyết 35/2000/QH10 & Luật Hôn nhân và Gia đình 2014, Điều 131",
+    "explanation": "Nghị quyết 35/2000/QH10 và Thông tư liên tịch 01/2001/TTLT: Các trường hợp nam nữ chung sống như vợ chồng trước ngày 03/01/1987 hoặc từ 03/01/1987 đến trước ngày 01/01/2001 đủ điều kiện kết hôn thì được công nhận là hôn nhân thực tế.",
+    "legalReference": "Nghị quyết 35/2000/QH10 & Luật HNGĐ 2014, Điều 131",
     "difficulty": "vận dụng"
   },
   {

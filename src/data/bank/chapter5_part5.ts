@@ -7,10 +7,10 @@ const questions: Question[] = [
     "chapterName": "Chương 5: Pháp luật Kinh doanh - Thương mại",
     "question": "Công ty Cổ phần Hóa chất Ánh Dương có 4 cổ đông sáng lập. Sau 2 năm hoạt động, cổ đông sáng lập C muốn chuyển nhượng toàn bộ 100.000 cổ phần phổ thông của mình cho cổ đông sáng lập D trong cùng công ty. Việc chuyển nhượng cổ phần giữa hai cổ đông sáng lập này có cần sự chấp thuận của Đại hội đồng cổ đông không?",
     "options": [
-      "Bắt buộc phải có sự chấp thuận của Đại hội đồng cổ đông, khi doanh nghiệp bảo đảm khả năng thanh toán đầy đủ các khoản nợ đến hạn, đồng thời theo nghị quyết hợp lệ được thông qua bởi đa số thành viên dự họp có quyền biểu quyết",
+      "Bắt buộc phải có sự chấp thuận của Đại hội đồng cổ đông",
       "Phải có văn bản phê chuẩn của Sở Kế hoạch và Đầu tư",
       "Không cần sự chấp thuận của Đại hội đồng cổ đông vì trong thời hạn 3 năm, cổ đông sáng lập có quyền tự do chuyển nhượng cổ phần cho cổ đông sáng lập khác",
-      "Bị cấm chuyển nhượng tuyệt đối trong vòng 3 năm đầu, nhằm bảo toàn vốn đầu tư và quyền lợi hợp pháp của các chủ nợ không có bảo đảm, đồng thời theo đúng phương án phục hồi hoạt động kinh doanh đã được Hội nghị chủ nợ thông qua"
+      "Bị cấm chuyển nhượng tuyệt đối trong vòng 3 năm đầu"
     ],
     "correctAnswer": 2,
     "explanation": "Khoản 3 Điều 120 Luật Doanh nghiệp 2020 quy định trong thời hạn 03 năm kể từ ngày được cấp GCNĐKDN, cổ đông sáng lập có quyền tự do chuyển nhượng cổ phần của mình cho cổ đông sáng lập khác; chỉ khi chuyển nhượng cho người không phải cổ đông sáng lập mới cần ĐHĐCĐ chấp thuận.",
@@ -23,9 +23,9 @@ const questions: Question[] = [
     "chapterName": "Chương 5: Pháp luật Kinh doanh - Thương mại",
     "question": "Trong một vụ tranh chấp thương mại được giải quyết tại Trọng tài, Hội đồng trọng tài gồm 3 trọng tài viên. Sau khi phiên họp kết thúc, 2 trọng tài viên biểu quyết chấp nhận yêu cầu đòi bồi thường của nguyên đơn, còn 1 trọng tài viên không đồng ý và từ chối ký vào Phán quyết trọng tài. Phán quyết trọng tài này có giá trị pháp lý không?",
     "options": [
-      "Vô hiệu vì phán quyết trọng tài bắt buộc phải có chữ ký của 100% các trọng tài viên, khi doanh nghiệp đã công bố thông tin công khai trên Cổng thông tin đăng ký doanh nghiệp, đồng thời sau khi được Hội đồng thành viên hoặc Đại hội đồng cổ đông phê duyệt trong kỳ họp thường niên",
-      "Vụ án phải được xét xử lại từ đầu với hội đồng trọng tài mới gồm 5 người, trừ trường hợp Điều lệ doanh nghiệp có quy định tỷ lệ biểu quyết tán thành cao hơn, đồng thời khi người quản lý doanh nghiệp đã được miễn trừ trách nhiệm dân sự theo quyết định nội bộ",
-      "Chỉ có giá trị nếu được Tòa phúc thẩm Tòa án nhân dân tối cao phê duyệt bổ sung",
+      "Vô hiệu vì phán quyết trọng tài bắt buộc phải có chữ ký của 100% các trọng tài viên",
+      "Vụ án phải được xét xử lại từ đầu với hội đồng trọng tài mới gồm 5 người",
+      "Chỉ có giá trị nếu được Tòa án nhân dân cấp cao phê duyệt bổ sung",
       "Vẫn có hiệu lực pháp luật nếu được đa số thành viên Hội đồng trọng tài biểu quyết tán thành; việc trọng tài viên không ký vào phán quyết phải được ghi rõ trong phán quyết và nêu rõ lý do"
     ],
     "correctAnswer": 3,
@@ -40,7 +40,7 @@ const questions: Question[] = [
     "question": "Doanh nghiệp tư nhân Hưng Phát do anh Hưng làm chủ sở hữu đã vay nợ 500 triệu đồng của chị Nga. Sau đó, anh Hưng đột ngột qua đời trong một tai nạn giao thông mà không để lại di chúc. Người thừa kế duy nhất theo pháp luật của anh Hưng là con trai 20 tuổi (anh Tuấn). Anh Tuấn có quyền lựa chọn phương án nào sau đây đối với doanh nghiệp tư nhân Hưng Phát?",
     "options": [
       "Tiếp tục làm chủ doanh nghiệp tư nhân, bán hoặc giải thể doanh nghiệp tư nhân đó, hoặc chuyển đổi thành công ty TNHH",
-      "Bắt buộc phải giao nộp toàn bộ tài sản doanh nghiệp cho Nhà nước, nhằm bảo toàn vốn đầu tư và quyền lợi hợp pháp của các chủ nợ không có bảo đảm",
+      "Bắt buộc phải giao nộp toàn bộ tài sản doanh nghiệp cho Nhà nước",
       "Chỉ được giải thể doanh nghiệp mà không có quyền tiếp tục kinh doanh",
       "Doanh nghiệp tự động chấm dứt và khoản nợ 500 triệu mặc nhiên bị xóa"
     ],
@@ -57,7 +57,7 @@ const questions: Question[] = [
     "options": [
       "Không bao giờ cần vì Giám đốc là người điều hành cao nhất",
       "Phải tuân thủ thẩm quyền quy định tại Điều lệ công ty; nếu hợp đồng vượt quá thẩm quyền của Giám đốc thì phải được Chủ tịch công ty phê duyệt",
-      "Chỉ cần xin phép nếu hợp đồng có giá trị từ 10 tỷ đồng trở lên, theo đúng phương án phục hồi hoạt động kinh doanh đã được Hội nghị chủ nợ thông qua, đồng thời khi doanh nghiệp bảo đảm khả năng thanh toán đầy đủ các khoản nợ đến hạn",
+      "Chỉ cần xin phép nếu hợp đồng có giá trị từ 10 tỷ đồng trở lên",
       "Mọi hợp đồng mua sắm đều bắt buộc phải đưa ra Đại hội đồng cổ đông của công ty mẹ"
     ],
     "correctAnswer": 1,
@@ -71,14 +71,14 @@ const questions: Question[] = [
     "chapterName": "Chương 5: Pháp luật Kinh doanh - Thương mại",
     "question": "Công ty Cổ phần Sữa Ba Vì có tổng số 10.000.000 cổ phần phổ thông có quyền biểu quyết. Cuộc họp ĐHĐCĐ được tổ chức hợp lệ với sự tham dự của các cổ đông đại diện cho 7.000.000 cổ phần (70%). Tại cuộc họp, ĐHĐCĐ tiến hành biểu quyết thông qua quyết định đầu tư mở rộng nhà máy trị giá 20 tỷ đồng. Cần ít nhất bao nhiêu phiếu tán thành để nghị quyết này được thông qua (Điều lệ không quy định tỷ lệ khác)?",
     "options": [
-      "Phải được số cổ đông đại diện trên 50% tổng số cổ phần toàn công ty tán thành (tối thiểu 5.000.001 phiếu)",
-      "Phải được số cổ đông đại diện ít nhất 65% tổng số phiếu biểu quyết của tất cả cổ đông dự họp tán thành (tối thiểu 4.550.000 phiếu)",
-      "Được số cổ đông đại diện trên 50% tổng số phiếu biểu quyết của tất cả cổ đông dự họp tán thành (tối thiểu từ 3.500.001 phiếu trở lên)",
-      "Phải được 100% tổng số cổ đông tham dự cuộc họp biểu quyết nhất trí tán thành, theo nghị quyết hợp lệ được thông qua bởi đa số thành viên dự họp có quyền biểu quyết"
+      "Ít nhất 5.000.001 phiếu biểu quyết (trên 50% tổng số cổ phần toàn công ty)",
+      "Ít nhất 4.550.000 phiếu biểu quyết (ít nhất 65% tổng số cổ phần toàn công ty)",
+      "Số phiếu đại diện ít nhất 50% tổng số phiếu biểu quyết của tất cả cổ đông dự họp tán thành (tức từ 3.500.001 phiếu trở lên)",
+      "Phải có đủ 7.000.000 phiếu tán thành của 100% cổ đông dự họp"
     ],
     "correctAnswer": 2,
-    "explanation": "Theo điểm b khoản 2 Điều 148 Luật Doanh nghiệp 2020, nghị quyết ĐHĐCĐ về các vấn đề thông thường được thông qua tại cuộc họp khi được số cổ đông đại diện trên 50% tổng số phiếu biểu quyết của tất cả cổ đông dự họp tán thành. Với 7.000.000 phiếu tham dự, trên 50% tương ứng tối thiểu từ 3.500.001 phiếu biểu quyết tán thành trở lên.",
-    "legalReference": "Luật Doanh nghiệp 2020, Điều 148 (khoản 2 điểm b)",
+    "explanation": "Điểm b khoản 1 Điều 148 Luật Doanh nghiệp 2020 quy định các nghị quyết thông thường của ĐHĐCĐ được thông qua khi được số cổ đông đại diện trên 50% tổng số phiếu biểu quyết của tất cả cổ đông dự họp tán thành.",
+    "legalReference": "Luật Doanh nghiệp 2020, Điều 148",
     "difficulty": "vận dụng"
   },
   {
@@ -87,8 +87,8 @@ const questions: Question[] = [
     "chapterName": "Chương 5: Pháp luật Kinh doanh - Thương mại",
     "question": "Một doanh nghiệp nộp đơn ra Tòa án yêu cầu hủy phán quyết trọng tài thương mại vì cho rằng Hội đồng trọng tài đã đánh giá chứng cứ không khách quan và xác định mức bồi thường thiệt hại quá cao so với thực tế. Tòa án sẽ giải quyết yêu cầu này như thế nào?",
     "options": [
-      "Tòa án sẽ triệu tập các bên để xét xử lại toàn bộ nội dung vụ tranh chấp, khi doanh nghiệp đã công bố thông tin công khai trên Cổng thông tin đăng ký doanh nghiệp, đồng thời sau khi được Hội đồng thành viên hoặc Đại hội đồng cổ đông phê duyệt trong kỳ họp thường niên",
-      "Tòa án giảm ngay 50% số tiền bồi thường cho bên yêu cầu, trừ trường hợp Điều lệ doanh nghiệp có quy định tỷ lệ biểu quyết tán thành cao hơn, đồng thời khi người quản lý doanh nghiệp đã được miễn trừ trách nhiệm dân sự theo quyết định nội bộ",
+      "Tòa án sẽ triệu tập các bên để xét xử lại toàn bộ nội dung vụ tranh chấp",
+      "Tòa án giảm ngay 50% số tiền bồi thường cho bên yêu cầu",
       "Tòa án chuyển vụ việc sang cơ quan công an điều tra sai phạm của trọng tài viên",
       "Tòa án bác đơn yêu cầu hủy phán quyết vì Tòa án không xem xét lại nội dung tranh chấp mà Hội đồng trọng tài đã giải quyết; việc đánh giá chứng cứ nội dung không thuộc các căn cứ luật định để hủy phán quyết trọng tài"
     ],
@@ -101,16 +101,16 @@ const questions: Question[] = [
     "id": 15127,
     "chapterId": 5,
     "chapterName": "Chương 5: Pháp luật Kinh doanh - Thương mại",
-    "question": "Ông Minh đăng ký kinh doanh dưới hình thức Hộ kinh doanh buôn bán nông sản tại xã Ea Tóh, tỉnh Đắk Lắk. Sau một thời gian kinh doanh tích lũy được nhiều vốn, ông Minh muốn cùng lúc đăng ký thành lập thêm một Công ty TNHH Hai thành viên để làm dịch vụ vận tải hàng hóa. Theo Luật Doanh nghiệp và Nghị định 168/2025/NĐ-CP, ông Minh có quyền thành lập công ty TNHH này không?",
+    "question": "Ông Minh đăng ký kinh doanh dưới hình thức Hộ kinh doanh buôn bán nông sản tại huyện Krông Năng, Đắk Lắk. Sau một thời gian kinh doanh tích lũy được nhiều vốn, ông Minh muốn cùng lúc đăng ký thành lập thêm một Công ty TNHH Hai thành viên để làm dịch vụ vận tải hàng hóa. Theo Luật Doanh nghiệp 2020 và Nghị định 01/2021/NĐ-CP, ông Minh có quyền thành lập công ty TNHH này không?",
     "options": [
       "Có quyền, vì pháp luật không cấm cá nhân là chủ hộ kinh doanh tham gia thành lập, quản lý công ty TNHH (chỉ cấm chủ DNTN đồng thời là chủ hộ kinh doanh)",
-      "Không có quyền, vì mỗi cá nhân chỉ được sở hữu duy nhất một mã số thuế kinh doanh, nhằm bảo toàn vốn đầu tư và quyền lợi hợp pháp của các chủ nợ không có bảo đảm, đồng thời theo đúng phương án phục hồi hoạt động kinh doanh đã được Hội nghị chủ nợ thông qua",
+      "Không có quyền, vì mỗi người dân chỉ được sở hữu duy nhất một mã số thuế kinh doanh",
       "Chỉ được phép nếu ông Minh chuyển toàn bộ tài sản hộ kinh doanh vào công ty",
-      "Không có quyền, trừ khi được Sở Kế hoạch và Đầu tư phê duyệt đặc cách bằng văn bản"
+      "Không có quyền, trừ khi được Chủ tịch Ủy ban nhân dân huyện phê duyệt bằng văn bản"
     ],
     "correctAnswer": 0,
-    "explanation": "Điều 17 Luật Doanh nghiệp 2020 và Nghị định 168/2025/NĐ-CP: Cá nhân có quyền thành lập, góp vốn vào công ty TNHH, công ty CP. Luật chỉ cấm chủ DNTN đồng thời là chủ hộ kinh doanh hoặc thành viên hợp danh của công ty hợp danh.",
-    "legalReference": "Luật Doanh nghiệp 2020, Điều 17 & Nghị định 168/2025/NĐ-CP",
+    "explanation": "Điều 17 Luật Doanh nghiệp 2020 và Điều 79 Nghị định 01/2021/NĐ-CP: Cá nhân có quyền thành lập, góp vốn vào công ty TNHH, công ty CP. Luật chỉ cấm chủ DNTN đồng thời là chủ hộ kinh doanh hoặc thành viên hợp danh.",
+    "legalReference": "Luật Doanh nghiệp 2020, Điều 17",
     "difficulty": "vận dụng"
   },
   {
@@ -121,7 +121,7 @@ const questions: Question[] = [
     "options": [
       "Phần vốn của anh B tự động bị tịch thu sung quỹ công ty",
       "Anh B vẫn là thành viên công ty và có thể ủy quyền cho người khác thực hiện quyền, nghĩa vụ thành viên của mình tại công ty",
-      "Anh B bắt buộc phải bán lại phần vốn cho anh A với giá rẻ, khi doanh nghiệp bảo đảm khả năng thanh toán đầy đủ các khoản nợ đến hạn, đồng thời theo nghị quyết hợp lệ được thông qua bởi đa số thành viên dự họp có quyền biểu quyết",
+      "Anh B bắt buộc phải bán lại phần vốn cho anh A với giá rẻ",
       "Công ty tự động khai trừ anh B ra khỏi danh sách thành viên"
     ],
     "correctAnswer": 1,
@@ -135,10 +135,10 @@ const questions: Question[] = [
     "chapterName": "Chương 5: Pháp luật Kinh doanh - Thương mại",
     "question": "Công ty Cổ phần Thắng Lợi có 5 thành viên Hội đồng quản trị. Trong kỳ họp HĐQT xem xét việc ký hợp đồng thuê đất kho bãi với Công ty TNHH Bất động sản Minh Phát (do vợ của một thành viên HĐQT làm Giám đốc), thành viên HĐQT có vợ làm Giám đốc bên đối tác có quyền biểu quyết về việc ký hợp đồng này không?",
     "options": [
-      "Có quyền biểu quyết bình thường vì thành viên HĐQT luôn có quyền bình đẳng, trừ trường hợp Điều lệ doanh nghiệp có quy định tỷ lệ biểu quyết tán thành cao hơn, đồng thời khi người quản lý doanh nghiệp đã được miễn trừ trách nhiệm dân sự theo quyết định nội bộ",
+      "Có quyền biểu quyết bình thường vì thành viên HĐQT luôn có quyền bình đẳng",
       "Có quyền biểu quyết nếu được Chủ tịch HĐQT cho phép",
       "Không có quyền biểu quyết vì là người có lợi ích liên quan đến hợp đồng; phiếu biểu quyết của thành viên này không được tính vào số phiếu biểu quyết của cuộc họp",
-      "Có quyền biểu quyết với điều kiện tự nguyện giảm 50% thù lao thành viên HĐQT, khi doanh nghiệp đã công bố thông tin công khai trên Cổng thông tin đăng ký doanh nghiệp, đồng thời sau khi được Hội đồng thành viên hoặc Đại hội đồng cổ đông phê duyệt trong kỳ họp thường niên"
+      "Có quyền biểu quyết với điều kiện tự nguyện giảm 50% thù lao thành viên HĐQT"
     ],
     "correctAnswer": 2,
     "explanation": "Khoản 4 Điều 167 Luật Doanh nghiệp 2020 quy định thành viên Hội đồng quản trị có lợi ích liên quan đến các bên trong hợp đồng, giao dịch không có quyền biểu quyết đối với hợp đồng, giao dịch đó.",
@@ -149,16 +149,16 @@ const questions: Question[] = [
     "id": 15130,
     "chapterId": 5,
     "chapterName": "Chương 5: Pháp luật Kinh doanh - Thương mại",
-    "question": "Một doanh nghiệp nợ lương công nhân 3 tháng liên tiếp với tổng số tiền 800 triệu đồng. Đại diện Ban chấp hành Công đoàn cơ sở đã nhiều lần thương lượng nhưng lãnh đạo công ty cố tình lẩn tránh và tẩu tán máy móc. Theo Luật Phục hồi, phá sản 2025, Công đoàn cơ sở có quyền nộp đơn yêu cầu Tòa án mở thủ tục phá sản đối với doanh nghiệp này không?",
+    "question": "Một doanh nghiệp nợ lương công nhân 3 tháng liên tiếp với tổng số tiền 800 triệu đồng. Đại diện Ban chấp hành Công đoàn cơ sở đã nhiều lần thương lượng nhưng lãnh đạo công ty cố tình lẩn tránh và tẩu tán máy móc. Theo Luật Phá sản 2014, Công đoàn cơ sở có quyền nộp đơn yêu cầu Tòa án mở thủ tục phá sản đối với doanh nghiệp này không?",
     "options": [
-      "Không có quyền, vì chỉ có các ngân hàng cho vay tiền mới có quyền nộp đơn phá sản, nhằm bảo toàn vốn đầu tư và quyền lợi hợp pháp của các chủ nợ không có bảo đảm, đồng thời theo đúng phương án phục hồi hoạt động kinh doanh đã được Hội nghị chủ nợ thông qua",
-      "Không có quyền, vì công đoàn chỉ có chức năng chăm lo đời sống văn hóa, khi doanh nghiệp bảo đảm khả năng thanh toán đầy đủ các khoản nợ đến hạn, đồng thời theo nghị quyết hợp lệ được thông qua bởi đa số thành viên dự họp có quyền biểu quyết",
+      "Không có quyền, vì chỉ có các ngân hàng cho vay tiền mới có quyền nộp đơn phá sản",
+      "Không có quyền, vì công đoàn chỉ có chức năng chăm lo đời sống văn hóa",
       "Chỉ được nộp đơn nếu có sự đồng ý của Giám đốc doanh nghiệp",
       "Có quyền, vì người lao động hoặc đại diện công đoàn có quyền nộp đơn yêu cầu mở thủ tục phá sản khi doanh nghiệp không trả được lương sau 03 tháng kể từ ngày đến hạn"
     ],
     "correctAnswer": 3,
-    "explanation": "Khoản 2 Điều 5 Luật Phục hồi, phá sản 2025 quy định Công đoàn cơ sở hoặc công đoàn cấp trên trực tiếp cơ sở có quyền nộp đơn yêu cầu mở thủ tục phá sản khi hết thời hạn 03 tháng kể từ ngày phải thực hiện nghĩa vụ trả lương, các khoản nợ khác đến hạn đối với người lao động mà doanh nghiệp không thực hiện.",
-    "legalReference": "Luật Phục hồi, phá sản 2025, Điều 5",
+    "explanation": "Khoản 2 Điều 5 Luật Phá sản 2014 quy định Công đoàn cơ sở hoặc công đoàn cấp trên trực tiếp cơ sở có quyền nộp đơn yêu cầu mở thủ tục phá sản khi hết thời hạn 03 tháng kể từ ngày phải thực hiện nghĩa vụ trả lương, các khoản nợ khác đến hạn đối với người lao động mà doanh nghiệp không thực hiện.",
+    "legalReference": "Luật Phá sản 2014, Điều 5",
     "difficulty": "vận dụng"
   }
 ];

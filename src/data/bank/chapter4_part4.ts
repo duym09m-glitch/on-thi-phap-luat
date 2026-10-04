@@ -7,8 +7,8 @@ const questions: Question[] = [
     "chapterName": "Chương 4: Luật Dân sự và Luật Tố tụng Dân sự",
     "question": "Chị Bích vay tiền tại tiệm cầm đồ và để lại chiếc nhẫn kim cương làm tài sản cầm cố. Tiệm cầm đồ đã tự ý mang chiếc nhẫn kim cương này cho một người bạn mượn đi dự đám cưới và bị rơi mất. Tiệm cầm đồ phải chịu trách nhiệm gì đối với chị Bích?",
     "options": [
-      "Chỉ cần xóa khoản tiền chị Bích đã vay, khi giao dịch đã được đăng ký hợp pháp tại cơ quan đăng ký quyền sở hữu tài sản, đồng thời trừ trường hợp sự kiện bất khả kháng hoặc lỗi hoàn toàn thuộc về bên có quyền",
-      "Chỉ phải đền một chiếc nhẫn bạc tượng trưng, nhằm bảo vệ quyền và lợi ích hợp pháp của người thứ ba ngay tình theo luật định, đồng thời khi các bên đã hoàn thành đầy đủ nghĩa vụ giao nhận tài sản trên thực tế",
+      "Chỉ cần xóa khoản tiền chị Bích đã vay",
+      "Chỉ phải đền một chiếc nhẫn bạc tượng trưng",
       "Không phải đền vì việc rơi mất là sự cố ngoài ý muốn của người mượn",
       "Vi phạm nghĩa vụ bảo quản tài sản cầm cố, sử dụng tài sản trái phép và phải bồi thường toàn bộ giá trị thực tế của chiếc nhẫn kim cương"
     ],
@@ -24,7 +24,7 @@ const questions: Question[] = [
     "question": "Bà Lan và con gái cùng ngồi trên một chiếc thuyền bị lật chìm trong cơn bão lớn và cả hai mẹ con đều bị chết đuối. Cơ quan chức năng không thể xác định được ai chết trước, ai chết sau. Việc phân chia thừa kế tài sản của hai mẹ con được giải quyết thế nào?",
     "options": [
       "Được suy đoán là chết cùng một thời điểm và họ không được thừa kế di sản của nhau; di sản của mỗi người do người thừa kế của người đó hưởng",
-      "Suy đoán người mẹ chết trước, toàn bộ tài sản sang tên người con, trừ khi hợp đồng có điều khoản bảo lưu quyền sở hữu rõ ràng bằng văn bản, đồng thời khi có sự làm chứng của ít nhất hai người có đầy đủ năng lực hành vi dân sự",
+      "Suy đoán người mẹ chết trước, toàn bộ tài sản sang tên người con",
       "Suy đoán người con chết trước, toàn bộ tài sản sang tên người mẹ",
       "Toàn bộ tài sản của cả hai người tự động thuộc về Nhà nước"
     ],
@@ -41,8 +41,8 @@ const questions: Question[] = [
     "options": [
       "Anh Dũng phải tự chịu trách nhiệm trực tiếp bồi thường cho ngân hàng",
       "Công ty TNHH Vệ sĩ Thăng Long phải bồi thường thiệt hại cho ngân hàng, sau đó yêu cầu anh Dũng hoàn trả theo quy định",
-      "Ngân hàng tự chịu vì không lắp đặt hệ thống chống cháy tự động, khi bên có quyền đã có văn bản đôn đốc thực hiện nghĩa vụ nhiều lần mà không được đáp ứng",
-      "Công an phòng cháy chữa cháy phải bồi thường, nhằm bảo đảm nguyên tắc tự do, tự nguyện cam kết và thiện chí trong giao lưu dân sự"
+      "Ngân hàng tự chịu vì không lắp đặt hệ thống chống cháy tự động",
+      "Công an phòng cháy chữa cháy phải bồi thường"
     ],
     "correctAnswer": 1,
     "explanation": "Theo Điều 600 BLDS 2015, pháp nhân phải bồi thường thiệt hại do người của mình gây ra trong khi thực hiện nhiệm vụ được pháp nhân giao; sau đó có quyền yêu cầu người có lỗi hoàn trả khoản tiền bồi thường.",
@@ -58,7 +58,7 @@ const questions: Question[] = [
       "Ông Dũng đang lấn chiếm nhà bất hợp pháp",
       "Hợp đồng thuê nhà tự động chấm dứt và ông Dũng phải nộp phạt 50 triệu",
       "Hợp đồng thuê được coi là đã gia hạn với thời hạn không xác định theo cùng các điều kiện cũ",
-      "Ngôi nhà tự động chuyển quyền sở hữu cho ông Dũng, khi giao dịch đã được đăng ký hợp pháp tại cơ quan đăng ký quyền sở hữu tài sản"
+      "Ngôi nhà tự động chuyển quyền sở hữu cho ông Dũng"
     ],
     "correctAnswer": 2,
     "explanation": "Theo khoản 2 Điều 474 BLDS 2015, khi hết thời hạn thuê mà bên thuê vẫn tiếp tục sử dụng tài sản và bên cho thuê không có ý kiến phản đối thì hợp đồng thuê được gia hạn với thời hạn không xác định.",
@@ -69,15 +69,15 @@ const questions: Question[] = [
     "id": 14095,
     "chapterId": 4,
     "chapterName": "Chương 4: Luật Dân sự và Luật Tố tụng Dân sự",
-    "question": "Tòa án nhân dân khu vực thụ lý vụ kiện tranh chấp ranh giới đất đai giữa ông Nam và ông Bắc. Trong quá trình giải quyết, Tòa án tiến hành phiên họp kiểm tra việc giao nộp, tiếp cận, công khai chứng cứ và hòa giải. Mục đích chính của phiên họp này là gì?",
+    "question": "Tòa án nhân dân huyện thụ lý vụ kiện tranh chấp ranh giới đất đai giữa ông Nam và ông Bắc. Trong quá trình giải quyết, Tòa án tiến hành phiên họp kiểm tra việc giao nộp, tiếp cận, công khai chứng cứ và hòa giải. Mục đích chính của phiên họp này là gì?",
     "options": [
-      "Tuyên án sơ thẩm ngay tại chỗ đối với vụ việc tranh chấp, trừ trường hợp sự kiện bất khả kháng hoặc lỗi hoàn toàn thuộc về bên có quyền",
-      "Bắt tạm giam bên không chịu nhường đất để răn đe, nhằm bảo vệ quyền và lợi ích hợp pháp của người thứ ba ngay tình theo luật định",
-      "Ép buộc các đương sự phải ký biên bản nhận tội vi phạm",
+      "Tuyên án sơ thẩm ngay tại chỗ",
+      "Bắt giam bên không chịu nhường đất",
+      "Ép buộc các đương sự phải ký biên bản nhận tội",
       "Công khai các tài liệu chứng cứ của vụ án và tạo điều kiện cho các đương sự tự thương lượng, hòa giải với nhau"
     ],
     "correctAnswer": 3,
-    "explanation": "Theo Điều 208 Bộ luật Tố tụng dân sự 2015, phiên họp kiểm tra việc giao nộp, tiếp cận, công khai chứng cứ và hòa giải nhằm công khai chứng cứ, làm rõ tình tiết và tạo điều kiện cho các đương sự tự thỏa thuận giải quyết vụ án.",
+    "explanation": "Theo Điều 208 và 209 Bộ luật Tố tụng dân sự 2015, phiên họp nhằm công khai chứng cứ để các bên biết rõ chứng cứ của nhau và tiến hành hòa giải giải quyết tranh chấp.",
     "legalReference": "Bộ luật Tố tụng dân sự 2015, Điều 208",
     "difficulty": "vận dụng"
   },
@@ -88,8 +88,8 @@ const questions: Question[] = [
     "question": "Bà Lan ký hợp đồng tặng cho con trai là anh Tuấn một ngôi nhà gắn liền với điều kiện: \"Anh Tuấn phải có nghĩa vụ nuôi dưỡng, chăm sóc bà Lan cho đến khi bà qua đời\". Sau khi sang tên sổ đỏ xong, anh Tuấn ngược đãi, đánh đập và đuổi bà Lan ra khỏi nhà. Bà Lan có quyền gì theo quy định của Bộ luật Dân sự 2015?",
     "options": [
       "Có quyền đòi lại ngôi nhà đã tặng cho do anh Tuấn không thực hiện nghĩa vụ đã cam kết trong hợp đồng tặng cho có điều kiện",
-      "Không có quyền đòi lại nhà vì tài sản đã sang tên hợp pháp, khi các bên đã hoàn thành đầy đủ nghĩa vụ giao nhận tài sản trên thực tế",
-      "Chỉ được quyền xin lỗi anh Tuấn để được ở nhờ phòng bếp, trừ khi hợp đồng có điều khoản bảo lưu quyền sở hữu rõ ràng bằng văn bản",
+      "Không có quyền đòi lại nhà vì tài sản đã sang tên hợp pháp",
+      "Chỉ được quyền xin lỗi anh Tuấn để được ở nhờ phòng bếp",
       "Phải đợi Tòa án hình sự tuyên phạt tù anh Tuấn mới được đòi nhà"
     ],
     "correctAnswer": 0,
@@ -105,8 +105,8 @@ const questions: Question[] = [
     "options": [
       "Xe thuộc về chị Mai 100% vì giấy đăng ký mang tên chị Mai",
       "Giải quyết theo quy định về sở hữu chung của Bộ luật Dân sự và căn cứ vào tỷ lệ công sức đóng góp của mỗi bên",
-      "Tịch thu xe bán đấu giá nộp ngân sách vì vi phạm luật hôn nhân, khi có sự làm chứng của ít nhất hai người có đầy đủ năng lực hành vi dân sự",
-      "Chia đôi 50/50 như vợ chồng có đăng ký kết hôn hợp pháp, khi bên có quyền đã có văn bản đôn đốc thực hiện nghĩa vụ nhiều lần mà không được đáp ứng"
+      "Tịch thu xe bán đấu giá nộp ngân sách vì vi phạm luật hôn nhân",
+      "Chia đôi 50/50 như vợ chồng có đăng ký kết hôn hợp pháp"
     ],
     "correctAnswer": 1,
     "explanation": "Theo Điều 16 Luật Hôn nhân và Gia đình 2014, quan hệ tài sản của nam, nữ chung sống như vợ chồng mà không đăng ký kết hôn được giải quyết theo thỏa thuận; nếu không có thỏa thuận thì giải quyết theo quy định của Bộ luật Dân sự về sở hữu chung và tính theo công sức đóng góp.",
@@ -122,7 +122,7 @@ const questions: Question[] = [
       "Ông Bình (chủ nhà) phải bồi thường toàn bộ chi phí",
       "Bản thân người thợ xây phải tự chịu vì đã không bám chắc giàn giáo",
       "Công ty Xây dựng An Phát (người sử dụng lao động) có trách nhiệm bồi thường và chi trả các chế độ tai nạn lao động cho công nhân của mình",
-      "Ủy ban nhân dân phường nơi xây nhà phải hỗ trợ, nhằm bảo đảm nguyên tắc tự do, tự nguyện cam kết và thiện chí trong giao lưu dân sự, đồng thời khi giao dịch đã được đăng ký hợp pháp tại cơ quan đăng ký quyền sở hữu tài sản"
+      "Ủy ban nhân dân phường nơi xây nhà phải hỗ trợ"
     ],
     "correctAnswer": 2,
     "explanation": "Người sử dụng lao động (Công ty An Phát) có trách nhiệm bảo đảm an toàn lao động và bồi thường tai nạn lao động cho người lao động của mình theo quy định pháp luật lao động và dân sự.",
@@ -135,8 +135,8 @@ const questions: Question[] = [
     "chapterName": "Chương 4: Luật Dân sự và Luật Tố tụng Dân sự",
     "question": "Ông Cường vay của ngân hàng 1 tỷ đồng có thế chấp bằng quyền sử dụng đất. Đến hạn trả nợ, ông Cường không thanh toán được. Ngân hàng có quyền xử lý tài sản thế chấp theo phương thức nào theo quy định pháp luật dân sự?",
     "options": [
-      "Tự động chiếm luôn mảnh đất mà không cần thông báo, trừ trường hợp sự kiện bất khả kháng hoặc lỗi hoàn toàn thuộc về bên có quyền, đồng thời nhằm bảo vệ quyền và lợi ích hợp pháp của người thứ ba ngay tình theo luật định",
-      "Bắt buộc phải bỏ tù ông Cường ngay lập tức, khi các bên đã hoàn thành đầy đủ nghĩa vụ giao nhận tài sản trên thực tế, đồng thời trừ khi hợp đồng có điều khoản bảo lưu quyền sở hữu rõ ràng bằng văn bản",
+      "Tự động chiếm luôn mảnh đất mà không cần thông báo",
+      "Bắt buộc phải bỏ tù ông Cường ngay lập tức",
       "Thuê các nhóm đòi nợ thuê tư nhân đến chiếm đất",
       "Xử lý tài sản thế chấp theo phương thức đã thỏa thuận trong hợp đồng (bán đấu giá tài sản thế chấp, nhận chính tài sản để thay thế thực hiện nghĩa vụ hoặc bán tài sản cho bên thứ ba)"
     ],
@@ -169,7 +169,7 @@ const questions: Question[] = [
     "options": [
       "Có quyền hưởng một kỷ phần thừa kế bằng với anh Hưng",
       "Không được hưởng thừa kế theo pháp luật của mẹ chồng vì không thuộc các hàng thừa kế theo quy định",
-      "Được hưởng nửa suất thừa kế của chồng mình, khi có sự làm chứng của ít nhất hai người có đầy đủ năng lực hành vi dân sự",
+      "Được hưởng nửa suất thừa kế của chồng mình",
       "Được hưởng toàn bộ phần di sản nếu chứng minh có công chăm sóc mẹ chồng lúc ốm đau"
     ],
     "correctAnswer": 1,
@@ -186,7 +186,7 @@ const questions: Question[] = [
       "Gia đình em bé phải tự chịu vì đi xe đạp làm con chó bị giật mình",
       "Chính quyền địa phương phải trích ngân sách bồi thường tai nạn công cộng",
       "Anh Hải (chủ sở hữu súc vật) phải bồi thường toàn bộ thiệt hại về sức khỏe do súc vật gây ra",
-      "Anh Hải chỉ phải xin lỗi và hỗ trợ 1 triệu đồng tiền mua thuốc, khi bên có quyền đã có văn bản đôn đốc thực hiện nghĩa vụ nhiều lần mà không được đáp ứng"
+      "Anh Hải chỉ phải xin lỗi và hỗ trợ 1 triệu đồng tiền mua thuốc"
     ],
     "correctAnswer": 2,
     "explanation": "Khoản 1 Điều 603 BLDS 2015 quy định chủ sở hữu súc vật phải bồi thường thiệt hại do súc vật gây ra cho người khác, trừ trường hợp người bị thiệt hại hoàn toàn có lỗi.",
@@ -199,9 +199,9 @@ const questions: Question[] = [
     "chapterName": "Chương 4: Luật Dân sự và Luật Tố tụng Dân sự",
     "question": "Ông Phát và bà Hoa phát sinh tranh chấp về quyền sử dụng một thửa đất tọa lạc tại thành phố Nha Trang, tỉnh Khánh Hòa. Ông Phát cư trú tại Hà Nội, bà Hoa cư trú tại Thành phố Hồ Chí Minh. Theo Bộ luật Tố tụng Dân sự 2015, Tòa án nào có thẩm quyền thụ lý giải quyết vụ án tranh chấp này?",
     "options": [
-      "Tòa án nhân dân nơi cư trú của nguyên đơn (Hà Nội), nhằm bảo đảm nguyên tắc tự do, tự nguyện cam kết và thiện chí trong giao lưu dân sự",
+      "Tòa án nhân dân nơi cư trú của nguyên đơn (Hà Nội)",
       "Tòa án nhân dân nơi cư trú của bị đơn (Thành phố Hồ Chí Minh)",
-      "Tòa phúc thẩm Tòa án nhân dân tối cao tại Đà Nẵng",
+      "Tòa án nhân dân cấp cao tại Đà Nẵng",
       "Tòa án nhân dân nơi có bất động sản (thành phố Nha Trang, tỉnh Khánh Hòa)"
     ],
     "correctAnswer": 3,
@@ -216,7 +216,7 @@ const questions: Question[] = [
     "question": "Ông Tư lập hợp đồng tặng cho người cháu một thửa đất vườn với điều kiện người cháu phải chăm sóc, phụng dưỡng ông đến cuối đời. Sau khi sang tên quyền sử dụng đất, người cháu lập tức bỏ mặc ông cụ ốm đau không chu cấp và còn đuổi ông ra khỏi nhà. Ông Tư có quyền gì theo quy định Bộ luật Dân sự 2015?",
     "options": [
       "Ông Tư có quyền đòi lại thửa đất đã tặng cho do người cháu vi phạm điều kiện sau khi tặng cho",
-      "Ông Tư hoàn toàn không có quyền đòi lại đất vì tài sản đã hoàn thành thủ tục đăng ký sang tên, khi giao dịch đã được đăng ký hợp pháp tại cơ quan đăng ký quyền sở hữu tài sản",
+      "Ông Tư hoàn toàn không có quyền đòi lại đất vì tài sản đã hoàn thành thủ tục đăng ký sang tên",
       "Ông Tư chỉ được quyền yêu cầu Tòa án phạt tù người cháu",
       "Ông Tư phải chấp nhận chia đôi mảnh đất với người cháu"
     ],
@@ -247,10 +247,10 @@ const questions: Question[] = [
     "chapterName": "Chương 4: Luật Dân sự và Luật Tố tụng Dân sự",
     "question": "Anh Bình, anh Chiến và anh Dũng cùng nhau ký hợp đồng liên đới vay của chị Ngân số tiền 300 triệu đồng để cùng đầu tư sản xuất. Đến hạn trả nợ, cả ba người chưa trả. Chị Ngân có quyền yêu cầu anh Bình thanh toán toàn bộ 300 triệu đồng không?",
     "options": [
-      "Không, chị Ngân bắt buộc chỉ được đòi anh Bình đúng phần 100 triệu đồng của anh Bình, nhằm bảo vệ quyền và lợi ích hợp pháp của người thứ ba ngay tình theo luật định",
+      "Không, chị Ngân bắt buộc chỉ được đòi anh Bình đúng phần 100 triệu đồng của anh Bình",
       "Không, chị Ngân phải đòi cả ba người cùng lúc tại trụ sở Ủy ban nhân dân xã",
       "Có quyền, vì trong nghĩa vụ liên đới, bên có quyền có thể yêu cầu bất cứ ai trong số những người có nghĩa vụ thực hiện toàn bộ nghĩa vụ",
-      "Chỉ được đòi anh Bình nếu anh Chiến và anh Dũng đã bỏ trốn khỏi địa phương, trừ trường hợp sự kiện bất khả kháng hoặc lỗi hoàn toàn thuộc về bên có quyền"
+      "Chỉ được đòi anh Bình nếu anh Chiến và anh Dũng đã bỏ trốn khỏi địa phương"
     ],
     "correctAnswer": 2,
     "explanation": "Khoản 1 và khoản 3 Điều 288 BLDS 2015 quy định nghĩa vụ liên đới là nghĩa vụ do nhiều người cùng phải thực hiện và bên có quyền có thể yêu cầu bất cứ ai trong số những người có nghĩa vụ phải thực hiện toàn bộ nghĩa vụ.",
@@ -281,7 +281,7 @@ const questions: Question[] = [
     "options": [
       "Có thể bị kháng cáo phúc thẩm trong thời hạn 15 ngày kể từ ngày ban hành",
       "Có hiệu lực pháp luật ngay sau khi được ban hành và không bị kháng cáo, kháng nghị theo thủ tục phúc thẩm",
-      "Phải chờ Viện kiểm sát nhân dân cùng cấp phê chuẩn mới có hiệu lực thi hành, khi các bên đã hoàn thành đầy đủ nghĩa vụ giao nhận tài sản trên thực tế",
+      "Phải chờ Viện kiểm sát nhân dân cùng cấp phê chuẩn mới có hiệu lực thi hành",
       "Chỉ có tính chất tham khảo, không có giá trị cưỡng chế thi hành án"
     ],
     "correctAnswer": 1,
@@ -295,31 +295,15 @@ const questions: Question[] = [
     "chapterName": "Chương 4: Luật Dân sự và Luật Tố tụng Dân sự",
     "question": "Giám đốc Công ty Phú Thịnh làm văn bản ủy quyền cho Trưởng phòng Kinh doanh là anh Hoàng thay mặt công ty ký kết các hợp đồng mua sắm vật tư có giá trị dưới 500 triệu đồng. Tuy nhiên, anh Hoàng đã tự ý ký hợp đồng mua lô thiết bị văn phòng trị giá 1,2 tỷ đồng với Công ty Minh Quân mà không thông báo cho Giám đốc. Khi Công ty Minh Quân giao hàng và đòi tiền, Giám đốc Công ty Phú Thịnh từ chối thanh toán phần vượt 500 triệu. Hậu quả pháp lý của hành vi ký vượt thẩm quyền ủy quyền của anh Hoàng được xác định như thế nào?",
     "options": [
-      "Công ty Phú Thịnh bắt buộc phải thanh toán toàn bộ 1,2 tỷ đồng cho bên bán, trừ khi hợp đồng có điều khoản bảo lưu quyền sở hữu rõ ràng bằng văn bản, đồng thời khi có sự làm chứng của ít nhất hai người có đầy đủ năng lực hành vi dân sự",
-      "Hợp đồng hoàn toàn vô hiệu từ đầu và hai bên chỉ cần trả lại những gì đã nhận, khi bên có quyền đã có văn bản đôn đốc thực hiện nghĩa vụ nhiều lần mà không được đáp ứng, đồng thời nhằm bảo đảm nguyên tắc tự do, tự nguyện cam kết và thiện chí trong giao lưu dân sự",
-      "Bên bán có quyền yêu cầu ngân hàng bảo lãnh thanh toán thay phần tiền vượt quá",
+      "Công ty Phú Thịnh bắt buộc phải thanh toán toàn bộ 1,2 tỷ đồng cho bên bán",
+      "Hợp đồng hoàn toàn vô hiệu từ đầu và hai bên chỉ cần trả lại những gì đã nhận",
+      "Bên bán có quyền yêu cầu Ủy ban nhân dân cấp quận thanh toán thay phần tiền vượt quá",
       "Công ty Phú Thịnh không chịu trách nhiệm đối với phần nghĩa vụ vượt quá phạm vi ủy quyền, anh Hoàng phải tự chịu trách nhiệm thực hiện phần nghĩa vụ vượt quá đó với bên bán"
     ],
     "correctAnswer": 3,
     "explanation": "Khoản 1 Điều 143 BLDS 2015 quy định giao dịch dân sự do người đại diện xác lập, thực hiện vượt quá phạm vi đại diện không làm phát sinh quyền, nghĩa vụ của người được đại diện đối với phần giao dịch vượt quá, trừ một số trường hợp ngoại lệ.",
     "legalReference": "Bộ luật Dân sự 2015, Điều 143",
     "difficulty": "vận dụng"
-  },
-  {
-    "id": 19044,
-    "chapterId": 4,
-    "chapterName": "Chương 4: Luật Dân sự và Luật Tố tụng Dân sự",
-    "question": "Theo quy định của Bộ luật Dân sự 2015, hợp đồng dân sự được coi là giao kết vào thời điểm nào khi các bên giao kết bằng văn bản hoặc bằng lời nói?",
-    "options": [
-      "Thời điểm bên đề nghị nhận được chấp thuận giao kết hợp đồng của bên được đề nghị",
-      "Thời điểm bên được đề nghị bắt đầu soạn thảo văn bản trả lời đề nghị",
-      "Thời điểm cơ quan công chứng chứng thực chữ ký của bên đề nghị giao kết",
-      "Thời điểm các bên đã hoàn thành xong toàn bộ nghĩa vụ bàn giao tài sản trên thực tế"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Khoản 1 Điều 400 Bộ luật Dân sự 2015 quy định: Hợp đồng được giao kết vào thời điểm bên đề nghị nhận được chấp thuận giao kết.",
-    "legalReference": "Bộ luật Dân sự 2015, Điều 400",
-    "difficulty": "trung bình"
   }
 ];
 

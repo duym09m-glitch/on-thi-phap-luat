@@ -21,12 +21,12 @@ const questions: Question[] = [
     "id": 11092,
     "chapterId": 1,
     "chapterName": "Chương 1: Những vấn đề chung về Nhà nước và Pháp luật",
-    "question": "Doanh nghiệp khai thác khoáng sản An Phát nộp đơn xin cấp phép khai thác mỏ đá vôi trên địa bàn tỉnh. Khoáng sản đá vôi này được xác định thuộc hình thức sở hữu nào theo quy định của Hiến pháp 2013?",
+    "question": "Quy định: \"Tài sản thuộc sở hữu toàn dân do Nhà nước đại diện chủ sở hữu và thống nhất quản lý...\". Khách thể của quyền sở hữu toàn dân này bao gồm những tài sản nào?",
     "options": [
-      "Tất cả xe máy và ô tô của người dân đăng ký lưu hành, nhằm bảo đảm quyền và lợi ích hợp pháp cao nhất cho giai cấp công nhân",
+      "Tất cả xe máy và ô tô của người dân đăng ký lưu hành",
       "Tất cả hàng hóa trong các siêu thị tư nhân",
       "Đất đai, tài nguyên nước, khoáng sản, vùng trời, vùng biển và các tài sản do Nhà nước đầu tư quản lý",
-      "Tiền tiết kiệm gửi tại các ngân hàng thương mại cổ phần, do phù hợp với quy tắc đạo đức và phong tục tập quán truyền thống tốt đẹp"
+      "Tiền tiết kiệm gửi tại các ngân hàng thương mại cổ phần"
     ],
     "correctAnswer": 2,
     "explanation": "Theo Điều 53 Hiến pháp 2013, đất đai, tài nguyên nước, khoáng sản, nguồn lợi ở vùng biển, vùng trời, tài nguyên thiên nhiên khác và các tài sản do Nhà nước đầu tư, quản lý là tài sản công thuộc sở hữu toàn dân.",
@@ -101,7 +101,7 @@ const questions: Question[] = [
     "id": 11097,
     "chapterId": 1,
     "chapterName": "Chương 1: Những vấn đề chung về Nhà nước và Pháp luật",
-    "question": "Chủ tịch Ủy ban nhân dân cấp tỉnh ra quyết định xử phạt vi phạm hành chính đối với cơ sở kinh doanh karaoke vi phạm nghiêm trọng quy định phòng cháy chữa cháy số tiền 45 triệu đồng và đình chỉ hoạt động 6 tháng. Văn bản xử phạt này thuộc loại văn bản nào?",
+    "question": "Chủ tịch Ủy ban nhân dân huyện ra quyết định xử phạt vi phạm hành chính đối với cơ sở karaoke vi phạm quy định phòng cháy chữa cháy số tiền 35 triệu đồng và đình chỉ hoạt động 6 tháng. Văn bản xử phạt này thuộc loại văn bản nào?",
     "options": [
       "Văn bản quy phạm pháp luật của chính quyền địa phương",
       "Quy chế nội bộ của ngành văn hóa thể thao",
@@ -109,15 +109,15 @@ const questions: Question[] = [
       "Văn bản áp dụng pháp luật mang tính cá biệt"
     ],
     "correctAnswer": 3,
-    "explanation": "Quyết định xử phạt vi phạm hành chính đối với một chủ thể xác định (cơ sở karaoke cụ thể) là văn bản áp dụng pháp luật (văn bản cá biệt), không phải văn bản quy phạm pháp luật chứa quy tắc xử sự chung.",
-    "legalReference": "Luật Ban hành văn bản quy phạm pháp luật & Luật XLVPHC",
+    "explanation": "Quyết định xử phạt vi phạm hành chính áp dụng cho một đối tượng cụ thể (cơ sở karaoke) giải quyết vụ việc cụ thể là văn bản áp dụng pháp luật cá biệt.",
+    "legalReference": "Luật Xử lý vi phạm hành chính 2012",
     "difficulty": "vận dụng"
   },
   {
     "id": 11098,
     "chapterId": 1,
     "chapterName": "Chương 1: Những vấn đề chung về Nhà nước và Pháp luật",
-    "question": "Trong hệ thống chính trị Việt Nam, tổ chức nào sau đây giữ vai trò là lực lượng lãnh đạo Nhà nước và xã hội theo quy định tại Điều 4 Hiến pháp 2013?",
+    "question": "Tổ chức nào sau đây giữ vai trò là lực lượng lãnh đạo Nhà nước và xã hội Việt Nam theo quy định tại Điều 4 Hiến pháp 2013?",
     "options": [
       "Đảng Cộng sản Việt Nam",
       "Mặt trận Tổ quốc Việt Nam",
@@ -133,15 +133,15 @@ const questions: Question[] = [
     "id": 11099,
     "chapterId": 1,
     "chapterName": "Chương 1: Những vấn đề chung về Nhà nước và Pháp luật",
-    "question": "Trong một vụ tranh chấp ranh giới đất đai giữa ông Nam và ông Bắc, Tòa án nhân dân khu vực đã hòa giải thành công và lập Biên bản hòa giải thành. Biên bản này có giá trị pháp lý ra sao?",
+    "question": "Trong một vụ tranh chấp ranh giới đất đai giữa ông Nam và ông Bắc, Tòa án nhân dân huyện đã hòa giải thành công và lập Biên bản hòa giải thành. Biên bản này có giá trị pháp lý ra sao?",
     "options": [
       "Chỉ là bản ghi nhớ danh dự không có giá trị cưỡng chế thi hành",
       "Có hiệu lực pháp luật thi hành ngay và các bên không có quyền kháng cáo theo thủ tục phúc thẩm",
       "Bị hủy bỏ nếu một trong hai bên đổi ý sau 3 ngày làm việc",
-      "Phải chuyển lên Tòa án tối cao phê duyệt mới có giá trị pháp lý"
+      "Phải chuyển lên Tòa án tối cao phê duyệt mới có giá trị"
     ],
     "correctAnswer": 1,
-    "explanation": "Theo Bộ luật Tố tụng dân sự, quyết định công nhận sự thỏa thuận của các đương sự (sau khi hòa giải thành) có hiệu lực pháp luật ngay và không bị kháng cáo, kháng nghị theo thủ tục phúc thẩm.",
+    "explanation": "Quyết định công nhận sự thỏa thuận của các đương sự (sau khi hòa giải thành) có hiệu lực pháp luật ngay sau khi được ban hành và không bị kháng cáo, kháng nghị theo thủ tục phúc thẩm.",
     "legalReference": "Bộ luật Tố tụng dân sự 2015, Điều 212",
     "difficulty": "vận dụng"
   },
@@ -181,7 +181,7 @@ const questions: Question[] = [
     "id": 11102,
     "chapterId": 1,
     "chapterName": "Chương 1: Những vấn đề chung về Nhà nước và Pháp luật",
-    "question": "Anh Thành đi dạo ven sông và thấy một cháu bé 9 tuổi bị trượt chân ngã xuống dòng nước sâu đang chới với kêu cứu. Anh Thành biết bơi rất giỏi và ngay cạnh đó có phao cứu sinh, nhưng vì sợ ướt quần áo mới mua nên Thành đã thản nhiên bỏ đi, dẫn đến việc cháu bé bị chết đuối thương tâm. Hành vi của anh Thành có cấu thành vi phạm pháp luật không?",
+    "question": "Một người phát hiện người khác đang đuối nước kêu cứu nhưng bản thân biết bơi giỏi và có phao cứu sinh bên cạnh lại bỏ đi vì ghét người đó, dẫn đến nạn nhân tử vong. Hành vi của người này bị coi là:",
     "options": [
       "Vi phạm pháp luật hình sự (tội không cứu giúp người đang ở trong tình trạng nguy hiểm đến tính mạng)",
       "Hành vi bình thường vì không ai bắt buộc phải cứu người lạ",
@@ -229,23 +229,23 @@ const questions: Question[] = [
     "id": 11105,
     "chapterId": 1,
     "chapterName": "Chương 1: Những vấn đề chung về Nhà nước và Pháp luật",
-    "question": "Chi cục Thuế khu vực kiểm tra quyết toán thuế và ban hành quyết định truy thu 80 triệu đồng tiền thuế thu nhập doanh nghiệp của Công ty TNHH Sao Mai. Quyết định truy thu thuế này được xếp vào loại văn bản nào?",
+    "question": "Cơ quan Thuế quận Đống Đa kiểm tra quyết toán thuế và ban hành quyết định truy thu 80 triệu đồng tiền thuế thu nhập doanh nghiệp của Công ty TNHH Sao Mai. Quyết định truy thu thuế này được xếp vào loại văn bản nào?",
     "options": [
       "Văn bản quy phạm pháp luật của ngành tài chính",
-      "Hiệp định tài chính song phương giữa cơ quan thuế và doanh nghiệp",
+      "Hiệp định tài chính song phương",
       "Văn bản áp dụng pháp luật mang tính quyền lực nhà nước",
-      "Văn bản thỏa thuận hợp tác thương mại giữa các bên"
+      "Văn bản thỏa thuận hợp tác thương mại"
     ],
     "correctAnswer": 2,
-    "explanation": "Quyết định truy thu thuế là văn bản áp dụng pháp luật, do cơ quan có thẩm quyền ban hành nhằm áp dụng quy định thuế vào trường hợp cụ thể của đối tượng nộp thuế.",
-    "legalReference": "Luật Ban hành văn bản quy phạm pháp luật & Luật Quản lý thuế",
+    "explanation": "Quyết định của cơ quan Thuế áp dụng trực tiếp cho đối tượng nộp thuế cụ thể để truy thu số tiền cụ thể là văn bản áp dụng pháp luật.",
+    "legalReference": "Luật Quản lý thuế 2019",
     "difficulty": "vận dụng"
   },
   {
     "id": 11106,
     "chapterId": 1,
     "chapterName": "Chương 1: Những vấn đề chung về Nhà nước và Pháp luật",
-    "question": "Chị Hạnh mang thai đến tháng thứ 8 thì xảy ra cãi vã với người hàng xóm là ông Bình. Ông Bình dùng hung khí đánh đập chị Hạnh làm chị bị thương nặng và dẫn đến việc thai nhi bị chết lưu (sảy thai). Khách thể của tội phạm bị hành vi của ông Bình xâm phạm trực tiếp là gì?",
+    "question": "Một người phụ nữ mang thai đến tháng thứ 8 bị người khác cố ý đánh đập dã man dẫn đến việc sảy thai. Khách thể của tội phạm trong trường hợp này bị tăng nặng mức độ nguy hiểm là do yếu tố nào?",
     "options": [
       "Xâm phạm tài sản vô giá của gia đình",
       "Gây bức xúc cho dư luận phụ nữ địa phương",

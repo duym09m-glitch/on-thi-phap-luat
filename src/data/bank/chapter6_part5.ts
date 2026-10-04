@@ -39,10 +39,10 @@ const questions: Question[] = [
     "chapterName": "Chương 6: Luật Hình sự và Phòng, chống tham nhũng",
     "question": "Chiếc xe ô tô chở khách do tài xế Hoàng điều khiển bị một nhóm thanh niên côn đồ dùng đá ném vỡ kính chắn gió và cầm dao đuổi chém tài xế. Tài xế Hoàng hoảng sợ tăng ga bỏ chạy thì chiếc xe tải phía trước phanh gấp. Để tránh cú va chạm đối đầu có thể làm chết hàng chục hành khách, Hoàng bẻ lái lao sang vệ đường làm sập một quán nước ven đường trị giá 30 triệu đồng, không có ai thương vong. Thiệt hại của quán nước được bồi thường thế nào theo quy định pháp luật?",
     "options": [
-      "Tài xế Hoàng bắt buộc phải chịu án phạt tù vì đã làm sập quán nước ven đường",
-      "Chủ quán nước ven đường phải tự chịu toàn bộ chi phí xây dựng lại quán",
+      "Tài xế Hoàng bắt buộc phải đi tù 2 năm vì làm sập quán nước",
+      "Chủ quán nước phải tự chịu toàn bộ chi phí xây lại",
       "Người đã gây ra tình thế cấp thiết (nhóm côn đồ đuổi chém) phải bồi thường thiệt hại cho chủ quán nước theo Điều 595 Bộ luật Dân sự 2015",
-      "Doanh nghiệp bảo hiểm dân sự của chủ xe ô tô khách phải bồi thường toàn bộ chi phí xây lại quán"
+      "Ủy ban nhân dân huyện phải trích ngân sách xây lại quán nước"
     ],
     "correctAnswer": 2,
     "explanation": "Điều 595 Bộ luật Dân sự 2015 và Điều 23 BLHS 2015: Trong tình thế cấp thiết, người gây ra tình thế cấp thiết dẫn đến thiệt hại phải bồi thường cho người bị thiệt hại.",

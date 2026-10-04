@@ -5,8 +5,10 @@ import { exam3Questions } from './exam3';
 import { exam4Questions } from './exam4';
 import { exam5Questions } from './exam5';
 import { CHAPTERS } from './chapters';
+import { BANK, ALL_QUESTIONS, needsLockedOrder, validateBank } from './bank';
 
 export { CHAPTERS } from './chapters';
+export { BANK, ALL_QUESTIONS, needsLockedOrder, validateBank };
 
 export const EXAM_SETS: ExamSet[] = [
   {
@@ -64,14 +66,6 @@ export const EXAM_SETS: ExamSet[] = [
     badge: 'Tổng Hợp Ôn Luyện',
     questions: exam5Questions,
   },
-];
-
-export const ALL_QUESTIONS: Question[] = [
-  ...exam1Questions,
-  ...exam2Questions,
-  ...exam3Questions,
-  ...exam4Questions,
-  ...exam5Questions,
 ];
 
 export function getExamById(id: number): ExamSet {

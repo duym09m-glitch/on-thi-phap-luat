@@ -9,8 +9,8 @@ const questions: Question[] = [
     "options": [
       "Quyết định bổ nhiệm trực tiếp các Giám đốc Sở thuộc UBND tỉnh",
       "Phê chuẩn việc bầu, miễn nhiệm và điều động, đình chỉ công tác, cách chức Chủ tịch, Phó Chủ tịch UBND cấp tỉnh",
-      "Trực tiếp ban hành các bản án thay thế Tòa án nhân dân tỉnh, theo đề nghị bằng văn bản của cơ quan thanh tra nhà nước có thẩm quyền",
-      "Giải thể Hội đồng nhân dân cấp tỉnh theo ý muốn cá nhân, sau khi có ý kiến thẩm tra và chấp thuận bằng văn bản của Thường trực HĐND"
+      "Trực tiếp ban hành các bản án thay thế Tòa án nhân dân tỉnh",
+      "Giải thể Hội đồng nhân dân cấp tỉnh theo ý muốn cá nhân"
     ],
     "correctAnswer": 1,
     "explanation": "Theo Luật Tổ chức Chính phủ, Thủ tướng có quyền phê chuẩn việc bầu, miễn nhiệm và quyết định điều động, đình chỉ công tác, cách chức Chủ tịch, Phó Chủ tịch UBND cấp tỉnh.",
@@ -39,7 +39,7 @@ const questions: Question[] = [
     "chapterName": "Chương 3: Bộ máy Nhà nước Cộng hòa XHCN Việt Nam",
     "question": "Vị trí của Viện kiểm sát nhân dân trong mối quan hệ với Tòa án nhân dân khi thực hành quyền công tố tại phiên tòa là gì?",
     "options": [
-      "Là cơ quan cấp trên chỉ đạo trực tiếp phán quyết của Hội đồng xét xử, trừ khi có sự chỉ đạo bằng văn bản của cơ quan quản lý hành chính cấp trên",
+      "Là cơ quan cấp trên chỉ đạo trực tiếp phán quyết của Hội đồng xét xử",
       "Là cơ quan tư vấn chuyên môn không có quyền can thiệp vụ án",
       "Là cơ quan chịu sự giám sát hành chính của Thẩm phán chủ tọa phiên tòa",
       "Thực hành quyền công tố và kiểm sát việc tuân theo pháp luật trong hoạt động xét xử của Tòa án"
@@ -73,7 +73,7 @@ const questions: Question[] = [
     "options": [
       "Bộ trưởng Bộ Tư pháp",
       "Chánh án Tòa án nhân dân tối cao",
-      "Chủ tịch Quốc hội, khi được trên một phần hai tổng số đại biểu có mặt tại phiên họp biểu quyết tán thành",
+      "Chủ tịch Quốc hội",
       "Ủy ban Tư pháp của Quốc hội"
     ],
     "correctAnswer": 1,
@@ -101,15 +101,15 @@ const questions: Question[] = [
     "id": 13037,
     "chapterId": 3,
     "chapterName": "Chương 3: Bộ máy Nhà nước Cộng hòa XHCN Việt Nam",
-    "question": "Hội đồng nhân dân cấp xã chịu sự giám sát, hướng dẫn hoạt động của cơ quan nào ở cấp trên trực tiếp?",
+    "question": "Hội đồng nhân dân cấp huyện chịu sự giám sát, hướng dẫn hoạt động của cơ quan nào ở cấp trên trực tiếp?",
     "options": [
-      "Ủy ban nhân dân cấp tỉnh, sau khi hoàn tất quy trình lấy ý kiến rộng rãi của cử tri tại địa bàn cư trú",
+      "Ủy ban nhân dân cấp tỉnh",
       "Đoàn Luật sư cấp tỉnh",
       "Thường trực Tòa án nhân dân tỉnh",
       "Thường trực Hội đồng nhân dân cấp tỉnh"
     ],
     "correctAnswer": 3,
-    "explanation": "Thường trực HĐND cấp tỉnh giám sát và hướng dẫn hoạt động của HĐND cấp dưới trực tiếp (cấp cơ sở).",
+    "explanation": "Thường trực HĐND cấp tỉnh giám sát và hướng dẫn hoạt động của HĐND cấp dưới trực tiếp (cấp huyện).",
     "legalReference": "Luật Tổ chức chính quyền địa phương 2015",
     "difficulty": "trung bình"
   },
@@ -120,8 +120,8 @@ const questions: Question[] = [
     "question": "Đại biểu Quốc hội có quyền chất vấn những ai?",
     "options": [
       "Chủ tịch nước, Chủ tịch Quốc hội, Thủ tướng Chính phủ, các Bộ trưởng và Thủ trưởng cơ quan ngang bộ, Chánh án TAND tối cao, Viện trưởng VKSND tối cao, Tổng Kiểm toán nhà nước",
-      "Chỉ được chất vấn các đại biểu Quốc hội cùng đoàn công tác, theo quyết định phân công nhiệm vụ cụ thể của người đứng đầu cơ quan quản lý, đồng thời nhằm bảo đảm tính tập trung dân chủ và kỷ cương trong bộ máy hành chính nhà nước",
-      "Chỉ được chất vấn Chủ tịch Ủy ban nhân dân xã nơi đại biểu cư trú, khi có văn bản phê duyệt của cơ quan đại diện quyền làm chủ của nhân dân, đồng thời theo đề nghị bằng văn bản của cơ quan thanh tra nhà nước có thẩm quyền",
+      "Chỉ được chất vấn các đại biểu Quốc hội cùng đoàn công tác",
+      "Chỉ được chất vấn Chủ tịch Ủy ban nhân dân xã nơi đại biểu cư trú",
       "Chỉ được chất vấn nhân viên các đại sứ quán nước ngoài"
     ],
     "correctAnswer": 0,
@@ -137,7 +137,7 @@ const questions: Question[] = [
     "options": [
       "Nghị định",
       "Quyết định",
-      "Thông tư, sau khi có ý kiến thẩm tra và chấp thuận bằng văn bản của Thường trực HĐND",
+      "Thông tư",
       "Pháp lệnh"
     ],
     "correctAnswer": 1,
@@ -154,11 +154,11 @@ const questions: Question[] = [
       "Đoàn đại biểu nơi người đó sinh hoạt",
       "Ủy ban Trung ương Mặt trận Tổ quốc",
       "Quốc hội hoặc cử tri nơi bầu ra đại biểu đó",
-      "Tòa án nhân dân tối cao, trừ khi có sự chỉ đạo bằng văn bản của cơ quan quản lý hành chính cấp trên"
+      "Tòa án nhân dân tối cao"
     ],
     "correctAnswer": 2,
     "explanation": "Theo Luật Tổ chức Quốc hội, Quốc hội hoặc cử tri nơi bầu ra đại biểu có quyền bãi nhiệm đại biểu Quốc hội nếu đại biểu đó không còn xứng đáng.",
-    "legalReference": "Luật Tổ chức Quốc hội (sửa đổi, bổ sung), Điều 40",
+    "legalReference": "Luật Tổ chức Quốc hội 2014, Điều 40",
     "difficulty": "trung bình"
   },
   {
@@ -167,7 +167,7 @@ const questions: Question[] = [
     "chapterName": "Chương 3: Bộ máy Nhà nước Cộng hòa XHCN Việt Nam",
     "question": "Chức danh nào sau đây do Quốc hội bầu theo đề nghị của Chủ tịch nước?",
     "options": [
-      "Tổng Bí thư Đảng Cộng sản Việt Nam, khi được trên một phần hai tổng số đại biểu có mặt tại phiên họp biểu quyết tán thành",
+      "Tổng Bí thư Đảng Cộng sản Việt Nam",
       "Chủ tịch Hội đồng nhân dân thành phố Hà Nội",
       "Chủ nhiệm Văn phòng Quốc hội",
       "Phó Chủ tịch nước, Thủ tướng Chính phủ, Chánh án TAND tối cao, Viện trưởng VKSND tối cao"
@@ -218,7 +218,7 @@ const questions: Question[] = [
       "Ủy ban nhân dân cấp xã",
       "Viện kiểm sát nhân dân các cấp",
       "Tòa án nhân dân",
-      "Cơ quan Cảnh sát điều tra cấp cơ sở"
+      "Công an điều tra cấp huyện"
     ],
     "correctAnswer": 2,
     "explanation": "Chỉ có Tòa án nhân dân mới là cơ quan xét xử và có thẩm quyền mở phiên tòa xét xử theo thủ tục rút gọn khi có đủ điều kiện luật định.",
@@ -229,16 +229,16 @@ const questions: Question[] = [
     "id": 13045,
     "chapterId": 3,
     "chapterName": "Chương 3: Bộ máy Nhà nước Cộng hòa XHCN Việt Nam",
-    "question": "Hội đồng Thẩm phán Tòa án nhân dân tối cao có thẩm quyền quan trọng nào sau đây?",
+    "question": "Hội đồng bầu cử quốc gia là cơ quan do ai thành lập để tổ chức bầu cử đại biểu Quốc hội và chỉ đạo công tác bầu cử đại biểu HĐND các cấp?",
     "options": [
-      "Giám đốc thẩm, tái thẩm bản án, quyết định của các Tòa án đã có hiệu lực pháp luật bị kháng nghị và lựa chọn, phát triển án lệ",
-      "Xét xử sơ thẩm tất cả các tranh chấp dân sự xảy ra trên toàn quốc, sau khi hoàn tất quy trình lấy ý kiến rộng rãi của cử tri tại địa bàn cư trú",
-      "Bãi nhiệm các Bộ trưởng và thành viên của Chính phủ, theo quyết định phân công nhiệm vụ cụ thể của người đứng đầu cơ quan quản lý",
-      "Phê chuẩn các điều ước quốc tế do Chủ tịch nước ký kết"
+      "Chính phủ",
+      "Ủy ban Trung ương Mặt trận Tổ quốc Việt Nam",
+      "Bộ Nội vụ",
+      "Quốc hội"
     ],
-    "correctAnswer": 0,
-    "explanation": "Theo Luật Tổ chức Tòa án nhân dân, Hội đồng Thẩm phán TAND tối cao là cơ quan xét xử cao nhất, giám đốc thẩm, tái thẩm bản án có hiệu lực bị kháng nghị, đồng thời lựa chọn, phát triển án lệ và ban hành nghị quyết hướng dẫn áp dụng thống nhất pháp luật.",
-    "legalReference": "Luật Tổ chức Tòa án nhân dân, Điều 22",
+    "correctAnswer": 3,
+    "explanation": "Điều 117 Hiến pháp 2013 quy định: Hội đồng bầu cử quốc gia là cơ quan do Quốc hội thành lập, có nhiệm vụ tổ chức bầu cử đại biểu Quốc hội; chỉ đạo và hướng dẫn công tác bầu cử đại biểu Hội đồng nhân dân các cấp.",
+    "legalReference": "Hiến pháp 2013, Điều 117",
     "difficulty": "trung bình"
   },
   {
@@ -248,8 +248,8 @@ const questions: Question[] = [
     "question": "Bộ máy nhà nước CHXHCN Việt Nam được tổ chức và hoạt động theo nguyên tắc nào đối với quyền lực nhà nước?",
     "options": [
       "Quyền lực nhà nước là thống nhất, có sự phân công, phối hợp, kiểm soát giữa các cơ quan nhà nước trong việc thực hiện các quyền lập pháp, hành pháp, tư pháp",
-      "Tam quyền phân lập độc lập tuyệt đối đối kháng lẫn nhau, nhằm bảo đảm tính tập trung dân chủ và kỷ cương trong bộ máy hành chính nhà nước, đồng thời khi có văn bản phê duyệt của cơ quan đại diện quyền làm chủ của nhân dân",
-      "Mỗi tỉnh thành là một nhà nước thu nhỏ có quân đội và ngoại giao riêng, theo đề nghị bằng văn bản của cơ quan thanh tra nhà nước có thẩm quyền, đồng thời sau khi có ý kiến thẩm tra và chấp thuận bằng văn bản của Thường trực HĐND",
+      "Tam quyền phân lập độc lập tuyệt đối đối kháng lẫn nhau",
+      "Mỗi tỉnh thành là một nhà nước thu nhỏ có quân đội và ngoại giao riêng",
       "Quyền lực nhà nước tập trung hoàn toàn vào các tập đoàn kinh tế nhà nước"
     ],
     "correctAnswer": 0,
@@ -282,7 +282,7 @@ const questions: Question[] = [
       "Có, Tòa án có quyền hủy bỏ mọi đạo luật vi hiến theo mô hình Tòa án bảo hiến",
       "Chỉ Tòa án quân sự trung ương mới có quyền phán quyết tính vi hiến",
       "Không, quyền phán quyết và xử lý văn bản quy phạm trái Hiến pháp thuộc về Quốc hội và Ủy ban Thường vụ Quốc hội",
-      "Có, nếu bản án đó được Hội đồng thẩm phán thông qua với tỷ lệ 100%, trừ khi có sự chỉ đạo bằng văn bản của cơ quan quản lý hành chính cấp trên"
+      "Có, nếu bản án đó được Hội đồng thẩm phán thông qua với tỷ lệ 100%"
     ],
     "correctAnswer": 2,
     "explanation": "Ở Việt Nam không áp dụng mô hình Tòa án bảo hiến; quyền bãi bỏ văn bản trái Hiến pháp của các cơ quan trung ương thuộc thẩm quyền của Quốc hội và Ủy ban Thường vụ Quốc hội.",
@@ -295,8 +295,8 @@ const questions: Question[] = [
     "chapterName": "Chương 3: Bộ máy Nhà nước Cộng hòa XHCN Việt Nam",
     "question": "Chủ tịch Ủy ban nhân dân cấp tỉnh có quyền ban hành loại văn bản quy phạm pháp luật nào?",
     "options": [
-      "Nghị quyết của Ủy ban nhân dân, khi được trên một phần hai tổng số đại biểu có mặt tại phiên họp biểu quyết tán thành",
-      "Pháp lệnh địa phương, sau khi hoàn tất quy trình lấy ý kiến rộng rãi của cử tri tại địa bàn cư trú, đồng thời theo quyết định phân công nhiệm vụ cụ thể của người đứng đầu cơ quan quản lý",
+      "Nghị quyết của Ủy ban nhân dân",
+      "Pháp lệnh địa phương",
       "Chỉ thị hành pháp",
       "Ủy ban nhân dân cấp tỉnh ban hành Quyết định (quy phạm pháp luật), Chủ tịch UBND không ban hành VBQPPL"
     ],
@@ -312,7 +312,7 @@ const questions: Question[] = [
     "question": "Hội thẩm nhân dân khi tham gia xét xử tại Tòa án nhân dân có vị trí pháp lý như thế nào?",
     "options": [
       "Ngang quyền với Thẩm phán khi biểu quyết các quyết định giải quyết vụ án",
-      "Chỉ đóng vai trò dự thính và tư vấn tâm lý cho bị cáo, nhằm bảo đảm tính tập trung dân chủ và kỷ cương trong bộ máy hành chính nhà nước",
+      "Chỉ đóng vai trò dự thính và tư vấn tâm lý cho bị cáo",
       "Là cấp dưới chịu sự chỉ đạo biểu quyết của Thẩm phán chủ tọa",
       "Chỉ được biểu quyết về phần án phí"
     ],
@@ -329,12 +329,12 @@ const questions: Question[] = [
     "options": [
       "Mọi công dân có mặt tại phòng họp Diên Hồng",
       "Tất cả các đại biểu Quốc hội có mặt tham gia kỳ họp",
-      "Chỉ các thành viên trong Ban soạn thảo dự án luật, khi có văn bản phê duyệt của cơ quan đại diện quyền làm chủ của nhân dân",
+      "Chỉ các thành viên trong Ban soạn thảo dự án luật",
       "Chỉ Chủ tịch Quốc hội và các Phó Chủ tịch Quốc hội"
     ],
     "correctAnswer": 1,
     "explanation": "Đại biểu Quốc hội là người đại diện cho ý chí, nguyện vọng của Nhân dân, có quyền biểu quyết thông qua các đạo luật, nghị quyết tại kỳ họp Quốc hội.",
-    "legalReference": "Luật Tổ chức Quốc hội (sửa đổi, bổ sung), Điều 26",
+    "legalReference": "Luật Tổ chức Quốc hội 2014, Điều 26",
     "difficulty": "trung bình"
   },
   {
@@ -343,13 +343,13 @@ const questions: Question[] = [
     "chapterName": "Chương 3: Bộ máy Nhà nước Cộng hòa XHCN Việt Nam",
     "question": "Ủy ban nhân dân cấp xã chịu sự lãnh đạo, chỉ đạo trực tiếp của cơ quan nào trong hoạt động quản lý nhà nước?",
     "options": [
-      "Tòa án nhân dân khu vực",
-      "Viện kiểm sát nhân dân khu vực",
-      "Ủy ban nhân dân cấp cơ sở và sự giám sát của HĐND cùng cấp",
-      "Đoàn Đại biểu Quốc hội tỉnh, theo đề nghị bằng văn bản của cơ quan thanh tra nhà nước có thẩm quyền"
+      "Tòa án nhân dân cấp huyện",
+      "Viện kiểm sát nhân dân cấp huyện",
+      "Ủy ban nhân dân cấp huyện và sự giám sát của HĐND cùng cấp",
+      "Đoàn Đại biểu Quốc hội tỉnh"
     ],
     "correctAnswer": 2,
-    "explanation": "UBND cấp xã là cơ quan hành chính nhà nước ở địa phương, chịu sự chỉ đạo, hướng dẫn của UBND cấp trên (cấp cơ sở) và chịu sự giám sát của HĐND cùng cấp.",
+    "explanation": "UBND cấp xã là cơ quan hành chính nhà nước ở địa phương, chịu sự chỉ đạo, hướng dẫn của UBND cấp trên (cấp huyện) và chịu sự giám sát của HĐND cùng cấp.",
     "legalReference": "Luật Tổ chức chính quyền địa phương 2015",
     "difficulty": "trung bình"
   },
@@ -357,14 +357,14 @@ const questions: Question[] = [
     "id": 13053,
     "chapterId": 3,
     "chapterName": "Chương 3: Bộ máy Nhà nước Cộng hòa XHCN Việt Nam",
-    "question": "Ủy ban nhân dân tỉnh Lâm Đồng ban hành Quyết định quy định về quản lý trật tự đô thị tại thành phố Đà Lạt. Nhận định nào sau đây là đúng về hình thức và giá trị pháp lý của văn bản này?",
+    "question": "Tại kỳ họp thứ 5 Quốc hội khóa XV, Quốc hội thảo luận về dự án Luật Đất đai (sửa đổi). Để dự thảo luật này được thông qua và có hiệu lực thi hành, tỷ lệ đại biểu Quốc hội biểu quyết tán thành tối thiểu theo quy định chung là bao nhiêu?",
     "options": [
-      "Chỉ cần Chủ tịch Quốc hội và Thủ tướng Chính phủ đồng thuận",
+      "Quá nửa tổng số đại biểu Quốc hội tán thành",
       "Ít nhất hai phần ba tổng số đại biểu Quốc hội tán thành",
       "Một trăm phần trăm đại biểu có mặt tán thành",
-      "Quá nửa tổng số đại biểu Quốc hội tán thành"
+      "Chỉ cần Chủ tịch Quốc hội và Thủ tướng Chính phủ đồng thuận"
     ],
-    "correctAnswer": 3,
+    "correctAnswer": 0,
     "explanation": "Theo khoản 1 Điều 85 Hiến pháp 2013, luật, nghị quyết của Quốc hội phải được quá nửa tổng số đại biểu Quốc hội biểu quyết tán thành (trừ trường hợp làm Hiến pháp, sửa đổi Hiến pháp hoặc rút ngắn/kéo dài nhiệm kỳ cần ít nhất 2/3).",
     "legalReference": "Hiến pháp 2013, Điều 85",
     "difficulty": "vận dụng"
@@ -373,14 +373,14 @@ const questions: Question[] = [
     "id": 13054,
     "chapterId": 3,
     "chapterName": "Chương 3: Bộ máy Nhà nước Cộng hòa XHCN Việt Nam",
-    "question": "Sau khi Quốc hội biểu quyết thông qua Luật Tổ chức chính quyền địa phương mới, Chủ tịch nước ban hành Lệnh công bố luật theo quy định của Hiến pháp. Nhận định nào sau đây là đúng về tính chất và vị trí pháp lý của văn bản này?",
+    "question": "Chủ tịch nước Nguyễn Văn A nhận được tờ trình của Tòa án nhân dân tối cao và ý kiến của Viện kiểm sát nhân dân tối cao về đơn xin ân giảm án tử hình của tử tù Hoàng B. Thẩm quyền quyết định bác đơn hay ân giảm từ hình phạt tử hình xuống tù chung thân trong trường hợp này thuộc về ai?",
     "options": [
       "Bộ trưởng Bộ Công an",
-      "Quốc hội trong kỳ họp gần nhất",
+      "Chủ tịch nước",
       "Chánh án Tòa án nhân dân tối cao",
-      "Chủ tịch nước"
+      "Quốc hội trong kỳ họp gần nhất"
     ],
-    "correctAnswer": 3,
+    "correctAnswer": 1,
     "explanation": "Theo khoản 3 Điều 88 Hiến pháp 2013, Chủ tịch nước có thẩm quyền quyết định đặc xá và quyết định ân giảm án tử hình đối với người bị kết án phạt tử hình có đơn xin ân giảm.",
     "legalReference": "Hiến pháp 2013, Điều 88",
     "difficulty": "vận dụng"
@@ -389,7 +389,7 @@ const questions: Question[] = [
     "id": 13055,
     "chapterId": 3,
     "chapterName": "Chương 3: Bộ máy Nhà nước Cộng hòa XHCN Việt Nam",
-    "question": "Trong quá trình xét xử, các Tòa án có cách hiểu khác nhau về một điều luật của Bộ luật Dân sự. Để bảo đảm áp dụng thống nhất, Ủy ban Thường vụ Quốc hội đã ban hành Nghị quyết giải thích điều luật này. Giá trị pháp lý của Nghị quyết giải thích được xác định như thế nào?",
+    "question": "Hội đồng nhân dân tỉnh K ban hành một Nghị quyết quy định thu thêm một khoản phí môi trường đối với tất cả xe ô tô lưu thông qua địa bàn tỉnh. Khoản phí này chưa được quy định trong Luật Phí và lệ phí của Quốc hội. Cơ quan nào có thẩm quyền bãi bỏ Nghị quyết trái luật này của HĐND tỉnh K?",
     "options": [
       "Tòa án nhân dân tỉnh K",
       "Ủy ban nhân dân tỉnh K",
@@ -405,30 +405,30 @@ const questions: Question[] = [
     "id": 13056,
     "chapterId": 3,
     "chapterName": "Chương 3: Bộ máy Nhà nước Cộng hòa XHCN Việt Nam",
-    "question": "Khiếu kiện quyết định hành chính, hành vi hành chính của Chủ tịch Ủy ban nhân dân cấp tỉnh thì Tòa án nào sau đây có thẩm quyền thụ lý giải quyết theo thủ tục sơ thẩm theo quy định của Luật Tố tụng hành chính?",
+    "question": "Công dân Trần Văn Bình phát hiện một quyết định hành chính do Chủ tịch UBND huyện X ban hành thu hồi đất của gia đình mình có dấu hiệu trái pháp luật. Anh Bình muốn khởi kiện quyết định hành chính này thì cơ quan nào có thẩm quyền thụ lý xét xử sơ thẩm?",
     "options": [
-      "Tòa án nhân dân khu vực nơi đặt trụ sở của Ủy ban nhân dân cấp tỉnh, theo đề nghị bằng văn bản của cơ quan thanh tra nhà nước có thẩm quyền",
-      "Tòa phúc thẩm Tòa án nhân dân tối cao tại khu vực phụ trách",
-      "Tòa án nhân dân tối cao tại Hà Nội",
-      "Tòa án nhân dân cấp tỉnh nơi có cơ quan ban hành quyết định hành chính bị khiếu kiện"
+      "Thường trực Hội đồng nhân dân huyện X",
+      "Ủy ban Kiểm tra Huyện ủy X",
+      "Thanh tra Chính phủ",
+      "Tòa án nhân dân cấp tỉnh (hoặc TAND cấp có thẩm quyền theo Luật Tố tụng hành chính)"
     ],
     "correctAnswer": 3,
-    "explanation": "Theo Điều 32 Luật Tố tụng hành chính hiện hành, khiếu kiện quyết định hành chính, hành vi hành chính của Ủy ban nhân dân cấp tỉnh, Chủ tịch Ủy ban nhân dân cấp tỉnh thuộc thẩm quyền xét xử sơ thẩm của Tòa án nhân dân cấp tỉnh.",
-    "legalReference": "Luật Tố tụng hành chính, Điều 32",
+    "explanation": "Khi công dân khởi kiện vụ án hành chính đối với quyết định hành chính của Chủ tịch UBND cấp huyện, Tòa án nhân dân cấp tỉnh có thẩm quyền thụ lý giải quyết sơ thẩm theo Luật Tố tụng hành chính 2015.",
+    "legalReference": "Luật Tố tụng hành chính 2015, Điều 32",
     "difficulty": "vận dụng"
   },
   {
     "id": 13057,
     "chapterId": 3,
     "chapterName": "Chương 3: Bộ máy Nhà nước Cộng hòa XHCN Việt Nam",
-    "question": "Sau khi Luật Nhà ở được Quốc hội thông qua, Chính phủ ban hành Nghị định quy định chi tiết một số điều về quản lý vận hành nhà chung cư. Nhận định nào sau đây là đúng về hiệu lực và thẩm quyền ban hành của Nghị định này?",
+    "question": "Trong phiên chất vấn tại kỳ họp Quốc hội, đại biểu Quốc hội tỉnh Đ đặt câu hỏi chất vấn đối với Bộ trưởng Bộ Y tế về tình trạng thiếu thuốc bảo hiểm y tế tại các bệnh viện công. Theo luật định, Bộ trưởng Bộ Y tế có nghĩa vụ gì?",
     "options": [
-      "Yêu cầu Tòa án ra phán quyết bác câu hỏi chất vấn của đại biểu, trừ khi có sự chỉ đạo bằng văn bản của cơ quan quản lý hành chính cấp trên",
-      "Có quyền từ chối trả lời nếu câu hỏi mang tính nhạy cảm chuyên ngành, khi được trên một phần hai tổng số đại biểu có mặt tại phiên họp biểu quyết tán thành",
+      "Có nghĩa vụ trả lời chất vấn trực tiếp trước Quốc hội tại kỳ họp hoặc trả lời bằng văn bản",
+      "Có quyền từ chối trả lời nếu câu hỏi mang tính nhạy cảm chuyên ngành",
       "Chỉ cần cử chuyên viên đến trả lời thay bằng văn bản sau 6 tháng",
-      "Có nghĩa vụ trả lời chất vấn trực tiếp trước Quốc hội tại kỳ họp hoặc trả lời bằng văn bản"
+      "Yêu cầu Tòa án ra phán quyết bác câu hỏi chất vấn của đại biểu"
     ],
-    "correctAnswer": 3,
+    "correctAnswer": 0,
     "explanation": "Theo Điều 80 Hiến pháp 2013, người bị chất vấn phải trả lời trước Quốc hội tại kỳ họp hoặc tại phiên họp Ủy ban thường vụ Quốc hội giữa hai kỳ họp; trường hợp cần điều tra thì Quốc hội cho phép trả lời bằng văn bản.",
     "legalReference": "Hiến pháp 2013, Điều 80",
     "difficulty": "vận dụng"
@@ -437,12 +437,12 @@ const questions: Question[] = [
     "id": 13058,
     "chapterId": 3,
     "chapterName": "Chương 3: Bộ máy Nhà nước Cộng hòa XHCN Việt Nam",
-    "question": "Doanh nghiệp An Phát nhận được Thông tư do Bộ trưởng Bộ Tài chính ban hành hướng dẫn thực hiện thủ tục hải quan điện tử. Về thẩm quyền và hình thức văn bản, Thông tư của Bộ trưởng được xác định như thế nào?",
+    "question": "Khi dịch bệnh nguy hiểm bùng phát trên diện rộng đe dọa nghiêm trọng đến tính mạng của nhân dân trên địa bàn nhiều tỉnh, cơ quan nào có thẩm quyền ban bố tình trạng khẩn cấp theo luật định?",
     "options": [
       "Chủ tịch Quốc hội",
       "Ủy ban Thường vụ Quốc hội ban hành nghị quyết ban bố hoặc Chủ tịch nước ra lệnh ban bố tình trạng khẩn cấp",
-      "Bộ Y tế tự mình ban bố áp dụng toàn quốc, sau khi hoàn tất quy trình lấy ý kiến rộng rãi của cử tri tại địa bàn cư trú",
-      "Tổ chức Y tế Thế giới WHO quyết định, theo quyết định phân công nhiệm vụ cụ thể của người đứng đầu cơ quan quản lý"
+      "Bộ Y tế tự mình ban bố áp dụng toàn quốc",
+      "Tổ chức Y tế Thế giới WHO quyết định"
     ],
     "correctAnswer": 1,
     "explanation": "Theo Hiến pháp 2013, Ủy ban thường vụ Quốc hội quyết định ban bố tình trạng khẩn cấp; căn cứ vào nghị quyết của UBTVQH, Chủ tịch nước ra Lệnh công bố tình trạng khẩn cấp.",
@@ -453,12 +453,12 @@ const questions: Question[] = [
     "id": 13059,
     "chapterId": 3,
     "chapterName": "Chương 3: Bộ máy Nhà nước Cộng hòa XHCN Việt Nam",
-    "question": "Tại kỳ họp thường lệ cuối năm, Hội đồng nhân dân tỉnh Bình Dương đã biểu quyết thông qua Nghị quyết quy định mức thu học phí đối với các cơ sở giáo dục công lập trên địa bàn. Văn bản này thuộc hình thức văn bản nào?",
+    "question": "Do tình hình chiến tranh đe dọa an ninh quốc gia, Quốc hội khóa hiện tại không thể tiến hành bầu cử Quốc hội khóa mới đúng thời hạn. Thẩm quyền quyết định kéo dài nhiệm kỳ của Quốc hội thuộc về ai và với tỷ lệ biểu quyết nào?",
     "options": [
-      "Chính phủ quyết định với tỷ lệ 100% thành viên Chính phủ tán thành, khi có văn bản phê duyệt của cơ quan đại diện quyền làm chủ của nhân dân",
+      "Chính phủ quyết định với tỷ lệ 100% thành viên Chính phủ tán thành",
       "Chủ tịch nước ra sắc lệnh kéo dài nhiệm kỳ vô thời hạn",
       "Quốc hội quyết định kéo dài nhiệm kỳ nhưng phải được ít nhất hai phần ba tổng số đại biểu Quốc hội biểu quyết tán thành",
-      "Hội đồng Dân tộc quyết định, nhằm bảo đảm tính tập trung dân chủ và kỷ cương trong bộ máy hành chính nhà nước"
+      "Hội đồng Dân tộc quyết định"
     ],
     "correctAnswer": 2,
     "explanation": "Khoản 3 Điều 71 Hiến pháp 2013 quy định: Trong trường hợp đặc biệt, nếu được ít nhất hai phần ba tổng số đại biểu Quốc hội biểu quyết tán thành thì Quốc hội quyết định rút ngắn hoặc kéo dài nhiệm kỳ của mình theo đề nghị của Ủy ban thường vụ Quốc hội.",
@@ -469,16 +469,16 @@ const questions: Question[] = [
     "id": 13060,
     "chapterId": 3,
     "chapterName": "Chương 3: Bộ máy Nhà nước Cộng hòa XHCN Việt Nam",
-    "question": "Ông Hùng và bà Lan có tranh chấp quyền sử dụng đất. Bản án sơ thẩm của Tòa án nhân dân khu vực bị ông Hùng nộp đơn kháng cáo hợp lệ trong thời hạn 15 ngày. Cơ quan nào có thẩm quyền thụ lý xét xử vụ án theo thủ tục phúc thẩm?",
+    "question": "Bị cáo Nguyễn Văn An bị Tòa án nhân dân huyện Tuyên Quang xét xử sơ thẩm và tuyên án 5 năm tù về tội cướp giật tài sản. An cho rằng mức án quá nặng nên làm đơn kháng cáo lên Tòa án cấp trên. Tòa án nào có thẩm quyền xét xử phúc thẩm vụ án này?",
     "options": [
-      "Tòa án nhân dân cấp tỉnh",
       "Tòa án nhân dân tối cao",
-      "Ủy ban nhân dân cấp tỉnh",
-      "Viện kiểm sát nhân dân khu vực"
+      "Tòa án nhân dân cấp cao tại Hà Nội",
+      "Ủy ban nhân dân tỉnh Tuyên Quang",
+      "Tòa án nhân dân tỉnh Tuyên Quang"
     ],
-    "correctAnswer": 0,
-    "explanation": "Theo Luật Tổ chức Tòa án nhân dân hiện hành, bản án, quyết định sơ thẩm của Tòa án nhân dân khu vực khi bị kháng cáo, kháng nghị sẽ do Tòa án nhân dân cấp tỉnh thụ lý xét xử theo thủ tục phúc thẩm.",
-    "legalReference": "Luật Tổ chức Tòa án nhân dân & BLTTDS",
+    "correctAnswer": 3,
+    "explanation": "Tòa án nhân dân cấp tỉnh có thẩm quyền xét xử phúc thẩm các bản án, quyết định sơ thẩm của Tòa án nhân dân cấp huyện bị kháng cáo, kháng nghị theo quy định của pháp luật tố tụng.",
+    "legalReference": "Bộ luật Tố tụng hình sự 2015, Điều 268",
     "difficulty": "vận dụng"
   }
 ];

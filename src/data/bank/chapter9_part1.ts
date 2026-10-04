@@ -7,12 +7,12 @@ const questions: Question[] = [
     "chapterName": "Chương 9: Pháp luật Lao động",
     "question": "Theo Bộ luật Lao động 2019, người lao động là người làm việc cho người sử dụng lao động theo thỏa thuận, được trả lương và chịu sự quản lý, điều hành, giám sát của người sử dụng lao động, có độ tuổi tối thiểu là bao nhiêu?",
     "options": [
-      "Đủ 14 tuổi trở lên",
+      "Đủ 15 tuổi trở lên",
       "Đủ 18 tuổi trở lên",
       "Đủ 16 tuổi trở lên",
-      "Đủ 15 tuổi trở lên"
+      "Đủ 14 tuổi trở lên"
     ],
-    "correctAnswer": 3,
+    "correctAnswer": 0,
     "explanation": "Khoản 1 Điều 3 Bộ luật Lao động 2019 quy định: Người lao động là người làm việc cho người sử dụng lao động theo thỏa thuận, được trả lương và chịu sự quản lý, điều hành, giám sát của người sử dụng lao động. Độ tuổi lao động tối thiểu của người lao động là đủ 15 tuổi, trừ trường hợp quy định tại Mục 1 Chương XI của Bộ luật này.",
     "legalReference": "Bộ luật Lao động 2019, Điều 3",
     "difficulty": "dễ"
@@ -25,8 +25,8 @@ const questions: Question[] = [
     "options": [
       "03 loại (không xác định thời hạn, xác định thời hạn, và theo mùa vụ)",
       "02 loại (Hợp đồng lao động không xác định thời hạn và Hợp đồng lao động xác định thời hạn)",
-      "04 loại, sau khi đã trao đổi ý kiến chính thức với tổ chức đại diện người lao động tại cơ sở",
-      "Chỉ có 01 loại duy nhất là hợp đồng không xác định thời hạn, khi người lao động đã được đào tạo bồi dưỡng nâng cao tay nghề nhưng vẫn không đáp ứng yêu cầu"
+      "04 loại",
+      "Chỉ có 01 loại duy nhất là hợp đồng không xác định thời hạn"
     ],
     "correctAnswer": 1,
     "explanation": "Khoản 1 Điều 20 Bộ luật Lao động 2019 quy định Hợp đồng lao động được giao kết theo một trong hai loại: a) Hợp đồng lao động không xác định thời hạn; b) Hợp đồng lao động xác định thời hạn.",
@@ -42,7 +42,7 @@ const questions: Question[] = [
       "Không quá 10 giờ trong 01 ngày",
       "Không quá 12 giờ trong 01 ngày",
       "Không quá 08 giờ trong 01 ngày và không quá 48 giờ trong 01 tuần",
-      "Không quá 06 giờ trong 01 ngày, do người sử dụng lao động thay đổi cơ cấu tổ chức, công nghệ hoặc vì lý do kinh tế"
+      "Không quá 06 giờ trong 01 ngày"
     ],
     "correctAnswer": 2,
     "explanation": "Khoản 1 Điều 105 Bộ luật Lao động 2019 quy định thời giờ làm việc bình thường không quá 08 giờ trong 01 ngày và không quá 48 giờ trong 01 tuần.",
@@ -53,16 +53,16 @@ const questions: Question[] = [
     "id": 19004,
     "chapterId": 9,
     "chapterName": "Chương 9: Pháp luật Lao động",
-    "question": "Theo quy định của Bộ luật Lao động 2019, người sử dụng lao động KHÔNG ĐƯỢC áp dụng thử việc đối với người lao động trong trường hợp nào?",
+    "question": "Tiền lương của người lao động trong thời gian thử việc do hai bên thỏa thuận nhưng ít nhất phải bằng bao nhiêu phần trăm mức lương của công việc đó?",
     "options": [
-      "Người lao động đã từng có kinh nghiệm làm việc 5 năm, trừ trường hợp nội quy lao động hợp pháp của doanh nghiệp có quy định hình thức xử lý khác",
-      "Giao kết hợp đồng lao động có thời hạn 12 tháng",
-      "Giao kết hợp đồng lao động không xác định thời hạn",
-      "Giao kết hợp đồng lao động có thời hạn dưới 01 tháng"
+      "Ít nhất 70% mức lương của công việc đó",
+      "Ít nhất 75% mức lương của công việc đó",
+      "Ít nhất 80% mức lương của công việc đó",
+      "Ít nhất 85% mức lương của công việc đó"
     ],
     "correctAnswer": 3,
-    "explanation": "Khoản 2 Điều 24 Bộ luật Lao động 2019 quy định: Không áp dụng thử việc đối với người lao động giao kết hợp đồng lao động có thời hạn dưới 01 tháng.",
-    "legalReference": "Bộ luật Lao động 2019, Điều 24",
+    "explanation": "Điều 26 Bộ luật Lao động 2019 quy định: Tiền lương của người lao động trong thời gian thử việc do hai bên thỏa thuận nhưng ít nhất phải bằng 85% mức lương của công việc đó.",
+    "legalReference": "Bộ luật Lao động 2019, Điều 26",
     "difficulty": "dễ"
   },
   {
@@ -71,12 +71,12 @@ const questions: Question[] = [
     "chapterName": "Chương 9: Pháp luật Lao động",
     "question": "Hình thức kỷ luật lao động nào sau đây thuộc hệ thống các hình thức xử lý kỷ luật lao động theo Điều 124 Bộ luật Lao động 2019?",
     "options": [
-      "Tạm giam tại phòng bảo vệ công ty trong 24 giờ, khi người sử dụng lao động đã báo trước cho người lao động đủ thời hạn luật định",
+      "Khiển trách; Kéo dài thời hạn nâng lương không quá 06 tháng; Cách chức; Sa thải",
       "Phạt tiền mặt từ 500.000 đồng đến 2.000.000 đồng",
       "Cắt giảm toàn bộ tiền lương của tháng vi phạm",
-      "Khiển trách; Kéo dài thời hạn nâng lương không quá 06 tháng; Cách chức; Sa thải"
+      "Tạm giam tại phòng bảo vệ công ty trong 24 giờ"
     ],
-    "correctAnswer": 3,
+    "correctAnswer": 0,
     "explanation": "Điều 124 Bộ luật Lao động 2019 quy định các hình thức xử lý kỷ luật lao động gồm: 1. Khiển trách; 2. Kéo dài thời hạn nâng lương không quá 06 tháng; 3. Cách chức; 4. Sa thải.",
     "legalReference": "Bộ luật Lao động 2019, Điều 124",
     "difficulty": "dễ"
@@ -103,10 +103,10 @@ const questions: Question[] = [
     "chapterName": "Chương 9: Pháp luật Lao động",
     "question": "Bộ luật Lao động 2019 nghiêm cấm người sử dụng lao động áp dụng hình thức xử lý kỷ luật nào sau đây đối với người lao động?",
     "options": [
-      "Khiển trách bằng văn bản lưu hồ sơ, khi người lao động đã được đào tạo bồi dưỡng nâng cao tay nghề nhưng vẫn không đáp ứng yêu cầu",
+      "Khiển trách bằng văn bản lưu hồ sơ",
       "Sa thải người lao động trộm cắp tài sản",
       "Dùng hình thức phạt tiền, cắt lương thay việc xử lý kỷ luật lao động; xúc phạm danh dự, nhân phẩm, thân thể của người lao động",
-      "Kéo dài thời hạn nâng lương 3 tháng, sau khi đã trao đổi ý kiến chính thức với tổ chức đại diện người lao động tại cơ sở"
+      "Kéo dài thời hạn nâng lương 3 tháng"
     ],
     "correctAnswer": 2,
     "explanation": "Điều 127 Bộ luật Lao động 2019 quy định các hành vi bị nghiêm cấm khi xử lý kỷ luật lao động: 1. Xâm phạm sức khỏe, danh dự, tính mạng, uy tín, nhân phẩm; 2. Phạt tiền, cắt lương thay việc xử lý kỷ luật; 3. Xử lý kỷ luật lao động đối với người lao động có hành vi vi phạm chưa được quy định trong nội quy lao động.",
@@ -119,8 +119,8 @@ const questions: Question[] = [
     "chapterName": "Chương 9: Pháp luật Lao động",
     "question": "Hằng năm, người lao động được nghỉ làm việc, hưởng nguyên lương trong những ngày lễ, tết nào với tổng cộng bao nhiêu ngày theo Điều 112 Bộ luật Lao động 2019?",
     "options": [
-      "Tổng cộng 09 ngày, do người sử dụng lao động thay đổi cơ cấu tổ chức, công nghệ hoặc vì lý do kinh tế",
-      "Tổng cộng 10 ngày, khi hợp đồng lao động đã được hai bên tự nguyện giao kết bằng văn bản theo luật định",
+      "Tổng cộng 09 ngày",
+      "Tổng cộng 10 ngày",
       "Tổng cộng 12 ngày",
       "Tổng cộng 11 ngày (Tết Dương lịch 01 ngày; Tết Âm lịch 05 ngày; Ngày Chiến thắng 01 ngày; Ngày Quốc tế lao động 01 ngày; Quốc khánh 02 ngày; Ngày Giỗ Tổ Hùng Vương 01 ngày)"
     ],
@@ -197,15 +197,15 @@ const questions: Question[] = [
     "id": 19013,
     "chapterId": 9,
     "chapterName": "Chương 9: Pháp luật Lao động",
-    "question": "Theo khoản 3 Điều 98 Bộ luật Lao động 2019, người lao động làm thêm giờ vào ban đêm thì ngoài tiền lương làm thêm giờ và tiền lương ban đêm, còn được trả thêm bao nhiêu tiền lương?",
+    "question": "Người lao động làm việc vào ban đêm thì được trả thêm ít nhất bao nhiêu phần trăm tiền lương tính theo đơn giá tiền lương hoặc tiền lương thực trả của ngày làm việc bình thường?",
     "options": [
-      "Được trả thêm 20% tiền lương tính theo đơn giá tiền lương hoặc tiền lương thực trả của công việc làm vào ban ngày của ngày làm việc bình thường hoặc ngày nghỉ",
-      "Được trả thêm 50% tiền lương của ngày làm việc lễ, tết, trừ trường hợp nội quy lao động hợp pháp của doanh nghiệp có quy định hình thức xử lý khác",
-      "Được hưởng trọn vẹn gấp 5 lần tiền lương ngày bình thường, nhằm bảo vệ quyền lợi việc làm bền vững và bảo đảm an toàn vệ sinh cho người lao động",
-      "Không được hưởng thêm bất kỳ khoản phụ cấp nào khác"
+      "Ít nhất 30%",
+      "Ít nhất 20%",
+      "Ít nhất 50%",
+      "Ít nhất 10%"
     ],
     "correctAnswer": 0,
-    "explanation": "Khoản 3 Điều 98 Bộ luật Lao động 2019: Ngoài tiền lương quy định tại khoản 1 và khoản 2 Điều này, người lao động còn được trả thêm 20% tiền lương tính theo đơn giá tiền lương hoặc tiền lương thực trả theo công việc làm vào ban ngày của ngày làm việc bình thường hoặc của ngày nghỉ hằng tuần hoặc của ngày nghỉ lễ, tết.",
+    "explanation": "Khoản 2 Điều 98 Bộ luật Lao động 2019 quy định: Người lao động làm việc vào ban đêm thì được trả thêm ít nhất 30% tiền lương tính theo đơn giá tiền lương hoặc tiền lương thực trả theo công việc của ngày làm việc bình thường.",
     "legalReference": "Bộ luật Lao động 2019, Điều 98",
     "difficulty": "dễ"
   },
@@ -231,10 +231,10 @@ const questions: Question[] = [
     "chapterName": "Chương 9: Pháp luật Lao động",
     "question": "Tổ chức nào đại diện cho tập thể lao động tại cơ sở theo quy định của Bộ luật Lao động 2019?",
     "options": [
-      "Hội đồng nhân dân cấp xã, do người lao động tự ý bỏ việc nhiều ngày liên tục mà không có lý do chính đáng",
+      "Hội đồng nhân dân cấp xã",
       "Đoàn Thanh niên Cộng sản Hồ Chí Minh cơ quan",
       "Tổ chức công đoàn cơ sở hoặc tổ chức của người lao động tại doanh nghiệp được thành lập hợp pháp",
-      "Ban Bảo vệ dân phố địa bàn, khi người sử dụng lao động đã báo trước cho người lao động đủ thời hạn luật định"
+      "Ban Bảo vệ dân phố địa bàn"
     ],
     "correctAnswer": 2,
     "explanation": "Khoản 3 Điều 3 Bộ luật Lao động 2019 quy định Tổ chức đại diện người lao động tại cơ sở bao gồm công đoàn cơ sở và tổ chức của người lao động tại doanh nghiệp.",
@@ -245,16 +245,16 @@ const questions: Question[] = [
     "id": 19016,
     "chapterId": 9,
     "chapterName": "Chương 9: Pháp luật Lao động",
-    "question": "Theo Điều 16 Bộ luật Lao động 2019, người sử dụng lao động có nghĩa vụ nào sau đây trước khi giao kết hợp đồng lao động?",
+    "question": "Hành vi nào sau đây của người sử dụng lao động bị NGHIÊM CẤM khi giao kết, thực hiện hợp đồng lao động?",
     "options": [
-      "Cung cấp thông tin trung thực về công việc, địa điểm làm việc, điều kiện lao động, thời giờ làm việc, thời giờ nghỉ ngơi, an toàn lao động, tiền lương và các chế độ bảo hiểm",
-      "Yêu cầu người lao động nộp bản chính bằng tốt nghiệp đại học để công ty cất giữ, sau khi đã trao đổi ý kiến chính thức với tổ chức đại diện người lao động tại cơ sở",
-      "Buộc người lao động phải đóng một khoản tiền đặt cọc cam kết làm việc 3 năm, khi người lao động đã được đào tạo bồi dưỡng nâng cao tay nghề nhưng vẫn không đáp ứng yêu cầu",
-      "Yêu cầu người lao động ký cam kết không được kết hôn trong 2 năm đầu"
+      "Yêu cầu người lao động xuất trình bằng cấp chuyên môn photo công chứng",
+      "Ký kết hợp đồng lao động bằng văn bản điện tử",
+      "Thỏa thuận thời gian thử việc theo đúng luật định",
+      "Giữ bản chính giấy tờ tùy thân, văn bằng, chứng chỉ của người lao động; yêu cầu người lao động phải thực hiện biện pháp bảo đảm bằng tiền hoặc tài sản khác cho việc thực hiện hợp đồng lao động"
     ],
-    "correctAnswer": 0,
-    "explanation": "Khoản 1 Điều 16 Bộ luật Lao động 2019 quy định người sử dụng lao động phải cung cấp thông tin trung thực cho người lao động về công việc, địa điểm làm việc, điều kiện lao động, thời giờ làm việc, tiền lương...",
-    "legalReference": "Bộ luật Lao động 2019, Điều 16",
+    "correctAnswer": 3,
+    "explanation": "Điều 17 Bộ luật Lao động 2019 quy định hành vi người sử dụng lao động không được làm khi giao kết, thực hiện HĐLĐ: 1. Giữ bản chính giấy tờ tùy thân, văn bằng, chứng chỉ; 2. Yêu cầu đặt cọc tiền hoặc tài sản.",
+    "legalReference": "Bộ luật Lao động 2019, Điều 17",
     "difficulty": "dễ"
   },
   {
@@ -281,8 +281,8 @@ const questions: Question[] = [
     "options": [
       "Mức tiền thưởng hàng năm công ty cam kết chi trả",
       "Mức lương thấp nhất được trả cho người lao động làm công việc giản đơn nhất trong điều kiện lao động bình thường nhằm bảo đảm mức sống tối thiểu của người lao động và gia đình họ",
-      "Mức lương áp dụng cho mọi chức danh quản lý cao cấp, do người sử dụng lao động thay đổi cơ cấu tổ chức, công nghệ hoặc vì lý do kinh tế",
-      "Số tiền lương ghi trong hợp đồng thử việc, khi hợp đồng lao động đã được hai bên tự nguyện giao kết bằng văn bản theo luật định"
+      "Mức lương áp dụng cho mọi chức danh quản lý cao cấp",
+      "Số tiền lương ghi trong hợp đồng thử việc"
     ],
     "correctAnswer": 1,
     "explanation": "Khoản 1 Điều 91 Bộ luật Lao động 2019 quy định: Mức lương tối thiểu là mức lương thấp nhất được trả cho người lao động làm công việc giản đơn nhất trong điều kiện lao động bình thường nhằm bảo đảm mức sống tối thiểu của người lao động và gia đình họ, phù hợp với điều kiện phát triển kinh tế - xã hội.",
@@ -295,10 +295,10 @@ const questions: Question[] = [
     "chapterName": "Chương 9: Pháp luật Lao động",
     "question": "Người lao động nghỉ việc riêng mà vẫn được HƯỞNG NGUYÊN LƯƠNG trong trường hợp nào sau đây theo Điều 115 Bộ luật Lao động 2019?",
     "options": [
-      "Nghỉ đi du lịch cùng bạn bè 02 ngày theo lịch nghỉ tự chọn, nhằm bảo vệ quyền lợi việc làm bền vững và bảo đảm an toàn vệ sinh cho người lao động",
-      "Nghỉ vì nhà có giỗ ông bà tổ tiên 01 ngày trong tuần",
+      "Nghỉ đi du lịch cùng bạn bè 02 ngày",
+      "Nghỉ vì nhà có giỗ ông bà tổ tiên 01 ngày",
       "Kết hôn (nghỉ 03 ngày); con đẻ, con nuôi kết hôn (nghỉ 01 ngày); cha đẻ, mẹ đẻ, cha nuôi, mẹ nuôi; cha đẻ, mẹ đẻ, cha nuôi, mẹ nuôi của vợ hoặc chồng; vợ hoặc chồng; con đẻ, con nuôi chết (nghỉ 03 ngày)",
-      "Nghỉ chuyển đổi chỗ ở mới 02 ngày làm việc, trừ trường hợp nội quy lao động hợp pháp của doanh nghiệp có quy định hình thức xử lý khác"
+      "Nghỉ chuyển nhà sang quận khác 02 ngày"
     ],
     "correctAnswer": 2,
     "explanation": "Khoản 1 Điều 115 Bộ luật Lao động 2019 quy định người lao động được nghỉ việc riêng mà vẫn hưởng nguyên lương trong các trường hợp: Kết hôn (3 ngày), con kết hôn (1 ngày), cha mẹ, vợ chồng, con chết (3 ngày).",
@@ -311,12 +311,12 @@ const questions: Question[] = [
     "chapterName": "Chương 9: Pháp luật Lao động",
     "question": "Cơ quan, tổ chức, cá nhân nào sau đây có thẩm quyền giải quyết tranh chấp lao động cá nhân theo Điều 187 Bộ luật Lao động 2019?",
     "options": [
-      "Hòa giải viên lao động; Hội đồng trọng tài lao động; Tòa án nhân dân",
-      "Ủy ban Kiểm tra Đảng ủy cấp cơ sở, khi người sử dụng lao động đã báo trước cho người lao động đủ thời hạn luật định",
-      "Viện kiểm sát nhân dân khu vực",
-      "Cơ quan Cảnh sát giao thông"
+      "Ủy ban Kiểm tra Đảng ủy cấp huyện",
+      "Viện kiểm sát nhân dân cấp huyện",
+      "Cơ quan Cảnh sát giao thông",
+      "Hòa giải viên lao động; Hội đồng trọng tài lao động; Tòa án nhân dân"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "explanation": "Điều 187 Bộ luật Lao động 2019 quy định cơ quan, tổ chức, cá nhân có thẩm quyền giải quyết tranh chấp lao động cá nhân gồm: Hòa giải viên lao động; Hội đồng trọng tài lao động; Tòa án nhân dân.",
     "legalReference": "Bộ luật Lao động 2019, Điều 187",
     "difficulty": "dễ"
@@ -345,8 +345,8 @@ const questions: Question[] = [
     "options": [
       "Ít nhất 200%",
       "Ít nhất 300% chưa kể tiền lương ngày lễ, tết, ngày nghỉ có hưởng lương đối với người lao động hưởng lương ngày",
-      "Ít nhất 150%, sau khi đã trao đổi ý kiến chính thức với tổ chức đại diện người lao động tại cơ sở",
-      "Ít nhất 400%, khi người lao động đã được đào tạo bồi dưỡng nâng cao tay nghề nhưng vẫn không đáp ứng yêu cầu"
+      "Ít nhất 150%",
+      "Ít nhất 400%"
     ],
     "correctAnswer": 1,
     "explanation": "Điểm c khoản 1 Điều 98 Bộ luật Lao động 2019 quy định người lao động làm thêm giờ vào ngày nghỉ lễ, tết, ngày nghỉ có hưởng lương được trả ít nhất 300% chưa kể tiền lương ngày lễ, tết, ngày nghỉ có hưởng lương.",
@@ -392,8 +392,8 @@ const questions: Question[] = [
     "question": "Đình công là gì theo định nghĩa tại Điều 198 Bộ luật Lao động 2019?",
     "options": [
       "Sự ngừng việc tạm thời, tự nguyện và có tổ chức của người lao động nhằm đạt được yêu cầu trong quá trình giải quyết tranh chấp lao động và do tổ chức đại diện người lao động có quyền thương lượng tập thể tổ chức và lãnh đạo",
-      "Hành vi đập phá nhà xưởng máy móc của người lao động, do người sử dụng lao động thay đổi cơ cấu tổ chức, công nghệ hoặc vì lý do kinh tế",
-      "Hành động tự phát bỏ việc tập thể của nhóm công nhân không báo trước, khi hợp đồng lao động đã được hai bên tự nguyện giao kết bằng văn bản theo luật định",
+      "Hành vi đập phá nhà xưởng máy móc của người lao động",
+      "Hành động tự phát bỏ việc tập thể của nhóm công nhân không báo trước",
       "Quyết định đóng cửa nhà máy của người sử dụng lao động"
     ],
     "correctAnswer": 0,
@@ -409,7 +409,7 @@ const questions: Question[] = [
     "options": [
       "Ít nhất 30 ngày",
       "Ít nhất 45 ngày (trừ một số ngành nghề, công việc đặc thù)",
-      "Ít nhất 60 ngày, trừ trường hợp nội quy lao động hợp pháp của doanh nghiệp có quy định hình thức xử lý khác",
+      "Ít nhất 60 ngày",
       "Ít nhất 15 ngày"
     ],
     "correctAnswer": 1,
@@ -423,10 +423,10 @@ const questions: Question[] = [
     "chapterName": "Chương 9: Pháp luật Lao động",
     "question": "Người sử dụng lao động có nghĩa vụ thanh toán đầy đủ các khoản tiền liên quan đến quyền lợi của người lao động trong thời hạn bao nhiêu ngày kể từ ngày chấm dứt hợp đồng lao động?",
     "options": [
-      "Trong thời hạn 30 ngày, do người lao động tự ý bỏ việc nhiều ngày liên tục mà không có lý do chính đáng",
+      "Trong thời hạn 30 ngày",
       "Trong thời hạn 60 ngày",
       "Trong thời hạn 14 ngày làm việc (có thể kéo dài nhưng không quá 30 ngày trong một số trường hợp)",
-      "Trong thời hạn 03 ngày làm việc, khi người sử dụng lao động đã báo trước cho người lao động đủ thời hạn luật định"
+      "Trong thời hạn 03 ngày làm việc"
     ],
     "correctAnswer": 2,
     "explanation": "Khoản 1 Điều 48 Bộ luật Lao động 2019 quy định trong thời hạn 14 ngày làm việc kể từ ngày chấm dứt HĐLĐ, hai bên có trách nhiệm thanh toán đầy đủ các khoản tiền liên quan đến quyền lợi của mỗi bên.",
@@ -453,16 +453,16 @@ const questions: Question[] = [
     "id": 19029,
     "chapterId": 9,
     "chapterName": "Chương 9: Pháp luật Lao động",
-    "question": "Theo Điều 149 Bộ luật Lao động 2019, việc giao kết hợp đồng lao động đối với người lao động cao tuổi được quy định như thế nào?",
+    "question": "Khi hợp đồng lao động xác định thời hạn hết hạn mà người lao động vẫn tiếp tục làm việc thì trong thời hạn bao nhiêu ngày hai bên phải ký kết hợp đồng lao động mới?",
     "options": [
-      "Hai bên có thể thỏa thuận giao kết nhiều lần hợp đồng lao động xác định thời hạn",
-      "Bắt buộc người sử dụng lao động phải ký hợp đồng lao động không xác định thời hạn",
-      "Nghiêm cấm người sử dụng lao động ký hợp đồng lao động với người đã nghỉ hưu",
-      "Người lao động cao tuổi chỉ được làm việc tối đa 02 giờ trong một ngày"
+      "Trong thời hạn 30 ngày kể từ ngày hợp đồng hết hạn",
+      "Trong thời hạn 15 ngày kể từ ngày hợp đồng hết hạn",
+      "Trong thời hạn 60 ngày kể từ ngày hợp đồng hết hạn",
+      "Trong thời hạn 90 ngày kể từ ngày hợp đồng hết hạn"
     ],
     "correctAnswer": 0,
-    "explanation": "Khoản 1 Điều 149 Bộ luật Lao động 2019 quy định: Khi sử dụng người lao động cao tuổi, hai bên có thể thỏa thuận giao kết nhiều lần hợp đồng lao động xác định thời hạn.",
-    "legalReference": "Bộ luật Lao động 2019, Điều 149",
+    "explanation": "Điểm b khoản 2 Điều 20 Bộ luật Lao động 2019 quy định trong thời hạn 30 ngày kể từ ngày hợp đồng lao động hết hạn, hai bên phải ký kết hợp đồng lao động mới.",
+    "legalReference": "Bộ luật Lao động 2019, Điều 20",
     "difficulty": "dễ"
   },
   {
@@ -473,7 +473,7 @@ const questions: Question[] = [
     "options": [
       "Cứ đủ 03 năm làm việc",
       "Cứ đủ 05 năm làm việc cho một người sử dụng lao động",
-      "Cứ đủ 07 năm làm việc, sau khi đã trao đổi ý kiến chính thức với tổ chức đại diện người lao động tại cơ sở",
+      "Cứ đủ 07 năm làm việc",
       "Cứ đủ 10 năm làm việc"
     ],
     "correctAnswer": 1,

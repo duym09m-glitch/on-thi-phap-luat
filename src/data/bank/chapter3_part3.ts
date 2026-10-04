@@ -5,11 +5,11 @@ const questions: Question[] = [
     "id": 13061,
     "chapterId": 3,
     "chapterName": "Chương 3: Bộ máy Nhà nước Cộng hòa XHCN Việt Nam",
-    "question": "Trong vụ án buôn lậu lớn, Tòa án nhân dân tỉnh Khánh Hòa mở phiên tòa xét xử sơ thẩm công khai và tuyên phạt bị cáo Quang 12 năm tù. Quyền năng xét xử và nhân danh Nhà nước tuyên án của Tòa án nhân dân là biểu hiện của quyền gì?",
+    "question": "Chính phủ ban hành Nghị định số 100/2019/NĐ-CP quy định xử phạt vi phạm hành chính trong lĩnh vực giao thông đường bộ. Nghị định này có hiệu lực áp dụng đối với đối tượng nào?",
     "options": [
       "Mọi cá nhân, tổ chức Việt Nam và nước ngoài có hành vi vi phạm trật tự an toàn giao thông trên lãnh thổ Việt Nam",
-      "Chỉ áp dụng đối với các tài xế xe ô tô chuyên nghiệp, theo đề nghị bằng văn bản của cơ quan thanh tra nhà nước có thẩm quyền",
-      "Chỉ có hiệu lực trong phạm vi các tuyến quốc lộ do trung ương quản lý, sau khi có ý kiến thẩm tra và chấp thuận bằng văn bản của Thường trực HĐND",
+      "Chỉ áp dụng đối với các tài xế xe ô tô chuyên nghiệp",
+      "Chỉ có hiệu lực trong phạm vi các tuyến quốc lộ do trung ương quản lý",
       "Chỉ áp dụng đối với các cơ quan hành chính nhà nước"
     ],
     "correctAnswer": 0,
@@ -21,28 +21,28 @@ const questions: Question[] = [
     "id": 13062,
     "chapterId": 3,
     "chapterName": "Chương 3: Bộ máy Nhà nước Cộng hòa XHCN Việt Nam",
-    "question": "Ông Vũ là Chủ tịch Ủy ban nhân dân cấp xã Y có hành vi bao che cho doanh nghiệp khai thác cát lậu gây sạt lở nghiêm trọng bờ sông. Ai là người có thẩm quyền ra quyết định đình chỉ công tác hoặc cách chức Chủ tịch UBND cấp xã đối với ông Vũ theo Luật Tổ chức chính quyền địa phương?",
+    "question": "Ông Vũ là Chủ tịch Ủy ban nhân dân huyện Y có hành vi bao che cho doanh nghiệp khai thác cát lậu gây sạt lở bờ sông nghiêm trọng. Ai là người có thẩm quyền ra quyết định đình chỉ công tác hoặc cách chức Chủ tịch UBND huyện đối với ông Vũ?",
     "options": [
-      "Viện trưởng Viện kiểm sát nhân dân khu vực",
+      "Viện trưởng Viện kiểm sát nhân dân huyện Y",
       "Chủ tịch Ủy ban nhân dân cấp tỉnh",
       "Chủ tịch Quốc hội",
       "Giám đốc Công an tỉnh"
     ],
     "correctAnswer": 1,
-    "explanation": "Theo Luật Tổ chức chính quyền địa phương 2025 (mô hình 2 cấp), Chủ tịch UBND cấp tỉnh có thẩm quyền điều động, đình chỉ công tác, cách chức Chủ tịch UBND cấp dưới trực tiếp (cấp cơ sở/xã).",
-    "legalReference": "Luật Tổ chức chính quyền địa phương 2025",
+    "explanation": "Theo Luật Tổ chức chính quyền địa phương 2015, Chủ tịch UBND cấp tỉnh có quyền điều động, đình chỉ công tác và cách chức Chủ tịch, Phó Chủ tịch UBND cấp huyện.",
+    "legalReference": "Luật Tổ chức chính quyền địa phương 2015, Điều 22",
     "difficulty": "vận dụng"
   },
   {
     "id": 13063,
     "chapterId": 3,
     "chapterName": "Chương 3: Bộ máy Nhà nước Cộng hòa XHCN Việt Nam",
-    "question": "Đoàn Thanh tra tỉnh Hà Tĩnh tiến hành thanh tra công tác quản lý tài chính và đấu thầu tại Sở Giao thông vận tải và phát hiện sai phạm chi sai nguyên tắc 3 tỷ đồng. Kết luận thanh tra của Chánh Thanh tra tỉnh có ý nghĩa và hiệu lực pháp lý như thế nào?",
+    "question": "Tại phiên tòa sơ thẩm xét xử vụ án dân sự về tranh chấp tài sản thừa kế, Thẩm phán chủ tọa phát hiện một thành viên Hội thẩm nhân dân là bác ruột của nguyên đơn. Theo nguyên tắc tố tụng tư pháp, Thẩm phán phải xử lý như thế nào?",
     "options": [
-      "Tiếp tục phiên tòa bình thường vì Hội thẩm nhân dân không hưởng lương tư pháp, khi được trên một phần hai tổng số đại biểu có mặt tại phiên họp biểu quyết tán thành",
+      "Tiếp tục phiên tòa bình thường vì Hội thẩm nhân dân không hưởng lương tư pháp",
       "Yêu cầu nguyên đơn phải chia bớt tài sản cho bị đơn",
       "Thay đổi người tiến hành tố tụng (Hội thẩm) để bảo đảm nguyên tắc vô tư, khách quan trong xét xử",
-      "Tuyên hoãn phiên tòa vĩnh viễn không xét xử nữa, trừ khi có sự chỉ đạo bằng văn bản của cơ quan quản lý hành chính cấp trên"
+      "Tuyên hoãn phiên tòa vĩnh viễn không xét xử nữa"
     ],
     "correctAnswer": 2,
     "explanation": "Theo Bộ luật Tố tụng dân sự, người tiến hành tố tụng (Thẩm phán, Hội thẩm) phải từ chối tiến hành tố tụng hoặc bị thay đổi nếu là người thân thích của đương sự nhằm bảo đảm sự vô tư, công bằng.",
@@ -53,9 +53,9 @@ const questions: Question[] = [
     "id": 13064,
     "chapterId": 3,
     "chapterName": "Chương 3: Bộ máy Nhà nước Cộng hòa XHCN Việt Nam",
-    "question": "Đoàn Kiểm toán nhà nước khu vực tiến hành kiểm toán báo cáo quyết toán ngân sách tại tỉnh Quảng Ninh. Nhận định nào sau đây là đúng về địa vị pháp lý và tính chất hoạt động của Kiểm toán nhà nước?",
+    "question": "Một công dân gửi đơn khiếu nại lên Bộ trưởng Bộ Giáo dục và Đào tạo về quyết định thu hồi bằng tốt nghiệp đại học của mình. Sau khi Bộ trưởng giải quyết khiếu nại lần đầu mà công dân không đồng ý, công dân này có quyền thực hiện tiếp biện pháp nào?",
     "options": [
-      "Đến trụ sở Liên Hợp Quốc yêu cầu phân xử, sau khi hoàn tất quy trình lấy ý kiến rộng rãi của cử tri tại địa bàn cư trú",
+      "Đến trụ sở Liên Hợp Quốc yêu cầu phân xử",
       "Thuê công ty thám tử tư nhân đến phong tỏa cổng trường",
       "Bắt buộc phải chấp hành và không có quyền khởi kiện tiếp",
       "Khởi kiện vụ án hành chính ra Tòa án nhân dân có thẩm quyền"
@@ -72,8 +72,8 @@ const questions: Question[] = [
     "question": "Ông Lê được bầu làm đại biểu Hội đồng nhân dân thành phố Cần Thơ. Trong thời gian đương nhiệm, ông Lê phạm tội nhận hối lộ và bị Tòa án kết án phạt tù có hiệu lực pháp luật. Địa vị đại biểu HĐND của ông Lê được xử lý ra sao?",
     "options": [
       "Đương nhiên mất quyền đại biểu Hội đồng nhân dân kể từ ngày bản án có hiệu lực pháp luật",
-      "Vẫn tiếp tục giữ quyền đại biểu HĐND cho đến hết nhiệm kỳ 5 năm, nhằm bảo đảm tính tập trung dân chủ và kỷ cương trong bộ máy hành chính nhà nước",
-      "Được chuyển giao tư cách đại biểu cho vợ hoặc con trai, khi có văn bản phê duyệt của cơ quan đại diện quyền làm chủ của nhân dân",
+      "Vẫn tiếp tục giữ quyền đại biểu HĐND cho đến hết nhiệm kỳ 5 năm",
+      "Được chuyển giao tư cách đại biểu cho vợ hoặc con trai",
       "Chỉ bị tạm đình chỉ tham gia biểu quyết nhưng vẫn được nhận phụ cấp"
     ],
     "correctAnswer": 0,
@@ -85,12 +85,12 @@ const questions: Question[] = [
     "id": 13066,
     "chapterId": 3,
     "chapterName": "Chương 3: Bộ máy Nhà nước Cộng hòa XHCN Việt Nam",
-    "question": "Tại kỳ họp Quốc hội xem xét thông qua dự thảo Nghị quyết sửa đổi, bổ sung một số điều của Hiến pháp năm 2013, để dự thảo được chính thức thông qua thì cần đạt được tỷ lệ biểu quyết tán thành tối thiểu là bao nhiêu?",
+    "question": "Ủy ban Thường vụ Quốc hội phát hiện một Thông tư của Bộ trưởng Bộ Tài chính có điều khoản trái với Nghị định của Chính phủ và Luật Thuế giá trị gia tăng. Ủy ban Thường vụ Quốc hội có thẩm quyền xử lý văn bản này như thế nào?",
     "options": [
       "Phạt tiền cá nhân Bộ trưởng Bộ Tài chính 100 triệu đồng",
       "Bãi bỏ một phần hoặc toàn bộ văn bản quy phạm pháp luật của Bộ trưởng trái với Hiến pháp, luật, nghị quyết của Quốc hội, pháp lệnh, nghị quyết của UBTVQH",
-      "Chuyển hồ sơ sang Tòa án hình sự truy tố ngay, theo đề nghị bằng văn bản của cơ quan thanh tra nhà nước có thẩm quyền, sau khi có ý kiến thẩm tra và chấp thuận bằng văn bản của Thường trực HĐND",
-      "Chờ Bộ trưởng tự sửa đổi sau 10 năm, sau khi có ý kiến thẩm tra và chấp thuận bằng văn bản của Thường trực HĐND, trừ khi có sự chỉ đạo bằng văn bản của cơ quan quản lý hành chính cấp trên"
+      "Chuyển hồ sơ sang Tòa án hình sự truy tố ngay",
+      "Chờ Bộ trưởng tự sửa đổi sau 10 năm"
     ],
     "correctAnswer": 1,
     "explanation": "Theo điểm đ khoản 1 Điều 74 Hiến pháp 2013, Ủy ban thường vụ Quốc hội có thẩm quyền đình chỉ việc thi hành hoặc bãi bỏ văn bản của Chính phủ, Thủ tướng Chính phủ, TAND tối cao, VKSND tối cao trái với pháp lệnh, nghị quyết của UBTVQH; bãi bỏ văn bản của Bộ trưởng trái pháp lệnh, nghị quyết.",
@@ -101,7 +101,7 @@ const questions: Question[] = [
     "id": 13067,
     "chapterId": 3,
     "chapterName": "Chương 3: Bộ máy Nhà nước Cộng hòa XHCN Việt Nam",
-    "question": "Hội đồng nhân dân tỉnh K ban hành một Nghị quyết quy định thu thêm khoản phí đường bộ trái với Luật Phí và lệ phí của Quốc hội. Thủ tướng Chính phủ có thẩm quyền xử lý văn bản trái pháp luật này như thế nào?",
+    "question": "Chánh án Tòa án nhân dân tối cao do cơ quan nào bầu, miễn nhiệm, bãi nhiệm theo đề nghị của Chủ tịch nước?",
     "options": [
       "Hội đồng Thẩm phán TAND tối cao",
       "Đoàn Thư ký Tòa án",
@@ -117,9 +117,9 @@ const questions: Question[] = [
     "id": 13068,
     "chapterId": 3,
     "chapterName": "Chương 3: Bộ máy Nhà nước Cộng hòa XHCN Việt Nam",
-    "question": "Trong tình thế quốc gia đối mặt với nguy cơ xâm lược vũ trang từ bên ngoài, theo đề nghị của Hội đồng Quốc phòng và An ninh, ai là người có thẩm quyền ban hành Lệnh tổng động viên hoặc động viên cục bộ?",
+    "question": "Trong kỳ họp xem xét việc sửa đổi, bổ sung Hiến pháp, dự thảo Hiến pháp sửa đổi được Quốc hội biểu quyết thông qua khi đạt được điều kiện nào?",
     "options": [
-      "Chỉ cần đa số đại biểu có mặt đồng ý, trừ khi có sự chỉ đạo bằng văn bản của cơ quan quản lý hành chính cấp trên",
+      "Chỉ cần đa số đại biểu có mặt đồng ý",
       "Phải có sự chuẩn y của Hội đồng Quốc phòng và An ninh",
       "Được Thủ tướng Chính phủ ký duyệt trước kỳ họp",
       "Được ít nhất hai phần ba tổng số đại biểu Quốc hội biểu quyết tán thành"
@@ -133,10 +133,10 @@ const questions: Question[] = [
     "id": 13069,
     "chapterId": 3,
     "chapterName": "Chương 3: Bộ máy Nhà nước Cộng hòa XHCN Việt Nam",
-    "question": "Anh Nam đang tìm hiểu về hệ thống tư pháp Việt Nam sau khi Luật Tổ chức TAND sửa đổi có hiệu lực. Theo quy định hiện hành, cơ cấu tổ chức của Tòa án nhân dân tối cao bao gồm những cơ quan, đơn vị nào sau đây?",
+    "question": "Một bị can bị Viện kiểm sát nhân dân huyện khởi tố về tội cố ý gây thương tích. Bị can cho rằng Kiểm sát viên thụ lý vụ án là anh rể của người bị hại nên sẽ không khách quan. Bị can có quyền làm gì theo luật tố tụng?",
     "options": [
       "Đề nghị thay đổi Kiểm sát viên tiến hành tố tụng",
-      "Tự ý bỏ trốn khỏi nơi cư trú để phản đối, sau khi hoàn tất quy trình lấy ý kiến rộng rãi của cử tri tại địa bàn cư trú",
+      "Tự ý bỏ trốn khỏi nơi cư trú để phản đối",
       "Tấn công Kiểm sát viên để tự vệ",
       "Yêu cầu hủy bỏ Bộ luật Hình sự"
     ],
@@ -149,28 +149,28 @@ const questions: Question[] = [
     "id": 13070,
     "chapterId": 3,
     "chapterName": "Chương 3: Bộ máy Nhà nước Cộng hòa XHCN Việt Nam",
-    "question": "Theo quy định của Hiến pháp 2013 (sửa đổi năm 2025) và Luật Tổ chức chính quyền địa phương 2025, chính quyền địa phương ở đô thị gồm những cấp nào sau đây?",
+    "question": "Chính quyền địa phương ở đô thị tại Việt Nam gồm những cấp nào theo Luật Tổ chức chính quyền địa phương sửa đổi?",
     "options": [
       "Chính quyền các bang và khu tự trị đặc quyền",
-      "Cấp thành phố trực thuộc trung ương và cấp phường (hoặc đặc khu)",
-      "Chính quyền làng xã truyền thống tự quản độc lập, khi được trên một phần hai tổng số đại biểu có mặt tại phiên họp biểu quyết tán thành",
-      "Cấp vùng liên bang và cấp vùng hải ngoại tự trị"
+      "Chính quyền địa phương ở thành phố trực thuộc trung ương, quận, thị xã, thành phố thuộc tỉnh, thành phố thuộc thành phố trực thuộc trung ương, phường",
+      "Chính quyền làng xã truyền thống tự quản",
+      "Vùng liên bang và vùng hải ngoại"
     ],
     "correctAnswer": 1,
-    "explanation": "Theo Hiến pháp 2013 (sửa đổi bởi Nghị quyết 203/2025/QH15) và Luật Tổ chức chính quyền địa phương 2025 có hiệu lực từ 01/7/2025, chính quyền địa phương được tổ chức theo mô hình 2 cấp: cấp tỉnh (tỉnh, thành phố trực thuộc trung ương) và cấp cơ sở (xã, phường, thị trấn/đặc khu), không còn cấp hành chính quận, huyện, thị xã.",
-    "legalReference": "Hiến pháp 2013 (sửa đổi 2025), Điều 110, 111 & Luật Tổ chức CQĐP 2025",
+    "explanation": "Luật Tổ chức chính quyền địa phương quy định các đơn vị hành chính đô thị gồm thành phố trực thuộc trung ương; quận, thị xã, thành phố thuộc tỉnh, thành phố thuộc thành phố trực thuộc trung ương; phường.",
+    "legalReference": "Luật Tổ chức chính quyền địa phương 2015, Điều 1",
     "difficulty": "vận dụng"
   },
   {
     "id": 13071,
     "chapterId": 3,
     "chapterName": "Chương 3: Bộ máy Nhà nước Cộng hòa XHCN Việt Nam",
-    "question": "Trong thời gian Quốc hội không họp giữa hai kỳ họp thường lệ, cơ quan nào là cơ quan thường trực của Quốc hội có thẩm quyền thực hiện các nhiệm vụ được Hiến pháp và Quốc hội giao phó?",
+    "question": "Cơ quan nào có thẩm quyền quyết định việc gia nhập các tổ chức tài chính quốc tế lớn như Ngân hàng Thế giới (WB) hoặc Quỹ Tiền tệ Quốc tế (IMF) của Nhà nước ta?",
     "options": [
       "Ngân hàng Nhà nước Việt Nam",
       "Bộ Kế hoạch và Đầu tư",
       "Quốc hội (hoặc cơ quan được Quốc hội ủy quyền theo luật định)",
-      "Các ngân hàng thương mại nhà nước, theo đề nghị bằng văn bản của cơ quan thanh tra nhà nước có thẩm quyền"
+      "Các ngân hàng thương mại nhà nước"
     ],
     "correctAnswer": 2,
     "explanation": "Quốc hội có thẩm quyền quyết định phê chuẩn, gia nhập hoặc chấm dứt hiệu lực của các điều ước quốc tế quan trọng liên quan đến việc tham gia các tổ chức quốc tế lớn.",
@@ -183,8 +183,8 @@ const questions: Question[] = [
     "chapterName": "Chương 3: Bộ máy Nhà nước Cộng hòa XHCN Việt Nam",
     "question": "Đoàn Kiểm toán nhà nước tiến hành kiểm toán tại Ủy ban nhân dân tỉnh Bình Định và phát hiện khoản chi sai mục đích 15 tỷ đồng từ ngân sách. Trách nhiệm của Kiểm toán nhà nước khi phát hiện hành vi có dấu hiệu tội phạm là gì?",
     "options": [
-      "Tự ý ra bản án phạt tù đối với người chi sai, trừ khi có sự chỉ đạo bằng văn bản của cơ quan quản lý hành chính cấp trên",
-      "Giữ bí mật tuyệt đối để bảo vệ uy tín địa phương, khi được trên một phần hai tổng số đại biểu có mặt tại phiên họp biểu quyết tán thành",
+      "Tự ý ra bản án phạt tù đối với người chi sai",
+      "Giữ bí mật tuyệt đối để bảo vệ uy tín địa phương",
       "Tịch thu số tiền đó về tài khoản riêng của cơ quan kiểm toán",
       "Kiến nghị cơ quan có thẩm quyền xử lý và chuyển hồ sơ cho Cơ quan điều tra, Viện kiểm sát nếu có dấu hiệu tội phạm"
     ],
@@ -197,10 +197,10 @@ const questions: Question[] = [
     "id": 13073,
     "chapterId": 3,
     "chapterName": "Chương 3: Bộ máy Nhà nước Cộng hòa XHCN Việt Nam",
-    "question": "Thủ tướng Chính phủ ban hành một Quyết định cá biệt nhưng có nội dung xung đột với một điều khoản trong Luật Doanh nghiệp đã được Quốc hội thông qua. Cơ quan nào sau đây có thẩm quyền bãi bỏ văn bản này?",
+    "question": "Trong phiên họp thường kỳ của Chính phủ, dự thảo Nghị quyết được biểu quyết thông qua khi đáp ứng điều kiện nào?",
     "options": [
       "Được quá nửa tổng số thành viên Chính phủ biểu quyết tán thành",
-      "Chỉ cần các Bộ trưởng khối kinh tế đồng ý, sau khi hoàn tất quy trình lấy ý kiến rộng rãi của cử tri tại địa bàn cư trú",
+      "Chỉ cần các Bộ trưởng khối kinh tế đồng ý",
       "Phải có sự tham gia bỏ phiếu của tất cả Chủ tịch UBND các tỉnh",
       "Được Chủ tịch nước ký phê duyệt trước"
     ],
@@ -213,16 +213,16 @@ const questions: Question[] = [
     "id": 13074,
     "chapterId": 3,
     "chapterName": "Chương 3: Bộ máy Nhà nước Cộng hòa XHCN Việt Nam",
-    "question": "Trong phiên chất vấn tại kỳ họp Quốc hội, đại biểu Quốc hội Nguyễn Thị Lan muốn thực hiện quyền giám sát tối cao. Đại biểu Lan có quyền chất vấn những chức danh lãnh đạo nào sau đây?",
+    "question": "Một đại biểu Quốc hội bị cơ quan Cảnh sát điều tra phát hiện đang vận chuyển hàng cấm (phạm tội quả tang). Việc bắt giữ đại biểu Quốc hội trong trường hợp này được quy định như thế nào?",
     "options": [
       "Cơ quan công an tuyệt đối không được phép bắt giữ dù phạm tội quả tang",
       "Cơ quan bắt giữ phải lập tức tạm giữ và báo cáo ngay với Chủ tịch Quốc hội hoặc Ủy ban Thường vụ Quốc hội để xem xét, quyết định",
-      "Phải chờ đến kỳ họp Quốc hội gần nhất bỏ phiếu đồng ý mới được bắt, nhằm bảo đảm tính tập trung dân chủ và kỷ cương trong bộ máy hành chính nhà nước",
-      "Chỉ được mời đại biểu về đồn uống nước và nhắc nhở, khi có văn bản phê duyệt của cơ quan đại diện quyền làm chủ của nhân dân"
+      "Phải chờ đến kỳ họp Quốc hội gần nhất bỏ phiếu đồng ý mới được bắt",
+      "Chỉ được mời đại biểu về đồn uống nước và nhắc nhở"
     ],
     "correctAnswer": 1,
     "explanation": "Điều 37 Luật Tổ chức Quốc hội quy định: Không được bắt, giam, giữ, khởi tố đại biểu Quốc hội nếu không có sự đồng ý của Quốc hội (hoặc UBTVQH khi Quốc hội không họp). Nếu đại biểu bị tạm giữ vì phạm tội quả tang thì cơ quan tạm giữ phải báo cáo ngay để xem xét.",
-    "legalReference": "Luật Tổ chức Quốc hội (sửa đổi, bổ sung), Điều 37",
+    "legalReference": "Luật Tổ chức Quốc hội 2014, Điều 37",
     "difficulty": "vận dụng"
   },
   {
@@ -231,10 +231,10 @@ const questions: Question[] = [
     "chapterName": "Chương 3: Bộ máy Nhà nước Cộng hòa XHCN Việt Nam",
     "question": "Ủy ban nhân dân thành phố H ban hành Quyết định hành chính về việc cưỡng chế thu hồi đất của Hộ gia đình ông V. Để quyết định này có hiệu lực bắt buộc thi hành, Quyết định phải bảo đảm yếu tố nào?",
     "options": [
-      "Phải được toàn bộ cư dân trong phường ký tên đồng thuận, sau khi có ý kiến thẩm tra và chấp thuận bằng văn bản của Thường trực HĐND",
+      "Phải được toàn bộ cư dân trong phường ký tên đồng thuận",
       "Phải được gửi đăng trên báo quốc tế",
       "Ban hành đúng thẩm quyền, đúng trình tự, thủ tục luật định và có căn cứ pháp lý rõ ràng",
-      "Chỉ cần có chữ ký của Thư ký ủy ban, theo đề nghị bằng văn bản của cơ quan thanh tra nhà nước có thẩm quyền"
+      "Chỉ cần có chữ ký của Thư ký ủy ban"
     ],
     "correctAnswer": 2,
     "explanation": "Văn bản áp dụng pháp luật của cơ quan nhà nước chỉ có hiệu lực thi hành khi được ban hành đúng thẩm quyền luật định, đúng trình tự, thủ tục và có căn cứ pháp luật rõ ràng.",
@@ -245,9 +245,9 @@ const questions: Question[] = [
     "id": 13076,
     "chapterId": 3,
     "chapterName": "Chương 3: Bộ máy Nhà nước Cộng hòa XHCN Việt Nam",
-    "question": "Ủy ban Thường vụ Quốc hội thực hiện quyền giám sát đối với các văn bản quy phạm pháp luật dưới luật. UBTVQH có quyền bãi bỏ văn bản nào sau đây nếu phát hiện văn bản đó trái với pháp lệnh, nghị quyết của UBTVQH?",
+    "question": "Một công dân nước ngoài phạm tội giết người trên chuyến bay mang quốc tịch Việt Nam khi đang bay qua không phận quốc tế. Thẩm quyền xét xử vụ án này thuộc về cơ quan nào?",
     "options": [
-      "Tòa án quốc tế La Haye, trừ khi có sự chỉ đạo bằng văn bản của cơ quan quản lý hành chính cấp trên",
+      "Tòa án quốc tế La Haye",
       "Cơ quan hành chính của hãng hàng không",
       "Cảnh sát quốc tế Interpol",
       "Tòa án nhân dân của Việt Nam theo nguyên tắc lãnh thổ mở rộng"
@@ -261,10 +261,10 @@ const questions: Question[] = [
     "id": 13077,
     "chapterId": 3,
     "chapterName": "Chương 3: Bộ máy Nhà nước Cộng hòa XHCN Việt Nam",
-    "question": "Trong trường hợp Chánh án Tòa án nhân dân tối cao bị miễn nhiệm hoặc khuyết giữa nhiệm kỳ, ai là người có thẩm quyền quyết định giao quyền Chánh án Tòa án nhân dân tối cao?",
+    "question": "Khi Chánh án Tòa án nhân dân tối cao khuyết do từ trần hoặc bị miễn nhiệm giữa nhiệm kỳ, chức trách người đứng đầu TAND tối cao được chuyển giao ra sao cho đến khi Quốc hội bầu Chánh án mới?",
     "options": [
       "Chủ tịch nước giao Phó Chánh án Tòa án nhân dân tối cao phụ trách cơ quan",
-      "Bộ trưởng Bộ Tư pháp trực tiếp kiêm nhiệm điều hành xét xử, sau khi hoàn tất quy trình lấy ý kiến rộng rãi của cử tri tại địa bàn cư trú",
+      "Bộ trưởng Bộ Tư pháp trực tiếp kiêm nhiệm điều hành xét xử",
       "Toàn bộ các vụ án phải đình chỉ xét xử vô thời hạn",
       "Thẩm phán nhiều tuổi nhất tự động lên thay"
     ],
@@ -277,15 +277,15 @@ const questions: Question[] = [
     "id": 13078,
     "chapterId": 3,
     "chapterName": "Chương 3: Bộ máy Nhà nước Cộng hòa XHCN Việt Nam",
-    "question": "Trong kỳ họp Quốc hội, đại biểu Quốc hội Nguyễn Văn A nhận thấy một nghị định do Chính phủ ban hành có nội dung mâu thuẫn trực tiếp với quy định của một Bộ luật đang có hiệu lực. Theo Hiến pháp 2013, cơ quan nào có thẩm quyền bãi bỏ văn bản này của Chính phủ?",
+    "question": "Cơ quan nào có quyền bãi bỏ văn bản quy phạm pháp luật của Thủ tướng Chính phủ trái với Hiến pháp, luật và nghị quyết của Quốc hội?",
     "options": [
-      "Quốc hội bãi bỏ văn bản của Chính phủ trái với Hiến pháp, luật, nghị quyết của Quốc hội",
-      "Tòa án nhân dân tối cao tự động hủy bỏ nghị định bằng một bản án hình sự, nhằm bảo đảm tính tập trung dân chủ và kỷ cương trong bộ máy hành chính nhà nước",
-      "Ủy ban nhân dân cấp tỉnh nơi đại biểu A ứng cử ra quyết định thu hồi, khi có văn bản phê duyệt của cơ quan đại diện quyền làm chủ của nhân dân",
-      "Đại biểu Quốc hội A tự mình ký quyết định tuyên bố văn bản vô hiệu"
+      "Hội đồng nhân dân thành phố Hà Nội",
+      "Quốc hội",
+      "Văn phòng Chính phủ",
+      "Thanh tra Chính phủ"
     ],
-    "correctAnswer": 0,
-    "explanation": "Khoản 9 Điều 70 Hiến pháp 2013 quy định Quốc hội có thẩm quyền: Bãi bỏ văn bản của Chủ tịch nước, Ủy ban thường vụ Quốc hội, Chính phủ, Thủ tướng Chính phủ, Tòa án nhân dân tối cao, Viện kiểm sát nhân dân tối cao trái với Hiến pháp, luật, nghị quyết của Quốc hội.",
+    "correctAnswer": 1,
+    "explanation": "Khoản 9 Điều 70 Hiến pháp 2013 quy định Quốc hội có quyền bãi bỏ văn bản của Chủ tịch nước, Ủy ban thường vụ Quốc hội, Chính phủ, Thủ tướng Chính phủ, TANDTC, VKSNDTC trái với Hiến pháp, luật, nghị quyết của Quốc hội.",
     "legalReference": "Hiến pháp 2013, Điều 70",
     "difficulty": "vận dụng"
   },
@@ -298,7 +298,7 @@ const questions: Question[] = [
       "Quyền sở hữu trí tuệ của Bộ Tài chính",
       "An ninh trật tự biên giới hải đảo",
       "Hoạt động đúng đắn và uy tín của cơ quan hành chính nhà nước ở địa phương",
-      "Chủ quyền tài phán quốc gia, theo đề nghị bằng văn bản của cơ quan thanh tra nhà nước có thẩm quyền"
+      "Chủ quyền tài phán quốc gia"
     ],
     "correctAnswer": 2,
     "explanation": "Hành vi lợi dụng chức vụ quyền hạn thu phí trái luật xâm hại đến hoạt động đúng đắn của cơ quan hành chính nhà nước và quyền lợi vật chất của công dân.",
@@ -309,9 +309,9 @@ const questions: Question[] = [
     "id": 13080,
     "chapterId": 3,
     "chapterName": "Chương 3: Bộ máy Nhà nước Cộng hòa XHCN Việt Nam",
-    "question": "Tòa án nhân dân cấp tỉnh mở phiên tòa phúc thẩm giải quyết tranh chấp quyền thừa kế tài sản giữa các đồng thừa kế theo đơn kháng cáo của nguyên đơn. Thành phần Hội đồng xét xử phúc thẩm vụ án này gồm những ai theo Bộ luật Tố tụng dân sự?",
+    "question": "Trong một phiên tòa phúc thẩm dân sự, Hội đồng xét xử gồm những ai theo quy định chung của Bộ luật Tố tụng dân sự?",
     "options": [
-      "Một Thẩm phán và hai Hội thẩm nhân dân, trừ khi có sự chỉ đạo bằng văn bản của cơ quan quản lý hành chính cấp trên",
+      "Một Thẩm phán và hai Hội thẩm nhân dân",
       "Năm Thẩm phán và mười Thư ký tòa án",
       "Chỉ một Thẩm phán duy nhất điều hành",
       "Ba Thẩm phán (trừ trường hợp xét xử theo thủ tục rút gọn)"
@@ -325,11 +325,11 @@ const questions: Question[] = [
     "id": 13081,
     "chapterId": 3,
     "chapterName": "Chương 3: Bộ máy Nhà nước Cộng hòa XHCN Việt Nam",
-    "question": "Viện trưởng Viện kiểm sát nhân dân tối cao Nguyễn Văn B thực hiện quyền công tố và kiểm sát hoạt động tư pháp trên toàn quốc. Ông B phải chịu trách nhiệm và báo cáo công tác trước cơ quan nào sau đây?",
+    "question": "Khi phát hiện lệnh bắt giữ người của Cơ quan cảnh sát điều tra không có căn cứ pháp luật, Viện kiểm sát nhân dân có quyền áp dụng biện pháp nào sau đây?",
     "options": [
       "Không phê chuẩn lệnh bắt và yêu cầu trả tự do ngay cho người bị bắt giữ không có căn cứ",
-      "Ký duyệt ngay để giữ hòa khí giữa các cơ quan tố tụng, sau khi hoàn tất quy trình lấy ý kiến rộng rãi của cử tri tại địa bàn cư trú",
-      "Chuyển hồ sơ sang Tòa án xét xử ngay trong ngày, theo quyết định phân công nhiệm vụ cụ thể của người đứng đầu cơ quan quản lý",
+      "Ký duyệt ngay để giữ hòa khí giữa các cơ quan tố tụng",
+      "Chuyển hồ sơ sang Tòa án xét xử ngay trong ngày",
       "Yêu cầu bị can nộp tiền bảo lãnh để chia thưởng"
     ],
     "correctAnswer": 0,
@@ -341,11 +341,11 @@ const questions: Question[] = [
     "id": 13082,
     "chapterId": 3,
     "chapterName": "Chương 3: Bộ máy Nhà nước Cộng hòa XHCN Việt Nam",
-    "question": "Chính phủ trình Quốc hội dự thảo Chương trình mục tiêu quốc gia phát triển kinh tế - xã hội vùng đồng bào dân tộc thiểu số và miền núi. Cơ quan nào của Quốc hội có nhiệm vụ chủ trì thẩm tra dự án chính sách này?",
+    "question": "Hội đồng nhân dân tỉnh X họp bỏ phiếu tín nhiệm đối với các chức danh do HĐND bầu. Chủ tịch UBND tỉnh có kết quả hơn hai phần ba tổng số đại biểu HĐND đánh giá \"tín nhiệm thấp\". Hậu quả pháp lý tiếp theo là gì?",
     "options": [
       "Không có hậu quả nào vì kết quả chỉ mang tính tham khảo danh dự",
       "Thường trực HĐND trình HĐND xem xét việc miễn nhiệm chức vụ Chủ tịch UBND tỉnh",
-      "Chủ tịch UBND tỉnh tự động chuyển sang làm Giám đốc Công an tỉnh, nhằm bảo đảm tính tập trung dân chủ và kỷ cương trong bộ máy hành chính nhà nước",
+      "Chủ tịch UBND tỉnh tự động chuyển sang làm Giám đốc Công an tỉnh",
       "Tòa án ra quyết định bắt giam Chủ tịch UBND tỉnh ngay tại hội trường"
     ],
     "correctAnswer": 1,
@@ -357,12 +357,12 @@ const questions: Question[] = [
     "id": 13083,
     "chapterId": 3,
     "chapterName": "Chương 3: Bộ máy Nhà nước Cộng hòa XHCN Việt Nam",
-    "question": "Bộ trưởng Bộ Giao thông vận tải ban hành một Thông tư quy định về kiểm định xe cơ giới có nội dung mâu thuẫn với Nghị định của Chính phủ ban hành trước đó. Trong trường hợp này, văn bản nào được ưu tiên áp dụng?",
+    "question": "Ủy ban nhân dân cấp tỉnh ban hành một Quyết định quy định mức thu học phí các trường công lập trên địa bàn cao hơn mức trần quy định tại Nghị định của Chính phủ. Quyết định này bị xem xét xử lý theo nguyên tắc thứ bậc văn bản như thế nào?",
     "options": [
-      "Vẫn có hiệu lực vì chính quyền địa phương có quyền tự chủ tuyệt đối về ngân sách, sau khi có ý kiến thẩm tra và chấp thuận bằng văn bản của Thường trực HĐND",
+      "Vẫn có hiệu lực vì chính quyền địa phương có quyền tự chủ tuyệt đối về ngân sách",
       "Có hiệu lực ưu tiên hơn Nghị định vì ban hành sau",
       "Bị đình chỉ thi hành và bãi bỏ phần trái pháp luật vì văn bản cấp dưới phải phù hợp với văn bản quy phạm pháp luật của cấp trên",
-      "Chỉ bị hủy bỏ khi toàn bộ phụ huynh học sinh ký đơn kiện tập thể, theo đề nghị bằng văn bản của cơ quan thanh tra nhà nước có thẩm quyền"
+      "Chỉ bị hủy bỏ khi toàn bộ phụ huynh học sinh ký đơn kiện tập thể"
     ],
     "correctAnswer": 2,
     "explanation": "Theo Luật Ban hành văn bản quy phạm pháp luật, văn bản quy phạm pháp luật của cơ quan nhà nước cấp dưới phải phù hợp với văn bản quy phạm pháp luật của cơ quan nhà nước cấp trên. Văn bản trái luật phải bị đình chỉ, bãi bỏ.",
@@ -375,24 +375,24 @@ const questions: Question[] = [
     "chapterName": "Chương 3: Bộ máy Nhà nước Cộng hòa XHCN Việt Nam",
     "question": "Đại biểu Quốc hội Nguyễn Văn C bị cử tri đơn vị bầu cử làm đơn khiếu nại nhiều lần về việc không tiếp xúc cử tri và có hành vi lừa đảo kinh tế. Cơ quan nào có thẩm quyền chỉ đạo việc thẩm tra và quyết định tạm đình chỉ nhiệm vụ đại biểu đối với ông C?",
     "options": [
-      "Ủy ban nhân dân cấp cơ sở nơi ông C cư trú, trừ khi có sự chỉ đạo bằng văn bản của cơ quan quản lý hành chính cấp trên",
+      "Ủy ban nhân dân cấp huyện nơi ông C cư trú",
       "Cơ quan thông tấn báo chí địa phương",
       "Đoàn Luật sư tỉnh",
       "Ủy ban Thường vụ Quốc hội (trong thời gian Quốc hội không họp)"
     ],
     "correctAnswer": 3,
     "explanation": "Theo Luật Tổ chức Quốc hội, trong thời gian Quốc hội không họp, Ủy ban thường vụ Quốc hội có thẩm quyền xem xét, quyết định việc tạm đình chỉ thực hiện nhiệm vụ, quyền hạn của đại biểu Quốc hội.",
-    "legalReference": "Luật Tổ chức Quốc hội (sửa đổi, bổ sung), Điều 39",
+    "legalReference": "Luật Tổ chức Quốc hội 2014, Điều 39",
     "difficulty": "vận dụng"
   },
   {
     "id": 13085,
     "chapterId": 3,
     "chapterName": "Chương 3: Bộ máy Nhà nước Cộng hòa XHCN Việt Nam",
-    "question": "Để kịp thời tháo gỡ khó khăn cho sản xuất kinh doanh khi giá xăng dầu thế giới tăng đột biến vào thời điểm giữa hai kỳ họp Quốc hội, Chính phủ đề xuất giảm 50% mức thuế bảo vệ môi trường đối với xăng dầu. Cơ quan nào sau đây có thẩm quyền quyết định việc điều chỉnh này?",
+    "question": "Chính phủ muốn điều chỉnh giảm một số loại thuế suất thuế bảo vệ môi trường đối với xăng dầu để kiềm chế lạm phát khẩn cấp khi Quốc hội không họp. Thẩm quyền quyết định chính sách này thuộc về cơ quan nào?",
     "options": [
       "Ủy ban Thường vụ Quốc hội ban hành Nghị quyết theo thẩm quyền được Quốc hội giao",
-      "Bộ Tài chính tự ý ra quyết định không cần báo cáo, sau khi hoàn tất quy trình lấy ý kiến rộng rãi của cử tri tại địa bàn cư trú",
+      "Bộ Tài chính tự ý ra quyết định không cần báo cáo",
       "Hiệp hội Xăng dầu Việt Nam tự quyết định biểu giá",
       "Ủy ban nhân dân các thành phố trực thuộc trung ương"
     ],
@@ -409,8 +409,8 @@ const questions: Question[] = [
     "options": [
       "Là bản án quyết định bắt buộc Tòa án phải sao chép toàn bộ vào phán quyết",
       "Là một nguồn chứng cứ quan trọng để Tòa án xem xét, đánh giá cùng các chứng cứ khác khi ra phán quyết",
-      "Hoàn toàn không có giá trị pháp lý vì giám định viên không phải là Thẩm phán, nhằm bảo đảm tính tập trung dân chủ và kỷ cương trong bộ máy hành chính nhà nước",
-      "Thay thế cho lời khai của nguyên đơn và bị đơn, khi có văn bản phê duyệt của cơ quan đại diện quyền làm chủ của nhân dân"
+      "Hoàn toàn không có giá trị pháp lý vì giám định viên không phải là Thẩm phán",
+      "Thay thế cho lời khai của nguyên đơn và bị đơn"
     ],
     "correctAnswer": 1,
     "explanation": "Kết luận giám định tư pháp là một nguồn chứng cứ theo quy định tố tụng, được Hội đồng xét xử xem xét, đánh giá khách quan, toàn diện cùng với các tài liệu, chứng cứ khác của vụ án.",
@@ -421,11 +421,11 @@ const questions: Question[] = [
     "id": 13087,
     "chapterId": 3,
     "chapterName": "Chương 3: Bộ máy Nhà nước Cộng hòa XHCN Việt Nam",
-    "question": "Cơ quan Cảnh sát điều tra khởi tố vụ án, khởi tố bị can đối với ông K về tội hủy hoại rừng phòng hộ. Trong suốt quá trình điều tra, Viện kiểm sát nhân dân khu vực thực hiện quyền kiểm sát điều tra. Mục đích chính của việc kiểm sát điều tra là gì?",
+    "question": "Công an huyện khởi tố vụ án, khởi tố bị can đối với ông K về tội hủy hoại rừng. Trong suốt quá trình điều tra, Viện kiểm sát nhân dân huyện thực hiện kiểm sát điều tra. Mục đích chính của việc kiểm sát điều tra là gì?",
     "options": [
       "Để bảo đảm việc khởi tố, điều tra đúng người, đúng tội, đúng pháp luật, không bỏ lọt tội phạm và không làm oan người vô tội",
-      "Để thay mặt cơ quan công an nhận tiền bảo lãnh tại ngoại, theo đề nghị bằng văn bản của cơ quan thanh tra nhà nước có thẩm quyền",
-      "Để giúp đỡ bị can tìm luật sư bào chữa thân quen, sau khi có ý kiến thẩm tra và chấp thuận bằng văn bản của Thường trực HĐND",
+      "Để thay mặt cơ quan công an nhận tiền bảo lãnh tại ngoại",
+      "Để giúp đỡ bị can tìm luật sư bào chữa thân quen",
       "Để trực tiếp quản lý vật chứng thay cho kho tang vật công an"
     ],
     "correctAnswer": 0,
@@ -437,12 +437,12 @@ const questions: Question[] = [
     "id": 13088,
     "chapterId": 3,
     "chapterName": "Chương 3: Bộ máy Nhà nước Cộng hòa XHCN Việt Nam",
-    "question": "Trong vụ án tranh chấp hợp đồng tín dụng tại Tòa án nhân dân khu vực, Thẩm phán phát hiện tình tiết vụ án hoàn toàn tương tự với vụ việc đã được hướng dẫn tại Án lệ do Hội đồng Thẩm phán TAND tối cao công bố. Thẩm phán có trách nhiệm áp dụng án lệ này như thế nào?",
+    "question": "Tòa án nhân dân tối cao ban hành Án lệ số 01/2016/AL về việc xác định trách nhiệm bảo lãnh ngân hàng. Các Tòa án nhân dân cấp dưới khi xét xử các vụ án tương tự có trách nhiệm áp dụng án lệ này như thế nào?",
     "options": [
       "Có thể phớt lờ hoàn toàn vì án lệ không phải là luật thành văn",
       "Thẩm phán, Hội thẩm phải nghiên cứu, áp dụng án lệ để giải quyết vụ việc tương tự, bảo đảm tính thống nhất trong xét xử",
-      "Chỉ được áp dụng nếu đương sự có đơn yêu cầu, trừ khi có sự chỉ đạo bằng văn bản của cơ quan quản lý hành chính cấp trên",
-      "Chỉ được áp dụng đối với các tranh chấp có yếu tố nước ngoài, khi được trên một phần hai tổng số đại biểu có mặt tại phiên họp biểu quyết tán thành"
+      "Chỉ được áp dụng nếu đương sự có đơn yêu cầu",
+      "Chỉ được áp dụng đối với các tranh chấp có yếu tố nước ngoài"
     ],
     "correctAnswer": 1,
     "explanation": "Nghị quyết của Hội đồng Thẩm phán TAND tối cao quy định: Thẩm phán, Hội thẩm phải nghiên cứu, áp dụng án lệ để giải quyết các vụ việc có tình tiết, sự kiện pháp lý tương tự, bảo đảm áp dụng thống nhất pháp luật.",
@@ -453,12 +453,12 @@ const questions: Question[] = [
     "id": 13089,
     "chapterId": 3,
     "chapterName": "Chương 3: Bộ máy Nhà nước Cộng hòa XHCN Việt Nam",
-    "question": "Một công dân gửi đơn tố giác một nhóm đối tượng tổ chức đánh bạc qua mạng internet đến Viện kiểm sát nhân dân cấp xã. Trách nhiệm của Viện kiểm sát khi tiếp nhận tố giác tội phạm này là gì?",
+    "question": "Một công dân gửi đơn tố giác một nhóm đối tượng tổ chức đánh bạc qua mạng internet đến Viện kiểm sát nhân dân cấp huyện. Trách nhiệm của Viện kiểm sát khi tiếp nhận tố giác tội phạm này là gì?",
     "options": [
-      "Tự mình mở phiên tòa xét xử ngay các đối tượng đánh bạc, theo quyết định phân công nhiệm vụ cụ thể của người đứng đầu cơ quan quản lý",
+      "Tự mình mở phiên tòa xét xử ngay các đối tượng đánh bạc",
       "Từ chối tiếp nhận vì đánh bạc qua mạng thuộc thẩm quyền Bộ Thông tin truyền thông",
       "Vào sổ tiếp nhận, phân loại và chuyển ngay cho Cơ quan cảnh sát điều tra có thẩm quyền để thụ lý xác minh, đồng thời kiểm sát việc thụ lý giải quyết",
-      "Yêu cầu công dân tự mình thâm nhập đường dây để thu thập chứng cứ, sau khi hoàn tất quy trình lấy ý kiến rộng rãi của cử tri tại địa bàn cư trú, sau khi hoàn tất quy trình lấy ý kiến rộng rãi của cử tri tại địa bàn cư trú"
+      "Yêu cầu công dân tự mình thâm nhập đường dây để thu thập chứng cứ"
     ],
     "correctAnswer": 2,
     "explanation": "Viện kiểm sát có trách nhiệm tiếp nhận tố giác, tin báo về tội phạm; chuyển ngay cho Cơ quan điều tra có thẩm quyền và thực hiện kiểm sát việc tiếp nhận, giải quyết tố giác của Cơ quan điều tra.",
@@ -473,8 +473,8 @@ const questions: Question[] = [
     "options": [
       "Vẫn có hiệu lực nếu bà Thơ tự nguyện nộp phạt",
       "Bị hủy bỏ một phần hoặc toàn bộ do người có thẩm quyền ban hành quyết định vượt quá thẩm quyền luật định",
-      "Chuyển thành án tích hình sự lưu hồ sơ tư pháp của bà Thơ, nhằm bảo đảm tính tập trung dân chủ và kỷ cương trong bộ máy hành chính nhà nước",
-      "Tự động tăng lên 20 triệu đồng nếu bà Thơ khiếu nại, khi có văn bản phê duyệt của cơ quan đại diện quyền làm chủ của nhân dân"
+      "Chuyển thành án tích hình sự lưu hồ sơ tư pháp của bà Thơ",
+      "Tự động tăng lên 20 triệu đồng nếu bà Thơ khiếu nại"
     ],
     "correctAnswer": 1,
     "explanation": "Quyết định xử phạt vi phạm hành chính bị ban hành vượt quá giới hạn thẩm quyền xử phạt luật định của Chủ tịch UBND cấp xã là quyết định trái thẩm quyền, phải bị hủy bỏ, sửa đổi.",
