@@ -1,6 +1,6 @@
 import React from 'react';
 import { Clock, Play, RotateCcw } from 'lucide-react';
-import { Session, calculateTimeRemaining } from '../lib/session';
+import { Session, calculateTimeRemaining } from '../utils/session';
 
 interface ResumeModalProps {
   session: Session | null;
