@@ -1,0 +1,1672 @@
+================================================================================
+NGÂN HÀNG CÂU HỎI TRẮC NGHIỆM MÔN PHÁP LUẬT ĐẠI CƯƠNG
+CHƯƠNG 1: NHỮNG VẤN ĐỀ CHUNG VỀ NHÀ NƯỚC VÀ PHÁP LUẬT
+(Dành cho sinh viên đại học không chuyên luật)
+Cập nhật quy định pháp luật hiện hành tính đến năm 2026 (Mô hình chính quyền địa phương 2 cấp và Tòa án nhân dân khu vực)
+================================================================================
+
+CẤU TRÚC VÀ PHÂN BỔ CÂU HỎI:
+- Tổng số câu hỏi: 200 câu trắc nghiệm (mỗi câu 4 phương án A, B, C, D, 1 đáp án đúng).
+- Mức độ phân bổ:
+  + Dễ (Nhận biết): 70 câu
+  + Trung bình (Thông hiểu): 80 câu
+  + Vận dụng: 50 câu
+- Nội dung bao gồm:
+  1.1. NHỮNG VẤN ĐỀ CHUNG VỀ NHÀ NƯỚC (80 câu)
+       1.1.1. Khái niệm, đặc điểm của nhà nước (40 câu)
+       1.1.2. Hình thức nhà nước (40 câu)
+  1.2. NHỮNG VẤN ĐỀ CHUNG VỀ PHÁP LUẬT (120 câu)
+       1.2.1. Khái niệm, đặc điểm pháp luật (35 câu)
+       1.2.2. Hình thức pháp luật (35 câu)
+       1.2.3. Vi phạm pháp luật và trách nhiệm pháp lý (50 câu)
+
+================================================================================
+
+--------------------------------------------------------------------------------
+MỤC 1.1.1. KHÁI NIỆM, ĐẶC ĐIỂM CỦA NHÀ NƯỚC
+--------------------------------------------------------------------------------
+
+Câu 1 [Dễ]: Theo lý luận Mác - Lênin, nguyên nhân sâu xa dẫn đến sự ra đời của nhà nước là gì?
+A. Ý chí của Thượng đế truyền đạt cho các đấng quân vương
+B. Nhu cầu quản lý các công trình thủy lợi quy mô lớn
+C. Sự thỏa thuận giữa các thành viên trong xã hội để bảo vệ lợi ích chung
+D. Sự xuất hiện của chế độ tư hữu và sự phân hóa xã hội thành các giai cấp đối kháng
+Đáp án đúng: D
+Giải thích: Lý luận Mác - Lênin khẳng định sự ra đời của nhà nước xuất phát từ nguyên nhân kinh tế (chế độ tư hữu) và nguyên nhân xã hội (mâu thuẫn giai cấp không thể điều hòa).
+
+Câu 2 [Dễ]: Bản chất của nhà nước bao gồm hai thuộc tính/mặt nào sau đây?
+A. Tính giai cấp và tính xã hội
+B. Tính Bắt buộc và tính Tự nguyện
+C. Tính Dân tộc và tính Quốc tế
+D. Tính Dân chủ và tính Tập trung
+Đáp án đúng: A
+Giải thích: Nhà nước vừa mang tính giai cấp (công cụ thống trị giai cấp) vừa mang tính xã hội (bảo đảm trật tự, lợi ích chung).
+
+Câu 3 [Dễ]: Đặc điểm nào sau đây là dấu hiệu đặc trưng riêng có của nhà nước so với các tổ chức khác?
+A. Thiết lập quyền lực công cộng đặc biệt và ban hành pháp luật mang tính bắt buộc chung
+B. Kết nạp thành viên dựa trên sự tự nguyện và đóng hội phí
+C. Quản lý bằng các quy tắc đạo đức và tín ngưỡng tôn giáo
+D. Hoạt động phi lợi nhuận vì mục tiêu từ thiện
+Đáp án đúng: A
+Giải thích: Nhà nước có quyền lực công cộng đặc biệt, phân chia dân cư theo lãnh thổ, có chủ quyền quốc gia và ban hành pháp luật bắt buộc chung.
+
+Câu 4 [Dễ]: Chủ quyền quốc gia của nhà nước được hiểu là gì?
+A. Quyền tham gia vào tất cả các tổ chức quốc tế lớn
+B. Quyền ban hành Hiến pháp của Nhân dân thông qua trưng trưng cầu ý dân
+C. Quyền tối cao của nhà nước trong phạm vi lãnh thổ và quyền độc lập trong quan hệ quốc tế
+D. Quyền cai trị tuyệt đối của cá nhân người đứng đầu nhà nước
+Đáp án đúng: C
+Giải thích: Chủ quyền quốc gia thể hiện tính tối cao của quyền lực nhà nước về đối nội và sự độc lập về đối ngoại.
+
+Câu 5 [Dễ]: Học thuyết nào cho rằng nhà nước ra đời là kết quả của một hợp đồng được ký kết giữa các thành viên trong xã hội?
+A. Thuyết gia trưởng
+B. Thuyết bạo lực
+C. Thuyết thần quyền
+D. Thuyết hợp đồng xã hội (Tư sản)
+Đáp án đúng: D
+Giải thích: Thuyết hợp đồng xã hội (Rousseau, Locke...) cho rằng nhà nước ra đời do sự thỏa thuận (hợp đồng) giữa các cá nhân trong xã hội.
+
+Câu 6 [Dễ]: Theo Hiến pháp 2013, Nhà nước Cộng hòa xã hội chủ nghĩa Việt Nam là nhà nước pháp quyền XHCN của ai, do ai, vì ai?
+A. Của các tầng lớp lao động, do các đoàn thể quản lý
+B. Của giai cấp công nhân, do giai cấp công nhân, vì giai cấp công nhân
+C. Của Nhân dân, do Nhân dân, vì Nhân dân
+D. Của Nhà nước, do Chính phủ điều hành, vì cộng đồng
+Đáp án đúng: C
+Giải thích: Điều 2 Hiến pháp 2013 quy định: Nhà nước CHXHCN Việt Nam là nhà nước pháp quyền xã hội chủ nghĩa của Nhân dân, do Nhân dân, vì Nhân dân.
+
+Câu 7 [Dễ]: Cơ quan nào sau đây là cơ quan đại biểu cao nhất của Nhân dân, cơ quan quyền lực nhà nước cao nhất của nước CHXHCN Việt Nam?
+A. Chủ tịch nước
+B. Chính phủ
+C. Quốc hội
+D. Tòa án nhân dân tối cao
+Đáp án đúng: C
+Giải thích: Theo Điều 69 Hiến pháp 2013, Quốc hội là cơ quan đại biểu cao nhất của Nhân dân, cơ quan quyền lực nhà nước cao nhất.
+
+Câu 8 [Dễ]: Chức năng nào sau đây là chức năng đối nội của nhà nước?
+A. Bảo đảm trật tự an toàn xã hội và phát triển kinh tế trong nước
+B. Mở rộng quan hệ ngoại giao với các quốc gia khác
+C. Tham gia các liên minh quân sự quốc tế
+D. Bảo vệ độc lập, chủ quyền lãnh thổ quốc gia trước nguy cơ xâm lược
+Đáp án đúng: A
+Giải thích: Chức năng đối nội là những mặt hoạt động chủ yếu của nhà nước trong nội bộ quốc gia như bảo đảm trật tự, phát triển kinh tế, văn hóa, giáo dục.
+
+Câu 9 [Dễ]: Bộ máy nhà nước là gì?
+A. Tập hợp tất cả các đoàn thể chính trị - xã hội trong một quốc gia
+B. Hệ thống các cơ quan nhà nước từ trung ương đến địa phương được tổ chức theo nguyên tắc chung nhằm thực hiện chức năng, nhiệm vụ của nhà nước
+C. Toàn bộ lực lượng vũ trang nhân dân bao gồm quân đội và công an
+D. Hệ thống các văn bản quy phạm pháp luật do nhà nước ban hành
+Đáp án đúng: B
+Giải thích: Bộ máy nhà nước là hệ thống các cơ quan nhà nước mang quyền lực nhà nước để thực thi chức năng, nhiệm vụ của nhà nước.
+
+Câu 10 [Dễ]: Cơ quan nào sau đây là cơ quan hành chính nhà nước cao nhất của nước CHXHCN Việt Nam?
+A. Viện kiểm sát nhân dân tối cao
+B. Quốc hội
+C. Chính phủ
+D. Ủy ban Thường vụ Quốc hội
+Đáp án đúng: C
+Giải thích: Theo Điều 94 Hiến pháp 2013, Chính phủ là cơ quan hành chính nhà nước cao nhất, thực hiện quyền hành pháp.
+
+Câu 11 [Dễ]: Theo quy định hiện hành về mô hình chính quyền địa phương 2 cấp ở Việt Nam, chính quyền địa phương gồm có các cấp nào?
+A. Cấp tỉnh, cấp khu vực và cấp xã
+B. Cấp tỉnh và cấp xã
+C. Cấp trung ương và cấp địa phương
+D. Cấp tỉnh, cấp vùng và cấp cơ sở
+Đáp án đúng: B
+Giải thích: Hiện nay Việt Nam áp dụng mô hình chính quyền địa phương 2 cấp gồm: Cấp tỉnh (tỉnh, thành phố trực thuộc Trung ương) và Cấp xã (xã, phường, thị trấn).
+
+Câu 12 [Dễ]: Cơ quan nào thực hiện quyền xét xử ở nước CHXHCN Việt Nam?
+A. Ủy ban nhân dân các cấp
+B. Viện kiểm sát nhân dân
+C. Tòa án nhân dân
+D. Bộ Tư pháp
+Đáp án đúng: C
+Giải thích: Điều 102 Hiến pháp 2013 quy định Tòa án nhân dân là cơ quan xét xử của nước CHXHCN Việt Nam, thực hiện quyền tư pháp.
+
+Câu 13 [Dễ]: Viện kiểm sát nhân dân thực hiện những chức năng nào sau đây?
+A. Thực hành quyền công tố và kiểm sát hoạt động tư pháp
+B. Quản lý hành chính nhà nước về an ninh trật tự
+C. Xét xử các vụ án hình sự và dân sự
+D. Ban hành các văn bản quy phạm pháp luật giải thích luật
+Đáp án đúng: A
+Giải thích: Điều 107 Hiến pháp 2013 quy định Viện kiểm sát nhân dân thực hành quyền công tố và kiểm sát hoạt động tư pháp.
+
+Câu 14 [Dễ]: Hình thức thu nhập nào sau đây do nhà nước quy định mang tính bắt buộc đối với các tổ chức, cá nhân nhằm duy trì sự tồn tại và hoạt động của bộ máy nhà nước?
+A. Tiền đóng góp từ thiện
+B. Phí dịch vụ thương mại
+C. Lệ phí tự nguyện
+D. Thuế
+Đáp án đúng: D
+Giải thích: Quy định và thực hiện thu các loại thuế bắt buộc là một trong 5 đặc điểm đặc trưng của nhà nước.
+
+Câu 15 [Dễ]: Ai là người đứng đầu Nhà nước, thay mặt nước CHXHCN Việt Nam về đối nội và đối ngoại?
+A. Tổng Bí thư
+B. Chủ tịch Quốc hội
+C. Thủ tướng Chính phủ
+D. Chủ tịch nước
+Đáp án đúng: D
+Giải thích: Điều 86 Hiến pháp 2013 quy định Chủ tịch nước là người đứng đầu Nhà nước, thay mặt nước CHXHCN Việt Nam về đối nội và đối ngoại.
+
+Câu 16 [Trung bình]: Sự khác biệt căn bản giữa nhà nước với các tổ chức thị tộc, bộ lạc thời kỳ công xã nguyên thủy là gì?
+A. Nhà nước phân chia dân cư theo lãnh thổ và thiết lập quyền lực công cộng đặc biệt
+B. Nhà nước có người đứng đầu nắm giữ quyền lực
+C. Nhà nước có các quy tắc hành vi chung bắt buộc mọi người tuân theo
+D. Nhà nước bảo vệ đời sống chung của cộng đồng dân cư
+Đáp án đúng: A
+Giải thích: Thời công xã nguyên thủy quản lý dân cư theo huyết thống; nhà nước phân chia dân cư theo đơn vị hành chính lãnh thổ và sử dụng quyền lực công cộng đặc biệt có bộ máy cưỡng chế chuyên nghiệp.
+
+Câu 17 [Trung bình]: Tính xã hội của nhà nước thể hiện rõ nhất ở điểm nào sau đây?
+A. Nhà nước giải quyết các công việc chung của xã hội, bảo vệ trật tự công cộng, xây dựng công trình phúc lợi
+B. Nhà nước trấn áp sự chống đối của các giai cấp bị trị
+C. Nhà nước bảo vệ đặc quyền kinh tế cho giai cấp thống trị
+D. Nhà nước tập trung toàn bộ quyền lực vào tay một nhóm nhỏ trong xã hội
+Đáp án đúng: A
+Giải thích: Tính xã hội thể hiện ở vai trò quản lý các lĩnh vực công cộng vì sự tồn tại và phát triển chung của toàn xã hội.
+
+Câu 18 [Trung bình]: Trong bộ máy nhà nước Việt Nam hiện nay, Ủy ban nhân dân cấp tỉnh và Ủy ban nhân dân cấp xã có vị trí pháp lý như thế nào?
+A. Là cơ quan quyền lực nhà nước ở địa phương do cử tri trực tiếp bầu ra
+B. Là cơ quan lập pháp địa phương có quyền ban hành Luật áp dụng trên địa bàn
+C. Là cơ quan tư pháp địa phương thực hiện quyền xét xử tại chỗ
+D. Là cơ quan hành chính nhà nước ở địa phương, cơ quan chấp hành của Hội đồng nhân dân cùng cấp
+Đáp án đúng: D
+Giải thích: UBND (cấp tỉnh, cấp xã) là cơ quan hành chính nhà nước ở địa phương, chấp hành Hiến pháp, luật và Nghị quyết của HĐND cùng cấp.
+
+Câu 19 [Trung bình]: Thẩm quyền lập hiến và lập pháp của Nhà nước Việt Nam thuộc về cơ quan nào?
+A. Tòa án nhân dân tối cao
+B. Ủy ban Thường vụ Quốc hội
+C. Quốc hội
+D. Chính phủ
+Đáp án đúng: C
+Giải thích: Điều 69 Hiến pháp 2013 xác định duy nhất Quốc hội mới có quyền lập hiến và lập pháp.
+
+Câu 20 [Trung bình]: Mối quan hệ giữa chức năng đối nội và chức năng đối ngoại của nhà nước được phát biểu đúng nhất là:
+A. Hai chức năng này hoàn toàn tách biệt và không có liên hệ gì với nhau
+B. Chức năng đối nội giữ vai trò chủ đạo, quyết định chức năng đối ngoại; chức năng đối ngoại phục vụ cho chức năng đối nội
+C. Chức năng đối ngoại độc lập hoàn toàn và quyết định phương hướng của chức năng đối nội
+D. Chức năng đối ngoại chỉ xuất hiện khi nhà nước lâm vào tình trạng chiến tranh
+Đáp án đúng: B
+Giải thích: Chức năng đối nội và đối ngoại tác động qua lại chặt chẽ, trong đó đối nội giữ vai trò cơ sở, quyết định đối ngoại.
+
+Câu 21 [Trung bình]: Hệ thống Tòa án nhân dân Việt Nam hiện nay được tổ chức theo các cấp nào?
+A. Tòa án nhân dân tối cao, Tòa án nhân dân cấp tỉnh, Tòa án chuyên trách, Tòa án nhân dân cấp xã
+B. Tòa án trung ương, Tòa án miền, Tòa án tỉnh, Tòa án xã
+C. Tòa án nhân dân tối cao, Tòa án nhân dân cấp cao, Tòa án nhân dân cấp tỉnh, Tòa án nhân dân khu vực
+D. Tòa án nhân dân tối cao, Tòa án phúc thẩm, Tòa án khu vực, Tòa án hành chính đặc biệt
+Đáp án đúng: C
+Giải thích: Hệ thống TAND Việt Nam hiện hành gồm 4 cấp: TAND tối cao, TAND cấp cao, TAND cấp tỉnh và TAND khu vực.
+
+Câu 22 [Trung bình]: Đặc điểm nào sau đây KHÔNG phải là đặc điểm của Nhà nước pháp quyền xã hội chủ nghĩa Việt Nam?
+A. Quyền lực nhà nước tập trung tuyệt đối vào cơ quan hành pháp mà không chịu sự giám sát
+B. Tất cả quyền lực nhà nước thuộc về Nhân dân
+C. Quyền lực nhà nước là thống nhất, có sự phân công, phối hợp, kiểm soát giữa các cơ quan trong thực hiện các quyền lập pháp, hành pháp, tư pháp
+D. Thượng tôn Hiến pháp và pháp luật
+Đáp án đúng: A
+Giải thích: Nhà nước pháp quyền XHCN Việt Nam tổ chức quyền lực thống nhất, phân công, phối hợp và kiểm soát lẫn nhau, thượng tôn pháp luật chứ không tập trung tuyệt đối vào hành pháp mà thiếu giám sát.
+
+Câu 23 [Trung bình]: Nội dung nào phản ánh đúng nguyên tắc tổ chức và hoạt động của Bộ máy Nhà nước CHXHCN Việt Nam?
+A. Nguyên tắc tập trung dân chủ, nguyên tắc pháp chế xã hội chủ nghĩa, nguyên tắc tất cả quyền lực nhà nước thuộc về Nhân dân
+B. Nguyên tắc tam quyền phân lập tuyệt đối giữa ba nhánh quyền lực
+C. Nguyên tắc phân chia quyền lực theo đẳng cấp dòng họ
+D. Nguyên tắc quyền lực tập trung vô hạn vào cá nhân người đứng đầu hành pháp
+Đáp án đúng: A
+Giải thích: Bộ máy nhà nước Việt Nam hoạt động theo nguyên tắc tất cả quyền lực thuộc về Nhân dân, tập trung dân chủ, pháp chế XHCN...
+
+Câu 24 [Trung bình]: Hội đồng nhân dân cấp tỉnh và Hội đồng nhân dân cấp xã có vị trí pháp lý như thế nào trong bộ máy nhà nước?
+A. Là cơ quan quyền lực nhà nước ở địa phương, đại diện cho ý chí, nguyện vọng và quyền làm chủ của Nhân dân địa phương
+B. Là cơ quan hành chính chấp hành của Chính phủ tại địa phương
+C. Là tổ chức xã hội tự quản đại diện cho các đoàn thể nhân dân
+D. Là cơ quan tư pháp địa phương có chức năng giải quyết các khiếu nại hành chính
+Đáp án đúng: A
+Giải thích: HĐND là cơ quan quyền lực nhà nước ở địa phương, do Nhân dân địa phương bầu ra.
+
+Câu 25 [Trung bình]: Chính phủ chịu trách nhiệm trước cơ quan nào và báo cáo công tác trước cơ quan nào?
+A. Viện kiểm sát nhân dân tối cao
+B. Quốc hội (và chịu trách nhiệm trước Quốc hội, báo cáo công tác trước Quốc hội, UBTVQH, Chủ tịch nước)
+C. Tòa án nhân dân tối cao
+D. Chính quyền địa phương cấp tỉnh
+Đáp án đúng: B
+Giải thích: Theo Hiến pháp 2013, Chính phủ do Quốc hội thành lập, chịu trách nhiệm trước Quốc hội và báo cáo công tác trước Quốc hội, UBTVQH, Chủ tịch nước.
+
+Câu 26 [Trung bình]: Mục đích cốt lõi của việc tổ chức chính quyền địa phương theo mô hình 2 cấp (cấp tỉnh và cấp xã) ở Việt Nam là gì?
+A. Xóa bỏ hoàn toàn HĐND ở tất cả các cấp
+B. Tinh gọn bộ máy, giảm tầng nấc trung gian, nâng cao hiệu lực, hiệu quả quản lý nhà nước và phục vụ người dân tốt hơn
+C. Tăng số lượng cán bộ công chức ở cấp cơ sở
+D. Chuyển toàn bộ nhiệm vụ quản lý đất đai về cho các tổ chức tư nhân
+Đáp án đúng: B
+Giải thích: Cải cách chính quyền địa phương 2 cấp (cấp tỉnh, cấp xã) giúp thu gọn đầu mối, cắt giảm tầng nấc trung gian, tăng tính chủ động cho cấp cơ sở và tỉnh.
+
+Câu 27 [Trung bình]: Quyền lực nhà nước khác với quyền lực dòng họ trong xã hội nguyên thủy ở điểm căn bản nào?
+A. Quyền lực nhà nước dựa hoàn toàn vào uy tín cá nhân của người già làng
+B. Quyền lực dòng họ dựa trên sự cưỡng chế bằng lực lượng quân đội chuyên nghiệp
+C. Quyền lực dòng họ được bảo đảm bằng pháp luật viết thành văn
+D. Quyền lực nhà nước mang tính cưỡng chế chung, gắn liền với bộ máy quản lý chuyên trách và thu thuế để duy trì
+Đáp án đúng: D
+Giải thích: Quyền lực công cộng đặc biệt của nhà nước dựa trên bộ máy cưỡng chế chuyên nghiệp (quân đội, cảnh sát, nhà tù...) và pháp luật.
+
+Câu 28 [Trung bình]: Cơ quan nào có thẩm quyền bầu, miễn nhiệm, bãi nhiệm Chủ tịch nước, Thủ tướng Chính phủ, Chủ tịch Quốc hội?
+A. Ủy ban Thường vụ Quốc hội
+B. Quốc hội
+C. Chính phủ
+D. Tòa án nhân dân tối cao
+Đáp án đúng: B
+Giải thích: Quốc hội thực hiện chức năng tổ chức bộ máy, bầu và miễn nhiệm các chức danh lãnh đạo chủ chốt của Nhà nước.
+
+Câu 29 [Trung bình]: Việc nhà nước chia dân cư thành các đơn vị hành chính - lãnh thổ (như tỉnh, xã) nhằm mục đích chủ yếu gì?
+A. Để quản lý dân cư một cách toàn diện, thống nhất và hiệu quả không phụ thuộc vào huyết thống hay dòng họ
+B. Để ngăn cản dân cư di chuyển giữa các vùng miền
+C. Để phân chia quyền sở hữu đất đai cho từng gia đình
+D. Để thu thuế cao hơn đối với người nhập cư
+Đáp án đúng: A
+Giải thích: Phân chia dân cư theo đơn vị hành chính lãnh thổ giúp nhà nước quản lý công dân theo nơi cư trú, triển khai quyền lực công cộng hiệu quả.
+
+Câu 30 [Trung bình]: Thẩm quyền xét xử sơ thẩm các vụ án dân sự, hình sự ở cấp cơ sở hiện nay thuộc về Tòa án nào?
+A. Tòa án nhân dân khu vực
+B. Tòa án nhân dân cấp xã
+C. Tòa án nhân dân tối cao
+D. Ủy ban nhân dân cấp xã
+Đáp án đúng: A
+Giải thích: Theo mô hình mới, Tòa án nhân dân khu vực đóng vai trò là Tòa án sơ thẩm cơ sở giải quyết các vụ án ở địa bàn khu vực được giao.
+
+Câu 31 [Vận dụng]: Trường hợp công dân A cư trú tại Phường X (thuộc Cấp xã) có tranh chấp hợp đồng vay tài sản với công dân B. Để yêu cầu giải quyết tranh chấp dân sự sơ thẩm này, công dân A cần gửi đơn đến cơ quan nào sau đây?
+A. Ủy ban nhân dân cấp xã nơi công dân B cư trú
+B. Tòa án nhân dân khu vực có thẩm quyền theo lãnh thổ
+C. Tòa án nhân dân tối cao
+D. Ủy ban nhân dân cấp tỉnh nơi diễn ra giao dịch
+Đáp án đúng: B
+Giải thích: Tranh chấp hợp đồng dân sự thuộc thẩm quyền giải quyết sơ thẩm của Tòa án nhân dân (cụ thể là Tòa án nhân dân khu vực), không thuộc thẩm quyền xét xử của UBND các cấp.
+
+Câu 32 [Vận dụng]: Giả sử UBND Cấp tỉnh Y ban hành một Quyết định hành chính trái với Nghị định của Chính phủ. Cơ quan nào sau đây có thẩm quyền bãi bỏ hoặc đình chỉ việc thi hành văn bản trái pháp luật này của UBND Cấp tỉnh Y?
+A. Thủ tướng Chính phủ (đình chỉ/bãi bỏ) hoặc HĐND Cấp tỉnh Y (bãi bỏ)
+B. Viện kiểm sát nhân dân khu vực
+C. Tòa án nhân dân khu vực trên địa bàn tỉnh Y
+D. Ủy ban nhân dân cấp xã nơi chịu ảnh hưởng
+Đáp án đúng: A
+Giải thích: Theo Hiến pháp và Luật Tổ chức chính quyền địa phương, Thủ tướng Chính phủ có quyền đình chỉ, bãi bỏ văn bản trái pháp luật của UBND cấp tỉnh; HĐND cấp tỉnh cũng có quyền bãi bỏ văn bản sai phạm của UBND cùng cấp.
+
+Câu 33 [Vận dụng]: Một doanh nghiệp muốn thực hiện dự án đầu tư sử dụng đất quy mô lớn tại Tỉnh M. Doanh nghiệp cần liên hệ với cơ quan hành chính nhà nước cấp nào ở địa phương để thực hiện thủ tục chấp thuận chủ trương đầu tư và giao đất theo thẩm quyền của Luật Đất đai 2024?
+A. Hội đồng nhân dân cấp xã nơi có đất
+B. Tòa án nhân dân khu vực tại Tỉnh M
+C. Ủy ban nhân dân cấp xã nơi có đất
+D. Ủy ban nhân dân cấp tỉnh M
+Đáp án đúng: D
+Giải thích: Ủy ban nhân dân cấp tỉnh có thẩm quyền quyết định chấp thuận chủ trương đầu tư, giao đất, cho thuê đất đối với tổ chức, doanh nghiệp thực hiện dự án đầu tư theo quy định Luật Đất đai 2024.
+
+Câu 34 [Vận dụng]: Ông K bị Chủ tịch UBND cấp xã phạt tiền về hành vi vi phạm quy định vệ sinh môi trường tại địa phương. Nếu ông K không đồng ý với quyết định xử phạt này và muốn khởi kiện vụ án hành chính ra Tòa án, ông K phải gửi đơn khởi kiện đến Tòa án nào?
+A. Tòa án nhân dân tối cao
+B. Ủy ban nhân dân cấp tỉnh
+C. Tòa án nhân dân khu vực có thẩm quyền
+D. Hội đồng nhân dân cấp xã
+Đáp án đúng: C
+Giải thích: Khiếu kiện quyết định hành chính của Chủ tịch UBND cấp xã thuộc thẩm quyền giải quyết sơ thẩm vụ án hành chính của Tòa án nhân dân khu vực.
+
+Câu 35 [Vận dụng]: Khi một dự án Luật do Chính phủ soạn thảo được trình ra Quốc hội, cơ quan nào của Quốc hội chịu trách nhiệm chính trong việc thẩm tra dự án Luật này trước khi đưa ra Quốc hội thảo luận và biểu quyết?
+A. Ủy ban nhân dân cấp tỉnh nơi đặt trụ sở Quốc hội
+B. Tòa án nhân dân tối cao
+C. Ủy ban tương ứng của Quốc hội (như Ủy ban Pháp luật và Tư pháp...)
+D. Bộ Tư pháp
+Đáp án đúng: C
+Giải thích: Các Ủy ban chuyên trách của Quốc hội có nhiệm vụ thẩm tra các dự án luật, dự án pháp lệnh trước khi trình Quốc hội, UBTVQH xem xét.
+
+Câu 36 [Vận dụng]: Bà H làm mất giấy khai sinh và muốn xin cấp lại trích lục hộ tịch tại chính quyền địa phương nơi cư trú. Cơ quan hành chính nào có thẩm quyền giải quyết thủ tục hộ tịch này cho bà H?
+A. Hội đồng nhân dân cấp tỉnh
+B. Ủy ban nhân dân cấp xã
+C. Tòa án nhân dân khu vực
+D. Tòa án nhân dân cấp tỉnh
+Đáp án đúng: B
+Giải thích: UBND cấp xã là cơ quan quản lý và đăng ký hộ tịch ở cấp cơ sở (cấp giấy khai sinh, kết hôn, trích lục hộ tịch...).
+
+Câu 37 [Vận dụng]: Công ty X hoạt động tại Tỉnh A có hành vi trốn thuế giá trị gia tăng số lượng lớn. Cơ quan nào có thẩm quyền thực hiện quyền công tố và kiểm sát việc khởi tố, điều tra đối với vụ án hình sự về tội trốn thuế này?
+A. Viện kiểm sát nhân dân (khu vực hoặc cấp tỉnh tùy quy mô vụ án)
+B. Tòa án nhân dân khu vực
+C. Hội đồng nhân dân cấp xã nơi Công ty X đặt trụ sở
+D. Ủy ban nhân dân cấp tỉnh A
+Đáp án đúng: A
+Giải thích: Viện kiểm sát nhân dân là cơ quan duy nhất thực hành quyền công tố và kiểm sát hoạt động tư pháp trong tố tụng hình sự.
+
+Câu 38 [Vận dụng]: Trong tình huống quốc gia bị đe dọa bởi thiên tai khẩn cấp hoặc tình trạng khẩn cấp về quốc phòng, cơ quan nào có thẩm quyền ban hành Lệnh công bố tình trạng khẩn cấp trong cả nước hoặc ở từng địa phương?
+A. Tòa án nhân dân tối cao
+B. Chủ tịch nước
+C. Chủ tịch Ủy ban nhân dân cấp xã
+D. Ủy ban nhân dân cấp tỉnh
+Đáp án đúng: B
+Giải thích: Theo Hiến pháp 2013, Chủ tịch nước căn cứ vào Nghị quyết của Quốc hội hoặc UBTVQH để ban hành Lệnh công bố tình trạng khẩn cấp.
+
+Câu 39 [Vận dụng]: Xã T thuộc Tỉnh K muốn ban hành một Nghị quyết về quy hoạch phát triển kinh tế - xã hội địa phương trong năm. Cơ quan nào có thẩm quyền ban hành Nghị quyết này?
+A. Tòa án nhân dân khu vực tại Tỉnh K
+B. Ủy ban nhân dân cấp xã T
+C. Ủy ban nhân dân cấp tỉnh K
+D. Hội đồng nhân dân cấp xã T
+Đáp án đúng: D
+Giải thích: HĐND cấp xã là cơ quan quyền lực nhà nước ở cấp xã, ban hành Nghị quyết để quyết định các vấn đề địa phương thuộc thẩm quyền.
+
+Câu 40 [Vận dụng]: Một hành vi vi phạm giao thông đường bộ xảy ra trên địa bàn Phường Y. Người có thẩm quyền xử phạt vi phạm hành chính lập biên bản xử phạt. Quyết định xử phạt hành chính này thể hiện chức năng nào của Nhà nước?
+A. Chức năng đối ngoại bảo vệ biên giới
+B. Chức năng xét xử hình sự của Tòa án
+C. Chức năng lập pháp của Quốc hội
+D. Chức năng quản lý hành chính, bảo đảm trật tự an toàn xã hội (đối nội)
+Đáp án đúng: D
+Giải thích: Xử lý vi phạm hành chính để duy trì trật tự giao thông là biểu hiện cụ thể của chức năng quản lý hành chính nội địa (đối nội) của bộ máy hành pháp.
+
+--------------------------------------------------------------------------------
+MỤC 1.1.2. HÌNH THỨC NHÀ NƯỚC
+--------------------------------------------------------------------------------
+
+Câu 41 [Dễ]: Hình thức nhà nước là khái niệm hợp thành bởi những yếu tố cơ bản nào sau đây?
+A. Lập pháp, hành pháp và tư pháp
+B. Tính giai cấp, tính xã hội và chủ quyền quốc gia
+C. Hình thức chính thể, hình thức cấu trúc nhà nước và chế độ chính trị
+D. Chức năng đối nội, chức năng đối ngoại và bộ máy nhà nước
+Đáp án đúng: C
+Giải thích: Hình thức nhà nước bao gồm 3 yếu tố: Hình thức chính thể, Hình thức cấu trúc nhà nước và Chế độ chính trị.
+
+Câu 42 [Dễ]: Hình thức chính thể là gì?
+A. Cách thức tổ chức và trình tự thành lập các cơ quan quyền lực tối cao của nhà nước và xác lập mối quan hệ giữa các cơ quan đó
+B. Sự phân chia nhà nước thành các đơn vị hành chính - lãnh thổ
+C. Mối quan hệ giữa chính quyền trung ương và chính quyền địa phương
+D. Phương pháp và thủ tục mà nhà nước sử dụng để thực hiện quyền lực nhà nước
+Đáp án đúng: A
+Giải thích: Hình thức chính thể thể hiện cách thức tổ chức và xác lập các cơ quan quyền lực nhà nước tối cao.
+
+Câu 43 [Dễ]: Hai hình thức chính thể cơ bản trong lịch sử nhà nước là gì?
+A. Chế độ Dân chủ và Chế độ Chuyên chế
+B. Chính thể Tổng thống và Chính thể Đại nghị
+C. Chính thể Quân chủ và Chính thể Cộng hòa
+D. Chính thể Đơn nhất và Chính thể Liên bang
+Đáp án đúng: C
+Giải thích: Tùy thuộc vào việc quyền lực tối cao tập trung vào tay một cá nhân (Vua/Hoàng đế) hay do một cơ quan bầu ra, chính thể chia thành Quân chủ và Cộng hòa.
+
+Câu 44 [Dễ]: Chính thể Quân chủ hạn chế (quân chủ lập hiến) là hình thức chính thể trong đó:
+A. Vua nắm nắm giữ toàn bộ quyền lực tối cao tuyệt đối và vô hạn
+B. Quyền lực tối cao của người đứng đầu nhà nước (Vua/Nữ hoàng) bị hạn chế bởi Hiến pháp và Nghị viện
+C. Quyền lực thuộc về Tổng thống do dân bầu trực tiếp
+D. Không có Vua mà chỉ có Hội đồng nhân dân cai trị
+Đáp án đúng: B
+Giải thích: Trong chính thể Quân chủ lập hiến, quyền lực của Vua bị giới hạn bởi Hiến pháp và cơ quan lập pháp (Nghị viện).
+
+Câu 45 [Dễ]: Hình thức cấu trúc nhà nước gồm hai loại hình cơ bản nào?
+A. Nhà nước dân chủ và Nhà nước độc tài
+B. Nhà nước đơn nhất và Nhà nước liên bang
+C. Nhà nước phong kiến và Nhà nước tư bản
+D. Nhà nước quân chủ và Nhà nước cộng hòa
+Đáp án đúng: B
+Giải thích: Xét theo sự phân chia lãnh thổ và mối quan hệ giữa trung ương với địa phương, cấu trúc nhà nước gồm Nhà nước đơn nhất và Nhà nước liên bang.
+
+Câu 46 [Dễ]: Đặc điểm tiêu biểu của Nhà nước đơn nhất là gì?
+A. Chỉ tồn tại ở các quốc gia tư bản chủ nghĩa
+B. Gồm nhiều nhà nước thành viên hợp lại, mỗi thành viên có Hiến pháp riêng
+C. Có một hệ thống lãnh thổ thống nhất, một Hiến pháp, một hệ thống pháp luật và một hệ thống cơ quan nhà nước thống nhất từ trung ương đến địa phương
+D. Có hai hệ thống pháp luật tồn tại song song: pháp luật liên bang và pháp luật của bang
+Đáp án đúng: C
+Giải thích: Nhà nước đơn nhất có lãnh thổ toàn vẹn, thống nhất, chỉ có một Hiến pháp và một hệ thống pháp luật áp dụng chung cả nước.
+
+Câu 47 [Dễ]: Nhà nước Cộng hòa xã hội chủ nghĩa Việt Nam có hình thức cấu trúc nhà nước thuộc loại hình nào?
+A. Nhà nước bang liên
+B. Nhà nước liên minh tư sản
+C. Nhà nước đơn nhất
+D. Nhà nước liên bang
+Đáp án đúng: C
+Giải thích: Việt Nam là nhà nước đơn nhất, lãnh thổ thống nhất từ Bắc đến Nam, chỉ có một Hiến pháp và một hệ thống pháp luật áp dụng chung.
+
+Câu 48 [Dễ]: Chế độ chính trị là gì?
+A. Mối quan hệ giữa Vua và Thủ tướng trong chính thể lập hiến
+B. Toàn bộ các phương pháp, thủ tục và cách thức mà nhà nước sử dụng để thực hiện quyền lực nhà nước
+C. Cách thức phân chia lãnh thổ thành các cấp hành chính
+D. Quy trình bầu cử đại biểu Quốc hội
+Đáp án đúng: B
+Giải thích: Chế độ chính trị phản ánh phương pháp quản lý, cai trị của nhà nước (dân chủ hoặc phản dân chủ).
+
+Câu 49 [Dễ]: Hình thức chính thể của Nhà nước Cộng hòa xã hội chủ nghĩa Việt Nam là:
+A. Chính thể Quân chủ lập hiến
+B. Chính thể Cộng hòa xã hội chủ nghĩa (Cộng hòa dân chủ nhân dân)
+C. Chính thể Cộng hòa Đại nghị
+D. Chính thể Cộng hòa Tổng thống
+Đáp án đúng: B
+Giải thích: Chính thể Việt Nam là Cộng hòa xã hội chủ nghĩa, trong đó toàn bộ quyền lực nhà nước thuộc về Nhân dân.
+
+Câu 50 [Dễ]: Trường hợp quốc gia do hai hay nhiều nhà nước thành viên hợp lại, có Hiến pháp liên bang và Hiến pháp của các bang thành viên thì đó là loại hình cấu trúc nhà nước nào?
+A. Nhà nước tự trị
+B. Chính thể quân chủ
+C. Nhà nước đơn nhất
+D. Nhà nước liên bang
+Đáp án đúng: D
+Giải thích: Nhà nước liên bang là sự hợp thành của nhiều nhà nước bang thành viên (như Mỹ, Đức, Nga...), tồn tại hai hệ thống cơ quan nhà nước và Hiến pháp.
+
+Câu 51 [Dễ]: Chế độ chính trị của Nhà nước CHXHCN Việt Nam là gì?
+A. Chế độ chính trị quân phiệt
+B. Chế độ chính trị độc tài tư sản
+C. Chế độ chính trị chuyên chế phong kiến
+D. Chế độ chính trị dân chủ xã hội chủ nghĩa
+Đáp án đúng: D
+Giải thích: Việt Nam thực hiện chế độ chính trị dân chủ XHCN, bảo đảm quyền làm chủ của Nhân dân.
+
+Câu 52 [Dễ]: Trong chính thể Cộng hòa Tổng thống (ví dụ như Hoa Kỳ), ai vừa là người đứng đầu nhà nước vừa là người đứng đầu Chính phủ (hành pháp)?
+A. Chủ tịch Quốc hội
+B. Thủ tướng
+C. Đại pháp官 (Chánh án Tòa án tối cao)
+D. Tổng thống
+Đáp án đúng: D
+Giải thích: Trong chính thể Cộng hòa Tổng thống, Tổng thống do dân bầu trực tiếp hoặc qua cử cử đoàn, nắm quyền hành pháp và trực tiếp đứng đầu Chính phủ.
+
+Câu 53 [Dễ]: Chính thể Quân chủ tuyệt đối là hình thức chính thể mà trong đó người đứng đầu nhà nước (Vua/Hoàng đế):
+A. Nắm giữ toàn bộ quyền lực tối cao, không bị hạn chế bởi bất kỳ cơ quan hay Hiến pháp nào
+B. Chỉ mang tính chất tượng trưng, quyền lực thực tế thuộc về Thủ tướng
+C. Chịu sự giám sát trực tiếp của Tòa án tối cao
+D. Do cử tri cả nước bầu ra theo nhiệm kỳ 5 năm
+Đáp án đúng: A
+Giải thích: Quân chủ tuyệt đối là hình thức mà Vua tập trung toàn bộ quyền lực lập pháp, hành pháp và tư pháp trong tay.
+
+Câu 54 [Dễ]: Khái niệm 'Bang liên' (Liên minh các nhà nước) có điểm gì khác biệt cốt lõi so với 'Nhà nước liên bang'?
+A. Bang liên là tên gọi khác của nhà nước đơn nhất
+B. Bang liên là sự liên kết tạm thời giữa các quốc gia độc lập có chủ quyền riêng để thực hiện các mục tiêu nhất định, không tạo thành một nhà nước mới
+C. Bang liên có một Hiến pháp chung tối cao xóa bỏ chủ quyền riêng của các quốc gia
+D. Bang liên chỉ do các nước phong kiến thành lập
+Đáp án đúng: B
+Giải thích: Bang liên chỉ là liên minh giữa các quốc gia hoàn toàn độc lập, các quốc gia vẫn giữ nguyên chủ quyền quốc gia đầy đủ.
+
+Câu 55 [Dễ]: Phương pháp quản lý nhà nước dựa trên việc tôn trọng và bảo đảm các quyền tự do, dân chủ của công dân thuộc chế độ chính trị nào?
+A. Chế độ phát xít
+B. Chế độ dân chủ
+C. Chế độ phản dân chủ
+D. Chế độ độc tài quân phiệt
+Đáp án đúng: B
+Giải thích: Chế độ dân chủ sử dụng các phương pháp quản lý bảo đảm quyền làm chủ của Nhân dân và các quyền tự do công dân.
+
+Câu 56 [Trung bình]: Phân tích mối quan hệ giữa ba yếu tố cấu thành hình thức nhà nước cho thấy:
+A. Hình thức chính thể là yếu tố duy nhất quyết định tên gọi của quốc gia
+B. Hình thức chính thể, hình thức cấu trúc và chế độ chính trị có mối quan hệ tác động qua lại, trong đó chế độ chính trị giữ vai trò quan trọng định hướng cho hai yếu tố còn lại
+C. Hình thức cấu trúc nhà nước quyết định hoàn toàn bản chất của chế độ chính trị
+D. Ba yếu tố này hoạt động độc lập và không ảnh hưởng gì đến nhau
+Đáp án đúng: B
+Giải thích: Chế độ chính trị phản ánh bản chất dân chủ hay độc tài, từ đó chi phối cách thức tổ chức chính thể và cấu trúc nhà nước.
+
+Câu 57 [Trung bình]: Điểm khác biệt quan trọng giữa Chính thể Cộng hòa Đại nghị và Chính thể Cộng hòa Tổng thống nằm ở chỗ:
+A. Trong Cộng hòa Đại nghị, Chính phủ do Nghị viện thành lập và chịu trách nhiệm trước Nghị viện; trong Cộng hòa Tổng thống, Chính phủ do Tổng thống thành lập và không chịu trách nhiệm trước Nghị viện
+B. Trong Cộng hòa Đại nghị không có vị trí Tổng thống
+C. Trong Cộng hòa Tổng thống, Nghị viện có quyền giải tán Chính phủ bất kỳ lúc nào
+D. Trong Cộng hòa Đại nghị, Vua là người nắm quyền hành pháp
+Đáp án đúng: A
+Giải thích: Cộng hòa Đại nghị nhấn mạnh vai trò tối cao của Nghị viện trong việc thành lập và giải tán Chính phủ; trong khi Cộng hòa Tổng thống áp dụng phân quyền nghiêm ngặt.
+
+Câu 58 [Trung bình]: Vì sao Nhà nước Việt Nam lựa chọn hình thức cấu trúc Nhà nước đơn nhất?
+A. Do bắt buộc phải tuân theo mô hình của tất cả các nước trên thế giới
+B. Xuất phát từ truyền thống lịch sử đoàn kết dân tộc, quy mô lãnh thổ, văn hóa và yêu cầu bảo vệ chủ quyền thống nhất quốc gia
+C. Do Việt Nam không có các dân tộc thiểu số sinh sống
+D. Do lãnh thổ Việt Nam chia thành nhiều tiểu bang độc lập
+Đáp án đúng: B
+Giải thích: Việt Nam là quốc gia đa dân tộc thống nhất có lịch sử dựng nước và giữ nước lâu đời, lựa chọn nhà nước đơn nhất để quy tụ sức mạnh dân tộc.
+
+Câu 59 [Trung bình]: Trong chính thể Cộng hòa hỗn hợp (như Cộng hòa Pháp), quyền hành pháp được phân chia như thế nào?
+A. Nghị viện nắm toàn bộ quyền hành pháp trực tiếp
+B. Tổng thống nắm toàn bộ quyền hành pháp và không có Thủ tướng
+C. Thủ tướng nắm toàn bộ quyền lực và Tổng thống chỉ có vai trò tượng trưng
+D. Quyền hành pháp được chia sẻ giữa Tổng thống (do dân bầu) và Thủ tướng (được Nghị viện tín nhiệm)
+Đáp án đúng: D
+Giải thích: Cộng hòa hỗn hợp (Bán tổng thống) kết hợp đặc điểm của Cộng hòa Tổng thống và Cộng hòa Đại nghị, trong đó Tổng thống và Thủ tướng cùng điều hành nhánh hành pháp.
+
+Câu 60 [Trung bình]: Nội dung nào phản ánh đúng bản chất Dân chủ xã hội chủ nghĩa trong chế độ chính trị của Việt Nam?
+A. Dân chủ là quyền tự do tuyệt đối của cá nhân không chịu bất kỳ sự hạn chế nào của pháp luật
+B. Dân chủ chỉ áp dụng cho người giàu có và có trình độ học vấn cao
+C. Dân chủ đồng nghĩa với việc đa đảng cạnh tranh quyền lực gay gắt
+D. Dân chủ vừa là mục tiêu vừa là động lực của sự phát triển; dân chủ đi đôi với kỷ cương, pháp luật; quyền lực thuộc về Nhân dân
+Đáp án đúng: D
+Giải thích: Dân chủ XHCN ở Việt Nam bảo đảm tất cả quyền lực thuộc về Nhân dân, gắn liền với kỷ cương, kỷ luật và pháp luật.
+
+Câu 61 [Trung bình]: Yếu tố nào sau đây quyết định việc lựa chọn hình thức nhà nước của một quốc gia?
+A. Ý chí chủ quan đơn phương của người đứng đầu Chính phủ
+B. Vị trí địa lý gần biển hay trong đất liền
+C. Sự quy định bắt buộc của Liên Hợp Quốc
+D. Bản chất giai cấp của nhà nước, tương quan lực lượng giai cấp, điều kiện kinh tế, lịch sử, văn hóa, truyền thống dân tộc
+Đáp án đúng: D
+Giải thích: Hình thức nhà nước chịu sự quy định của bản chất nhà nước và các điều kiện lịch sử, kinh tế, xã hội, truyền thống văn hóa cụ thể.
+
+Câu 62 [Trung bình]: Tại sao trong chính thể Quân chủ lập hiến ở Anh hay Nhật Bản, Vua/Nữ hoàng/Nhật hoàng được nói là 'trị vì mà không cai trị'?
+A. Vì Vua bị tước hoàn bộ quyền công dân
+B. Vì người đứng đầu nhà nước chỉ đóng vai trò tượng trưng cho sự thống nhất quốc gia, quyền lực cai trị thực tế thuộc về Chính phủ và Nghị viện
+C. Vì Vua không được sống trong hoàng cung
+D. Vì Vua chỉ quản lý quân đội mà không quản lý kinh tế
+Đáp án đúng: B
+Giải thích: Vua là nguyên thủ quốc gia mang tính biểu tượng, truyền thống, không nắm giữ quyền hành pháp hay lập pháp thực tế.
+
+Câu 63 [Trung bình]: Một nhà nước liên bang có đặc điểm nào sau đây về hệ thống Tòa án?
+A. Chỉ có duy nhất một Tòa án tối cao xử lý mọi vụ việc từ nhỏ đến lớn
+B. Tồn tại hai hệ thống Tòa án: Tòa án liên bang và Tòa án của các bang thành viên
+C. Tòa án các bang không phải tuân theo bất kỳ nguyên tắc chung nào
+D. Tòa án liên bang do người dân từng xã bầu ra
+Đáp án đúng: B
+Giải thích: Nhà nước liên bang có cơ cấu song trùng: Hệ thống tư pháp liên bang và hệ thống tư pháp riêng của từng bang thành viên.
+
+Câu 64 [Trung bình]: Khái niệm 'Chế độ chuyên chế / Độc tài' thuộc yếu tố nào của hình thức nhà nước?
+A. Bộ máy nhà nước tư sản
+B. Chế độ chính trị (thuộc loại phản dân chủ)
+C. Hình thức cấu trúc nhà nước liên bang
+D. Hình thức chính thể quân chủ lập hiến
+Đáp án đúng: B
+Giải thích: Chế độ chính trị phân làm hai nhóm lớn: Chế độ dân chủ và Chế độ phản dân chủ (chuyên chế, độc tài, phát xít).
+
+Câu 65 [Trung bình]: Sự khác biệt về thẩm quyền giữa Luật Liên bang và Luật của Bang trong nhà nước liên bang thường được giải quyết theo nguyên tắc nào?
+A. Tùy thuộc vào thỏa thuận giữa Chủ tịch các bang
+B. Luật nào ra đời sau sẽ hủy bỏ luật ra đời trước bất kể cấp độ
+C. Hiến pháp và Luật Liên bang có hiệu lực tối cao trên toàn bộ lãnh thổ liên bang; luật của bang không được trái với Hiến pháp liên bang
+D. Luật của bang luôn có giá trị cao hơn Hiến pháp liên bang
+Đáp án đúng: C
+Giải thích: Hiến pháp và pháp luật liên bang giữ vị trí tối cao, điều chỉnh các vấn đề chung như đối ngoại, quốc phòng, tiền tệ... Luật của bang phải phù hợp Hiến pháp liên bang.
+
+Câu 66 [Trung bình]: Đặc điểm nào phản ánh sự kết hợp giữa tính thống nhất và tính đa dạng trong cấu trúc nhà nước Việt Nam?
+A. Thống nhất về Hiến pháp, pháp luật, chủ quyền quốc gia; đồng thời áp dụng chính sách dân tộc bình đẳng, phát triển vùng miền
+B. Cho phép mỗi địa phương thành lập quân đội riêng
+C. Cho phép các tỉnh tự ban hành Hiến pháp riêng
+D. Áp dụng luật pháp riêng biệt cho từng tôn giáo
+Đáp án đúng: A
+Giải thích: Việt Nam là nhà nước đơn nhất thống nhất về thể chế nhưng bảo đảm chính sách dân tộc, phân cấp quản lý hợp lý cho chính quyền địa phương 2 cấp.
+
+Câu 67 [Trung bình]: Chính thể Cộng hòa dân chủ khác với Chính thể Cộng hòa quý tộc ở điểm căn bản nào?
+A. Cộng hòa quý tộc không có Hiến pháp
+B. Cộng hòa dân chủ có Vua đứng đầu
+C. Cộng hòa dân chủ quy định quyền tham gia bầu cử cơ quan quyền lực tối cao thuộc về rộng rãi Nhân dân; Cộng hòa quý tộc chỉ dành quyền đó cho tầng lớp quý tộc
+D. Cộng hòa dân chủ do tầng lớp chủ nô độc quyền quản lý
+Đáp án đúng: C
+Giải thích: Tính chất dân chủ thể hiện ở quy mô cử tri được tham gia bầu cử đại diện cơ quan quyền lực tối cao.
+
+Câu 68 [Trung bình]: Mô hình bộ máy nhà nước Việt Nam tổ chức theo nguyên tắc phân công, phối hợp và kiểm soát giữa các cơ quan nhà nước nhằm mục đích gì?
+A. Tập trung toàn bộ quyền tư pháp cho cơ quan hành chính
+B. Tạo sự mâu thuẫn để các cơ quan triệt hạ lẫn nhau
+C. Tránh sự lạm quyền, nâng cao hiệu quả hoạt động của bộ máy nhà nước và bảo vệ quyền lợi của Nhân dân
+D. Sao chép hoàn toàn mô hình tam quyền phân lập của các nước phương Tây
+Đáp án đúng: C
+Giải thích: Phân công, phối hợp và kiểm soát quyền lực giúp bộ máy hoạt động nhịp nhàng, công khai, ngăn ngừa tham nhũng và lạm quyền.
+
+Câu 69 [Trung bình]: Nội dung nào sau đây diễn đạt đúng nhất về sự phụ thuộc của hình thức nhà nước vào bản chất nhà nước?
+A. Bản chất nhà nước quyết định việc lựa chọn hình thức nhà nước phù hợp để thể hiện và phục vụ cho bản chất đó
+B. Mọi nhà nước có cùng bản chất giai cấp thì bắt buộc phải có hình thức nhà nước giống hệt nhau
+C. Hình thức nhà nước chỉ do yếu tố địa lý quy định
+D. Hình thức nhà nước hoàn toàn độc lập và quyết định bản chất nhà nước
+Đáp án đúng: A
+Giải thích: Bản chất giai cấp của nhà nước là nội dung, hình thức nhà nước là phương thức biểu hiện; nội dung quyết định hình thức.
+
+Câu 70 [Trung bình]: Hình thức chính thể nào mà trong đó Tổng thống vừa do dân bầu, vừa chịu trách nhiệm trước Nghị viện?
+A. Cộng hòa đại nghị (hoặc Cộng hòa hỗn hợp tùy vị trí)
+B. Quân chủ tuyệt đối
+C. Cộng hòa Tổng thống
+D. Quân chủ chuyên chế
+Đáp án đúng: A
+Giải thích: Trong Cộng hòa Đại nghị hoặc hỗn hợp, hành pháp gắn bó chặt chẽ và chịu sự giám sát của Nghị viện.
+
+Câu 71 [Vận dụng]: Một sinh viên nghiên cứu so sánh bộ máy nhà nước Việt Nam và Hoa Kỳ. Sinh viên này rút ra kết luận đúng nhất về hình thức cấu trúc nhà nước của hai quốc gia là gì?
+A. Việt Nam là nhà nước liên bang, Hoa Kỳ là nhà nước đơn nhất
+B. Cả Việt Nam và Hoa Kỳ đều có cấu trúc nhà nước liên bang
+C. Việt Nam có cấu trúc nhà nước đơn nhất; Hoa Kỳ có cấu trúc nhà nước liên bang
+D. Cả hai quốc gia đều là dạng bang liên tạm thời
+Đáp án đúng: C
+Giải thích: Việt Nam áp dụng mô hình nhà nước đơn nhất thống nhất. Hoa Kỳ áp dụng mô hình nhà nước liên bang gồm 50 bang.
+
+Câu 72 [Vận dụng]: Trong một thảo luận về Hiến pháp, công dân X thắc mắc: 'Tại sao tỉnh A không thể tự ban hành Bộ luật Hình sự riêng áp dụng trên địa bàn tỉnh mình?'. Câu giải thích nào chuẩn xác nhất theo lý luận về hình thức nhà nước Việt Nam?
+A. Vì Bộ luật Hình sự do UBND cấp tỉnh tự quyết định
+B. Vì Việt Nam là nhà nước đơn nhất, chỉ có một Quốc hội duy nhất có thẩm quyền ban hành Bộ luật Hình sự áp dụng thống nhất toàn quốc
+C. Vì tỉnh A chưa được nâng cấp lên thành phố lớn
+D. Vì chính quyền địa phương 2 cấp chỉ được quản lý việc kinh doanh
+Đáp án đúng: B
+Giải thích: Cấu trúc nhà nước đơn nhất quy định duy nhất Quốc hội ban hành các Bộ luật/Luật áp dụng chung cho cả nước, chính quyền địa phương không được ban hành Bộ luật riêng.
+
+Câu 73 [Vận dụng]: Khi phân tích hệ thống chính trị Việt Nam, một chuyên gia nhận xét: 'Quyền lực nhà nước ở Việt Nam là thống nhất, không phân chia thành các nhánh độc lập lập hiến riêng biệt kiểu tam quyền phân lập'. Cơ sở Hiến định của nhận xét này là gì?
+A. Việt Nam theo mô hình Cộng hòa Tổng thống nắm toàn quyền tuyệt đối
+B. Chính phủ có quyền giải tán Quốc hội bất kỳ lúc nào
+C. Điều 2 Hiến pháp 2013 quy định quyền lực nhà nước là thống nhất, có sự phân công, phối hợp, kiểm soát giữa các cơ quan nhà nước trong việc thực hiện các quyền lập pháp, hành pháp, tư pháp
+D. Tòa án nhân dân tối cao nắm toàn bộ quyền lập pháp và hành pháp
+Đáp án đúng: C
+Giải thích: Hiến pháp 2013 ghi nhận nguyên tắc: Quyền lực nhà nước là thống nhất, có sự phân công, phối hợp và kiểm soát giữa các cơ quan nhà nước.
+
+Câu 74 [Vận dụng]: Quốc gia K có Hoàng đế làm nguyên thủ quốc gia nhưng mọi chính sách quản lý nhà nước, thuế quan, ngân sách do Nghị viện và Thủ tướng quyết định. Hoàng đế không có quyền veto (phủ quyết) luật. Quốc gia K mang hình thức chính thể nào?
+A. Chính thể Cộng hòa xã hội chủ nghĩa
+B. Chính thể Cộng hòa Tổng thống
+C. Chính thể Quân chủ lập hiến (hạn chế)
+D. Chính thể Quân chủ tuyệt đối
+Đáp án đúng: C
+Giải thích: Nắm giữ vị trí Vua/Hoàng đế nhưng quyền lực bị hạn chế bởi Hiến pháp và Nghị viện là đặc trưng của Quân chủ lập hiến.
+
+Câu 75 [Vận dụng]: Một nhà đầu tư nước ngoài thắc mắc về thẩm quyền ban hành quy định pháp luật của Hội đồng nhân dân cấp tỉnh tại Việt Nam. Luật sư tư vấn chuẩn xác cho nhà đầu tư như thế nào?
+A. HĐND cấp tỉnh có quyền ban hành Nghị quyết quy phạm pháp luật để quyết định chính sách địa phương nhưng phải tuân thủ Hiến pháp, Luật và văn bản của cấp Trung ương
+B. HĐND cấp tỉnh có quyền ban hành Luật riêng độc lập với Luật của Quốc hội
+C. HĐND cấp tỉnh không có quyền ban hành bất kỳ văn bản quy phạm pháp luật nào
+D. HĐND cấp tỉnh chỉ được thực hiện chỉ thị của Tòa án nhân dân khu vực
+Đáp án đúng: A
+Giải thích: HĐND cấp tỉnh ban hành Nghị quyết quy phạm pháp luật trong phạm vi được phân cấp, phân quyền, bảo đảm tính thống nhất của hệ thống pháp luật nhà nước đơn nhất.
+
+Câu 76 [Vận dụng]: Sự kiện cải cách hành chính tại Việt Nam từ 01/7/2025 tổ chức chính quyền địa phương theo mô hình 2 cấp tác động như thế nào đến sự phân chia đơn vị hành chính - lãnh thổ?
+A. Thành lập thêm cấp chính quyền bang tự trị
+B. Tổ chức chính quyền thống nhất gồm Cấp tỉnh và Cấp xã, giúp bộ máy gọn nhẹ, cắt giảm tầng nấc trung gian, hoạt động hiệu lực, hiệu quả
+C. Xóa bỏ hoàn toàn UBND cấp xã để đưa về Trung ương quản lý trực tiếp
+D. Chuyển đổi Việt Nam từ Nhà nước đơn nhất thành Nhà nước liên bang
+Đáp án đúng: B
+Giải thích: Mô hình 2 cấp (tỉnh - xã) là bước hoàn thiện hình thức cấu trúc nhà nước đơn nhất theo hướng tinh gọn, hiện đại, gần dân hơn.
+
+Câu 77 [Vận dụng]: Giả sử hai quốc gia A và B ký kết một hiệp ước thành lập liên minh để hỗ trợ lẫn nhau về an ninh quốc phòng và thương mại tự do, nhưng mỗi quốc gia vẫn giữ nguyên Hiến pháp, quân đội, bộ máy nhà nước và chủ quyền riêng. Hình thức liên kết này là gì?
+A. Nhà nước đơn nhất mở rộng
+B. Chính thể cộng hòa hỗn hợp
+C. Nhà nước liên bang hợp nhất
+D. Bang liên (Liên minh các quốc gia)
+Đáp án đúng: D
+Giải thích: Đây là hình thức Bang liên, các quốc gia tham gia giữ nguyên chủ quyền độc lập của mình.
+
+Câu 78 [Vận dụng]: Khi cử tri Việt Nam đi bầu đại biểu Quốc hội và đại biểu Hội đồng nhân dân các cấp, hành vi này thể hiện phương thức thực hiện quyền lực nhà nước nào của Nhân dân?
+A. Dân chủ gián tiếp (thông qua trưng cầu ý dân)
+B. Dân chủ trực tiếp (thông qua hình thức bầu cử để thực hiện quyền lực dân chủ)
+C. Thực hiện trách nhiệm hình sự bắt buộc
+D. Chế độ quân chủ chuyên chế
+Đáp án đúng: B
+Giải thích: Bầu cử là hình thức dân chủ trực tiếp quan trọng nhất để Nhân dân thể hiện ý chí, lựa chọn người đại diện cho mình vào cơ quan quyền lực nhà nước.
+
+Câu 79 [Vận dụng]: Trong một cuộc tranh luận, công dân M nói: 'Nhà nước tư sản nào cũng có cùng hình thức chính thể'. Ý kiến này đúng hay sai? Vì sao?
+A. Sai. Nhà nước tư sản không có hình thức chính thể
+B. Đúng. Mọi nhà nước tư sản bắt buộc phải theo mô hình Quân chủ tuyệt đối
+C. Đúng. Bản chất tư sản quy định tất cả quốc gia phải theo hình thức nhà nước liên bang
+D. Sai. Các nhà nước tư sản có cùng bản chất tư bản nhưng có thể có các hình thức chính thể khác nhau (Cộng hòa tổng thống, Cộng hòa đại nghị, Quân chủ lập hiến...)
+Đáp án đúng: D
+Giải thích: Cùng một bản chất giai cấp tư sản nhưng tùy điều kiện lịch sử, mỗi nước tư sản có hình thức chính thể đa dạng khác nhau.
+
+Câu 80 [Vận dụng]: Việc quy định Tòa án nhân dân khu vực giải quyết các vụ án ở cấp sơ thẩm thay cho mô hình Tòa án cũ trước đây thể hiện sự đổi mới nào trong bộ máy nhà nước?
+A. Cải cách tư pháp đồng bộ với cải cách hành chính 2 cấp, thu gọn đầu mối Tòa án sơ thẩm theo khu vực địa lý để nâng cao tính chuyên nghiệp và độc lập xét xử
+B. Tăng thêm tầng nấc xét xử phúc thẩm tại cấp cơ sở
+C. Xóa bỏ hoàn toàn Tòa án nhân dân cấp tỉnh
+D. Chuyển nhánh tư pháp thành cơ quan trực thuộc UBND cấp xã
+Đáp án đúng: A
+Giải thích: TAND khu vực được tổ chức theo khu vực địa lý phù hợp với cải cách tư pháp, nâng cao tính chuyên nghiệp.
+
+--------------------------------------------------------------------------------
+MỤC 1.2.1. KHÁI NIỆM, ĐẶC ĐIỂM PHÁP LUẬT
+--------------------------------------------------------------------------------
+
+Câu 81 [Dễ]: Theo quan điểm Mác - Lênin, pháp luật ra đời xuất phát từ nguyên nhân nào?
+A. Do sự thỏa thuận giữa các công dân trong cộng đồng
+B. Xuất hiện chế độ tư hữu và mâu thuẫn giai cấp không thể điều hòa trong xã hội
+C. Do mong muốn cá nhân của các vị hiền triết
+D. Do Thượng đế tạo ra và trao cho nhà vua ban hành
+Đáp án đúng: B
+Giải thích: Pháp luật ra đời cùng với nhà nước, xuất phát từ nguyên nhân kinh tế (chế độ tư hữu) và nguyên nhân xã hội (phân hóa giai cấp).
+
+Câu 82 [Dễ]: Pháp luật là gì?
+A. Điều lệ hoạt động của các tổ chức xã hội và đoàn thể
+B. Các giáo lý tín ngưỡng tôn giáo do các giáo sĩ quy định
+C. Các quy tắc đạo đức được lưu truyền từ đời này sang đời khác trong nhân dân
+D. Hệ thống các quy tắc xử sự chung do nhà nước ban hành hoặc thừa nhận và bảo đảm thực hiện, thể hiện ý chí của giai cấp thống trị và điều chỉnh các quan hệ xã hội
+Đáp án đúng: D
+Giải thích: Khái niệm pháp luật phản ảnh đầy đủ tính quy phạm, tính nhà nước và bản chất giai cấp, xã hội.
+
+Câu 83 [Dễ]: Bản chất của pháp luật bao gồm hai thuộc tính/mặt nào sau đây?
+A. Tính Bắt buộc và tính Tự nguyện
+B. Tính Dân chủ và tính Chuyên chế
+C. Tính giai cấp và tính xã hội
+D. Tính Dân tộc và tính Quốc tế
+Đáp án đúng: C
+Giải thích: Tương tự nhà nước, pháp luật mang bản chất giai cấp (thể hiện ý chí giai cấp thống trị) và bản chất xã hội (điều chỉnh các quan hệ xã hội vì trật tự chung).
+
+Câu 84 [Dễ]: Đặc trưng/thuộc tính nào sau đây thể hiện việc pháp luật áp dụng cho nhiều lần, cho nhiều tổ chức, cá nhân trong phạm vi cả nước?
+A. Tính cưỡng chế của nhà nước
+B. Tính bảo mật quốc gia
+C. Tính xác định chặt chẽ về mặt hình thức
+D. Tính quy phạm phổ biến (tính bắt buộc chung)
+Đáp án đúng: D
+Giải thích: Tính quy phạm phổ biến nghĩa là pháp luật là khuôn mẫu xử sự áp dụng lặp đi lặp lại đối với mọi chủ thể trong phạm vi tác động.
+
+Câu 85 [Dễ]: Thuộc tính nào của pháp luật bảo đảm cho các quy định pháp luật được thực hiện nghiêm minh, bất kể chủ thể có tự nguyện hay không?
+A. Tính nhân văn xã hội
+B. Tính quy phạm phổ biến
+C. Tính xác định chặt chẽ về mặt hình thức
+D. Tính được bảo đảm thực hiện bằng sức mạnh cưỡng chế nhà nước
+Đáp án đúng: D
+Giải thích: Nhà nước sử dụng bộ máy cưỡng chế để bảo đảm pháp luật được thực hiện bắt buộc đối với mọi chủ thể.
+
+Câu 86 [Dễ]: Tính xác định chặt chẽ về mặt hình thức của pháp luật đòi hỏi điều gì?
+A. Pháp luật chỉ được truyền miệng qua các câu ca dao tục ngữ
+B. Pháp luật phải được thể hiện trong các văn bản quy phạm pháp luật với ngôn từ rõ ràng, chính xác, một nghĩa và cấu trúc logic
+C. Pháp luật chỉ được viết bằng thuật ngữ nước ngoài
+D. Pháp luật có thể thay đổi tùy tiện theo sở thích của cán bộ thực thi
+Đáp án đúng: B
+Giải thích: Tính xác định chặt chẽ về mặt hình thức giúp pháp luật rõ ràng, minh bạch, tránh hiểu và áp dụng tùy tiện.
+
+Câu 87 [Dễ]: Chức năng nào của pháp luật thể hiện việc pháp luật ghi nhận, định hướng và duy trì các quan hệ xã hội cần thiết, có lợi cho xã hội?
+A. Chức năng tiêu diệt đối thủ
+B. Chức năng điều chỉnh các quan hệ xã hội
+C. Chức năng bảo vệ
+D. Chức năng trừng phạt hình sự
+Đáp án đúng: B
+Giải thích: Chức năng điều chỉnh là chức năng cơ bản của pháp luật, nhằm xác lập trật tự cho các quan hệ xã hội phát triển.
+
+Câu 88 [Dễ]: Chức năng bảo vệ của pháp luật được thực hiện thông qua việc nào sau đây?
+A. Quảng bá hình ảnh đất nước ra quốc tế
+B. Phòng ngừa, ngăn chặn và xử lý các hành vi vi phạm pháp luật để bảo vệ các quan hệ xã hội được pháp luật bảo vệ
+C. Khen thưởng các cá nhân thực hiện tốt nghĩa vụ
+D. Tăng cường thu thuế để phát triển kinh tế
+Đáp án đúng: B
+Giải thích: Chức năng bảo vệ loại bỏ các vi phạm, khôi phục lại quyền lợi bị xâm phạm.
+
+Câu 89 [Dễ]: Pháp luật khác với Quy tắc đạo đức ở điểm cơ bản nào sau đây?
+A. Quy tắc đạo đức được ghi nhận trong văn bản luật
+B. Pháp luật chỉ áp dụng cho cán bộ công chức, Quy tắc đạo đức áp dụng cho công dân
+C. Quy tắc đạo đức có tính bắt buộc chung, Pháp luật thì không
+D. Pháp luật do Nhà nước ban hành và được bảo đảm bằng cưỡng chế nhà nước; Quy tắc đạo đức do xã hội hình thành và bảo đảm bằng dư luận xã hội
+Đáp án đúng: D
+Giải thích: Pháp luật gắn liền với nhà nước và sức mạnh cưỡng chế; đạo đức dựa vào dư luận xã hội, niềm tin nội tâm.
+
+Câu 90 [Dễ]: Trong mối quan hệ giữa Pháp luật và Kinh tế, yếu tố nào giữ vai trò quyết định?
+A. Pháp luật giữ vai trò quyết định tuyệt đối đối với kinh tế
+B. Pháp luật và kinh tế độc lập không tác động lẫn nhau
+C. Kinh tế giữ vai trò quyết định đối với pháp luật
+D. Pháp luật ra đời trước kinh tế
+Đáp án đúng: C
+Giải thích: Kinh tế là cơ sở hạ tầng quyết định sự ra đời, nội dung và sự phát triển của pháp luật (kiến trúc thượng tầng).
+
+Câu 91 [Dễ]: Chức năng giáo dục của pháp luật thể hiện ở tác động nào?
+A. Bắt buộc người dân phải học thuộc lòng từng điều luật
+B. Trừng phạt thể xác đối với người vi phạm
+C. Tước bỏ quyền bầu cử của mọi công dân
+D. Tác động vào ý thức con người, hình thành tình cảm pháp luật, ý thức tôn trọng và tự giác chấp hành pháp luật
+Đáp án đúng: D
+Giải thích: Chức năng giáo dục nâng cao ý thức pháp luật và thói quen tuân thủ pháp luật của công dân.
+
+Câu 92 [Dễ]: Mối quan hệ giữa Nhà nước và Pháp luật được thể hiện như thế nào?
+A. Nhà nước đứng trên pháp luật và không bị pháp luật ràng buộc
+B. Nhà nước và pháp luật là hai hiện tượng đối lập triệt tiêu lẫn nhau
+C. Nhà nước ban hành và bảo đảm thực hiện pháp luật; ngược lại, pháp luật là công cụ để nhà nước tổ chức và quản lý xã hội
+D. Pháp luật ra đời trước và tạo ra nhà nước
+Đáp án đúng: C
+Giải thích: Nhà nước và pháp luật có mối quan hệ gắn kết khăng khít: nhà nước ban hành pháp luật, đồng thời nhà nước hoạt động trong khuôn khổ pháp luật.
+
+Câu 93 [Trung bình]: Sự tác động trở lại của Pháp luật đối với Kinh tế thể hiện theo những hướng nào?
+A. Pháp luật thúc đẩy kinh tế phát triển nếu phản ánh đúng quy luật kinh tế; hoặc kìm hãm kinh tế nếu phản ánh sai quy luật
+B. Pháp luật làm phá sản toàn bộ nền kinh tế quốc gia
+C. Pháp luật luôn luôn thúc đẩy kinh tế phát triển bất kể nội dung thế nào
+D. Pháp luật không thể tác động gì đến các quan hệ kinh tế
+Đáp án đúng: A
+Giải thích: Pháp luật tác động trở lại kinh tế: tích cực (nếu phù hợp quy luật) hoặc tiêu cực (nếu chủ quan, trái quy luật).
+
+Câu 94 [Trung bình]: Nội dung nào phản ánh đúng thuộc tính 'Tính quy phạm phổ biến' của pháp luật?
+A. Pháp luật ban hành ra chỉ để tham khảo chứ không bắt buộc
+B. Pháp luật chỉ dành riêng cho giai cấp thống trị tuân theo
+C. Pháp luật chỉ được áp dụng một lần duy nhất cho một sự việc cụ thể
+D. Pháp luật chứa đựng các quy tắc xử sự chung (mẫu mực), được áp dụng nhiều lần, ở nhiều nơi, đối với mọi tổ chức và cá nhân trong phạm vi tác động
+Đáp án đúng: D
+Giải thích: Tính quy phạm phổ biến làm cho pháp luật trở thành chuẩn mực xử sự công khai, bình đẳng đối với mọi chủ thể.
+
+Câu 95 [Trung bình]: Sự giống nhau giữa Pháp luật và Đạo đức là gì?
+A. Đều là những quy tắc xử sự có tính chuẩn mực nhằm điều chỉnh hành vi con người và duy trì trật tự xã hội
+B. Đều chỉ xuất hiện khi xã hội có sự phân hóa giai cấp
+C. Đều được bảo đảm thực hiện bằng nhà tù và cảnh sát
+D. Đều do Nhà nước ban hành thành văn bản
+Đáp án đúng: A
+Giải thích: Cả pháp luật và đạo đức đều thuộc hệ điều chỉnh xã hội, hướng hành vi con người theo chuẩn mực chung.
+
+Câu 96 [Trung bình]: Khi nhà nước sử dụng các biện pháp như phạt tiền, tước quyền sử dụng giấy phép, cưỡng chế tháo dỡ công trình trái phép... thì đó là biểu hiện của thuộc tính nào của pháp luật?
+A. Tính quy phạm phổ biến
+B. Tính được bảo đảm thực hiện bằng sức mạnh cưỡng chế nhà nước
+C. Tính xác định chặt chẽ về mặt hình thức
+D. Tính tự nguyện của công dân
+Đáp án đúng: B
+Giải thích: Các biện pháp cưỡng chế hành chính/hình sự thể hiện sức mạnh cưỡng chế nhà nước bảo đảm tính pháp chế.
+
+Câu 97 [Trung bình]: Tại sao nói pháp luật vừa có tính giai cấp vừa có tính xã hội?
+A. Vì pháp luật thể hiện ý chí của giai cấp thống trị, đồng thời phải thể hiện lợi ích chung của toàn xã hội để duy trì trật tự ổn định
+B. Vì pháp luật do đại diện xã hội và đại diện giai cấp tự ban hành riêng biệt
+C. Vì pháp luật chỉ thể hiện ý chí của nhân loại không có tính giai cấp
+D. Vì pháp luật chia thành hai tập tập hợp điều luật riêng cho hai giai cấp
+Đáp án đúng: A
+Giải thích: Pháp luật là công cụ giai cấp nhưng nếu không thể hiện tính xã hội thì xã hội sẽ hỗn loạn, nhà nước không thể tồn tại.
+
+Câu 98 [Trung bình]: Khái niệm 'Ý thức pháp luật' được hiểu là gì?
+A. Toàn bộ những tư tưởng, quan điểm, tình cảm, sự đánh giá của con người về pháp luật hiện hành, pháp luật đã qua và pháp luật cần có
+B. Hành vi vi phạm pháp luật xảy ra trong thực tế
+C. Nội dung các điều luật ghi trong cuốn sách giáo khoa
+D. Quyết định xử phạt của Tòa án nhân dân khu vực
+Đáp án đúng: A
+Giải thích: Ý thức pháp luật thuộc hình thái ý thức xã hội, phản ánh thái độ, hiểu biết và đánh giá của con người đối với pháp luật.
+
+Câu 99 [Trung bình]: Mối quan hệ giữa Pháp luật và Chính trị thể hiện ở điểm nào sau đây?
+A. Pháp luật do các đảng phái đối lập ban hành
+B. Pháp luật hoàn toàn tách rời chính trị
+C. Chính trị luôn luôn vi phạm pháp luật
+D. Pháp luật là sự thể hiện về mặt pháp lý các đường lối, chính sách của lực lượng trị vì/đường lối chính trị
+Đáp án đúng: D
+Giải thích: Đường lối chính trị của đảng cầm quyền định hướng cho nội dung pháp luật; pháp luật thể chế hóa chính trị thành quy tắc bắt buộc chung.
+
+Câu 100 [Trung bình]: Yếu tố nào sau đây quyết định sự thay đổi của các kiểu pháp luật trong lịch sử (Pháp luật Chủ nô -> Phong kiến -> Tư sản -> Xã hội chủ nghĩa)?
+A. Sự phát triển của công nghệ thông tin
+B. Sự tăng lên của dân số thế giới
+C. Sự thay đổi sở thích của các vị Vua
+D. Sự thay đổi của các hình thái kinh tế - xã hội và phương thức sản xuất
+Đáp án đúng: D
+Giải thích: Mỗi kiểu pháp luật gắn liền với một hình thái kinh tế - xã hội và phương thức sản xuất tương ứng.
+
+Câu 101 [Trung bình]: Tính quy định giai cấp của pháp luật thể hiện rõ nhất ở điểm nào?
+A. Pháp luật chỉ bảo vệ người nghèo trong xã hội
+B. Pháp luật thể hiện trước hết ý chí của giai cấp thống trị/lực lượng cầm quyền và bảo vệ lợi ích của họ
+C. Pháp luật cấm công dân tham gia các hoạt động kinh tế
+D. Pháp luật trừng phạt tất cả mọi người ngoại trừ người giàu
+Đáp án đúng: B
+Giải thích: Tính giai cấp thể hiện ở việc pháp luật thể hiện ý chí của giai cấp nắm quyền lực nhà nước.
+
+Câu 102 [Trung bình]: Tại sao văn bản quy phạm pháp luật lại phải đáp ứng yêu cầu 'Tính xác định chặt chẽ về mặt hình thức'?
+A. Để bảo đảm tính rõ ràng, minh bạch, áp dụng thống nhất, tránh sự hiểu sai hoặc lạm quyền khi thực thi
+B. Để Tòa án nhân dân khu vực không cần đọc luật khi xét xử
+C. Để làm cho văn bản luật dài và khó hiểu hơn đối với người dân
+D. Để cấm công dân tra cứu văn bản luật
+Đáp án đúng: A
+Giải thích: Hình thức văn bản chặt chẽ, ngôn ngữ chuẩn xác giúp hệ thống pháp luật minh bạch, thống nhất.
+
+Câu 103 [Trung bình]: Vai trò của Pháp luật trong việc bảo đảm quyền con người, quyền công dân được thể hiện như thế nào?
+A. Pháp luật giao việc bảo vệ quyền công dân cho các tổ chức tư nhân
+B. Pháp luật hạn chế tối đa các quyền tự do của công dân
+C. Pháp luật chỉ công nhận quyền lợi cho cá nhân có tài sản lớn
+D. Pháp luật ghi nhận, tôn trọng, bảo vệ và bảo đảm các quyền con người, quyền công dân bằng các cơ chế pháp lý cụ thể
+Đáp án đúng: D
+Giải thích: Trong nhà nước pháp quyền, pháp luật là công cụ tối cao để ghi nhận và bảo vệ quyền con người, quyền công dân.
+
+Câu 104 [Trung bình]: Sự khác biệt về phạm vi điều chỉnh giữa Pháp luật và Đạo đức thể hiện thế nào?
+A. Pháp luật điều chỉnh suy nghĩ chưa bộc lộ ra ngoài của con người
+B. Pháp luật chỉ điều chỉnh các hành vi bộc lộ ra bên ngoài có tính nguy hiểm hoặc cần thiết cho trật tự; Đạo đức điều chỉnh cả hành vi và nhận thức, suy nghĩ nội tâm
+C. Đạo đức chỉ điều chỉnh các giao dịch kinh tế thương mại
+D. Pháp luật điều chỉnh rộng hơn đạo đức trong mọi khía cạnh tình cảm suy nghĩ
+Đáp án đúng: B
+Giải thích: Pháp luật chỉ điều chỉnh hành vi thực tế của con người bộc lộ ra thế giới khách quan, còn đạo đức tác động sâu vào tâm tư, tình cảm.
+
+Câu 105 [Trung bình]: Một quy tắc xử sự do một hội nhóm tự nguyện lập ra áp dụng nội bộ cho các thành viên có được gọi là 'Pháp luật' hay không? Vì sao?
+A. Có. Vì mọi quy tắc áp dụng cho từ 2 người trở lên đều là pháp luật
+B. Có. Vì quy tắc đó có hình thức viết thành văn
+C. Không. Vì quy tắc đó viết bằng tiếng Việt
+D. Không. Vì quy tắc đó không do Nhà nước ban hành hoặc thừa nhận và không được bảo đảm bằng cưỡng chế nhà nước
+Đáp án đúng: D
+Giải thích: Quy tắc nội bộ hội nhóm chỉ là quy tắc xã hội/điều lệ tổ chức, thiếu thuộc tính quyền lực nhà nước nên không phải là pháp luật.
+
+Câu 106 [Trung bình]: Nội dung nào phản ánh vai trò của Pháp luật đối với quản lý nhà nước?
+A. Pháp luật cản trở nhà nước thực hiện các chính sách phát triển
+B. Pháp luật thay thế hoàn toàn vai trò của cán bộ nhà nước
+C. Pháp luật làm cho bộ máy nhà nước bị vô hiệu hóa
+D. Pháp luật là công cụ quản lý nhà nước hữu hiệu nhất, giúp duy trì trật tự, kỷ cương và công khai minh bạch hoạt động quản lý
+Đáp án đúng: D
+Giải thích: Nhà nước quản lý xã hội bằng pháp luật; pháp luật tạo cơ sở pháp lý cho hoạt động của bộ máy nhà nước.
+
+Câu 107 [Trung bình]: Nguyên tắc 'Thượng tôn pháp luật' trong Nhà nước pháp quyền đòi hỏi chủ thể nào phải tuân thủ pháp luật?
+A. Mọi cơ quan nhà nước, tổ chức, cán bộ, công chức và mọi công dân đều phải tuân thủ nghiêm minh pháp luật
+B. Chỉ có công dân bình thường mới phải tuân thủ pháp luật
+C. Chủ tịch UBND các cấp được đứng ngoài pháp luật
+D. Chỉ có các doanh nghiệp mới chịu sự điều chỉnh của pháp luật
+Đáp án đúng: A
+Giải thích: Thượng tôn pháp luật đòi hỏi tính tối cao của pháp luật đối với tất cả mọi chủ thể trong xã hội không ngoại trừ ai.
+
+Câu 108 [Vận dụng]: Khi Quốc hội xem xét ban hành Luật Đất đai 2024, việc lấy ý kiến rộng rãi của các tầng lớp Nhân dân trước khi thông qua thể hiện thuộc tính/bản chất nào của pháp luật Việt Nam?
+A. Thể hiện việc nhà nước thoái thác trách nhiệm soạn thảo luật
+B. Thể hiện tính ngẫu nhiên không có mục đích của lập pháp
+C. Thể hiện tính cưỡng chế độc đoán của nhà nước
+D. Thể hiện bản chất xã hội và tính dân chủ sâu sắc của pháp luật Việt Nam
+Đáp án đúng: D
+Giải thích: Lấy ý kiến Nhân dân thể hiện pháp luật lắng nghe nguyện vọng xã hội, phát huy quyền làm chủ của Nhân dân.
+
+Câu 109 [Vận dụng]: Công dân B nhận được quyết định xử phạt vi phạm hành chính từ Chủ tịch UBND cấp xã do hành vi lấn chiếm lòng lề đường kinh doanh. Dù công dân B không tự nguyện nộp phạt, cơ quan chức năng vẫn tiến hành cưỡng chế khấu trừ tài khoản hoặc kê biên tài sản theo quy định. Điều này thể hiện thuộc tính nào của pháp luật?
+A. Tính được bảo đảm thực hiện bằng sức mạnh cưỡng chế nhà nước
+B. Tính khuyến khích tự nguyện
+C. Tính quy phạm phổ biến
+D. Tính tùy nghi thỏa thuận
+Đáp án đúng: A
+Giải thích: Cưỡng chế thi hành quyết định phạt hành chính là biểu hiện trực tiếp của thuộc tính bảo đảm bằng cưỡng chế nhà nước.
+
+Câu 110 [Vận dụng]: Trong kỳ thi tuyển sinh đại học, quy chế thi được áp dụng thống nhất cho tất cả các thí sinh trên toàn quốc, không phân biệt vùng miền, giới tính hay thành phần gia đình. Điều này phản ánh thuộc tính nào của quy phạm pháp luật?
+A. Tính bí mật nội bộ
+B. Tính xác định chặt chẽ về mặt hình thức
+C. Tính quy phạm phổ biến và bình đẳng trước pháp luật
+D. Tính cá biệt hóa trường hợp
+Đáp án đúng: C
+Giải thích: Quy chế thi áp dụng chung làm chuẩn mực cho mọi thí sinh thể hiện tính quy phạm phổ biến.
+
+Câu 111 [Vận dụng]: Giả sử một quy định trong Thông tư của Bộ trưởng trái với quy định trong Luật do Quốc hội ban hành. Khi Tòa án nhân dân khu vực thụ lý giải quyết vụ án liên quan, Tòa án phải áp dụng văn bản nào để xét xử?
+A. Tạm dừng vụ án vô thời hạn
+B. Tự ý đặt ra một quy tắc mới để giải quyết
+C. Áp dụng quy định của Luật do Quốc hội ban hành (văn bản có hiệu lực pháp lý cao hơn)
+D. Áp dụng Thông tư vì là văn bản chuyên ngành mới hơn
+Đáp án đúng: C
+Giải thích: Theo Luật Ban hành VBQPPL, khi các văn bản có quy định khác nhau về cùng một vấn đề thì áp dụng văn bản có hiệu lực pháp lý cao hơn.
+
+Câu 112 [Vận dụng]: Một doanh nghiệp kiến nghị: 'Quy định pháp luật về thuế doanh nghiệp thay đổi liên tục khiến chúng tôi không chủ động được kế hoạch kinh doanh'. Kiến nghị này đề cập đến việc pháp luật cần bảo đảm yêu cầu nào?
+A. Tính thay đổi theo ngày của pháp luật
+B. Tính cưỡng chế phạt tiền cao hơn
+C. Tính bảo mật nội bộ của cơ quan thuế
+D. Tính ổn định và tính dự báo trước của hệ thống pháp luật
+Đáp án đúng: D
+Giải thích: Hệ thống pháp luật ngoài tính chặt chẽ còn cần bảo đảm tính ổn định tương đối để chủ thể pháp luật an tâm hoạt động.
+
+Câu 113 [Vận dụng]: Hành vi hiếu thảo với cha mẹ là một chuẩn mực đạo đức. Pháp luật Hôn nhân và Gia đình Việt Nam quy định: 'Con có nghĩa vụ phụng dưỡng, chăm sóc cha mẹ khi cha mẹ già yếu, ốm đau'. Sự ghi nhận này thể hiện mối quan hệ gì?
+A. Sự mâu thuẫn triệt tiêu lẫn nhau giữa đạo đức và pháp luật
+B. Đạo đức ngăn cấm pháp luật can thiệp gia đình
+C. Sự thể chế hóa các chuẩn mực đạo đức tiến bộ thành quy định pháp luật bắt buộc
+D. Pháp luật làm suy giảm tình cảm gia đình
+Đáp án đúng: C
+Giải thích: Pháp luật thường thừa nhận và nâng các chuẩn mực đạo đức tiến bộ phổ biến thành các quy định pháp luật có tính bắt buộc chung.
+
+Câu 114 [Vận dụng]: Công ty Y xả chất thải chưa qua xử lý ra sông gây ô nhiễm môi trường. Dù Công ty Y giải thích rằng 'việc xả thải giúp giảm chi phí sản xuất để nâng cao năng lực cạnh tranh kinh doanh', cơ quan thẩm quyền vẫn ra quyết định đình chỉ hoạt động và phạt tiền. Việc xử lý này khẳng định điều gì?
+A. Kinh tế luôn luôn đứng trên pháp luật
+B. Pháp luật cấm mọi hoạt động kinh doanh của doanh nghiệp
+C. Ủy ban nhân dân cấp xã không có quyền can thiệp
+D. Lợi ích kinh tế tư nhân phải tuân thủ pháp luật và không được xâm phạm đến lợi ích công cộng, môi trường được pháp luật bảo vệ
+Đáp án đúng: D
+Giải thích: Pháp luật đóng vai trò thiết lập hành lang pháp lý, bảo vệ lợi ích công cộng và môi trường sống trước sự trục lợi trái luật.
+
+Câu 115 [Vận dụng]: Chương trình tuyên truyền 'Phổ biến, giáo dục pháp luật về trật tự an toàn giao thông' tại các trường đại học nhằm mục đích trực tiếp nào theo chức năng của pháp luật?
+A. Thực hiện chức năng giáo dục nhằm nâng cao ý thức chấp hành pháp luật tự giác của sinh viên
+B. Thực hiện chức năng thu ngân sách nhà nước
+C. Thực hiện chức năng áp dụng cưỡng chế trừng phạt hình sự
+D. Thực hiện chức năng lập pháp của Quốc hội
+Đáp án đúng: A
+Giải thích: Tuyên truyền, phổ biến pháp luật tác động vào nhận thức, nâng cao ý thức pháp luật của người dân theo chức năng giáo dục.
+
+--------------------------------------------------------------------------------
+MỤC 1.2.2. HÌNH THỨC PHÁP LUẬT
+--------------------------------------------------------------------------------
+
+Câu 116 [Dễ]: Ba hình thức pháp luật cơ bản trong lịch sử loài người là gì?
+A. Hiến pháp, Bộ luật và Thông tư
+B. Luật trung ương, Luật địa phương và Luật quốc tế
+C. Tập quán pháp, Tiền lệ pháp (Án lệ) và Văn bản quy phạm pháp luật
+D. Pháp luật hình sự, Pháp luật dân sự và Pháp luật hành chính
+Đáp án đúng: C
+Giải thích: Trong lịch sử phát triển pháp luật, có 3 hình thức chính: Tập quán pháp, Tiền lệ pháp (Án lệ) và Văn bản quy phạm pháp luật.
+
+Câu 117 [Dễ]: Tập quán pháp là gì?
+A. Quyết định xử phạt của cơ quan công an
+B. Hình thức nhà nước thừa nhận những tập quán đã lưu truyền trong xã hội, phù hợp với lợi ích của giai cấp thống trị và nâng chúng thành quy tắc xử sự chung có tính bắt buộc
+C. Bản án của Tòa án nhân dân khu vực áp dụng cho vụ án tương tự
+D. Văn bản do Quốc hội ban hành theo thủ tục lập pháp
+Đáp án đúng: B
+Giải thích: Tập quán pháp là việc nhà nước nâng các tập quán xã hội có sẵn thành pháp luật.
+
+Câu 118 [Dễ]: Tiền lệ pháp (Án lệ) là hình thức pháp luật mà trong đó:
+A. Nhà nước thừa nhận các quyết định/bản án của cơ quan xét xử (Tòa án) trong các vụ việc cụ thể làm khuôn mẫu để giải quyết các vụ việc tương tự sau này
+B. Nhà nước cho phép người dân tự đặt ra điều luật
+C. Chính phủ ban hành Nghị định quy định chi tiết thi hành Luật
+D. Hội đồng nhân dân cấp tỉnh ra Nghị quyết
+Đáp án đúng: A
+Giải thích: Án lệ/Tiền lệ pháp dựa trên phán quyết của Tòa án trong quá trình xét xử được thừa nhận làm nguồn luật.
+
+Câu 119 [Dễ]: Ở Việt Nam hiện nay, hình thức pháp luật nào giữ vai trò chủ yếu và quan trọng nhất trong hệ thống nguồn luật?
+A. Tập quán pháp
+B. Hợp đồng kinh tế
+C. Tiền lệ pháp
+D. Văn bản quy phạm pháp luật
+Đáp án đúng: D
+Giải thích: Việt Nam thuộc hệ thống pháp luật Châu Âu lục địa (Civil Law), lấy Văn bản quy phạm pháp luật làm nguồn chính thống cơ bản nhất.
+
+Câu 120 [Dễ]: Văn bản quy phạm pháp luật có giá trị pháp lý cao nhất trong hệ thống pháp luật Việt Nam là văn bản nào?
+A. Nghị định của Chính phủ
+B. Hiến pháp
+C. Nghị quyết của Quốc hội
+D. Bộ luật Dân sự
+Đáp án đúng: B
+Giải thích: Hiến pháp là đạo luật cơ bản của Nhà nước, có hiệu lực pháp lý cao nhất trong hệ thống văn bản quy phạm pháp luật.
+
+Câu 121 [Dễ]: Cơ quan nào sau đây có thẩm quyền ban hành Nghị định?
+A. Thủ tướng Chính phủ
+B. Chính phủ
+C. Ủy ban Thường vụ Quốc hội
+D. Quốc hội
+Đáp án đúng: B
+Giải thích: Theo Luật Ban hành văn bản quy phạm pháp luật, Nghị định là văn bản quy phạm pháp luật do Chính phủ ban hành.
+
+Câu 122 [Dễ]: Thông tư là văn bản quy phạm pháp luật do chủ thể nào ban hành?
+A. Bộ trưởng, Thủ trưởng cơ quan ngang bộ
+B. Chính phủ
+C. Ủy ban nhân dân cấp tỉnh
+D. Chủ tịch nước
+Đáp án đúng: A
+Giải thích: Bộ trưởng, Thủ trưởng cơ quan ngang bộ ban hành Thông tư để hướng dẫn thực hiện luật, nghị định.
+
+Câu 123 [Dễ]: Cấu trúc truyền thống của một Quy phạm pháp luật gồm có những bộ phận cấu thành nào?
+A. Giả định, Quy định, Chế tài
+B. Tự do, Bắt buộc, Cấm đoán
+C. Chủ thể, Khách thể, Nội dung
+D. Mở đầu, Nội dung, Kết luận
+Đáp án đúng: A
+Giải thích: Cấu trúc logic của một quy phạm pháp luật hoàn chỉnh gồm 3 bộ phận: Giả định (hoàn cảnh), Quy định (hành vi được/phải làm) và Chế tài (hậu quả pháp lý).
+
+Câu 124 [Dễ]: Bộ phận nào trong quy phạm pháp luật nêu lên hoàn cảnh, điều kiện thực tế mà khi xảy ra thì cá nhân, tổ chức phải chịu sự điều chỉnh của quy phạm pháp luật đó?
+A. Khách thể
+B. Quy định
+C. Giả định
+D. Chế tài
+Đáp án đúng: C
+Giải thích: Giả định trả lời cho câu hỏi: Ai? Khi nào? Trong hoàn cảnh, điều kiện nào?
+
+Câu 125 [Dễ]: Bộ phận nào trong quy phạm pháp luật xác định các biện pháp cưỡng chế/hậu quả bất lợi mà nhà nước dự kiến áp dụng đối với chủ thể vi phạm?
+A. Chế tài
+B. Nội dung
+C. Giả định
+D. Quy định
+Đáp án đúng: A
+Giải thích: Chế tài quy định hậu quả pháp lý bất lợi đối với hành vi trái pháp luật.
+
+Câu 126 [Dễ]: Quan hệ pháp luật là gì?
+A. Quan hệ xã hội được các quy phạm pháp luật điều chỉnh, trong đó các bên tham gia có các quyền và nghĩa vụ pháp lý được Nhà nước bảo đảm
+B. Mọi mối quan hệ giữa người với người trong xã hội
+C. Mối quan hệ bạn bè, đồng nghiệp dựa trên tình cảm tự nhiên
+D. Quan hệ giao tiếp trên không gian mạng xã hội
+Đáp án đúng: A
+Giải thích: Quan hệ pháp luật là quan hệ xã hội được quy phạm pháp luật điều chỉnh, làm xuất hiện quyền và nghĩa vụ pháp lý.
+
+Câu 127 [Dễ]: Các yếu tố cấu thành của một Quan hệ pháp luật bao gồm:
+A. Năng lực pháp luật và Năng lực hành vi
+B. Sự biến và Hành vi
+C. Chủ thể, Nội dung và Khách thể
+D. Giả định, Quy định và Chế tài
+Đáp án đúng: C
+Giải thích: Cấu thành của quan hệ pháp luật gồm 3 yếu tố: Chủ thể (các bên tham gia), Nội dung (quyền và nghĩa vụ) và Khách thể (lợi ích hướng tới).
+
+Câu 128 [Trung bình]: Năng lực chủ thể của cá nhân tham gia quan hệ pháp luật bao gồm hai yếu tố nào?
+A. Năng lực nhận thức và Năng lực điều khiển hành vi
+B. Năng lực pháp luật và Năng lực hành vi
+C. Quyền dân sự và Nghĩa vụ dân sự
+D. Năng lực lao động và Năng lực quản lý
+Đáp án đúng: B
+Giải thích: Năng lực chủ thể = Năng lực pháp luật (khả năng có quyền/nghĩa vụ do nhà nước quy định) + Năng lực hành vi (khả năng bằng hành vi của mình xác lập, thực hiện quyền/nghĩa vụ).
+
+Câu 129 [Trung bình]: Năng lực pháp luật của cá nhân xuất hiện từ khi nào và chấm dứt khi nào?
+A. Xuất hiện từ khi cá nhân sinh ra và chấm dứt khi cá nhân chết
+B. Xuất hiện khi cá nhân đủ 18 tuổi và chấm dứt khi nghỉ hưu
+C. Xuất hiện khi được cấp thẻ Căn cước và chấm dứt khi vi phạm hình sự
+D. Xuất hiện khi cá nhân đi làm và chấm dứt khi mất năng lực hành vi
+Đáp án đúng: A
+Giải thích: Năng lực pháp luật của cá nhân gắn liền với sự sống: có từ khi sinh ra và chấm dứt khi chết.
+
+Câu 130 [Trung bình]: Nội dung của quan hệ pháp luật là gì?
+A. Các loại tài sản được mua bán trong giao dịch
+B. Các văn bản luật quy định về quan hệ đó
+C. Điều kiện hoàn hoàn cảnh xảy ra quan hệ
+D. Quyền pháp lý và Nghĩa vụ pháp lý của các chủ thể tham gia quan hệ pháp luật đó
+Đáp án đúng: D
+Giải thích: Nội dung của QHPL chính là tổng hợp các quyền và nghĩa vụ pháp lý của các bên chủ thể.
+
+Câu 131 [Trung bình]: Sự kiện pháp lý là gì?
+A. Lễ ký kết hợp đồng thương mại quốc tế
+B. Cuộc họp của Hội đồng nhân dân các cấp
+C. Mọi sự kiện xảy ra trong tự nhiên do con người ghi chép lại
+D. Những sự việc, tình tiết thực tế xảy ra trong đời sống mà sự xuất hiện hay mất đi của chúng được pháp luật gắn liền với việc phát sinh, thay đổi hoặc chấm dứt quan hệ pháp luật
+Đáp án đúng: D
+Giải thích: Sự kiện pháp lý là cầu nối làm xuất hiện, thay đổi hoặc chấm dứt quan hệ pháp luật cụ thể.
+
+Câu 132 [Trung bình]: Sự kiện pháp lý được chia thành hai loại cơ bản nào căn bản dựa trên ý chí của con người?
+A. Sự kiện hợp pháp và Sự kiện vô hiệu
+B. Sự kiện cố ý và Sự kiện vô ý
+C. Sự biến pháp lý và Hành vi pháp lý
+D. Sự kiện tự nhiên và Sự kiện xã hội
+Đáp án đúng: C
+Giải thích: Sự biến pháp lý xảy ra khách quan ngoài ý chí con người (thiên tai, cái chết tự nhiên...); Hành vi pháp lý xảy ra theo ý chí con người (kết hôn, mua bán...).
+
+Câu 133 [Trung bình]: Chủ thể nào có thẩm quyền ban hành Pháp lệnh và Nghị quyết quy phạm pháp luật ở Việt Nam?
+A. Chính phủ
+B. Bộ Tư pháp
+C. Chủ tịch nước
+D. Ủy ban Thường vụ Quốc hội
+Đáp án đúng: D
+Giải thích: Theo Luật Ban hành VBQPPL, Ủy ban Thường vụ Quốc hội ban hành Pháp lệnh, Nghị quyết.
+
+Câu 134 [Trung bình]: Văn bản quy phạm pháp luật do chính quyền địa phương ban hành ở Cấp tỉnh bao gồm những loại văn bản nào?
+A. Luật của HĐND cấp tỉnh và Nghị định của UBND cấp tỉnh
+B. Nghị quyết của Hội đồng nhân dân cấp tỉnh và Quyết định của Ủy ban nhân dân cấp tỉnh
+C. Chỉ có Quyết định của Tòa án nhân dân cấp tỉnh
+D. Pháp lệnh của HĐND cấp tỉnh và Thông tư của UBND cấp tỉnh
+Đáp án đúng: B
+Giải thích: HĐND cấp tỉnh ban hành Nghị quyết; UBND cấp tỉnh ban hành Quyết định quy phạm pháp luật.
+
+Câu 135 [Trung bình]: Hiệu lực theo thời gian của văn bản quy phạm pháp luật được xác định như thế nào?
+A. Có hiệu lực vĩnh viễn không bao giờ hết hạn
+B. Từ thời điểm phát sinh hiệu lực thi hành được ghi trong văn bản (hoặc theo quy định chung) cho đến khi bị ngưng hiệu lực, sửa đổi, thay thế hoặc bãi bãi bỏ
+C. Luôn có hiệu lực trở về trước vô thời hạn
+D. Do Tòa án nhân dân khu vực quyết định từng ngày
+Đáp án đúng: B
+Giải thích: Hiệu lực theo thời gian xác định khoảng thời gian văn bản bắt đầu có hiệu lực đến khi chấm dứt hiệu lực.
+
+Câu 136 [Trung bình]: Theo nguyên tắc chung của Luật Ban hành văn bản quy phạm pháp luật Việt Nam, văn bản quy phạm pháp luật có được áp dụng hiệu lực trở về trước (hồi tỵ) hay không?
+A. Được áp dụng hồi tỵ tùy tiện trong mọi trường hợp
+B. Luôn luôn quy định trách nhiệm hình sự nặng hơn trở về trước
+C. Tuyệt đối cấm trong mọi ngành luật bất kể điều kiện gì
+D. Về nguyên tắc không được quy định hiệu lực trở về trước, trừ trường hợp thật cần thiết để bảo đảm lợi ích chung và không được áp dụng trách nhiệm pháp lý nặng hơn đối với hành vi đã xảy ra
+Đáp án đúng: D
+Giải thích: Hạn chế tối đa hiệu lực trở về trước, đặc biệt cấm quy định trách nhiệm pháp lý mới nặng hơn đối với hành vi trước đó không bị coi là vi phạm.
+
+Câu 137 [Trung bình]: Một pháp nhân (như Công ty TNHH) có năng lực pháp luật và năng lực hành vi xuất hiện từ khi nào?
+A. Xuất hiện đồng thời từ thời điểm được cơ quan nhà nước có thẩm quyền thành lập hoặc đăng ký thành lập hợp pháp
+B. Xuất hiện khi công ty bắt đầu có doanh thu
+C. Xuất hiện từ khi người đại diện đủ 18 tuổi
+D. Năng lực pháp luật có trước, năng lực hành vi có sau 5 năm
+Đáp án đúng: A
+Giải thích: Khác với cá nhân, năng lực pháp luật và năng lực hành vi của pháp nhân phát sinh đồng thời từ thời điểm thành lập/đăng ký kinh doanh hợp pháp.
+
+Câu 138 [Trung bình]: Khách thể của quan hệ pháp luật được hiểu là gì?
+A. Các chủ thể tham gia trực tiếp vào hợp đồng
+B. Trụ sở làm việc của Tòa án nhân dân khu vực
+C. Những lợi ích vật chất, tinh thần hoặc lợi ích xã hội khác mà các chủ thể hướng tới và mong muốn đạt được khi tham gia vào quan hệ pháp luật
+D. Người làm chứng trong vụ án hình sự
+Đáp án đúng: C
+Giải thích: Khách thể là cái mà các bên hướng tới (tài sản, quyền nhân thân, trật tự công cộng...).
+
+Câu 139 [Trung bình]: Pháp lệnh do Ủy ban Thường vụ Quốc hội ban hành có giá trị pháp lý như thế nào so với Luật do Quốc hội ban hành?
+A. Luật có giá trị pháp lý cao hơn Pháp lệnh; Pháp lệnh không được trái với Luật
+B. Hai văn bản có giá trị pháp lý hoàn toàn ngang nhau
+C. Pháp lệnh do UBND cấp tỉnh ban hành nên thấp hơn Nghị định
+D. Pháp lệnh có giá trị pháp lý cao hơn Luật
+Đáp án đúng: A
+Giải thích: Quốc hội là cơ quan lập pháp tối cao ban hành Luật; UBTVQH ban hành Pháp lệnh dưới Luật.
+
+Câu 140 [Trung bình]: Trường hợp các văn bản quy phạm pháp luật do cùng một cơ quan ban hành có quy định khác nhau về cùng một vấn đề thì áp dụng văn bản nào?
+A. Áp dụng văn bản của UBND cấp xã
+B. Áp dụng quy định của văn bản được ban hành sau
+C. Áp dụng quy định của văn bản ban hành trước
+D. Không áp dụng văn bản nào
+Đáp án đúng: B
+Giải thích: Điều 156 Luật Ban hành VBQPPL quy định: Nếu cùng một cơ quan ban hành có quy định khác nhau thì áp dụng văn bản ban hành sau.
+
+Câu 141 [Trung bình]: Quy định nào sau đây thuộc thẩm quyền ban hành văn bản quy phạm pháp luật của chính quyền Cấp xã?
+A. Thông tư của Chủ tịch UBND cấp xã
+B. Nghị định của UBND cấp xã
+C. Nghị quyết của Hội đồng nhân dân cấp xã và Quyết định của Ủy ban nhân dân cấp xã
+D. Lệnh của HĐND cấp xã
+Đáp án đúng: C
+Giải thích: Chính quyền cấp xã chỉ ban hành 2 loại VBQPPL: Nghị quyết của HĐND cấp xã và Quyết định của UBND cấp xã.
+
+Câu 142 [Trung bình]: Trong điều luật: 'Người nào xúc phạm nghiêm trọng nhân phẩm, danh dự của người khác thì bị phạt cảnh cáo, phạt tiền từ 10.000.000 đồng đến 30.000.000 đồng', bộ phận 'bị phạt cảnh cáo, phạt tiền từ 10.000.000 đồng đến 30.000.000 đồng' đóng vai trò là gì?
+A. Chế tài của quy phạm pháp luật
+B. Quy định của quy phạm pháp luật
+C. Giả định của quy phạm pháp luật
+D. Khách thể của quan hệ pháp luật
+Đáp án đúng: A
+Giải thích: Bộ phận nêu lên biện pháp xử lý/trừng phạt đối với người thực hiện hành vi vi phạm là Chế tài.
+
+Câu 143 [Vận dụng]: Anh A (20 tuổi) ký hợp đồng mua xe máy của Anh B (22 tuổi) với giá 30 triệu đồng. Trong quan hệ pháp luật mua bán tài sản này, 'quyền nhận tiền và nghĩa vụ giao xe của Anh B' thuộc yếu tố nào của quan hệ pháp luật?
+A. Sự kiện pháp lý
+B. Nội dung của quan hệ pháp luật
+C. Chủ thể của quan hệ pháp luật
+D. Khách thể của quan hệ pháp luật
+Đáp án đúng: B
+Giải thích: Quyền và nghĩa vụ pháp lý của các bên tham gia giao dịch cấu thành Nội dung của quan hệ pháp luật.
+
+Câu 144 [Vận dụng]: Trong tình huống Anh A và Anh B ký hợp đồng mua bán xe máy nêu trên, chiếc xe máy và số tiền 30 triệu đồng đóng vai trò là yếu tố nào?
+A. Giả định của quy phạm pháp luật
+B. Khách thể của quan hệ pháp luật
+C. Năng lực hành vi pháp lý
+D. Chủ thể của quan hệ pháp luật
+Đáp án đúng: B
+Giải thích: Lợi ích vật chất (chiếc xe và số tiền) mà hai bên hướng tới trao đổi là Khách thể của quan hệ mua bán.
+
+Câu 145 [Vận dụng]: Một trận bão lớn (thiên tai) tràn qua Phường Z làm sập hoàn toàn nhà xưởng của Công ty M, dẫn đến Công ty M không thể giao hàng đúng hạn theo hợp đồng cho đối tác. Sự kiện trận bão bão này thuộc loại sự kiện pháp lý nào?
+A. Chế tài hành chính
+B. Vi phạm pháp luật hình sự
+C. Sự biến pháp lý (xảy ra khách quan ngoài ý chí con người nhưng làm thay đổi/chấm dứt nghĩa vụ hợp đồng)
+D. Hành vi pháp lý cố ý
+Đáp án đúng: C
+Giải thích: Sự biến pháp lý là hiện tượng tự nhiên không do ý chí con người tạo ra nhưng làm phát sinh/thay đổi/chấm dứt hậu quả pháp lý (sự kiện bất khả kháng).
+
+Câu 146 [Vận dụng]: Năm 2026, Ông P (60 tuổi) qua đời đột ngột không để lại di chúc. Sự chết tự nhiên của Ông P làm xuất hiện quan hệ pháp luật thừa kế tài sản giữa các con của Ông P. Việc Ông P chết được xác định là:
+A. Sự kiện vi phạm kỷ luật
+B. Chế tài dân sự
+C. Hành vi pháp lý trái pháp luật
+D. Sự biến pháp lý làm phát sinh quan hệ pháp luật thừa kế theo pháp luật
+Đáp án đúng: D
+Giải thích: Cái chết tự nhiên của cá nhân là sự biến pháp lý làm xuất hiện quan hệ pháp luật thừa kế.
+
+Câu 147 [Vận dụng]: Khi tra cứu hệ thống văn bản quy phạm pháp luật, sinh viên phát hiện Nghị quyết của HĐND Cấp tỉnh X quy định mức phí sử dụng vỉa hè khác với Quyết định của UBND Cấp tỉnh X. Văn bản nào sẽ được ưu tiên áp dụng theo Luật Ban hành VBQPPL?
+A. Do Tòa án nhân dân khu vực lựa chọn ngẫu nhiên
+B. Nghị quyết của HĐND Cấp tỉnh X (văn bản của cơ quan quyền lực nhà nước cấp tỉnh có hiệu lực cao hơn văn bản của UBND cùng cấp)
+C. Quyết định của UBND Cấp tỉnh X
+D. Cả hai văn bản đều bị hủy bỏ ngay lập tức
+Đáp án đúng: B
+Giải thích: HĐND là cơ quan quyền lực nhà nước ở địa phương; Nghị quyết của HĐND cấp tỉnh có hiệu lực pháp lý cao hơn Quyết định của UBND cùng cấp.
+
+Câu 148 [Vận dụng]: Xét điều luật: 'Chủ sở hữu thú cưng phải đeo rọ mõm cho chó khi đưa ra nơi công cộng, nếu để chó cắn người thì phải bồi thường thiệt hại'. Bộ phận 'Chủ sở hữu thú cưng khi đưa chó ra nơi công cộng' đóng vai trò là:
+A. Khách thể quan hệ pháp luật
+B. Giả định của quy phạm pháp luật
+C. Chế tài của quy phạm pháp luật
+D. Quy định của quy phạm pháp luật
+Đáp án đúng: B
+Giải thích: Bộ phận nêu lên hoàn cảnh, đối tượng áp dụng quy định là Giả định.
+
+Câu 149 [Vận dụng]: Công dân H (15 tuổi) tự ý lấy xe máy dung tích 150cc của bố đi học và gây tai nạn. Xét về năng lực chủ thể khi tham gia giao dịch hoặc chịu trách nhiệm pháp lý, công dân H:
+A. Không có năng lực pháp luật
+B. Được miễn hoàn toàn mọi trách nhiệm pháp lý dân sự và hành chính
+C. Chưa có năng lực hành vi dân sự đầy đủ (chưa đủ 18 tuổi) và chưa đủ tuổi điều khiển xe máy dung tích lớn theo quy định giao thông
+D. Có năng lực hành vi đầy đủ vì đã đủ 15 tuổi
+Đáp án đúng: C
+Giải thích: Người từ đủ 15 tuổi đến dưới 18 tuổi có năng lực hành vi chưa đầy đủ, bị giới hạn một số quyền và nghĩa vụ theo quy định.
+
+Câu 150 [Vận dụng]: Sự kiện Hai công dân A và B hoàn thành thủ tục đăng ký kết hôn tại Ủy ban nhân dân cấp xã và được cấp Giấy chứng nhận kết hôn làm phát sinh quan hệ pháp luật hôn nhân và gia đình. Việc đăng ký kết hôn này thuộc loại sự kiện pháp lý nào?
+A. Sự biến pháp lý tự nhiên
+B. Hành vi trái pháp luật
+C. Hành vi pháp lý hợp pháp
+D. Chế tài kỷ luật
+Đáp án đúng: C
+Giải thích: Đăng ký kết hôn là hành vi có ý chí hợp pháp của các bên nhằm làm phát sinh quan hệ hôn nhân và gia đình.
+
+--------------------------------------------------------------------------------
+MỤC 1.2.3. VI PHẠM PHÁP LUẬT VÀ TRÁCH NHIỆM PHÁP LÝ
+--------------------------------------------------------------------------------
+
+Câu 151 [Dễ]: Vi phạm pháp luật là gì?
+A. Hành vi trái pháp luật, có lỗi do chủ thể có năng lực trách nhiệm pháp lý thực hiện, xâm phạm các quan hệ xã hội được pháp luật bảo vệ
+B. Hành vi vi phạm các quy tắc đạo đức thông thường nhưng không bị luật cấm
+C. Suy nghĩ tiêu cực trong đầu của con người chưa bộc lộ ra ngoài
+D. Các sự kiện thiên tai gây thiệt hại tài sản cho Nhà nước
+Đáp án đúng: A
+Giải thích: Vi phạm pháp luật hội tụ đầy đủ 4 dấu hiệu: hành vi xác định, trái pháp luật, có lỗi, do chủ thể có NLTNPL thực hiện.
+
+Câu 152 [Dễ]: Dấu hiệu nào sau đây KHÔNG phải là dấu hiệu bắt buộc của Vi phạm pháp luật?
+A. Lỗi của chủ thể thực hiện hành vi
+B. Tính trái pháp luật của hành vi
+C. Là hành vi xác định của con người (hành động hoặc không hành động)
+D. Hành vi gây ra hậu quả thiệt hại về tài sản từ 1 tỷ đồng trở lên
+Đáp án đúng: D
+Giải thích: Vi phạm pháp luật không bắt buộc thiệt hại tài sản phải đạt 1 tỷ đồng; thiệt hại có thể là vật chất, tinh thần hoặc tiềm ẩn nguy cơ cho xã hội.
+
+Câu 153 [Dễ]: Một suy nghĩ lệch chuẩn, có ý định trộm cắp tài sản nhưng chưa bộc lộ ra thành hành vi thực tế thì có bị coi là Vi phạm pháp luật không? Vì sao?
+A. Có. Vì suy nghĩ tiêu cực đã là vi phạm kỷ luật
+B. Có. Vì tư tưởng xấu cần phải xử lý hình sự ngay
+C. Không. Vì pháp luật chỉ điều chỉnh hành vi bộc lộ ra thế giới khách quan, không điều chỉnh tư tưởng, suy nghĩ
+D. Tùy thuộc vào quyết định của UBND cấp xã
+Đáp án đúng: C
+Giải thích: Pháp luật chỉ xử lý hành vi thực tế (hành động hoặc không hành động) bộc lộ ra ngoài, không xử lý suy nghĩ nội tâm.
+
+Câu 154 [Dễ]: Cấu thành vi phạm pháp luật bao gồm mấy yếu tố cơ bản?
+A. 4 yếu tố (Mặt khách quan, Mặt chủ quan, Chủ thể, Khách thể)
+B. 3 yếu tố (Giả định, Quy định, Chế tài)
+C. 5 yếu tố (Thời gian, Địa điểm, Công cụ, Thiệt hại, Động cơ)
+D. 2 yếu tố (Lỗi cố ý, Lỗi vô ý)
+Đáp án đúng: A
+Giải thích: Cấu thành VPPL gồm 4 yếu tố: Mặt khách quan, Mặt chủ quan, Chủ thể và Khách thể.
+
+Câu 155 [Dễ]: Vi phạm pháp luật được chia thành mấy loại căn bản?
+A. 2 loại: Vi phạm cố ý và Vi phạm vô ý
+B. 5 loại: Vi phạm đất đai, Vi phạm giao thông, Vi phạm thuế, Vi phạm lao động, Vi phạm hôn nhân
+C. 4 loại: Vi phạm hình sự, Vi phạm hành chính, Vi phạm dân sự, Vi phạm kỷ luật
+D. 3 loại: Vi phạm nghiêm trọng, Rất nghiêm trọng, Đặc biệt nghiêm trọng
+Đáp án đúng: C
+Giải thích: Dựa vào tính chất, mức độ nguy hiểm và ngành luật điều chỉnh, VPPL gồm 4 loại: Hình sự, Hành chính, Dân sự và Kỷ luật.
+
+Câu 156 [Dễ]: Loại vi phạm pháp luật nào có tính nguy hiểm cao nhất cho xã hội, bị coi là Tội phạm và quy định trong Bộ luật Hình sự?
+A. Vi phạm kỷ luật
+B. Vi phạm dân sự
+C. Vi phạm hành chính
+D. Vi phạm hình sự (Tội phạm)
+Đáp án đúng: D
+Giải thích: Vi phạm hình sự (tội phạm) là hành vi nguy hiểm nhất cho xã hội, do Bộ luật Hình sự quy định và do Tòa án áp dụng hình phạt.
+
+Câu 157 [Dễ]: Hành vi điều khiển xe máy không đội mũ bảo hiểm hoặc vượt đèn đỏ khi tham gia giao thông thuộc loại vi phạm pháp luật nào?
+A. Vi phạm hình sự
+B. Vi phạm hành chính
+C. Vi phạm kỷ luật lao động
+D. Vi phạm dân sự
+Đáp án đúng: B
+Giải thích: Xâm phạm quy tắc quản lý nhà nước về trật tự an toàn giao thông đường bộ nhưng chưa đến mức truy cứu TNHS là vi phạm hành chính.
+
+Câu 158 [Dễ]: Trách nhiệm pháp lý là gì?
+A. Nghĩa vụ pháp lý đặc biệt mà chủ thể vi phạm pháp luật phải chịu những hậu quả bất lợi do nhà nước áp dụng
+B. Sự khiển trách của dư luận xã hội đối với người có hành vi xấu
+C. Số tiền thuế công dân phải nộp hàng năm cho nhà nước
+D. Sự tự nguyện bồi thường thiệt hại của người vi phạm
+Đáp án đúng: A
+Giải thích: Trách nhiệm pháp lý là hậu quả pháp lý bất lợi do nhà nước áp dụng đối với chủ thể vi phạm pháp luật.
+
+Câu 159 [Dễ]: Loại trách nhiệm pháp lý nào là nghiêm khắc nhất, do Tòa án nhân dân áp dụng đối với cá nhân, pháp nhân thương mại phạm tội?
+A. Trách nhiệm hình sự
+B. Trách nhiệm kỷ luật
+C. Trách nhiệm hành chính
+D. Trách nhiệm dân sự
+Đáp án đúng: A
+Giải thích: Trách nhiệm hình sự là dạng TNPL nghiêm khắc nhất, gắn liền với các hình phạt hình sự do Tòa án quyết định.
+
+Câu 160 [Dễ]: Chủ thể nào có thẩm quyền áp dụng Trách nhiệm hình sự đối với người phạm tội?
+A. Cơ quan Công an
+B. Tòa án nhân dân
+C. Ủy ban nhân dân cấp xã
+D. Viện kiểm sát nhân dân
+Đáp án đúng: B
+Giải thích: Chỉ có Tòa án nhân dân mới có thẩm quyền xét xử và quyết định hình phạt (TNHS) đối với bị cáo.
+
+Câu 161 [Dễ]: Khái niệm 'Lỗi' trong vi phạm pháp luật thuộc yếu tố nào của cấu thành vi phạm pháp luật?
+A. Khách thể của vi phạm pháp luật
+B. Mặt chủ quan của vi phạm pháp luật
+C. Chủ thể của vi phạm pháp luật
+D. Mặt khách quan của vi phạm pháp luật
+Đáp án đúng: B
+Giải thích: Lỗi, động cơ và mục đích thuộc Mặt chủ quan (thái độ tâm lý bên trong của người vi phạm).
+
+Câu 162 [Dễ]: Tài sản, tính mạng, sức khỏe, danh dự của con người hay trật tự quản lý hành chính nhà nước bị hành vi vi phạm pháp luật xâm hại được gọi là gì?
+A. Khách thể của vi phạm pháp luật
+B. Mặt chủ quan của vi phạm pháp luật
+C. Chủ thể của vi phạm pháp luật
+D. Mặt khách quan của vi phạm pháp luật
+Đáp án đúng: A
+Giải thích: Khách thể của VPPL là quan hệ xã hội được pháp luật bảo vệ nhưng bị hành vi vi phạm xâm hại.
+
+Câu 163 [Dễ]: Hành vi chậm nộp tiền thuê nhà theo hợp đồng dân sự hoặc vi phạm nghĩa vụ thanh toán tiền mua hàng属于 loại vi phạm nào?
+A. Vi phạm hình sự
+B. Vi phạm hành chính
+C. Vi phạm dân sự
+D. Vi phạm kỷ luật
+Đáp án đúng: C
+Giải thích: Xâm phạm nghĩa vụ trong quan hệ tài sản, hợp đồng giữa các chủ thể bình đẳng là vi phạm dân sự.
+
+Câu 164 [Dễ]: Cán bộ, công chức tự ý nghỉ việc không có lý do chính đáng 5 ngày liên tiếp bị xử lý kỷ luật sa thải/buộc nghỉ việc. Đây là việc áp dụng loại trách nhiệm pháp lý nào?
+A. Trách nhiệm hình sự
+B. Trách nhiệm kỷ luật
+C. Trách nhiệm hành chính
+D. Trách nhiệm dân sự
+Đáp án đúng: B
+Giải thích: Trách nhiệm kỷ luật áp dụng đối với cán bộ, công chức, viên chức, người lao động vi phạm kỷ luật lao động, nội quy cơ quan.
+
+Câu 165 [Dễ]: Lỗi trong vi phạm pháp luật gồm hai hình thức cơ bản nào?
+A. Lỗi cố ý và Lỗi vô ý
+B. Lỗi chủ quan và Lỗi khách quan
+C. Lỗi trực tiếp và Lỗi gián tiếp
+D. Lỗi nặng và Lỗi nhẹ
+Đáp án đúng: A
+Giải thích: Lỗi phân thành 2 loại hình thức: Lỗi cố ý (cố ý trực tiếp, cố ý gián tiếp) và Lỗi vô ý (vô ý do quá tự tin, vô ý do cẩu thả).
+
+Câu 166 [Dễ]: Độ tuổi chịu trách nhiệm hình sự theo quy định của Bộ luật Hình sự Việt Nam là từ đủ bao nhiêu tuổi trở lên?
+A. Từ đủ 20 tuổi trở lên
+B. Từ đủ 12 tuổi trở lên
+C. Từ đủ 18 tuổi trở lên trong mọi trường hợp
+D. Từ đủ 14 tuổi trở lên (chịu TNHS về một số tội rất nghiêm trọng, đặc biệt nghiêm trọng) và từ đủ 16 tuổi trở lên (chịu TNHS về mọi tội phạm)
+Đáp án đúng: D
+Giải thích: Theo Điều 12 Bộ luật Hình sự 2015, người từ đủ 16 tuổi trở lên chịu TNHS về mọi tội phạm; người từ đủ 14 đến dưới 16 tuổi chịu TNHS về tội phạm rất nghiêm trọng hoặc đặc biệt nghiêm trọng do cố ý.
+
+Câu 167 [Trung bình]: Nội dung nào sau đây mô tả đúng hình thức 'Lỗi cố ý trực tiếp'?
+A. Chủ thể thấy trước hậu quả nguy hiểm nhưng cho rằng hậu quả sẽ không xảy ra hoặc ngăn ngừa được
+B. Chủ thể nhận thức rõ hành vi của mình là nguy hiểm cho xã hội, thấy trước hậu quả và mong muốn hậu quả đó xảy ra
+C. Chủ thể thấy trước hậu quả nguy hiểm nhưng không mong muốn nhưng để mặc cho hậu quả xảy ra
+D. Chủ thể không thấy trước hậu quả dù pháp luật buộc phải thấy trước
+Đáp án đúng: B
+Giải thích: Lỗi cố ý trực tiếp: Nhận thức rõ + Thấy trước hậu quả + Mong muốn hậu quả xảy ra.
+
+Câu 168 [Trung bình]: Mặt khách quan của vi phạm pháp luật bao gồm các yếu tố nào?
+A. Tài sản bị thiệt hại và tư tưởng của chủ thể
+B. Lỗi cố ý, động cơ và mục đích vi phạm
+C. Hành vi trái pháp luật, hậu quả thiệt hại, mối quan hệ nhân quả giữa hành vi và hậu quả, thời gian, địa điểm, phương tiện vi phạm
+D. Tuổi và năng lực nhận thức của người vi phạm
+Đáp án đúng: C
+Giải thích: Mặt khách quan bao gồm những biểu hiện bên ngoài của vi phạm pháp luật xuất hiện trong thế giới thực tế.
+
+Câu 169 [Trung bình]: Phân biệt giữa Vi phạm hành chính và Vi phạm hình sự dựa vào tiêu chí cốt lõi nào?
+A. Số lượng người chứng kiến vi phạm
+B. Tính chất và mức độ nguy hiểm cho xã hội của hành vi (Vi phạm hình sự có mức độ nguy hiểm đáng kể cho xã hội bị coi là Tội phạm)
+C. Địa điểm diễn ra ở thành phố hay nông thôn
+D. Thời gian diễn ra vi phạm vào ban ngày hay ban đêm
+Đáp án đúng: B
+Giải thích: Tội phạm (hình sự) có tính nguy hiểm cho xã hội ở mức độ cao nhất; vi phạm hành chính có tính nguy hiểm thấp hơn, xâm phạm quy tắc quản lý nhà nước.
+
+Câu 170 [Trung bình]: Chủ thể của vi phạm pháp luật phải thỏa mãn các điều kiện nào?
+A. Có năng lực trách nhiệm pháp lý và đạt độ tuổi luật định đối với từng loại vi phạm
+B. Phải là công chức nhà nước
+C. Phải có tài sản tối thiểu 100 triệu đồng
+D. Phải có bằng tốt nghiệp đại học trở lên
+Đáp án đúng: A
+Giải thích: Chủ thể vi phạm pháp luật phải có năng lực trách nhiệm pháp lý (khả năng nhận thức, điều khiển hành vi) và đạt độ tuổi do luật quy định.
+
+Câu 171 [Trung bình]: Trách nhiệm dân sự có mục đích chủ yếu là gì?
+A. Bổ sung ngân sách cho Nhà nước
+B. Răn đe, khôi phục lại tình trạng tài sản ban đầu và bồi thường thiệt hại cho bên bị xâm phạm
+C. Cách ly người vi phạm khỏi xã hội trong thời gian dài
+D. Tước bỏ quyền bầu cử của người vi phạm
+Đáp án đúng: B
+Giải thích: Trách nhiệm dân sự mang tính chất đền bù, bồi thường thiệt hại nhằm khôi phục lợi ích tài sản/nhân thân bị xâm phạm.
+
+Câu 172 [Trung bình]: Trường hợp một người thực hiện hành vi gây thiệt hại cho xã hội trong tình trạng hoàn toàn mất khả năng nhận thức và điều khiển hành vi do bệnh tâm thần thì có bị coi là vi phạm pháp luật không? Vì sao?
+A. Không. Vì chủ thể không có năng lực trách nhiệm pháp lý và không có lỗi
+B. Có. Vì hành vi gây thiệt hại là thực tế xảy ra
+C. Tùy thuộc vào sự đồng ý của nạn nhân
+D. Có. Vì bệnh tâm thần vẫn phải chịu trách nhiệm hình sự
+Đáp án đúng: A
+Giải thích: Thiếu năng lực trách nhiệm pháp lý (do tâm thần làm mất khả năng nhận thức/điều khiển hành vi) thì không cấu thành vi phạm pháp luật.
+
+Câu 173 [Trung bình]: Lỗi vô ý do quá tự tin khác với Lỗi cố ý gián tiếp ở điểm nào?
+A. Hai loại lỗi này hoàn toàn giống nhau
+B. Trong lỗi vô ý do quá tự tin, chủ thể không thấy trước hậu quả
+C. Trong lỗi vô ý do quá tự tin, chủ thể không mong muốn và không để mặc hậu quả xảy ra, mà tin rằng hậu quả sẽ được ngăn ngừa; trong lỗi cố ý gián tiếp, chủ thể để mặc cho hậu quả xảy ra
+D. Trong lỗi cố ý gián tiếp, chủ thể không nhận thức được hành vi
+Đáp án đúng: C
+Giải thích: Lỗi cố ý gián tiếp là thái độ 'để mặc' hậu quả; lỗi vô ý quá tự tin là tin rằng hậu quả không xảy ra hoặc sẽ ngăn chặn được.
+
+Câu 174 [Trung bình]: Mối quan hệ nhân quả giữa hành vi trái pháp luật và hậu quả thiệt hại có ý nghĩa như thế nào trong xác định trách nhiệm pháp lý?
+A. Hành vi trái pháp luật phải là nguyên nhân trực tiếp hoặc chủ yếu sinh ra hậu quả thiệt hại thì chủ thể mới phải chịu trách nhiệm về hậu quả đó
+B. Chỉ cần có hậu quả thiệt hại xảy ra thì bất kỳ ai đứng gần đó cũng phải bồi thường
+C. Mối quan hệ nhân quả không có giá trị trong vụ án hình sự
+D. Hành vi xảy ra sau hậu quả thiệt hại vẫn bị coi là nguyên nhân
+Đáp án đúng: A
+Giải thích: Mối quan hệ nhân quả là điều kiện bắt buộc trong mặt khách quan: hành vi phải đóng vai trò nguyên nhân trực tiếp dẫn tới hậu quả.
+
+Câu 175 [Trung bình]: Nội dung nào sau đây phản ánh nguyên tắc áp dụng Trách nhiệm pháp lý?
+A. Nguyên tắc áp dụng phạt tiền thay cho hình phạt tù trong mọi tội phạm
+B. Nguyên tắc phạt càng nặng càng tốt bất kể mức độ vi phạm
+C. Nguyên tắc pháp chế, nguyên tắc công bằng, nguyên tắc nhân đạo, nguyên tắc không áp dụng hai lần trách nhiệm pháp lý cùng loại cho một vi phạm
+D. Nguyên tắc ưu tiên miễn trách nhiệm cho người giàu
+Đáp án đúng: C
+Giải thích: Áp dụng TNPL tuân theo pháp chế, công bằng, nhân đạo, phù hợp mức độ vi phạm và không xử phạt 2 lần cùng một loại trách nhiệm cho một hành vi.
+
+Câu 176 [Trung bình]: Người từ đủ 14 tuổi đến dưới 16 tuổi phải chịu Trách nhiệm hành chính về hành vi vi phạm hành chính nào?
+A. Không phải chịu bất kỳ trách nhiệm hành chính nào
+B. Chỉ chịu trách nhiệm nếu có tài sản riêng bồi thường
+C. Do cố ý thực hiện vi phạm hành chính quy định tại Điều 12 Luật Xử lý vi phạm hành chính (hoặc các vi phạm rất nghiêm trọng do cố ý)
+D. Về mọi vi phạm hành chính bất kể vô ý hay cố ý
+Đáp án đúng: C
+Giải thích: Theo Luật Xử lý VPCHC, người từ đủ 14 đến dưới 16 tuổi chỉ bị phạt hành chính về vi phạm do cố ý.
+
+Câu 177 [Trung bình]: Thời hiệu xử phạt vi phạm hành chính thông thường là bao lâu theo quy định hiện hành?
+A. 10 năm
+B. 05 năm trong mọi lĩnh vực
+C. 01 năm (trừ một số lĩnh vực đặc thù như thuế, đất đai, môi trường... có thời hiệu 02 năm)
+D. 06 tháng
+Đáp án đúng: C
+Giải thích: Thời hiệu xử phạt vi phạm hành chính chung là 01 năm, một số lĩnh vực quản lý đặc thù là 02 năm.
+
+Câu 178 [Trung bình]: Khái niệm 'Pháp nhân thương mại chịu trách nhiệm hình sự' được áp dụng từ Bộ luật Hình sự 2015 áp dụng đối với chủ thể nào?
+A. Tổ chức kinh tế có đăng ký pháp nhân thực hiện tội phạm vì lợi ích của pháp nhân theo quy định tại Điều 76 Bộ luật Hình sự
+B. Cơ quan hành chính nhà nước như UBND cấp xã
+C. Mọi cá nhân là giám đốc doanh nghiệp
+D. Tổ chức từ thiện phi lợi nhuận
+Đáp án đúng: A
+Giải thích: BLHS 2015 bổ sung trách nhiệm hình sự của Pháp nhân thương mại khi thực hiện các tội phạm quy định tại Điều 76.
+
+Câu 179 [Trung bình]: Sự khác nhau căn bản giữa Trách nhiệm hình sự và Trách nhiệm hành chính là gì?
+A. Trách nhiệm hành chính nghiêm khắc hơn trách nhiệm hình sự
+B. Trách nhiệm hành chính do Quốc hội trực tiếp xử phạt
+C. Trách nhiệm hình sự do Tòa án quyết định áp dụng cho Tội phạm; Trách nhiệm hành chính do cơ quan hành chính/người có thẩm quyền áp dụng cho Vi phạm hành chính
+D. Trách nhiệm hình sự chỉ áp dụng phạt tiền, trách nhiệm hành chính áp dụng phạt tù
+Đáp án đúng: C
+Giải thích: TNHS gắn liền với Tội phạm và hình phạt hình sự do Tòa án tuyên; TNHC do cơ quan/người có thẩm quyền xử phạt hành chính áp dụng.
+
+Câu 180 [Trung bình]: Các hình thức xử phạt vi phạm hành chính chính theo Luật Xử lý vi phạm hành chính bao gồm:
+A. Sa thải và Hạ bậc lương
+B. Cảnh cáo và Phạt tiền
+C. Tử hình và Cải tạo không giam giữ
+D. Phạt tù có thời hạn và Phạt tù chung thân
+Đáp án đúng: B
+Giải thích: Cảnh cáo và Phạt tiền là hai hình thức xử phạt hành chính chính phổ biến nhất.
+
+Câu 181 [Trung bình]: Trường hợp chuyển sang mô hình chính quyền địa phương 2 cấp làm thay đổi thẩm quyền xử phạt vi phạm hành chính của Chủ tịch UBND cấp xã như thế nào?
+A. Toàn bộ thẩm quyền xử phạt chuyển về cho Tòa án nhân dân tối cao
+B. Thẩm quyền xử phạt của Chủ tịch UBND cấp xã được điều chỉnh, nâng cao hạn mức phạt tiền và phạm vi quản lý phù hợp với mô hình chính quyền 2 cấp ở cơ sở
+C. Chủ tịch UBND cấp xã bị tước bỏ hoàn toàn thẩm quyền xử phạt
+D. Chủ tịch UBND cấp xã có quyền tuyên án phạt tù 5 năm
+Đáp án đúng: B
+Giải thích: Khi chuyển sang mô hình 2 cấp, UBND cấp xã là chính quyền cơ sở trực tiếp nên thẩm quyền xử phạt hành chính được tăng cường để đáp ứng yêu cầu quản lý.
+
+Câu 182 [Trung bình]: Một hành vi vi phạm pháp luật vừa gây ra thiệt hại tài sản dân sự vừa cấu thành Tội phạm hình sự thì chủ thể vi phạm phải chịu các loại trách nhiệm pháp lý nào?
+A. Đồng thời chịu Trách nhiệm hình sự (hình phạt) và Trách nhiệm dân sự (bồi thường thiệt hại)
+B. Chỉ chịu Trách nhiệm dân sự, được miễn trách nhiệm hình sự
+C. Chịu Trách nhiệm kỷ luật sa thải
+D. Chỉ chịu Trách nhiệm hình sự, không phải bồi thường dân sự
+Đáp án đúng: A
+Giải thích: Một hành vi có thể phát sinh nhiều loại trách nhiệm pháp lý khác loại cùng lúc (như vừa chịu hình phạt tù vừa bồi thường dân sự).
+
+Câu 183 [Trung bình]: Yếu tố 'Động cơ vi phạm' trong mặt chủ quan của vi phạm pháp luật được hiểu là:
+A. Kết quả cuối cùng mà chủ thể mong muốn đạt được
+B. Công cụ phương tiện dùng để vi phạm
+C. Động lực bên trong thúc đẩy chủ thể thực hiện hành vi vi phạm pháp luật
+D. Thái độ để mặc hậu quả xảy ra
+Đáp án đúng: C
+Giải thích: Động cơ là cái thúc đẩy bên trong; mục đích là kết quả hướng tới bên ngoài.
+
+Câu 184 [Trung bình]: Chủ tịch Ủy ban nhân dân cấp tỉnh có thẩm quyền xử phạt vi phạm hành chính ở mức độ nào?
+A. Chỉ có quyền phạt tối đa 500.000 đồng
+B. Có quyền xử phạt tù chung thân
+C. Không có thẩm quyền xử phạt hành chính
+D. Có thẩm quyền xử phạt vi phạm hành chính ở mức tối đa đối với các hành vi thuộc thẩm quyền phạt tiền trong phạm vi quản lý của địa phương theo Luật Xử lý vi phạm hành chính
+Đáp án đúng: D
+Giải thích: Chủ tịch UBND cấp tỉnh là người đứng đầu cơ quan hành chính nhà nước cấp tỉnh, có mức phạt tiền hành chính cao nhất ở địa phương.
+
+Câu 185 [Trung bình]: Trường hợp vi phạm kỷ luật của cán bộ, công chức sẽ do ai ra quyết định xử lý?
+A. Viện kiểm sát nhân dân
+B. Tòa án nhân dân khu vực
+C. Người đứng đầu cơ quan, đơn vị quản lý cán bộ, công chức đó theo phân cấp quản lý
+D. Chủ tịch Quốc hội
+Đáp án đúng: C
+Giải thích: Trách nhiệm kỷ luật do thủ trưởng cơ quan, đơn vị trực tiếp quản lý cán bộ công chức ra quyết định theo quy chế nội bộ và Luật Cán bộ, công chức.
+
+Câu 186 [Trung bình]: Việc truy cứu trách nhiệm pháp lý đối với cá nhân thực hiện hành vi vi phạm pháp luật phải bảo đảm yêu cầu nào?
+A. Tùy thuộc vào thái độ của báo chí truyền thông
+B. Đúng người, đúng hành vi, đúng pháp luật, công minh, khách quan và trong thời hiệu luật định
+C. Ưu tiên phạt tiền thay vì tìm hiểu sự thật
+D. Xử lý nhanh chóng không cần xác minh chứng cứ
+Đáp án đúng: B
+Giải thích: Truy cứu TNPL đòi hỏi tính tuân thủ pháp chế nghiêm ngặt, đúng thẩm quyền, đúng chứng cứ.
+
+Câu 187 [Vận dụng]: Anh K (25 tuổi, hoàn toàn khỏe mạnh) lái xe ô tô đi nhanh quá tốc độ quy định trên đường Phường X, mất lái đâm vào xe máy của Anh Y làm Anh Y bị thương tích nặng (tỷ lệ tổn thương cơ thể 65%) và xe máy bị hư hỏng nặng. Xác định các loại trách nhiệm pháp lý mà Anh K có thể phải chịu?
+A. Không phải chịu trách nhiệm vì đây là sự cố bất ngờ
+B. Chỉ chịu Trách nhiệm hành chính phạt tiền 5 triệu đồng
+C. Trách nhiệm hình sự (về Tội vi phạm quy định về tham gia giao thông đường bộ) và Trách nhiệm dân sự (bồi thường thiệt hại cho Anh Y)
+D. Chỉ chịu Trách nhiệm kỷ luật sa thải
+Đáp án đúng: C
+Giải thích: Hành vi vi phạm giao thông gây thương tích 65% đủ yếu tố cấu thành Tội phạm hình sự (Điều 260 BLHS) và gây thiệt hại tài sản/sức khỏe nên phải bồi thường dân sự.
+
+Câu 188 [Vận dụng]: Trong vụ việc của Anh K nêu trên, Tòa án nào có thẩm quyền xét xử sơ thẩm vụ án hình sự này theo hệ thống Tòa án hiện hành?
+A. Ủy ban nhân dân cấp tỉnh
+B. Tòa án nhân dân tối cao
+C. Tòa án nhân dân khu vực có thẩm quyền theo lãnh thổ
+D. Ủy ban nhân dân cấp xã Phường X
+Đáp án đúng: C
+Giải thích: Tòa án nhân dân khu vực là Tòa án sơ thẩm cơ sở có thẩm quyền xét xử các vụ án hình sự sơ thẩm không thuộc thẩm quyền cấp tỉnh.
+
+Câu 189 [Vận dụng]: Bà M bán hàng rong chiếm dụng toàn bộ lòng đường Phường T gây cản trở giao thông. Chủ tịch UBND cấp xã Phường T lập biên bản và ra quyết định phạt tiền 300.000 đồng đối với Bà M. Hành vi của Bà M thuộc loại vi phạm gì và quyết định xử phạt thuộc loại trách nhiệm nào?
+A. Bà M vi phạm kỷ luật; xử phạt Trách nhiệm kỷ luật
+B. Bà M vi phạm hành chính; quyết định xử phạt là áp dụng Trách nhiệm hành chính
+C. Bà M vi phạm hình sự; xử phạt Trách nhiệm hình sự
+D. Bà M vi phạm dân sự; xử phạt Trách nhiệm dân sự
+Đáp án đúng: B
+Giải thích: Xâm phạm trật tự quản lý giao thông đô thị ở mức nhẹ là vi phạm hành chính, chịu trách nhiệm hành chính.
+
+Câu 190 [Vận dụng]: Ông T (là chuyên viên làm việc tại Ủy ban nhân dân cấp tỉnh K) tự ý nghỉ việc không lý do 10 ngày làm việc trong một tháng. Chủ tịch UBND cấp tỉnh K ra quyết định kỷ luật Buộc nghỉ việc/Sa thải đối với Ông T. Quyết định này áp dụng loại trách nhiệm pháp lý nào?
+A. Trách nhiệm dân sự
+B. Trách nhiệm kỷ luật
+C. Trách nhiệm hành chính
+D. Trách nhiệm hình sự
+Đáp án đúng: B
+Giải thích: Vi phạm nội quy lao động, kỷ luật công vụ của cán bộ công chức bị xử lý Trách nhiệm kỷ luật.
+
+Câu 191 [Vận dụng]: Anh D mua một chiếc tivi tại cửa hàng điện máy X nhưng tivi bị lỗi kỹ thuật không hoạt động được. Sau khi thương lượng không thành công, Anh D gửi đơn khởi kiện cửa hàng X ra Tòa án yêu cầu đổi máy mới hoặc hoàn tiền. Tòa án nào thụ lý và loại vi phạm của cửa hàng X thuộc lĩnh vực nào?
+A. Tòa án nhân dân khu vực thụ lý; thuộc Vi phạm dân sự (vi phạm hợp đồng mua bán tài sản)
+B. Ủy ban nhân dân cấp xã thụ lý; thuộc Vi phạm hình sự
+C. Tòa án nhân dân tối cao thụ lý; thuộc Vi phạm kỷ luật
+D. Ủy ban nhân dân cấp tỉnh thụ lý; thuộc Vi phạm hành chính
+Đáp án đúng: A
+Giải thích: Tranh chấp hợp đồng mua bán dân sự/tiêu dùng thuộc thẩm quyền sơ thẩm của TAND khu vực, bản chất là vi phạm dân sự.
+
+Câu 192 [Vận dụng]: Anh B (17 tuổi) tham gia đua xe trái phép gây cản trở giao thông nghiêm trọng nhưng chưa gây tai nạn chết người. Xét về tuổi và lỗi, Anh B phải chịu trách nhiệm pháp lý như thế nào?
+A. Chịu trách nhiệm hành chính hoặc trách nhiệm hình sự (tùy mức độ cấu thành Tội đua xe trái phép) vì người từ đủ 16 tuổi trở lên đã đủ tuổi chịu TNHS và TNHC
+B. Chỉ chịu trách nhiệm kỷ luật ở trường học
+C. Không chịu trách nhiệm vì chưa đủ 18 tuổi
+D. Bố mẹ Anh B phải đi tù thay cho Anh B
+Đáp án đúng: A
+Giải thích: Người từ đủ 16 tuổi trở lên đã đủ tuổi chịu trách nhiệm hình sự và hành chính đầy đủ đối với hành vi do mình gây ra.
+
+Câu 193 [Vận dụng]: Một nhà máy sản xuất của Công ty C xả khí thải vượt quy chuẩn kỹ thuật môi trường gấp 5 lần gây ô nhiễm không khí khu vực xung quanh. Chủ tịch UBND cấp tỉnh ra Quyết định xử phạt hành chính Công ty C số tiền 400 triệu đồng và đình chỉ hoạt động xả thải 6 tháng. Quyết định xử phạt này dựa trên loại trách nhiệm pháp lý nào?
+A. Trách nhiệm hành chính áp dụng đối với pháp nhân vi phạm quy định quản lý nhà nước về bảo vệ môi trường
+B. Trách nhiệm kỷ luật
+C. Trách nhiệm hình sự
+D. Trách nhiệm dân sự đền bù
+Đáp án đúng: A
+Giải thích: Xử phạt vi phạm quy chuẩn môi trường của doanh nghiệp do Chủ tịch UBND cấp tỉnh áp dụng thuộc Trách nhiệm hành chính.
+
+Câu 194 [Vận dụng]: Công nhân S vận hành máy cưa trong xưởng gỗ của Công ty T. Do không tuân thủ quy trình an toàn lao động (không đeo kính bảo hộ), một mảnh gỗ văng ra làm hư hỏng kính cửa sổ của xưởng gỗ trị giá 5 triệu đồng. Công ty T yêu cầu Công nhân S bồi thường 5 triệu đồng. Loại trách nhiệm Công nhân S phải gánh chịu ở đây là gì?
+A. Không chịu trách nhiệm vì là tai nạn lao động
+B. Trách nhiệm vật chất (thuộc nhóm Trách nhiệm kỷ luật/dân sự trong lao động) bồi thường thiệt hại tài sản cho người sử dụng lao động
+C. Trách nhiệm hình sự tù 2 năm
+D. Trách nhiệm hành chính phạt tiền công an
+Đáp án đúng: B
+Giải thích: Theo Bộ luật Lao động, người lao động làm hư hỏng dụng cụ, thiết bị của doanh nghiệp phải bồi thường thiệt hại theo quy định về trách nhiệm vật chất.
+
+Câu 195 [Vận dụng]: Ông V phát hiện mương dẫn nước qua thửa đất nhà mình bị người hàng xóm tự ý lấp lại để xây công trình trái phép. Ông V muốn phản ánh đến chính quyền địa phương cơ sở để kiểm tra và lập biên bản xử lý vi phạm hành chính trật tự xây dựng. Ông V cần gửi đơn đến cơ quan nào?
+A. Tòa án nhân dân khu vực
+B. Tòa án nhân dân tối cao
+C. Ủy ban nhân dân cấp xã nơi có đất
+D. Viện kiểm sát nhân dân khu vực
+Đáp án đúng: C
+Giải thích: UBND cấp xã có thẩm quyền quản lý nhà nước về trật tự xây dựng, đất đai ở cơ sở và lập biên bản, xử phạt vi phạm hành chính trong phạm vi thẩm quyền.
+
+Câu 196 [Vận dụng]: Anh P uống rượu say, lảo đảo đi vào cửa hàng quần áo, nảy sinh ý định trộm cắp và lấy trộm chiếc áo khoác trị giá 3 triệu đồng thì bị bắt giữ. Anh P biện lý do rằng 'lúc đó tôi say rượu nên không kiểm soát được hành vi nên không có lỗi'. Lời bào chữa của Anh P có được pháp luật chấp nhận không?
+A. Không. Theo quy định pháp luật, người thực hiện hành vi vi phạm trong tình trạng say rượu vẫn phải chịu trách nhiệm pháp lý (Điều 13 Bộ luật Hình sự)
+B. Có. Người say rượu chỉ bị phạt cảnh cáo nhẹ
+C. Có. Người say rượu được miễn hoàn toàn trách nhiệm hình sự
+D. Tùy thuộc vào loại rượu uống là rượu nhập khẩu hay rượu nấu
+Đáp án đúng: A
+Giải thích: Điều 13 Bộ luật Hình sự quy định: Người phạm tội trong tình trạng mất khả năng nhận thức hoặc điều khiển hành vi do dùng rượu, bia hoặc chất kích thích mạnh khác vẫn phải chịu TNHS.
+
+Câu 197 [Vận dụng]: Một lái xe tải chở hàng quá tải trọng cho phép chạy qua cầu. Dù thấy biển báo cấm xe trên 10 tấn nhưng lái xe vẫn cố tình chạy qua vì nghĩ rằng 'cầu vững chắc chắc không sao'. Cầu bị gãy nhịp. Lỗi của tài xế tải thuộc hình thức lỗi nào?
+A. Lỗi vô ý do cẩu thả
+B. Lỗi cố ý trực tiếp
+C. Lỗi vô ý do quá tự tin
+D. Không có lỗi
+Đáp án đúng: C
+Giải thích: Lái xe thấy trước hậu quả nguy hiểm nhưng tự tin cho rằng hậu quả không xảy ra (nghĩ cầu vững chắc) nên vẫn làm -> Lỗi vô ý do quá tự tin.
+
+Câu 198 [Vận dụng]: Bác sĩ Q quy định phải thử phản ứng thuốc trước khi tiêm cho bệnh nhân nhưng do chủ quan, bận rộn nên bỏ qua bước thử phản ứng, dẫn đến bệnh nhân bị sốc phản vệ và tử vong. Lỗi của Bác sĩ Q thuộc hình thức nào?
+A. Lỗi vô ý do cẩu thả (không nhận thức được hậu quả dù pháp luật/quy trình nghề nghiệp buộc phải thấy trước)
+B. Lỗi cố ý trực tiếp mong muốn bệnh nhân chết
+C. Không có lỗi vì là rủi ro y khoa
+D. Lỗi cố ý gián tiếp
+Đáp án đúng: A
+Giải thích: Do cẩu thả không thực hiện đúng quy trình chuyên môn bắt buộc dù phải thấy trước hậu quả nguy hiểm -> Lỗi vô ý do cẩu thả.
+
+Câu 199 [Vận dụng]: Khi một hành vi vi phạm hành chính xảy ra trên địa bàn Phường Y có mức phạt tiền quy định là 15 triệu đồng. Theo phân cấp thẩm quyền xử phạt hiện hành ở chính quyền 2 cấp, nếu mức phạt vượt quá thẩm quyền của Chủ tịch UBND cấp xã thì vụ việc sẽ được chuyển lên cho ai xử phạt?
+A. Tòa án nhân dân khu vực
+B. Chủ tịch Quốc hội
+C. Chủ tịch Ủy ban nhân dân cấp tỉnh
+D. Viện kiểm sát nhân dân khu vực
+Đáp án đúng: C
+Giải thích: Trong mô hình chính quyền 2 cấp (tỉnh - xã), nếu vụ việc vượt quá thẩm quyền của Chủ tịch UBND cấp xã thì chuyển lên Chủ tịch UBND cấp tỉnh xử phạt theo thẩm quyền.
+
+Câu 200 [Vận dụng]: Doanh nghiệp X nợ tiền đóng bảo hiểm xã hội cho người lao động kéo dài 12 tháng. Cơ quan Bảo hiểm xã hội khởi kiện Doanh nghiệp X ra Tòa án để yêu cầu truy thu tiền BHXH và lãi chậm đóng. Tòa án nào thụ lý giải quyết vụ án tranh chấp này?
+A. Tòa án nhân dân tối cao
+B. Ủy ban nhân dân cấp xã nơi Doanh nghiệp X đặt trụ sở
+C. Tòa án nhân dân khu vực nơi Doanh nghiệp X đặt trụ sở
+D. Ủy ban nhân dân cấp tỉnh
+Đáp án đúng: C
+Giải thích: Tranh chấp về đóng bảo hiểm xã hội giữa cơ quan BHXH/người lao động với doanh nghiệp thuộc thẩm quyền giải quyết sơ thẩm của Tòa án nhân dân khu vực.
+
+================================================================================
+BẢNG ĐÁP ÁN TỔNG HỢP (200 CÂU HỎI CHƯƠNG 1)
+================================================================================
+
+  1. D     2. A     3. A     4. C     5. D     6. C     7. C     8. A     9. B    10. C 
+ 11. B    12. C    13. A    14. D    15. D    16. A    17. A    18. D    19. C    20. B 
+ 21. C    22. A    23. A    24. A    25. B    26. B    27. D    28. B    29. A    30. A 
+ 31. B    32. A    33. D    34. C    35. C    36. B    37. A    38. B    39. D    40. D 
+ 41. C    42. A    43. C    44. B    45. B    46. C    47. C    48. B    49. B    50. D 
+ 51. D    52. D    53. A    54. B    55. B    56. B    57. A    58. B    59. D    60. D 
+ 61. D    62. B    63. B    64. B    65. C    66. A    67. C    68. C    69. A    70. A 
+ 71. C    72. B    73. C    74. C    75. A    76. B    77. D    78. B    79. D    80. A 
+ 81. B    82. D    83. C    84. D    85. D    86. B    87. B    88. B    89. D    90. C 
+ 91. D    92. C    93. A    94. D    95. A    96. B    97. A    98. A    99. D   100. D 
+101. B   102. A   103. D   104. B   105. D   106. D   107. A   108. D   109. A   110. C 
+111. C   112. D   113. C   114. D   115. A   116. C   117. B   118. A   119. D   120. B 
+121. B   122. A   123. A   124. C   125. A   126. A   127. C   128. B   129. A   130. D 
+131. D   132. C   133. D   134. B   135. B   136. D   137. A   138. C   139. A   140. B 
+141. C   142. A   143. B   144. B   145. C   146. D   147. B   148. B   149. C   150. C 
+151. A   152. D   153. C   154. A   155. C   156. D   157. B   158. A   159. A   160. B 
+161. B   162. A   163. C   164. B   165. A   166. D   167. B   168. C   169. B   170. A 
+171. B   172. A   173. C   174. A   175. C   176. C   177. C   178. A   179. C   180. B 
+181. B   182. A   183. C   184. D   185. C   186. B   187. C   188. C   189. B   190. B 
+191. A   192. A   193. A   194. B   195. C   196. A   197. C   198. A   199. C   200. C 
+
+================================================================================
+HẾT NGÂN HÀNG CÂU HỎI CHƯƠNG 1
+================================================================================

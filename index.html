@@ -1,0 +1,69 @@
+<!doctype html>
+<html lang="vi">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
+    
+    <title>Ôn Thi Pháp Luật Đại Cương</title>
+    <meta
+      name="description"
+      content="Ứng dụng thi trắc nghiệm Pháp luật đại cương chuẩn kiến thức cho sinh viên đại học không chuyên luật với ngân hàng 1.400 câu hỏi, 3 chế độ thi, hẹn giờ và giải thích chi tiết."
+    />
+    <meta name="color-scheme" content="light dark" />
+    <meta name="theme-color" content="#4f46e5" media="(prefers-color-scheme: light)" />
+    <meta name="theme-color" content="#0f172a" media="(prefers-color-scheme: dark)" />
+
+    <!-- Open Graph / Facebook -->
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="Ôn Thi Pháp Luật Đại Cương" />
+    <meta
+      property="og:description"
+      content="Ứng dụng thi trắc nghiệm Pháp luật đại cương chuẩn kiến thức cho sinh viên đại học không chuyên luật với ngân hàng 1.400 câu hỏi, 3 chế độ thi, hẹn giờ và giải thích chi tiết."
+    />
+    <meta property="og:site_name" content="Ôn Thi Pháp Luật Đại Cương" />
+
+    <!-- Twitter -->
+    <meta name="twitter:card" content="summary" />
+    <meta name="twitter:title" content="Ôn Thi Pháp Luật Đại Cương" />
+    <meta
+      name="twitter:description"
+      content="Ứng dụng thi trắc nghiệm Pháp luật đại cương chuẩn kiến thức cho sinh viên đại học không chuyên luật với ngân hàng 1.400 câu hỏi, 3 chế độ thi, hẹn giờ và giải thích chi tiết."
+    />
+
+    <!-- Anti-flash script for dark mode -->
+    <script>
+      (function () {
+        try {
+          var theme = localStorage.getItem('pldc_theme');
+          var supportDark = window.matchMedia('(prefers-color-scheme: dark)').matches;
+          if (theme === 'dark' || (!theme && supportDark)) {
+            document.documentElement.classList.add('dark');
+          } else {
+            document.documentElement.classList.remove('dark');
+          }
+        } catch (e) {}
+      })();
+    </script>
+
+    <!-- Schema.org WebApplication JSON-LD -->
+    <script type="application/ld+json">
+      {
+        "@context": "https://schema.org",
+        "@type": "WebApplication",
+        "name": "Ôn Thi Pháp Luật Đại Cương",
+        "applicationCategory": "EducationalApplication",
+        "operatingSystem": "All",
+        "description": "Ứng dụng thi trắc nghiệm Pháp luật đại cương chuẩn kiến thức cho sinh viên đại học không chuyên luật với ngân hàng 1.400 câu hỏi, 3 chế độ thi, hẹn giờ và giải thích chi tiết.",
+        "offers": {
+          "@type": "Offer",
+          "price": "0",
+          "priceCurrency": "VND"
+        }
+      }
+    </script>
+  </head>
+  <body class="bg-slate-50 text-slate-900 dark:bg-slate-950 dark:text-slate-100 min-h-screen antialiased selection:bg-indigo-500 selection:text-white">
+    <div id="root"></div>
+    <script type="module" src="/src/main.tsx"></script>
+  </body>
+</html>

@@ -1,0 +1,1682 @@
+================================================================================
+NGÂN HÀNG CÂU HỎI TRẮC NGHIỆM MÔN PHÁP LUẬT ĐẠI CƯƠNG
+CHƯƠNG 4: LUẬT DÂN SỰ VÀ LUẬT TỐ TỤNG DÂN SỰ
+(Dành cho sinh viên đại học không chuyên luật)
+Cập nhật quy định pháp luật hiện hành tính đến năm 2026 (Mô hình chính quyền địa phương 2 cấp và Tòa án nhân dân khu vực)
+================================================================================
+
+CẤU TRÚC VÀ PHÂN BỔ CÂU HỎI:
+- Tổng số câu hỏi: 200 câu trắc nghiệm (mỗi câu 4 phương án A, B, C, D, 1 đáp án đúng).
+- Mức độ phân bổ:
+  + Dễ (Nhận biết): 70 câu
+  + Trung bình (Thông hiểu): 80 câu
+  + Vận dụng: 50 câu
+- Nội dung bao gồm:
+  4.1. PHÁP LUẬT DÂN SỰ (130 câu)
+       4.1.1. Những vấn đề chung về luật dân sự (30 câu)
+       4.1.2. Tài sản và quyền sở hữu tài sản (30 câu)
+       4.1.3. Hợp đồng dân sự (35 câu)
+       4.1.4. Pháp luật thừa kế (35 câu)
+  4.2. PHÁP LUẬT TỐ TỤNG DÂN SỰ (70 câu)
+       4.2.1. Những vấn đề chung về luật tố tụng dân sự (25 câu)
+       4.2.2. Khởi kiện, thụ lý vụ án dân sự (20 câu)
+       4.2.3. Trình tự, thủ tục giải quyết vụ án dân sự (25 câu)
+
+================================================================================
+
+--------------------------------------------------------------------------------
+MỤC 4.1.1. NHỮNG VẤN ĐỀ CHUNG VỀ LUẬT DÂN SỰ
+--------------------------------------------------------------------------------
+
+Câu 1 [Dễ]: Đối tượng điều chỉnh của Luật Dân sự Việt Nam là những quan hệ nào?
+A. Quan hệ tài sản và quan hệ nhân thân được hình thành trên cơ sở bình đẳng, tự do thỏa thuận, độc lập về tài sản và tự chịu trách nhiệm
+B. Quan hệ lao động công vụ giữa cơ quan nhà nước và cán bộ công chức
+C. Quan hệ phát sinh từ hành vi vi phạm pháp luật hình sự
+D. Quan hệ quản lý hành chính nhà nước giữa cấp trên và cấp dưới
+Đáp án đúng: A
+Giải thích: Bộ luật Dân sự điều chỉnh các quan hệ tài sản và quan hệ nhân thân dựa trên sự bình đẳng, tự nguyện giữa các chủ thể.
+
+Câu 2 [Dễ]: Phương pháp điều chỉnh đặc trưng của Bộ luật Dân sự là gì?
+A. Mệnh lệnh - phục tùng giữa cấp trên và cấp dưới
+B. Bình đẳng, tự nguyện cam kết, thỏa thuận và tự chịu trách nhiệm tài sản
+C. Áp đặt một bên từ cơ quan nhà nước
+D. Cưỡng chế hình sự độc đoán
+Đáp án đúng: B
+Giải thích: Phương pháp điều chỉnh dân sự tôn trọng sự bình đẳng và tự nguyện thỏa thuận của các bên.
+
+Câu 3 [Dễ]: Năng lực pháp luật dân sự của cá nhân có đặc điểm nào sau đây?
+A. Chỉ xuất hiện khi cá nhân đủ 18 tuổi
+B. Chỉ có ở công dân Việt Nam có tài sản lớn
+C. Có từ khi cá nhân sinh ra và chấm dứt khi cá nhân chết
+D. Bị tước bỏ hoàn toàn khi cá nhân bị đi tù
+Đáp án đúng: C
+Giải thích: Năng lực pháp luật dân sự của cá nhân là khả năng có quyền và nghĩa vụ dân sự, xuất hiện từ khi sinh ra và chấm dứt khi chết.
+
+Câu 4 [Dễ]: Năng lực hành vi dân sự của cá nhân là gì?
+A. Khả năng được Nhà nước ban cho tài sản miễn phí
+B. Khả năng chịu trách nhiệm hình sự thay cho người khác
+C. Khả năng ký kết mọi hợp đồng mà không cần đáp ứng điều kiện tuổi
+D. Khả năng của cá nhân bằng hành vi của mình xác lập, thực hiện quyền, nghĩa vụ dân sự
+Đáp án đúng: D
+Giải thích: Năng lực hành vi dân sự là khả năng cá nhân tự mình xác lập, thực hiện quyền và nghĩa vụ bằng hành vi của chính mình.
+
+Câu 5 [Dễ]: Theo Bộ luật Dân sự 2015, người như thế nào được coi là người có năng lực hành vi dân sự đầy đủ?
+A. Người đã tốt nghiệp đại học
+B. Người từ đủ 16 tuổi trở lên có việc làm ổn định
+C. Người từ đủ 18 tuổi trở lên, trừ trường hợp bị mất NLHVDS, hạn chế NLHVDS hoặc có khó khăn trong nhận thức, làm chủ hành vi
+D. Người từ đủ 15 tuổi trở lên có tài sản riêng
+Đáp án đúng: C
+Giải thích: Người từ đủ 18 tuổi trở lên không bị Tòa án tuyên bố mất hoặc hạn chế NLHVDS thì có năng lực hành vi dân sự đầy đủ.
+
+Câu 6 [Dễ]: Giao dịch dân sự của người chưa đủ 6 tuổi do ai xác lập, thực hiện?
+A. Do Ủy ban nhân dân cấp xã xác lập thay
+B. Do chính người đó tự mình xác lập không cần người đại diện
+C. Do Tòa án nhân dân khu vực trực tiếp ký kết
+D. Do người đại diện theo pháp luật của người đó xác lập, thực hiện
+Đáp án đúng: D
+Giải thích: Người chưa đủ 6 tuổi không có năng lực hành vi dân sự, mọi giao dịch phải do người đại diện theo pháp luật xác lập, thực hiện.
+
+Câu 7 [Dễ]: Điều kiện nào sau đây KHÔNG phải là điều kiện để một tổ chức được công nhận là Pháp nhân?
+A. Có cơ cấu tổ chức chặt chẽ theo quy định
+B. Có tài sản độc lập với cá nhân, pháp nhân khác và tự chịu trách nhiệm bằng tài sản đó
+C. Phải có số vốn tối thiểu 100 tỷ đồng
+D. Được thành lập hợp pháp theo quy định của pháp luật
+Đáp án đúng: C
+Giải thích: Bộ luật Dân sự quy định 4 điều kiện thành lập pháp nhân, không quy định mức vốn tối thiểu 100 tỷ đồng.
+
+Câu 8 [Dễ]: Pháp nhân thương mại là pháp nhân có đặc điểm cốt lõi nào?
+A. Là các tổ chức chính trị - xã hội
+B. Là cơ quan hành chính nhà nước quản lý địa phương
+C. Có mục tiêu chính là tìm kiếm lợi nhuận và lợi nhuận được chia cho các thành viên
+D. Là tổ chức từ thiện không chia lợi nhuận
+Đáp án đúng: C
+Giải thích: Pháp nhân thương mại có mục tiêu chính là tìm kiếm lợi nhuận và phân chia lợi nhuận cho thành viên.
+
+Câu 9 [Dễ]: Thời hiệu khởi kiện vụ án dân sự là gì?
+A. Thời hạn người dân phải nộp thuế cho Nhà nước
+B. Thời hạn Tòa án giữ hồ sơ vụ án
+C. Thời hạn mà chủ thể được quyền khởi kiện để yêu cầu Tòa án giải quyết vụ án dân sự bảo vệ quyền và lợi ích hợp pháp bị xâm phạm
+D. Thời hạn hợp đồng mua bán có hiệu lực
+Đáp án đúng: C
+Giải thích: Thời hiệu khởi kiện là thời hạn luật định để chủ thể thực hiện quyền khởi kiện yêu cầu Tòa án bảo vệ quyền lợi.
+
+Câu 10 [Dễ]: Quyền nhân thân của cá nhân là quyền dân sự có đặc điểm cơ bản nào?
+A. Chỉ tồn tại khi cá nhân có tài sản lớn
+B. Được thừa kế lại cho con cháu như tài sản
+C. Có thể đem ra mua bán, thế chấp tại ngân hàng
+D. Gắn liền với mỗi cá nhân, không thể chuyển giao cho người khác, trừ trường hợp luật có quy định khác
+Đáp án đúng: D
+Giải thích: Quyền nhân thân gắn liền với cá nhân và không thể định giá bằng tiền hay chuyển giao tự do.
+
+Câu 11 [Trung bình]: Người từ đủ 6 tuổi đến dưới 15 tuổi khi xác lập, thực hiện giao dịch dân sự phải tuân theo quy định nào?
+A. Phải được sự đồng ý của Ủy ban nhân dân cấp xã
+B. Không được phép tham gia bất kỳ giao dịch nào
+C. Tự mình xác lập mọi giao dịch không cần sự đồng ý của cha mẹ
+D. Phải được người đại diện theo pháp luật đồng ý, trừ giao dịch dân sự phục vụ nhu cầu sinh hoạt hàng ngày phù hợp với lứa tuổi
+Đáp án đúng: D
+Giải thích: Người từ đủ 6 đến dưới 15 tuổi được tự thực hiện giao dịch phục vụ nhu cầu sinh hoạt hàng ngày phù hợp lứa tuổi; các giao dịch khác phải có sự đồng ý của người đại diện.
+
+Câu 12 [Trung bình]: Người từ đủ 15 tuổi đến dưới 18 tuổi có quyền tự mình xác lập, thực hiện giao dịch dân sự như thế nào?
+A. Tự mình mua bán nhà đất không cần cha mẹ đồng ý
+B. Chỉ được mua sách vở đi học ngoài ra không được làm gì
+C. Tự mình xác lập, thực hiện giao dịch dân sự, trừ giao dịch dân sự liên quan đến bất động sản, động sản phải đăng ký và giao dịch khác theo quy định phải có sự đồng ý của người đại diện
+D. Phải do cha mẹ làm thay hoàn toàn mọi giao dịch
+Đáp án đúng: C
+Giải thích: Người từ đủ 15 đến dưới 18 tuổi có năng lực hành vi chưa đầy đủ nhưng được tự mình thực hiện hầu hết giao dịch, trừ giao dịch liên quan bất động sản hay động sản đăng ký quyền sở hữu.
+
+Câu 13 [Trung bình]: Trường hợp nào sau đây Tòa án nhân dân ra quyết định tuyên bố một người 'Mất năng lực hành vi dân sự'?
+A. Khi người đó không đi làm tạo ra thu nhập
+B. Khi người đó nghiện ma túy làm vô tán tài sản gia đình
+C. Khi người đó bị bệnh tâm thần hoặc mắc bệnh khác mà không thể nhận thức, làm chủ được hành vi của mình, theo yêu cầu của người có quyền, lợi ích liên quan trên cơ sở kết luận giám định pháp y tâm thần
+D. Khi người đó đủ 80 tuổi
+Đáp án đúng: C
+Giải thích: Tuyên bố mất NLHVDS yêu cầu căn cứ vào bệnh tâm thần/mắc bệnh không nhận thức/làm chủ hành vi và có kết luận giám định pháp y tâm thần.
+
+Câu 14 [Trung bình]: Người nghiện ma túy hoặc chất kích thích khác phá tán tài sản của gia đình có thể bị Tòa án tuyên bố như thế nào theo yêu cầu của người có quyền, lợi ích liên quan?
+A. Tuyên bố mất năng lực hành vi dân sự
+B. Tuyên bố bị hạn chế năng lực hành vi dân sự
+C. Tuyên bố có khó khăn trong nhận thức, làm chủ hành vi
+D. Tước bỏ quyền công dân vĩnh viễn
+Đáp án đúng: B
+Giải thích: Người nghiện ma túy/chất kích thích phá tán tài sản gia đình có thể bị Tòa án tuyên bố bị hạn chế năng lực hành vi dân sự.
+
+Câu 15 [Trung bình]: Năng lực pháp luật dân sự và năng lực hành vi dân sự của Pháp nhân xuất hiện và chấm dứt khi nào?
+A. Năng lực pháp luật có trước khi thành lập 5 năm, năng lực hành vi có sau
+B. Xuất hiện đồng thời từ thời điểm pháp nhân được thành lập hoặc đăng ký hợp pháp và chấm dứt khi pháp nhân chấm dứt tồn tại
+C. Xuất hiện khi pháp nhân có lãi
+D. Xuất hiện khi người đại diện của pháp nhân đủ 18 tuổi
+Đáp án đúng: B
+Giải thích: Khác với cá nhân, năng lực pháp luật và năng lực hành vi dân sự của pháp nhân phát sinh và chấm dứt đồng thời.
+
+Câu 16 [Trung bình]: Các loại hình pháp nhân nào sau đây thuộc nhóm Pháp nhân phi thương mại?
+A. Hợp tác xã thương mại
+B. Cơ quan nhà nước, đơn vị vũ trang nhân dân, tổ chức chính trị, quỹ xã hội, quỹ từ thiện
+C. Công ty cổ phần và Công ty TNHH
+D. Doanh nghiệp tư nhân và Doanh nghiệp nhà nước kinh doanh
+Đáp án đúng: B
+Giải thích: Cơ quan nhà nước, quỹ từ thiện, tổ chức chính trị... là các pháp nhân phi thương mại (không vì mục tiêu phân chia lợi nhuận).
+
+Câu 17 [Trung bình]: Đại diện theo pháp luật của cá nhân bao gồm những ai?
+A. Giám đốc doanh nghiệp nơi cá nhân làm việc
+B. Cha, mẹ đối với con chưa thành niên; người giám hộ đối với người được giám hộ; người do Tòa án chỉ định
+C. Bạn thân của cá nhân đó
+D. Ủy ban nhân dân cấp xã đối với mọi công dân trên địa bàn
+Đáp án đúng: B
+Giải thích: Người đại diện theo pháp luật của cá nhân bao gồm cha mẹ đối với con chưa thành niên, người giám hộ đối với người được giám hộ hoặc người do Tòa án chỉ định.
+
+Câu 18 [Trung bình]: Hành vi sử dụng hình ảnh của cá nhân cho mục đích thương mại mà không được sự đồng ý của người đó thì bị coi là gì?
+A. Xâm phạm quyền nhân thân đối với hình ảnh của cá nhân và bị xử lý theo quy định pháp luật
+B. Vi phạm kỷ luật lao động
+C. Hành vi hợp pháp nếu công ty kinh doanh có đăng ký
+D. Khuyến khích phát triển quảng cáo
+Đáp án đúng: A
+Giải thích: Sử dụng hình ảnh cá nhân cho mục đích thương mại phải được sự đồng ý của người đó, trừ trường hợp luật có quy định khác.
+
+Câu 19 [Trung bình]: Mối quan hệ giữa Nguyên tắc bình đẳng và Nguyên tắc tự do thỏa thuận trong Luật Dân sự được thể hiện như thế nào?
+A. Bên giàu có quyền ép buộc bên nghèo
+B. Sự thỏa thuận không cần tuân theo điều cấm của luật
+C. Cơ quan nhà nước luôn áp đặt điều khoản hợp đồng cho công dân
+D. Các bên bình đẳng về địa vị pháp lý, không bên nào được áp đặt bên nào; trên cơ sở đó các bên tự do thỏa thuận cam kết quyền và nghĩa vụ không trái luật
+Đáp án đúng: D
+Giải thích: Bình đẳng tạo tiền đề cho tự do thỏa thuận; tự do thỏa thuận bảo đảm quyền tự chủ của các chủ thể bình đẳng.
+
+Câu 20 [Trung bình]: Hậu quả pháp lý của giao dịch dân sự do người không có quyền đại diện xác lập, thực hiện là gì?
+A. Giao dịch tự động có hiệu lực vĩnh viễn
+B. Không làm phát sinh quyền, nghĩa vụ đối với người được đại diện, trừ trường hợp người được đại diện công nhận giao dịch đó
+C. Người không có quyền đại diện bị phạt tù ngay lập tức
+D. Người được đại diện bắt buộc phải thi hành
+Đáp án đúng: B
+Giải thích: Giao dịch do người không có quyền đại diện xác lập không làm phát sinh quyền nghĩa vụ cho người được đại diện, trừ khi người được đại diện đồng ý/công nhận.
+
+Câu 21 [Trung bình]: Khi một cá nhân bị Tòa án tuyên bố 'Mất tích', hậu quả pháp lý đối với tài sản của người đó được giải quyết ra sao?
+A. Tài sản của người bị tuyên bố mất tích được giao cho người quản lý tài sản theo quy định của Bộ luật Dân sự
+B. Ủy ban nhân dân cấp xã bán đấu giá tài sản
+C. Tài sản được chia thừa kế ngay lập tức cho các con
+D. Tài sản tự động bị tịch thu vào ngân sách nhà nước
+Đáp án đúng: A
+Giải thích: Khi bị tuyên bố mất tích, tài sản của người đó chưa chia thừa kế mà được giao cho người quản lý tài sản bảo quản.
+
+Câu 22 [Trung bình]: Điều kiện để Tòa án nhân dân tuyên bố một người 'Đã chết' về mặt pháp lý là gì?
+A. Sau 05 năm biệt tích liên tục trở lên mà không có tin tức xác thực còn sống và đã áp dụng đầy đủ biện pháp tìm kiếm (hoặc bị tai nạn/thảm họa sau 02 năm)
+B. Mới đi khỏi nơi cư trú 06 tháng không liên lạc được
+C. Khi gia đình tự ra văn bản tuyên bố
+D. Sau 01 tháng không nộp thuế
+Đáp án đúng: A
+Giải thích: Tuyên bố một người đã chết cần điều kiện thời gian biệt tích liên tục (thông thường 5 năm) và qua thủ tục tìm kiếm tại Tòa án.
+
+Câu 23 [Vận dụng]: Cháu M (14 tuổi) tự ý lấy số tiền 50 triệu đồng tiết kiệm của gia đình đi mua một chiếc xe máy tay ga điện đắt tiền tại cửa hàng X. Khi bố mẹ cháu M phát hiện đã yêu cầu cửa hàng X nhận lại xe và trả lại tiền nhưng cửa hàng X từ chối. Hợp đồng mua bán này có hiệu lực pháp lý không?
+A. Hợp đồng chỉ vô hiệu nếu UBND cấp xã ra quyết định phạt
+B. Hợp đồng vô hiệu do người từ đủ 6 đến dưới 15 tuổi xác lập giao dịch vượt quá nhu cầu sinh hoạt hàng ngày mà không được người đại diện đồng ý
+C. Hợp đồng có hiệu lực vì cửa hàng đã xuất hóa đơn
+D. Hợp đồng hoàn toàn có hiệu lực vì cháu M đã 14 tuổi
+Đáp án đúng: B
+Giải thích: Cháu M 14 tuổi tự ý giao dịch mua xe 50 triệu (vượt nhu cầu sinh hoạt hàng ngày) không có sự đồng ý của cha mẹ nên giao dịch vô hiệu.
+
+Câu 24 [Vận dụng]: Anh B (17 tuổi) đi làm phục vụ nhà hàng có thu nhập riêng 7 triệu đồng/tháng. Anh B tự dùng tiền lương của mình mua một chiếc máy tính xách tay giá 12 triệu đồng để học tập. Bố Anh B biết chuyện bắt Anh B phải trả lại máy tính. Giao dịch mua máy tính của Anh B có hợp pháp không?
+A. Vô hiệu vì giá trị máy tính lớn hơn tiền lương 1 tháng
+B. Hợp pháp, vì người từ đủ 15 đến dưới 18 tuổi có tài sản riêng bảo đảm thực hiện nghĩa vụ được tự mình xác lập giao dịch (không liên quan bất động sản hay động sản phải đăng ký)
+C. Chỉ hợp pháp nếu có sự đồng ý của Chủ tịch UBND cấp xã
+D. Bắt buộc vô hiệu vì Anh B chưa đủ 18 tuổi
+Đáp án đúng: B
+Giải thích: Anh B 17 tuổi có tài sản riêng bảo đảm nghĩa vụ nên được tự mua máy tính (động sản không đăng ký quyền sở hữu).
+
+Câu 25 [Vận dụng]: Ông K bị bệnh tâm thần nặng, hay đi lang thang và phá hoại tài sản hàng xóm. Gia đình muốn làm thủ tục tuyên bố Ông K mất năng lực hành vi dân sự để cử người giám hộ quản lý. Gia đình Ông K cần gửi đơn yêu cầu đến cơ quan nào?
+A. Ủy ban nhân dân cấp xã
+B. Tòa án nhân dân khu vực nơi Ông K cư trú
+C. Sở Y tế cấp tỉnh
+D. Hội đồng nhân dân cấp tỉnh
+Đáp án đúng: B
+Giải thích: Yêu cầu tuyên bố cá nhân mất NLHVDS thuộc thẩm quyền giải quyết việc dân sự của Tòa án nhân dân khu vực.
+
+Câu 26 [Vận dụng]: Công ty TNHH A (pháp nhân thương mại) ký hợp đồng vay tiền của Ngân hàng B. Người ký hợp đồng là Giám đốc Công ty A (đại diện theo pháp luật). Sau đó Công ty A làm ăn thua lỗ không trả được nợ. Ngân hàng B có quyền yêu cầu ai trả nợ?
+A. Yêu cầu cá nhân Giám đốc phải bán nhà riêng trả thay cho Công ty A
+B. Yêu cầu tất cả nhân viên Công ty A góp tiền trả nợ
+C. Yêu cầu UBND cấp tỉnh trả nợ thay
+D. Yêu cầu Công ty A chịu trách nhiệm bằng toàn bộ tài sản của Công ty A
+Đáp án đúng: D
+Giải thích: Pháp nhân tự chịu trách nhiệm dân sự bằng tài sản của chính pháp nhân; thành viên/người đại diện không chịu trách nhiệm bằng tài sản cá nhân cho nghĩa vụ của pháp nhân.
+
+Câu 27 [Vận dụng]: Anh P bị công ty mỹ phẩm X tự ý lấy hình ảnh cá nhân đăng lên mạng xã hội quảng cáo kem trị mụn mà không hỏi ý kiến hay trả chi phí. Anh P có quyền yêu cầu xử lý như thế nào theo Luật Dân sự?
+A. Yêu cầu công ty X gỡ bỏ hình ảnh, xin lỗi công khai và bồi thường thiệt hại (nếu có) do xâm phạm quyền nhân thân đối với hình ảnh
+B. Trực tiếp đến đập phá trụ sở công ty X
+C. Yêu cầu UBND cấp xã đóng cửa công ty X vĩnh viễn
+D. Không có quyền làm gì vì hình ảnh đăng công khai trên mạng
+Đáp án đúng: A
+Giải thích: Cá nhân bị xâm phạm quyền đối với hình ảnh có quyền yêu cầu Tòa án buộc người vi phạm thu hồi, hủy bỏ, xin lỗi và bồi thường thiệt hại.
+
+Câu 28 [Vận dụng]: Ông H đi biển đánh cá bị mất tích trong một trận bão lớn từ tháng 10/2021. Dù gia đình đã tìm kiếm khắp nơi nhưng không có tin tức. Đến tháng 11/2025, vợ Ông H muốn xin Tòa án tuyên bố Ông H đã chết để giải quyết tài sản thừa kế. Tòa án sẽ xử lý ra sao?
+A. Tòa án thụ lý và tuyên bố Ông H đã chết nếu sau 02 năm kể từ ngày thảm họa thiên tai kết thúc mà vẫn không có tin tức xác thực còn sống
+B. Từ chối vì phải đợi đủ 20 năm
+C. Chỉ tuyên bố mất tích chứ không bao giờ tuyên bố đã chết
+D. Yêu cầu UBND cấp xã tự ra quyết định khai tử
+Đáp án đúng: A
+Giải thích: Trường hợp biệt tích do thiên tai/thảm họa, sau 02 năm kể từ khi thiên tai kết thúc mà không có tin tức thì Tòa án tuyên bố đã chết.
+
+Câu 29 [Vận dụng]: Anh D ủy quyền bằng văn bản cho Anh E bán giúp chiếc xe ô tô với giá không dưới 400 triệu đồng. Tuy nhiên Anh E lại tự ý ký hợp đồng bán xe cho Anh F với giá 300 triệu đồng. Anh D không đồng ý và không thừa nhận hợp đồng này. Hợp đồng bán xe giá 300 triệu đồng có ràng buộc Anh D không?
+A. Không làm phát sinh quyền nghĩa vụ đối với Anh D đối với phần vượt quá phạm vi ủy quyền, Anh E phải chịu trách nhiệm bồi thường thiệt hại cho Anh F (hoặc Anh D)
+B. Anh D bắt buộc phải giao xe với giá 300 triệu
+C. Ủy ban nhân dân cấp xã phải bù tiền chênh lệch 100 triệu
+D. Anh F được sở hữu xe miễn phí
+Đáp án đúng: A
+Giải thích: Giao dịch do người đại diện thực hiện vượt quá phạm vi đại diện không làm phát sinh quyền nghĩa vụ cho người được đại diện (trừ khi người được đại diện đồng ý).
+
+Câu 30 [Vận dụng]: Bà V gửi tiết kiệm tại Ngân hàng X. Do phát sinh tranh chấp về số tiền lãi, Bà V muốn khởi kiện Ngân hàng X ra Tòa án. Thời hiệu khởi kiện về tranh chấp hợp đồng gửi tiết kiệm dân sự được xác định như thế nào?
+A. Thời hiệu khởi kiện là 30 ngày kể từ ngày gửi tiền
+B. Không có thời hiệu, lúc nào kiện cũng được bất kể 100 năm
+C. Thời hiệu do Giám đốc Ngân hàng X tự quy định
+D. Thời hiệu khởi kiện áp dụng theo quy định của Bộ luật Dân sự (thông thường là 03 năm kể từ ngày người có quyền biết hoặc phải biết quyền lợi bị xâm phạm)
+Đáp án đúng: D
+Giải thích: Thời hiệu khởi kiện để yêu cầu Tòa án giải quyết tranh chấp hợp đồng là 03 năm kể từ ngày bên có quyền biết hoặc phải biết quyền lợi bị xâm phạm.
+
+--------------------------------------------------------------------------------
+MỤC 4.1.2. TÀI SẢN VÀ QUYỀN SỞ HỮU TÀI SẢN
+--------------------------------------------------------------------------------
+
+Câu 31 [Dễ]: Tài sản theo quy định tại Điều 105 Bộ luật Dân sự 2015 bao gồm những loại nào?
+A. Chỉ bao gồm nhà ở và đất đai
+B. Vật, tiền, giấy tờ có giá và quyền tài sản
+C. Chỉ bao gồm tiền mặt và vàng miếng
+D. Tất cả các vật thể trong tự nhiên chưa khai phá
+Đáp án đúng: B
+Giải thích: Điều 105 Bộ luật Dân sự 2015 quy định: Tài sản là vật, tiền, giấy tờ có giá và quyền tài sản.
+
+Câu 32 [Dễ]: Tài sản nào sau đây được phân loại là Bất động sản?
+A. Xe ô tô, xe máy và tàu thủy
+B. Tiền mặt gửi ngân hàng và cổ phiếu
+C. Thẻ ATM và điện thoại di động
+D. Đất đai; nhà, công trình xây dựng gắn liền với đất đai; tài sản khác gắn liền với đất đai và tài sản khác do pháp luật quy định
+Đáp án đúng: D
+Giải thích: Bất động sản bao gồm đất đai và các tài sản gắn liền cố định với đất đai.
+
+Câu 33 [Dễ]: Quyền sở hữu bao gồm mấy quyền năng cơ bản cấu thành?
+A. 2 quyền năng: Quyền sở hữu và Quyền sử dụng
+B. 4 quyền năng: Quyền mua, Quyền bán, Quyền tặng, Quyền cho thuê
+C. 1 quyền năng duy nhất: Quyền định đoạt
+D. 3 quyền năng: Quyền chiếm hữu, Quyền sử dụng và Quyền định đoạt
+Đáp án đúng: D
+Giải thích: Quyền sở hữu bao gồm trọn vẹn 3 quyền năng: Quyền chiếm hữu, Quyền sử dụng và Quyền định đoạt.
+
+Câu 34 [Dễ]: Quyền chiếm hữu tài sản được hiểu là gì?
+A. Quyền khai thác công dụng của tài sản để lấy hoa lợi
+B. Quyền bán, tặng cho hoặc tiêu hủy tài sản
+C. Quyền nắm giữ, quản lý tài sản trên thực tế
+D. Quyền cho người khác thuê tài sản lấy tiền
+Đáp án đúng: C
+Giải thích: Quyền chiếm hữu là quyền nắm giữ, quản lý tài sản trên thực tế của chủ thể.
+
+Câu 35 [Dễ]: Quyền định đoạt tài sản bao gồm những hành vi nào của chủ sở hữu?
+A. Chỉ là quyền cho mượn tài sản sử dụng tạm thời
+B. Quyền chuyển giao quyền sở hữu tài sản, từ bỏ quyền sở hữu, tiêu dùng hoặc tiêu hủy tài sản
+C. Chỉ là quyền trông giữ tài sản trong kho
+D. Quyền ngắm nhìn tài sản
+Đáp án đúng: B
+Giải thích: Quyền định đoạt là quyền quyết định số phận thực tế hoặc số phận pháp lý của tài sản.
+
+Câu 36 [Dễ]: Theo Hiến pháp và Luật Đất đai 2024, đất đai ở Việt Nam thuộc hình thức sở hữu nào?
+A. Sở hữu tập thể của các tập đoàn kinh tế
+B. Sở hữu riêng của UBND cấp xã
+C. Sở hữu tư nhân của từng cá nhân hộ gia đình
+D. Sở hữu toàn dân do Nhà nước đại diện chủ sở hữu và thống nhất quản lý
+Đáp án đúng: D
+Giải thích: Đất đai là tài nguyên quốc gia thuộc sở hữu toàn dân do Nhà nước đại diện chủ sở hữu.
+
+Câu 37 [Dễ]: Hoa lợi được hiểu là gì theo quy định của Bộ luật Dân sự?
+A. Khoản tiền thu được từ việc cho thuê nhà
+B. Giá trị cổ phiếu tăng trên thị trường chứng khoán
+C. Tiền lãi thu được từ tiền gửi ngân hàng
+D. Sản vật tự nhiên mà tài sản sinh ra (như quả trên cây, con do gia súc sinh ra)
+Đáp án đúng: D
+Giải thích: Hoa lợi là sản vật tự nhiên mà tài sản sinh ra; còn lợi tức là khoản lợi thu được từ việc khai thác tài sản.
+
+Câu 38 [Dễ]: Tài sản hình thành trong tương lai bao gồm những loại tài sản nào?
+A. Tài sản đã có sẵn trong két sắt của chủ sở hữu
+B. Tài sản vô chủ không ai quản lý
+C. Tài sản chưa hình thành hoặc tài sản đã hình thành nhưng chủ thể xác lập quyền sở hữu sau thời điểm xác lập giao dịch
+D. Tài sản bị tiêu hủy hoàn toàn trong quá khứ
+Đáp án đúng: C
+Giải thích: Tài sản hình thành trong tương lai là tài sản chưa hình thành hoặc tài sản đang hình thành/chưa xác lập quyền sở hữu tại thời điểm giao dịch.
+
+Câu 39 [Dễ]: Hình thức 'Sở hữu chung hợp nhất' của tài sản được hiểu như thế nào?
+A. Sở hữu riêng của một doanh nghiệp nhà nước
+B. Sở hữu chung mà phần tài sản của mỗi người được chia rõ từng mét vuông
+C. Sở hữu chung mà trong đó phần quyền sở hữu của mỗi chủ sở hữu chung không được xác định đối với tài sản chung (ví dụ: tài sản chung của vợ chồng)
+D. Sở hữu toàn dân do UBND cấp tỉnh đứng tên
+Đáp án đúng: C
+Giải thích: Sở hữu chung hợp nhất không xác định phần quyền của từng chủ thể trong khối tài sản chung.
+
+Câu 40 [Dễ]: Chủ sở hữu có quyền đòi lại tài sản từ ai khi tài sản bị chiếm đoạt trái pháp luật?
+A. Đòi lại từ UBND cấp xã
+B. Đòi lại từ Tòa án nhân dân khu vực
+C. Đòi lại từ bất kỳ người nào đi qua đường
+D. Đòi lại tài sản từ người đang chiếm hữu bất hợp pháp tài sản đó
+Đáp án đúng: D
+Giải thích: Chủ sở hữu có quyền kiện đòi tài sản từ người đang chiếm hữu, sử dụng tài sản đó không có căn cứ pháp lý.
+
+Câu 41 [Trung bình]: Người chiếm hữu không có căn cứ pháp lý nhưng 'ngay tình' được hiểu là gì?
+A. Người cố ý trộm cắp tài sản của người khác
+B. Người chiếm hữu tài sản mà không biết và không thể biết việc chiếm hữu tài sản đó là không có căn cứ pháp lý
+C. Người biết rõ tài sản do phạm tội mà có nhưng vẫn cố tình mua
+D. Người cướp giật tài sản công cộng
+Đáp án đúng: B
+Giải thích: Chiếm hữu ngay tình là người chiếm hữu không có căn cứ pháp lý nhưng trung thực, không biết và không thể biết việc chiếm hữu đó là trái luật.
+
+Câu 42 [Trung bình]: Thời điểm chuyển quyền sở hữu đối với Bất động sản (như nhà đất) được xác định vào thời điểm nào theo quy định pháp luật?
+A. Thời điểm đăng ký vào sổ địa chính/đăng ký quyền sở hữu theo quy định của Luật Đất đai và Bộ luật Dân sự
+B. Thời điểm bên bán chuyển hộ khẩu đi nơi khác
+C. Thời điểm bên mua thanh toán 10% tiền cọc
+D. Thời điểm hai bên bắt đầu bàn bạc trao đổi miệng
+Đáp án đúng: A
+Giải thích: Đối với bất động sản, quyền sở hữu chuyển giao kể từ thời điểm hoàn thành đăng ký quyền sở hữu/đăng ký đất đai vào sổ địa chính.
+
+Câu 43 [Trung bình]: Thời điểm chuyển quyền sở hữu đối với Động sản không đăng ký quyền sở hữu (như quần áo, điện thoại, sách vở) được xác định khi nào?
+A. Thời điểm động sản được chuyển giao cho bên mua (trừ trường hợp có thỏa thuận khác hoặc luật có quy định khác)
+B. Thời điểm ký hợp đồng qua điện thoại
+C. Thời điểm bên mua học xong đại học
+D. Thời điểm Ủy ban nhân dân cấp xã đóng dấu xác nhận
+Đáp án đúng: A
+Giải thích: Đối với động sản không đăng ký, quyền sở hữu chuyển giao kể từ thời điểm nhận bàn giao tài sản.
+
+Câu 44 [Trung bình]: Người nhặt được tài sản bị đánh rơi, bỏ quên có nghĩa vụ xử lý như thế nào theo quy định Bộ luật Dân sự?
+A. Thông báo hoặc trả lại ngay cho người đánh rơi; nếu không biết ai thì thông báo/giao nộp cho Ủy ban nhân dân cấp xã hoặc Công an nơi gần nhất
+B. Tự ý bán lấy tiền tiêu xài cá nhân
+C. Giấu kín trong nhà không cho ai biết sau 3 ngày đương nhiên thành của mình
+D. Đem vứt bỏ vào thùng rác công cộng
+Đáp án đúng: A
+Giải thích: Người nhặt được tài sản đánh rơi phải thông báo/trả lại cho chủ sở hữu hoặc giao nộp cho UBND cấp xã/Công an nơi gần nhất.
+
+Câu 45 [Trung bình]: Trường hợp tài sản là gia súc (như bò, trâu) bị thất lạc chui vào trại của người khác, nếu không tìm được chủ sở hữu sau thời hạn bao lâu kể từ ngày thông báo công khai thì gia súc đó thuộc về người bắt được?
+A. Sau 01 năm (hoặc 01 năm đối với gia súc thả rông theo thói quen)
+B. Sau 10 năm
+C. Sau 01 tháng
+D. Sau 01 ngày
+Đáp án đúng: A
+Giải thích: Sau 01 năm kể từ ngày thông báo công khai mà không có người đến nhận thì gia súc thất lạc thuộc sở hữu của người bắt được (trừ trường hợp thả rông theo thói quen).
+
+Câu 46 [Trung bình]: Trường hợp một người chiếm hữu tài sản không có căn cứ pháp lý nhưng ngay tình, liên tục, công khai thì sau thời hạn bao lâu sẽ trở thành chủ sở hữu tài sản đó?
+A. 05 năm đối với động sản, 05 năm đối với bất động sản
+B. 10 năm đối với động sản, 30 năm đối với bất động sản
+C. 01 năm đối với động sản, 02 năm đối với bất động sản
+D. 50 năm đối với động sản, 100 năm đối với bất động sản
+Đáp án đúng: B
+Giải thích: Bộ luật Dân sự quy định thời hiệu xác lập quyền sở hữu theo thời gian chiếm hữu ngay tình, liên tục, công khai là 10 năm (động sản) và 30 năm (bất động sản).
+
+Câu 47 [Trung bình]: Chủ sở hữu chung theo phần có quyền gì đối với phần quyền sở hữu của mình?
+A. Không được quyền chuyển nhượng dưới bất kỳ hình thức nào
+B. Có quyền tự ý bán toàn bộ tài sản chung mà không hỏi ý kiến ai
+C. Có quyền bán, tặng cho, thừa kế phần quyền sở hữu của mình, nhưng khi bán phải ưu tiên cho các chủ sở hữu chung khác mua trước theo cùng điều kiện
+D. Phải chia đều tiền bán cho UBND cấp xã
+Đáp án đúng: C
+Giải thích: Chủ sở hữu chung theo phần được định đoạt phần quyền của mình nhưng phải bảo đảm quyền ưu tiên mua của các chủ sở hữu chung còn lại.
+
+Câu 48 [Trung bình]: Khi một người ngầm chôn giấu tài sản (tài sản bị giấu giếm, vùi lấp) được tìm thấy, việc xác định quyền sở hữu đối với tài sản đó tuân theo nguyên tắc nào?
+A. Người tìm thấy được hưởng trọn vẹn 100% bất kể là bảo vật quốc gia
+B. Tài sản tìm thấy sau khi trừ chi phí tìm kiếm thuộc sở hữu nhà nước nếu là di tích lịch sử, văn hóa; nếu tài sản có giá trị lớn thì chia theo tỷ lệ luật định cho người tìm thấy
+C. UBND cấp xã thu hồi 100% không bồi dưỡng cho người tìm thấy
+D. Tài sản đương nhiên thuộc về người chủ đất hiện tại không chia cho ai
+Đáp án đúng: B
+Giải thích: Tài sản vùi lấp là di tích/di vật lịch sử thuộc sở hữu nhà nước, người tìm thấy được thưởng tiền; tài sản khác chia theo tỷ lệ mức giá trị luật định.
+
+Câu 49 [Trung bình]: Sự khác biệt cơ bản giữa Quyền sở hữu và Quyền khác đối với tài sản (như Quyền bề mặt, Quyền hưởng dụng, Quyền đối với bất động sản liền kề) là gì?
+A. Quyền sở hữu chỉ do UBND cấp tỉnh cấp; Quyền khác do UBND cấp xã cấp
+B. Quyền sở hữu bao gồm đầy đủ 3 quyền năng (chiếm hữu, sử dụng, định đoạt); Quyền khác chỉ gồm một hoặc một số quyền năng do chủ sở hữu hoặc luật chi phối
+C. Quyền sở hữu chỉ dành cho người nước ngoài
+D. Quyền sở hữu không có giá trị tiền tệ; Quyền khác có giá trị rất lớn
+Đáp án đúng: B
+Giải thích: Quyền sở hữu là quyền trọn vẹn nhất; các quyền khác chỉ khai thác một số quyền năng nhất định trên tài sản của người khác.
+
+Câu 50 [Trung bình]: Trong việc bảo vệ quyền sở hữu, 'Kiện đòi tài sản' (Vindicatio) áp dụng khi nào?
+A. Chủ sở hữu yêu cầu Tòa án giảm thuế tài sản
+B. Chủ sở hữu yêu cầu người khác phải xin lỗi công khai
+C. Chủ sở hữu yêu cầu người chiếm hữu bất hợp pháp phải trả lại tài sản đang bị chiếm giữ trái pháp luật
+D. Chủ sở hữu yêu cầu ngân hàng xóa nợ
+Đáp án đúng: C
+Giải thích: Kiện đòi lại tài sản là phương thức bảo vệ quyền sở hữu nhằm lấy lại tài sản thực tế từ tay người chiếm hữu không có căn cứ pháp lý.
+
+Câu 51 [Trung bình]: Trường hợp nào sau đây chủ sở hữu KHÔNG ĐƯỢC đòi lại động sản không phải đăng ký quyền sở hữu từ người chiếm hữu ngay tình?
+A. Tài sản bị trộm cắp, cướp giật bị bán cho người mua
+B. Tài sản do người mượn tự ý đem bán đấu giá trái phép
+C. Tài sản bị đánh rơi bị đem bán cho người tiêu dùng
+D. Người chiếm hữu ngay tình có được tài sản thông qua giao dịch có đền bù (như mua bán) từ người được chủ sở hữu giao tài sản
+Đáp án đúng: D
+Giải thích: Nếu tài sản thông qua giao dịch đền bù từ người được chủ sở hữu giao quản lý thì chủ sở hữu không được đòi lại từ người chiếm hữu ngay tình.
+
+Câu 52 [Trung bình]: Tài sản chung của vợ chồng trong thời kỳ hôn nhân bao gồm những tài sản nào?
+A. Chỉ gồm tài sản do người chồng đứng tên
+B. Tất cả tài sản của cha mẹ hai bên cho riêng trước khi cưới
+C. Tài sản do vợ, chồng tạo ra, thu nhập do lao động, hoạt động sản xuất, kinh doanh, hoa lợi, lợi tức phát sinh từ tài sản riêng và thu nhập hợp pháp khác trong thời kỳ hôn nhân
+D. Chỉ gồm tiền lương của người vợ
+Đáp án đúng: C
+Giải thích: Theo Luật Hôn nhân và Gia đình 2014, tài sản tạo ra trong thời kỳ hôn nhân là tài sản chung hợp nhất của vợ chồng.
+
+Câu 53 [Vận dụng]: Anh M nhặt được một chiếc ví rơi trên đường Phường X, bên trong có 10 triệu đồng tiền mặt và giấy tờ tùy thân của Anh N. Anh M đem chiếc ví giấu đi sử dụng cá nhân. Khi Anh N phát hiện và đòi lại, Anh M yêu cầu Anh N phải cho 5 triệu mới trả. Hành vi của Anh M đúng hay sai?
+A. Đúng. Ví rơi trên đường thuộc sở hữu của người trông thấy đầu tiên
+B. Sai. Anh M có nghĩa vụ trả lại toàn bộ tài sản nhặt được cho Anh N; hành vi giữ lại đòi tiền là chiếm giữ trái phép tài sản
+C. Đúng. Người nhặt được tài sản có quyền đòi 50% giá trị
+D. Sai. Anh M phải nộp toàn bộ cho UBND cấp xã để đấu giá
+Đáp án đúng: B
+Giải thích: Người nhặt được tài sản bị đánh rơi phải trả lại đầy đủ cho chủ sở hữu, không có quyền đòi tiền chuộc trái luật.
+
+Câu 54 [Vận dụng]: Ông T cho Anh K mượn chiếc xe máy để đi lại. Anh K do thiếu tiền cá độ nên đã mang chiếc xe máy đó đến cửa hàng cầm đồ Y thế chấp lấy 15 triệu đồng. Cửa hàng Y không biết xe do Anh K mượn. Khi Ông T phát hiện đến đòi lại xe, cửa hàng Y từ chối trả. Ông T có quyền đòi lại chiếc xe máy từ cửa hàng Y không?
+A. Có quyền đòi lại xe, vì xe máy là động sản phải đăng ký quyền sở hữu và bị người mượn định đoạt trái phép
+B. Không có quyền đòi vì cửa hàng Y là người chiếm hữu ngay tình
+C. Cửa hàng Y được tự động đăng ký tên sở hữu xe
+D. Ông T phải trả 15 triệu cho cửa hàng Y thì mới được lấy xe
+Đáp án đúng: A
+Giải thích: Đối với tài sản phải đăng ký quyền sở hữu bị đem cầm đồ/bán trái phép, chủ sở hữu có quyền đòi lại từ người chiếm hữu ngay tình.
+
+Câu 55 [Vận dụng]: Chị H mua một căn nhà gắn liền với đất tại Phường Z. Hai bên đã ký hợp đồng công chứng và thanh toán đủ 100% tiền nhưng Chị H chưa làm thủ tục sang tên đăng ký đất đai tại cơ quan nhà nước. Hai tháng sau, người bán lại đem căn nhà đó thế chấp ngân hàng. Quyền sở hữu căn nhà của Chị H đã phát sinh chưa?
+A. Đã phát sinh 100% ngay từ khi ký hợp đồng công chứng
+B. Chưa phát sinh, vì việc chuyển quyền sở hữu bất động sản chỉ chính thức phát sinh kể từ thời điểm hoàn thành đăng ký vào sổ địa chính
+C. Đã phát sinh vì đã trả đủ 100% tiền
+D. Đã phát sinh kể từ khi Chị H dọn về ở
+Đáp án đúng: B
+Giải thích: Quyền sở hữu bất động sản chỉ phát sinh kể từ thời điểm đăng ký đất đai/đăng ký quyền sở hữu theo luật định.
+
+Câu 56 [Vận dụng]: Ông B có cây xoài trồng sát ranh giới đất. Các cành xoài vươn sang không trung nhà hàng xóm là Ông C và quả xoài rụng xuống sân nhà Ông C. Ông C cho rằng toàn bộ quả trên cành vươn sang và quả rụng thuộc sở hữu của mình. Khẳng định nào đúng pháp luật?
+A. Ông C có quyền tự ý chặt toàn bộ cây xoài của Ông B
+B. Ông B có quyền xông vào nhà Ông C đánh đuổi để lấy lại quả rụng
+C. Quả xoài rụng xuống sân nhà Ông C thuộc về Ông C (hoa lợi tự nhiên rụng); nhưng cành xoài và quả trên cây vẫn thuộc sở hữu của Ông B
+D. Toàn bộ cây xoài thuộc sở hữu của Ông C
+Đáp án đúng: C
+Giải thích: Theo Bộ luật Dân sự, hoa lợi/quả rụng sang đất nhà hàng xóm thuộc về chủ đất nơi quả rụng; quả trên cành vươn sang vẫn thuộc chủ cây.
+
+Câu 57 [Vận dụng]: Anh A và Anh B cùng góp tiền mua chung một chiếc xe ô tô tải kinh doanh chở hàng (mỗi người góp 50% tiền). Đây là hình thức sở hữu nào và khi Anh A muốn bán 50% phần quyền sở hữu của mình cho người ngoài thì phải làm gì?
+A. Sở hữu nhà nước; Anh A phải xin phép UBND cấp tỉnh
+B. Sở hữu riêng của Anh A; Anh A được bán cho bất kỳ ai không cần hỏi Anh B
+C. Sở hữu chung theo phần; Anh A phải thông báo cho Anh B biết để Anh B thực hiện quyền ưu tiên mua trước trong thời hạn luật định
+D. Sở hữu chung hợp nhất; Anh A không bao giờ được phép bán
+Đáp án đúng: C
+Giải thích: Góp tiền mua chung tài sản xác định rõ tỷ lệ là sở hữu chung theo phần. Khi bán phần quyền sở hữu phải tôn trọng quyền ưu tiên mua của đồng sở hữu.
+
+Câu 58 [Vận dụng]: Bà X mua một chiếc nhẫn kim cương tại cửa hàng kim hoàn. Ba tháng sau, Công an phát hiện chiếc nhẫn kim cương này là tài sản bị kẻ trộm lấy cắp từ nhà Ông Y và bán lại cho cửa hàng. Ông Y khởi kiện đòi Bà X trả lại chiếc nhẫn. Tòa án xử lý như thế nào?
+A. Ủy ban nhân dân cấp xã tịch thu chiếc nhẫn
+B. Bà X được giữ lại nhẫn, Ông Y mất trắng tài sản
+C. Ông Y phải trả cho Bà X gấp đôi tiền nhẫn mới được lấy lại
+D. Bà X phải trả lại chiếc nhẫn cho Ông Y vì đây là tài sản bị trộm cắp; Bà X có quyền yêu cầu cửa hàng kim hoàn hoàn trả tiền mua nhẫn
+Đáp án đúng: D
+Giải thích: Tài sản bị trộm cắp thì chủ sở hữu có quyền đòi lại từ người chiếm hữu ngay tình; người chiếm hữu ngay tình được đền bù tiền từ người bán trái phép.
+
+Câu 59 [Vận dụng]: Gia đình Ông M đào đất làm móng nhà tại Phường T thì phát hiện một hũ sứ chứa 100 đồng tiền vàng cổ bị chôn giấu từ hàng trăm năm trước. Ông M muốn giữ lại toàn bộ số vàng cổ này. Quyền sở hữu hũ tiền vàng cổ này được xác định như thế nào?
+A. Thu thuộc sở hữu riêng của Chủ tịch UBND cấp xã
+B. Chia đều cho tất cả người dân sống cùng phường
+C. Thuộc sở hữu riêng 100% của Gia đình Ông M
+D. Hũ tiền vàng cổ là di vật/cổ vật lịch sử thuộc sở hữu toàn dân (Nhà nước); Gia đình Ông M được thưởng một khoản tiền theo quy định pháp luật
+Đáp án đúng: D
+Giải thích: Cổ vật, di vật lịch sử chôn giấu tìm thấy thuộc sở hữu nhà nước; người tìm thấy được hoàn trả chi phí và thưởng tiền theo quy định.
+
+Câu 60 [Vận dụng]: Anh K gửi chiếc xe máy tại bãi giữ xe công cộng có lấy thẻ xe. Sau khi ra lấy xe thì phát hiện chiếc xe bị mất trộm. Chủ bãi xe giải thích 'do kẻ trộm quá tinh vi nên bãi xe không có lỗi' và từ chối bồi thường. Anh K có quyền kiện đòi bồi thường dựa trên quyền năng nào?
+A. Dựa trên nghĩa vụ bảo quản tài sản của bên giữ tài sản theo hợp đồng gửi giữ và quyền bảo vệ tài sản của chủ sở hữu
+B. Không có quyền kiện vì mất xe là do rủi ro
+C. Anh K phải tự đi tìm kẻ trộm không được đòi bãi xe
+D. Chỉ có quyền yêu cầu UBND cấp xã cấp xe mới
+Đáp án đúng: A
+Giải thích: Bên giữ tài sản có nghĩa vụ bảo quản và phải bồi thường thiệt hại nếu làm mất mát, hư hỏng tài sản gửi giữ.
+
+--------------------------------------------------------------------------------
+MỤC 4.1.3. HỢP ĐỒNG DÂN SỰ
+--------------------------------------------------------------------------------
+
+Câu 61 [Dễ]: Hợp đồng dân sự là gì theo quy định của Bộ luật Dân sự 2015?
+A. Sự thỏa thuận giữa các bên về việc xác lập, thay đổi hoặc chấm dứt quyền, nghĩa vụ dân sự
+B. Văn bản hành chính do cơ quan nhà nước ban hành cho công dân
+C. Phán quyết của Tòa án nhân dân khu vực về tranh chấp tài sản
+D. Đơn từ khiếu nại của công dân gửi chính quyền địa phương
+Đáp án đúng: A
+Giải thích: Điều 385 Bộ luật Dân sự 2015 quy định: Hợp đồng là sự thỏa thuận giữa các bên về việc xác lập, thay đổi hoặc chấm dứt quyền, nghĩa vụ dân sự.
+
+Câu 62 [Dễ]: Điều kiện nào sau đây KHÔNG phải là điều kiện có hiệu lực của giao dịch dân sự?
+A. Chủ thể tham gia giao dịch dân sự hoàn toàn tự nguyện
+B. Giá trị hợp đồng phải từ 500 triệu đồng trở lên
+C. Mục đích và nội dung của giao dịch dân sự không vi phạm điều cấm của luật, không trái đạo đức xã hội
+D. Chủ thể có năng lực pháp luật dân sự, năng lực hành vi dân sự phù hợp với giao dịch dân sự được xác lập
+Đáp án đúng: B
+Giải thích: Hiệu lực của giao dịch dân sự không bắt buộc giá trị tối thiểu 500 triệu đồng.
+
+Câu 63 [Dễ]: Hình thức của hợp đồng dân sự có thể được xác lập bằng các phương thức nào?
+A. Bắt buộc phải quay video ghi âm làm chứng
+B.  Bằng lời nói, bằng văn bản hoặc bằng hành vi cụ thể
+C. Chỉ được xác lập bằng văn bản công chứng nhà nước
+D. Chỉ được xác lập bằng lời nói qua điện thoại
+Đáp án đúng: B
+Giải thích: Hợp đồng dân sự có thể xác lập bằng lời nói, bằng văn bản hoặc bằng hành vi cụ thể, trừ trường hợp luật quy định hình thức bắt buộc.
+
+Câu 64 [Dễ]: Hậu quả pháp lý trực tiếp của Hợp đồng dân sự vô hiệu là gì?
+A. Các bên bắt buộc phải thi hành hết nghĩa vụ
+B. Hợp đồng vẫn có hiệu lực 50%
+C. Toàn bộ tài sản trong hợp đồng bị tịch thu vào ngân sách nhà nước trong mọi trường hợp
+D. Không làm phát sinh, thay đổi, chấm dứt quyền, nghĩa vụ dân sự của các bên kể từ thời điểm hợp đồng được xác lập
+Đáp án đúng: D
+Giải thích: Giao dịch dân sự vô hiệu không làm phát sinh, thay đổi, chấm dứt quyền, nghĩa vụ dân sự của các bên kể từ thời điểm xác lập.
+
+Câu 65 [Dễ]: Khi hợp đồng dân sự bị vô hiệu, các bên có nghĩa vụ xử lý tài sản đã giao như thế nào?
+A. Bên nhận tài sản được giữ lại làm sở hữu riêng
+B. Chờ Tòa án nhân dân tối cao tịch thu toàn bộ
+C. Khôi phục lại tình trạng ban đầu, hoàn trả cho nhau những gì đã nhận
+D. Bán đấu giá chia tiền cho Ủy ban nhân dân cấp xã
+Đáp án đúng: C
+Giải thích: Khi giao dịch vô hiệu, các bên khôi phục lại tình trạng ban đầu, hoàn trả cho nhau những gì đã nhận.
+
+Câu 66 [Dễ]: Biện pháp 'Đặt cọc' nhằm mục đích gì trong quan hệ hợp đồng?
+A. Thay thế cho tiền mua hàng
+B. Đóng thuế trước cho Nhà nước
+C. Bảo đảm giao kết hoặc thực hiện hợp đồng dân sự
+D. Ủy quyền cho ngân hàng quản lý doanh nghiệp
+Đáp án đúng: C
+Giải thích: Đặt cọc là việc một bên giao cho bên kia một khoản tiền/kim khí quý để bảo đảm giao kết hoặc thực hiện hợp đồng.
+
+Câu 67 [Dễ]: Biện pháp 'Thế chấp tài sản' khác với 'Cầm cố tài sản' ở điểm cơ bản nào?
+A. Cầm cố không cần lập hợp đồng, thế chấp bắt buộc phải làm miệng
+B. Trong thế chấp, bên thế chấp dùng tài sản thuộc sở hữu của mình để bảo đảm nghĩa vụ và không giao tài sản cho bên nhận thế chấp; trong cầm cố, bên cầm cố giao tài sản cho bên nhận cầm cố
+C. Thế chấp do UBND cấp xã giữ tài sản, cầm cố do Tòa án giữ
+D. Thế chấp dành cho động sản, cầm cố dành cho đất đai
+Đáp án đúng: B
+Giải thích: Sự khác biệt căn bản: Cầm cố có sự giao tài sản cho bên nhận cầm cố; Thế chấp không giao tài sản mà bên thế chấp tiếp tục giữ tài sản.
+
+Câu 68 [Dễ]: Hợp đồng mua bán nhà ở bắt buộc phải tuân thủ hình thức nào để có hiệu lực pháp lý?
+A. Phải lập thành văn bản và được công chứng hoặc chứng thực theo quy định pháp luật
+B. Gửi tin nhắn qua mạng xã hội
+C. Chỉ cần thỏa thuận bằng lời nói giữa hai bên
+D. Viết tay trên giấy nháp không cần chữ ký
+Đáp án đúng: A
+Giải thích: Hợp đồng mua bán bất động sản/nhà ở bắt buộc phải lập thành văn bản có công chứng/chứng thực.
+
+Câu 69 [Dễ]: Trách nhiệm bồi thường thiệt hại do vi phạm hợp đồng phát sinh khi có đủ các căn cứ nào?
+A. Có hành vi vi phạm hợp đồng, có thiệt hại thực tế xảy ra và có mối quan hệ nhân quả giữa hành vi vi phạm và thiệt hại
+B. Chỉ cần có hành vi vi phạm hợp đồng mà không cần có thiệt hại
+C. Chỉ cần bên vi phạm là người nghèo
+D. Do Tòa án chọn ngẫu nhiên
+Đáp án đúng: A
+Giải thích: Trách nhiệm bồi thường thiệt hại hợp đồng phát sinh khi có hành vi vi phạm, có thiệt hại thực tế và mối quan hệ nhân quả.
+
+Câu 70 [Dễ]: Phạt vi phạm hợp đồng là gì?
+A. Hình phạt tù do Tòa án tuyên bố đối với người vi phạm hợp đồng
+B. Sự thỏa thuận giữa các bên trong hợp đồng, theo đó bên vi phạm nghĩa vụ phải nộp một khoản tiền phạt cho bên bị vi phạm
+C. Thuế phạt vi phạm nộp cho cơ quan thuế
+D. Khoản tiền do Công an xử phạt thu vào ngân sách
+Đáp án đúng: B
+Giải thích: Phạt vi phạm là sự thỏa thuận giữa các bên về khoản tiền phạt mà bên vi phạm phải trả cho bên bị vi phạm.
+
+Câu 71 [Dễ]: Hợp đồng vay tài sản được hiểu là sự thỏa thuận giữa các bên như thế nào?
+A. Bên cho vay được quyền bắt giữ bên vay làm lao động miễn phí
+B. Bên cho vay tặng cho vĩnh viễn tài sản cho bên vay không lấy lại
+C. Bên cho vay giao tài sản cho bên vay; khi đến hạn trả, bên vay phải hoàn trả tài sản cùng loại đúng số lượng, chất lượng và chỉ phải trả lãi nếu có thỏa thuận hoặc pháp luật quy định
+D. Bên vay phải giao nhà ở cho bên cho vay đứng tên ngay lập tức
+Đáp án đúng: C
+Giải thích: Hợp đồng vay tài sản quy định nghĩa vụ hoàn trả tài sản cùng loại đúng hạn và lãi (nếu có thỏa thuận).
+
+Câu 72 [Dễ]: Biện pháp 'Bảo lãnh' trong hợp đồng dân sự là việc:
+A. Doanh nghiệp tự ý lấy tài sản của nhân viên thế chấp
+B. Người thứ ba (bên bảo lãnh) cam kết với bên có quyền (bên nhận bảo lãnh) sẽ thực hiện nghĩa vụ thay cho bên có nghĩa vụ (bên được bảo lãnh), nếu khi đến hạn thực hiện nghĩa vụ mà bên được bảo lãnh không thực hiện hoặc thực hiện không đúng
+C. Ủy ban nhân dân cấp xã đứng ra nộp tiền thay cho dân
+D. Ngân hàng tịch thu 100% tài sản của người dân
+Đáp án đúng: B
+Giải thích: Bảo lãnh là việc người thứ ba cam kết thực hiện nghĩa vụ thay nếu bên có nghĩa vụ không thực hiện đúng hạn.
+
+Câu 73 [Trung bình]: Trường hợp hợp đồng mua bán tài sản không quy định về giá và phương thức thanh toán, cũng không thỏa thuận được thêm thì giá tài sản được xác định như thế nào?
+A. Do bên bán tự ý áp đặt giá cao nhất
+B. Xác định theo giá thị trường của tài sản đó tại thời điểm và địa điểm giao kết hợp đồng
+C. Do Ủy ban nhân dân cấp xã quyết định
+D. Do bên mua tự ý trả giá thấp nhất 0 đồng
+Đáp án đúng: B
+Giải thích: Nếu không có thỏa thuận và không thể xác định theo giá ấn định thì áp dụng giá thị trường tại thời điểm và địa điểm giao kết.
+
+Câu 74 [Trung bình]: Bộ luật Dân sự 2015 quy định mức lãi suất vay do các bên thỏa thuận trong hợp đồng vay tài sản không được vượt quá bao nhiêu?
+A. Không được vượt quá 5%/năm
+B. Tự do thỏa thuận bao nhiêu cũng được dù là 1000%/năm
+C. Không được vượt quá 100%/năm
+D. Không được vượt quá 20%/năm của khoản tiền vay (trừ trường hợp luật khác có quy định khác)
+Đáp án đúng: D
+Giải thích: Mức lãi suất vay do các bên thỏa thuận không được vượt quá 20%/năm của khoản tiền vay theo quy định tại Điều 468 BLDS 2015.
+
+Câu 75 [Trung bình]: Trường hợp các bên có thỏa thuận về việc phạt vi phạm hợp đồng nhưng không thỏa thuận về bồi thường thiệt hại thì bên vi phạm phải chịu trách nhiệm như thế nào?
+A. Bắt buộc phải bồi thường thiệt hại gấp 10 lần
+B. Bên vi phạm bị tước quyền kinh doanh
+C. Chỉ phải chịu phạt vi phạm hợp đồng mà không phải bồi thường thiệt hại (trừ trường hợp luật có quy định khác)
+D. Hợp đồng tự động bị hủy bỏ vô hiệu
+Đáp án đúng: C
+Giải thích: Nếu chỉ thỏa thuận phạt vi phạm mà không thỏa thuận bồi thường thiệt hại thì bên vi phạm chỉ phải chịu phạt vi phạm.
+
+Câu 76 [Trung bình]: Hợp đồng tặng cho tài sản là bất động sản có hiệu lực từ thời điểm nào?
+A. Kể từ thời điểm đăng ký quyền sở hữu theo quy định của pháp luật
+B. Kể từ khi người cho tặng qua đời
+C. Kể từ thời điểm hai bên bắt đầu hứa hẹn bằng miệng
+D. Kể từ khi người nhận tặng cho đủ 18 tuổi
+Đáp án đúng: A
+Giải thích: Hợp đồng tặng cho bất động sản phải lập thành văn bản công chứng/chứng thực và có hiệu lực từ thời điểm đăng ký quyền sở hữu.
+
+Câu 77 [Trung bình]: Một bên trong hợp đồng có quyền 'Đơn phương chấm dứt thực hiện hợp đồng' khi nào?
+A. Khi một bên vi phạm nghiêm trọng nghĩa vụ hợp đồng nếu các bên có thỏa thuận hoặc pháp luật có quy định
+B. Khi Ủy ban nhân dân cấp xã yêu cầu dừng
+C. Khi bên kia không đồng ý tăng giá tiền
+D. Bất kỳ lúc nào thích thì chấm dứt không cần lý do
+Đáp án đúng: A
+Giải thích: Đơn phương chấm dứt hợp đồng áp dụng khi bên kia vi phạm nghiêm trọng nghĩa vụ theo thỏa thuận hoặc luật định.
+
+Câu 78 [Trung bình]: Trường hợp tài sản cầm cố bị hư hỏng, giảm sút giá trị do lỗi của bên nhận cầm cố thì bên nhận cầm cố có trách nhiệm gì?
+A. Được quyền bắt bên cầm cố đưa thêm tài sản mới
+B. Được tự ý đem tài sản đi bán thanh lý
+C. Không phải chịu trách nhiệm vì tài sản thuộc quyền giữ của mình
+D. Phải bồi thường thiệt hại cho bên cầm cố
+Đáp án đúng: D
+Giải thích: Bên nhận cầm cố có nghĩa vụ bảo quản tài sản; nếu làm hư hỏng, mất mát do lỗi của mình thì phải bồi thường thiệt hại.
+
+Câu 79 [Trung bình]: Sự khác biệt giữa 'Hủy bỏ hợp đồng' và 'Đơn phương chấm dứt hợp đồng' về mặt hậu quả pháp lý là gì?
+A. Đơn phương chấm dứt phải bồi thường gấp 100 lần, Hủy bỏ không bồi thường
+B. Hủy bỏ hợp đồng do Tòa án quyết định, Đơn phương do UBND xử phạt
+C. Hai khái niệm hoàn toàn giống nhau
+D. Hủy bỏ hợp đồng làm hợp đồng không có hiệu lực từ thời điểm giao kết (các bên trả lại cho nhau những gì đã nhận); Đơn phương chấm dứt làm hợp đồng chấm dứt từ thời điểm bên kia nhận được thông báo (các phần đã thực hiện vẫn có hiệu lực)
+Đáp án đúng: D
+Giải thích: Hủy bỏ hợp đồng có hiệu lực hồi tố về thời điểm ký; Đơn phương chấm dứt chỉ có hiệu lực cho tương lai từ thời điểm thông báo.
+
+Câu 80 [Trung bình]: Khi một bên cọc giao tiền đặt cọc nhưng sau đó từ chối không giao kết, thực hiện hợp đồng mà không có lý do chính đáng thì xử lý tài sản đặt cọc như thế nào?
+A. Ủy ban nhân dân cấp xã tịch thu số tiền cọc
+B. Tiền cọc chia đôi cho hai bên
+C. Tài sản đặt cọc thuộc về bên nhận đặt cọc
+D. Bên nhận đặt cọc phải trả lại 100% tiền cọc
+Đáp án đúng: C
+Giải thích: Nếu bên đặt cọc từ chối giao kết/thực hiện hợp đồng thì tài sản đặt cọc thuộc về bên nhận đặt cọc (trừ trường hợp có thỏa thuận khác).
+
+Câu 81 [Trung bình]: Trường hợp bên nhận đặt cọc từ chối việc giao kết, thực hiện hợp đồng thì xử lý tài sản đặt cọc như thế nào?
+A. Chỉ cần trả lại đúng số tiền cọc đã nhận không bị phạt
+B. Chỉ phải xin lỗi không phải trả tiền
+C. Phải trả cho bên đặt cọc tài sản đặt cọc và một khoản tiền tương đương giá trị tài sản đặt cọc (phạt cọc gấp đôi), trừ trường hợp có thỏa thuận khác
+D. Bị phạt tù 1 năm
+Đáp án đúng: C
+Giải thích: Nếu bên nhận đặt cọc vi phạm thì phải trả lại tiền cọc và bị phạt cọc khoản tiền tương đương (phạt cọc gấp đôi).
+
+Câu 82 [Trung bình]: Hợp đồng thuê tài sản kết thúc khi nào?
+A. Khi bên thuê không muốn trả tiền thuê
+B. Sau 100 năm tự động kết thúc
+C. Khi người cho thuê dọn đi nơi khác sống
+D. Hết thời hạn thuê theo hợp đồng; hoặc hợp đồng bị hủy bỏ, đơn phương chấm dứt theo thỏa thuận hoặc luật định
+Đáp án đúng: D
+Giải thích: Hợp đồng thuê chấm dứt khi hết hạn thuê hoặc bị chấm dứt/hủy bỏ theo quy định.
+
+Câu 83 [Trung bình]: Quyền 'Cầm giữ tài sản' trong hợp đồng song động (như hợp đồng sửa chữa, gia công) được hiểu là gì?
+A. Bên giữ tài sản phải nộp tài sản cho Công an
+B. Bên có quyền (bên sửa chữa/gia công) đang chiếm hữu hợp pháp tài sản được quyền giữ tài sản khi bên có nghĩa vụ không thực hiện hoặc thực hiện không đúng nghĩa vụ thanh toán
+C. Bên sửa chữa được tự ý đăng ký sang tên tài sản của khách
+D. Bên gia công có quyền đem bán đấu giá tài sản ngay sau 1 giờ
+Đáp án đúng: B
+Giải thích: Cầm giữ tài sản là biện pháp bảo đảm quyền của bên mang lại dịch vụ/gia công giữ tài sản cho đến khi bên kia thanh toán xong chi phí.
+
+Câu 84 [Trung bình]: Trong hợp đồng vay tiền không có lãi suất, khi đến hạn vay mà bên vay không trả hoặc trả không đầy đủ thì bên vay phải trả lãi chậm trả như thế nào?
+A. Không phải trả bất kỳ khoản lãi nào vì là vay không lãi
+B. Bị tịch thu nhà ở
+C. Phải trả lãi suất 100%/tháng
+D. Phải trả lãi trên số tiền nợ gốc chậm trả theo mức lãi suất do các bên thỏa thuận nhưng không vượt quá 20%/năm; nếu không thỏa thuận thì theo mức 10%/năm
+Đáp án đúng: D
+Giải thích: Nợ gốc chậm trả trong hợp đồng vay không lãi vẫn phải chịu lãi suất chậm trả theo quy định tại Điều 468 BLDS (thông thường 10%/năm).
+
+Câu 85 [Trung bình]: Thời điểm có hiệu lực của Hợp đồng dân sự nói chung (trừ trường hợp có thỏa thuận khác hoặc luật có quy định khác) được xác định khi nào?
+A. Thời điểm sau 01 năm kể từ ngày ký
+B. Thời điểm Tòa án nhân dân khu vực phê chuẩn
+C. Thời điểm các bên nhận được đăng ký kinh doanh
+D. Thời điểm hợp đồng được giao kết (các bên thống nhất thỏa thuận xong nội dung)
+Đáp án đúng: D
+Giải thích: Hợp đồng dân sự có hiệu lực từ thời điểm giao kết, trừ trường hợp các bên có thỏa thuận khác hoặc luật có quy định khác.
+
+Câu 86 [Trung bình]: Khi một hợp đồng bị đe dọa, cưỡng ép hoặc lừa dối để ký kết thì giao dịch đó bị coi là gì?
+A. Tự động chuyển thành hợp đồng tặng cho
+B. Vẫn hoàn toàn có hiệu lực bắt buộc thi hành
+C. Vô hiệu do bị lừa dối, dọa dẫm, cưỡng ép theo yêu cầu của bên bị lừa dối, dọa dẫm
+D. Chỉ vô hiệu nếu giá trị trên 1 tỷ đồng
+Đáp án đúng: C
+Giải thích: Giao dịch dân sự được xác lập do bị lừa dối, đe dọa, cưỡng ép là giao dịch vô hiệu theo tuyên bố của Tòa án.
+
+Câu 87 [Trung bình]: Rủi ro đối với tài sản mua bán được chuyển giao từ bên bán sang bên mua khi nào?
+A. Chuyển sang bên mua sau 10 năm
+B. Chuyển sang bên mua ngay từ khi bàn bạc miệng
+C. Luôn thuộc về bên bán vĩnh viễn
+D. Từ thời điểm quyền sở hữu tài sản được chuyển giao cho bên mua (trừ trường hợp có thỏa thuận khác)
+Đáp án đúng: D
+Giải thích: Sự chịu rủi ro gắn liền với thời điểm chuyển giao quyền sở hữu tài sản, trừ khi các bên có thỏa thuận khác.
+
+Câu 88 [Vận dụng]: Anh A đặt cọc 50 triệu đồng cho Anh B để cam kết mua căn nhà của Anh B tại Phường Y với giá 2 tỷ đồng. Hợp đồng đặt cọc quy định trong 15 ngày hai bên sẽ ký hợp đồng mua bán công chứng. Đến ngày thứ 10, Anh B đổi ý bán nhà cho người khác với giá 2,5 tỷ và trả lại 50 triệu cho Anh A. Anh A có quyền yêu cầu Anh B trả thêm bao nhiêu tiền?
+A. Yêu cầu Anh B bồi thường 2 tỷ đồng
+B. Yêu cầu UBND cấp xã tịch thu căn nhà
+C. Yêu cầu Anh B phạt cọc trả thêm 50 triệu đồng nữa (tổng cộng Anh B phải giao cho Anh A 100 triệu đồng)
+D. Không được đòi thêm tiền phạt cọc
+Đáp án đúng: C
+Giải thích: Anh B vi phạm thỏa thuận đặt cọc nên phải trả lại 50 triệu tiền cọc và chịu phạt cọc thêm 50 triệu đồng (gấp đôi tiền cọc).
+
+Câu 89 [Vận dụng]: Chị C ký hợp đồng cho Anh D vay 200 triệu đồng trong hạn 1 năm với mức lãi suất thỏa thuận ghi trong hợp đồng là 5%/tháng (tương đương 60%/năm). Khi phát sinh tranh chấp, Tòa án sẽ xử lý mức lãi suất này như thế nào?
+A. Tòa án công nhận toàn bộ mức 60%/năm vì hai bên tự nguyện
+B. Tòa án chỉ chấp nhận mức lãi suất tối đa 20%/năm; phần lãi suất vượt quá 20%/năm không có hiệu lực
+C. Tòa án hủy bỏ toàn bộ hợp đồng vay tiền khiến Chị C mất trắng gốc
+D. Tòa án phạt tù Chị C 10 năm ngay lập tức
+Đáp án đúng: B
+Giải thích: Mức lãi suất vượt quá 20%/năm bị vô hiệu phần vượt quá; Tòa án sẽ điều chỉnh lãi suất về mức tối đa 20%/năm theo Điều 468 BLDS.
+
+Câu 90 [Vận dụng]: Công ty X ký hợp đồng mua 10 tấn gạo của Công ty Y. Hợp đồng quy định phạt vi phạm là 15% giá trị hợp đồng vi phạm. Khi Công ty Y giao thiếu 2 tấn gạo, Công ty X đòi phạt 15% trên toàn bộ giá trị 10 tấn gạo. Yêu cầu của Công ty X có đúng luật không?
+A. Đúng. Mức phạt do bên mua tự quyết định
+B. Đúng. Được phạt trên toàn bộ giá trị hợp đồng
+C. Sai. Mức phạt vi phạm chỉ được tính trên giá trị phần nghĩa vụ hợp đồng bị vi phạm (giá trị 2 tấn gạo giao thiếu)
+D. Sai. Không được phạt vì giao thiếu ít
+Đáp án đúng: C
+Giải thích: Phạt vi phạm hợp đồng chỉ áp dụng đối với phần giá trị nghĩa vụ hợp đồng bị vi phạm, không được tính trên phần đã thực hiện đúng.
+
+Câu 91 [Vận dụng]: Ông K ký hợp đồng thuê nhà của Bà N để ở trong thời hạn 2 năm. Sau 6 tháng, Bà N bán căn nhà đó cho Ông P. Ông P yêu cầu Ông K phải dọn đi ngay vì 'nhà đã đổi chủ sở hữu'. Ông K có phải dọn đi không?
+A. Bắt buộc dọn đi trong vòng 24 giờ
+B. Phải trả gấp đôi tiền thuê cho Ông P
+C. Ủy ban nhân dân cấp xã sẽ cưỡng chế Ông K đi
+D. Không phải dọn đi. Hợp đồng thuê nhà vẫn tiếp tục có hiệu lực đối với chủ sở hữu mới (Ông P) cho đến khi hết thời hạn thuê 2 năm
+Đáp án đúng: D
+Giải thích: Khi quyền sở hữu tài sản thuê thay đổi, bên thuê tài sản vẫn được tiếp tục thuê theo các điều kiện đã thỏa thuận cho đến hết thời hạn hợp đồng.
+
+Câu 92 [Vận dụng]: Anh S mang xe ô tô đến xưởng của Anh T để sửa chữa máy. Sau khi sửa xong, chi phí hết 20 triệu đồng. Anh S không chịu trả tiền và đòi lái xe về. Anh T có quyền giữ lại chiếc xe ô tô không?
+A. Anh T phải báo Công an bắt giam Anh S ngay lập tức
+B. Anh T được tự ý bán xe lấy 20 triệu
+C. Anh T có quyền cầm giữ chiếc xe ô tô cho đến khi Anh S thanh toán đủ 20 triệu đồng chi phí sửa chữa
+D. Không có quyền giữ xe, phải trả xe ngay và đi kiện
+Đáp án đúng: C
+Giải thích: Anh T có quyền cầm giữ tài sản do mình sửa chữa gia công cho đến khi bên có nghĩa vụ thực hiện xong nghĩa vụ thanh toán.
+
+Câu 93 [Vận dụng]: Bà M vay của Anh N số tiền 500 triệu đồng. Để bảo đảm trả nợ, Anh K (bạn Bà M) ký hợp đồng bảo lãnh với Anh N. Đến hạn trả nợ, Bà M bỏ trốn không trả tiền. Anh N có quyền yêu cầu Anh K trả 500 triệu đồng không?
+A. Có quyền. Anh K là bên bảo lãnh có nghĩa vụ thực hiện trả nợ thay cho Bà M khi Bà M không thực hiện đúng nghĩa vụ
+B. Không có quyền vì Anh K không xài tiền vay
+C. Anh N phải đợi bắt được Bà M mới được đòi tiền
+D. Anh K chỉ phải xin lỗi Anh N
+Đáp án đúng: A
+Giải thích: Bên bảo lãnh có nghĩa vụ thực hiện nghĩa vụ thay cho bên được bảo lãnh khi đến hạn mà bên được bảo lãnh không thực hiện.
+
+Câu 94 [Vận dụng]: Anh P đến cửa hàng điện máy mua tivi trả góp. Cửa hàng giao tivi cho Anh P sử dụng nhưng hai bên thỏa thuận 'Cửa hàng bảo lưu quyền sở hữu tivi cho đến khi Anh P trả hết 100% tiền mua trả góp'. Anh P mới trả được 30% tiền đã đem bán tivi cho người khác. Hợp đồng bán tivi của Anh P có hợp pháp không?
+A. Hợp pháp nếu mua bán có viết giấy tay
+B. Chỉ vô hiệu nếu UBND cấp xã can thiệp
+C. Không hợp pháp, vì Anh P chưa có quyền sở hữu đối với tivi (do quyền sở hữu vẫn thuộc cửa hàng theo thỏa thuận bảo lưu quyền sở hữu)
+D. Hoàn toàn hợp pháp vì Anh P đã cầm tivi trong tay
+Đáp án đúng: C
+Giải thích: Khi có thỏa thuận bảo lưu quyền sở hữu, bên mua chưa trở thành chủ sở hữu nên không có quyền bán định đoạt tài sản đó cho người khác.
+
+Câu 95 [Vận dụng]: Cửa hàng A giao nhầm 10 chiếc máy tính bảng đắt tiền cho Anh B (dù Anh B chỉ đặt mua 1 chiếc). Anh B biết giao nhầm nhưng vẫn đem bán 9 chiếc máy tính bảng giao thừa lấy tiền tiêu xài. Hành vi của Anh B bị xử lý như thế nào theo Luật Dân sự?
+A. Ủy ban nhân dân cấp xã cho phép Anh B sở hữu
+B. Anh B phải hoàn trả lại tiền hoặc giá trị 9 chiếc máy tính bảng giao nhầm (nghĩa vụ hoàn trả do chiếm hữu, sử dụng tài sản không có căn cứ pháp lý) và bồi thường thiệt hại
+C. Anh B được giữ lại 9 chiếc máy tính vì cửa hàng tự làm sai
+D. Cửa hàng A bị tịch thu toàn bộ tài sản
+Đáp án đúng: B
+Giải thích: Người chiếm hữu, sử dụng tài sản không có căn cứ pháp lý (do giao nhầm) phải hoàn trả lại tài sản hoặc giá trị tài sản cho chủ sở hữu.
+
+--------------------------------------------------------------------------------
+MỤC 4.1.4. PHÁP LUẬT THỪA KẾ
+--------------------------------------------------------------------------------
+
+Câu 96 [Dễ]: Thời điểm mở thừa kế là thời điểm nào theo Bộ luật Dân sự 2015?
+A. Thời điểm gia đình họp chia tài sản
+B. Thời điểm người có tài sản chết (hoặc thời điểm Tòa án tuyên bố một người đã chết có hiệu lực)
+C. Thời điểm người thừa kế nộp đơn lên Ủy ban nhân dân cấp xã
+D. Thời điểm sau 100 ngày kể từ ngày chôn cất
+Đáp án đúng: B
+Giải thích: Thời điểm mở thừa kế là thời điểm người có tài sản chết hoặc thời điểm Tòa án tuyên bố một người đã chết có hiệu lực pháp luật.
+
+Câu 97 [Dễ]: Di sản thừa kế bao gồm những gì?
+A. Chỉ gồm tiền mặt gửi tiết kiệm
+B. Tài sản riêng của người chết, phần tài sản của người chết trong tài sản chung với người khác
+C. Toàn bộ tài sản của cả gia đình dòng họ
+D. Tài sản của con cái làm ra gửi người chết giữ hộ
+Đáp án đúng: B
+Giải thích: Di sản thừa kế bao gồm tài sản riêng của người chết và phần tài sản của người chết trong khối tài sản chung.
+
+Câu 98 [Dễ]: Người thừa kế là cá nhân phải đáp ứng điều kiện cơ bản nào tại thời điểm mở thừa kế?
+A. Phải còn sống vào thời điểm mở thừa kế (hoặc sinh ra và còn sống sau thời điểm mở thừa kế nhưng đã thành thai trước khi người để lại di sản chết)
+B. Phải có hộ khẩu thường trú cùng xã với người chết
+C. Phải có tài sản riêng từ trước
+D. Bắt buộc phải đủ 18 tuổi trở lên
+Đáp án đúng: A
+Giải thích: Người thừa kế là cá nhân phải còn sống vào thời điểm mở thừa kế hoặc đã thành thai trước khi người để lại di sản chết và sinh ra còn sống.
+
+Câu 99 [Dễ]: Thừa kế theo pháp luật được áp dụng trong trường hợp nào?
+A. Người chết có để lại di chúc công chứng hợp lệ
+B. Không có di chúc; di chúc không hợp pháp; hoặc người thừa kế theo di chúc chết trước người để lại di sản
+C. Người để lại di sản đã lập di chúc hợp pháp chia hết tài sản
+D. Khi Ủy ban nhân dân cấp xã chỉ định
+Đáp án đúng: B
+Giải thích: Thừa kế theo pháp luật áp dụng khi không có di chúc, di chúc vô hiệu hoặc người thừa kế theo di chúc không tiếp nhận/chết trước.
+
+Câu 100 [Dễ]: Hàng thừa kế thứ nhất theo pháp luật gồm những ai?
+A. Vợ, chồng, cha đẻ, mẹ đẻ, cha nuôi, mẹ nuôi, con đẻ, con nuôi của người chết
+B. Anh ruột, chị ruột, em ruột của người chết
+C. Bác ruột, chú ruột, cậu ruột, cô ruột, dì ruột của người chết
+D. Ông nội, bà nội, ông ngoại, bà ngoại của người chết
+Đáp án đúng: A
+Giải thích: Hàng thừa kế thứ nhất gồm: Vợ, chồng, cha đẻ, mẹ đẻ, cha nuôi, mẹ nuôi, con đẻ, con nuôi của người chết.
+
+Câu 101 [Dễ]: Những người ở Hàng thừa kế thứ hai chỉ được hưởng thừa kế khi nào?
+A. Được chia đều cùng lúc với hàng thừa kế thứ nhất
+B. Khi không còn ai ở hàng thừa kế thứ nhất do đã chết, không có quyền hưởng di sản, bị truất quyền hoặc từ chối nhận di sản
+C. Khi có tài sản lớn hơn hàng thừa kế thứ nhất
+D. Khi được Ủy ban nhân dân cấp xã giới thiệu
+Đáp án đúng: B
+Giải thích: Những người ở hàng thừa kế sau chỉ được hưởng thừa kế nếu không còn ai ở hàng thừa kế trước đó.
+
+Câu 102 [Dễ]: Những người cùng một hàng thừa kế được hưởng phần di sản như thế nào?
+A. Được hưởng phần di sản bằng nhau
+B. Do Trưởng tộc quyết định chia
+C. Người nam được hưởng gấp đôi người nữ
+D. Người già được hưởng nhiều hơn người trẻ
+Đáp án đúng: A
+Giải thích: Nguyên tắc chia thừa kế theo pháp luật: Những người cùng một hàng thừa kế được hưởng phần di sản bằng nhau.
+
+Câu 103 [Dễ]: Di chúc bằng văn bản có các hình thức cơ bản nào?
+A. Di chúc nhắn tin qua mạng xã hội
+B. Chỉ có di chúc công chứng mới có giá trị
+C. Di chúc bằng văn bản không có người làm chứng, có người làm chứng, có công chứng hoặc chứng thực
+D. Di chúc viết bằng mật mã cá nhân
+Đáp án đúng: C
+Giải thích: Bộ luật Dân sự công nhận các hình thức di chúc văn bản: không người làm chứng, có người làm chứng, công chứng, chứng thực.
+
+Câu 104 [Dễ]: Trong trường hợp tính mạng một người bị đe dọa do bệnh tật hoặc nguyên nhân khác mà không thể lập di chúc bằng văn bản thì có thể lập hình thức di chúc nào?
+A. Di chúc vẽ bằng hình ảnh
+B. Không được lập di chúc
+C. Di chúc miệng
+D. Di chúc khắc trên gỗ
+Đáp án đúng: C
+Giải thích: Trường hợp tính mạng bị đe dọa và không thể lập di chúc bằng văn bản thì có thể lập di chúc miệng.
+
+Câu 105 [Dễ]: Di chúc miệng được coi là hợp pháp nếu người di chúc thể hiện ý chí cuối cùng trước ít nhất mấy người làm chứng?
+A. Trước ít nhất 02 người làm chứng và ngay sau đó người làm chứng ghi chép lại, cùng ký tên/điểm chỉ, trong thời hạn 05 ngày làm việc phải được công chứng/chứng thực
+B. Trước 10 người làm chứng
+C. Không cần người làm chứng
+D. Trước 01 người làm chứng
+Đáp án đúng: A
+Giải thích: Di chúc miệng phải thể hiện trước ít nhất 02 người làm chứng, được ghi chép và chứng thực trong thời hạn 05 ngày làm việc.
+
+Câu 106 [Dễ]: Người lập di chúc có các quyền nào sau đây đối với tài sản của mình?
+A. Chỉ định người thừa kế; phân định phần di sản cho từng người; giao nghĩa vụ cho người thừa kế; truất quyền hưởng di sản của người thừa kế
+B. Bắt buộc phải để lại toàn bộ tài sản cho Nhà nước
+C. Không được quyền sửa đổi di chúc đã lập
+D. Chỉ được chia tài sản cho con trai trưởng
+Đáp án đúng: A
+Giải thích: Người lập di chúc có toàn quyền chỉ định người thừa kế, phân chia phần di sản, truất quyền hoặc thay đổi di chúc.
+
+Câu 107 [Dễ]: Địa điểm mở thừa kế là nơi nào theo Bộ luật Dân sự 2015?
+A. Nơi Ủy ban nhân dân cấp tỉnh chỉ định
+B. Nơi sinh ra của người thừa kế
+C. Nơi đặt trụ sở Tòa án nhân dân tối cao
+D. Nơi cư trú cuối cùng của người để lại di sản; nếu không xác định được thì là nơi có toàn bộ hoặc phần lớn di sản
+Đáp án đúng: D
+Giải thích: Địa điểm mở thừa kế là nơi cư trú cuối cùng của người để lại di sản; nếu không xác định được thì là nơi có phần lớn di sản.
+
+Câu 108 [Trung bình]: Chế định 'Thừa kế thế vị' được áp dụng trong trường hợp nào?
+A. Trường hợp con của người để lại di sản chết trước hoặc cùng thời điểm với người để lại di sản thì cháu được hưởng phần di sản mà cha hoặc mẹ của cháu được hưởng nếu còn sống
+B. Trường hợp Ủy ban nhân dân cấp xã nhận di sản thay cho con
+C. Trường hợp bạn thân thay thế con cái nhận di sản
+D. Trường hợp con nuôi không được hưởng thừa kế
+Đáp án đúng: A
+Giải thích: Thừa kế thế vị: Cháu được thay vị trí của cha/mẹ (đã chết trước hoặc cùng thời điểm với ông/bà) để hưởng phần di sản ông/bà để lại.
+
+Câu 109 [Trung bình]: Những ai sau đây thuộc diện 'Người thừa kế không phụ thuộc vào nội dung của di chúc' (vẫn được hưởng di sản dù di chúc không cho hưởng)?
+A. Anh ruột, chị ruột, em ruột của người chết
+B. Tất cả các con đã thành niên hoàn toàn khỏe mạnh
+C. Con chưa thành niên, cha, mẹ, vợ, chồng; con đã thành niên mà không có khả năng lao động
+D. Cháu ruột và chắt ruột
+Đáp án đúng: C
+Giải thích: Con chưa thành niên, cha, mẹ, vợ, chồng và con thành niên không có khả năng lao động được pháp luật bảo vệ quyền thừa kế bắt buộc.
+
+Câu 110 [Trung bình]: Mức di sản mà một 'Người thừa kế không phụ thuộc vào nội dung di chúc' được hưởng là bao nhiêu?
+A. Bằng 100% một suất thừa kế theo pháp luật
+B. Ít nhất bằng 2/3 suất của một người thừa kế theo pháp luật nếu di sản được chia theo pháp luật
+C. Bằng 1/2 suất thừa kế theo pháp luật
+D. Bằng 1/3 suất thừa kế theo pháp luật
+Đáp án đúng: B
+Giải thích: Người thừa kế không phụ thuộc nội dung di chúc được hưởng phần di sản bằng ít nhất 2/3 suất của một người thừa kế theo pháp luật.
+
+Câu 111 [Trung bình]: Đối tượng nào sau đây bị 'Mất quyền hưởng di sản' (trừ trường hợp người để lại di sản biết nhưng vẫn cho hưởng theo di chúc)?
+A. Người theo tôn giáo khác với gia đình
+B. Người bị kết án về hành vi cố ý xâm phạm tính mạng, sức khỏe, hoặc ngược đãi nghiêm trọng người để lại di sản; vi phạm nghiêm trọng nghĩa vụ nuôi dưỡng
+C. Người không sống cùng nhà với cha mẹ
+D. Người đi làm ăn xa nhà lâu năm
+Đáp án đúng: B
+Giải thích: Hành vi xâm phạm tính mạng, sức khỏe, ngược đãi nghiêm trọng người để lại di sản dẫn đến bị tước quyền hưởng di sản.
+
+Câu 112 [Trung bình]: Trường hợp người thừa kế từ chối nhận di sản thì việc từ chối phải đáp ứng điều kiện nào?
+A. Chỉ cần nói miệng với người thân
+B. Phải lập thành văn bản và thể hiện trước thời điểm phân chia di sản; không nhằm trốn tránh việc thực hiện nghĩa vụ tài sản của mình đối với người khác
+C. Từ chối sau khi đã bán di sản lấy tiền
+D. Từ chối để không phải trả nợ cho ngân hàng
+Đáp án đúng: B
+Giải thích: Từ chối nhận di sản phải bằng văn bản và không được nhằm mục đích trốn tránh nghĩa vụ tài sản với người khác.
+
+Câu 113 [Trung bình]: Thứ tự ưu tiên thanh toán các nghĩa vụ tài sản và chi phí liên quan đến thừa kế được thực hiện như thế nào?
+A. Thanh toán nợ ngân hàng trước tiên rồi mới đến chi phí mai táng
+B. Chia cho các con trước rồi mới trả nợ sau
+C. Nộp hết cho Ủy ban nhân dân cấp xã
+D. Chi phí lễ pohos, mai táng -> Chi phí bảo quản di sản -> Tiền cấp dưỡng -> Tiền công lao động -> Bồi thường thiệt hại -> Nợ nần khác
+Đáp án đúng: D
+Giải thích: Bộ luật Dân sự quy định thứ tự ưu tiên thanh toán di sản: Chi phí mai táng và bảo quản di sản được ưu tiên hàng đầu.
+
+Câu 114 [Trung bình]: Sau bao lâu kể từ thời điểm di chúc miệng được thể hiện mà người lập di chúc còn sống, minh mẫn thì di chúc miệng tự động hủy bỏ hiệu lực?
+A. Sau 01 tháng
+B. Sau 01 năm
+C. Sau 05 năm
+D. Sau 03 tháng
+Đáp án đúng: D
+Giải thích: Sau 03 tháng kể từ thời điểm di chúc miệng mà người lập di chúc còn sống, minh mẫn thì di chúc miệng mặc nhiên bị hủy bỏ.
+
+Câu 115 [Trung bình]: Di chúc do người từ đủ 15 tuổi đến dưới 18 tuổi lập phải đáp ứng điều kiện hình thức nào?
+A. Tự viết tay giấu kín không cho cha mẹ biết
+B. Không được phép lập di chúc dưới bất kỳ hình thức nào
+C. Có thể lập di chúc miệng
+D. Phải được lập thành văn bản và phải được cha, mẹ hoặc người giám hộ đồng ý về việc lập di chúc
+Đáp án đúng: D
+Giải thích: Người từ đủ 15 đến dưới 18 tuổi được lập di chúc văn bản nếu được cha mẹ hoặc người giám hộ đồng ý.
+
+Câu 116 [Trung bình]: Hàng thừa kế thứ hai theo pháp luật bao gồm những ai?
+A. Con đẻ, con nuôi, cha đẻ, mẹ đẻ
+B. Tất cả họ hàng trong trong vòng 5 đời
+C. Ông nội, bà nội, ông ngoại, bà ngoại, anh ruột, chị ruột, em ruột của người chết; cháu ruột của người chết mà người chết là ông nội, bà nội, ông ngoại, bà ngoại
+D. Cụ nội, cụ ngoại, bác ruột, chú ruột
+Đáp án đúng: C
+Giải thích: Hàng thừa kế thứ hai gồm ông bà nội ngoại, anh chị em ruột và cháu ruột của người chết.
+
+Câu 117 [Trung bình]: Hàng thừa kế thứ ba theo pháp luật bao gồm những ai?
+A. Ông bà nội ngoại và anh chị em ruột
+B. Cụ nội, cụ ngoại; bác ruột, chú ruột, cậu ruột, cô ruột, dì ruột; cháu ruột mà người chết là bác, chú, cậu, cô, dì; chắt ruột
+C. Bạn bè đồng nghiệp thân thiết
+D. Cha mẹ và con cái
+Đáp án đúng: B
+Giải thích: Hàng thừa kế thứ ba gồm cụ nội ngoại, bác chú cậu cô dì ruột, cháu ruột (mà người chết là bác chú cậu cô dì) và chắt ruột.
+
+Câu 118 [Trung bình]: Trường hợp không có người thừa kế theo di chúc và theo pháp luật hoặc tất cả người thừa kế đều từ chối nhận di sản thì di sản xử lý như thế nào?
+A. Di sản bị tiêu hủy toàn bộ
+B. Di sản thuộc về hàng xóm sống bên cạnh
+C. Chia cho Chủ tịch UBND cấp xã
+D. Di sản thuộc về Nhà nước sau khi đã thanh toán các nghĩa vụ tài sản
+Đáp án đúng: D
+Giải thích: Trường hợp không có người thừa kế hoặc tất cả từ chối nhận thì tài sản còn lại thuộc về Nhà nước.
+
+Câu 119 [Trung bình]: Người thừa kế có nghĩa vụ tài sản (như nợ tiền) do người chết để lại như thế nào?
+A. Phải bỏ tiền túi cá nhân ra trả hết sạch nợ cho người chết dù nợ lớn hơn di sản
+B. Chịu trách nhiệm thực hiện nghĩa vụ tài sản trong phạm vi di sản do người chết để lại (trừ trường hợp có thỏa thuận khác)
+C. Không phải trả bất kỳ khoản nợ nào
+D. Con cái bị đi tù thay cho nợ của cha mẹ
+Đáp án đúng: B
+Giải thích: Người thừa kế chỉ chịu trách nhiệm thực hiện nghĩa vụ tài sản trong phạm vi giá trị di sản mà mình được hưởng.
+
+Câu 120 [Trung bình]: Thời hiệu để người thừa kế yêu cầu chia di sản là bao lâu?
+A. 01 năm đối với bất động sản, 06 tháng đối với động sản
+B. Không có thời hiệu
+C. 30 năm đối với bất động sản, 10 năm đối với động sản kể từ thời điểm mở thừa kế
+D. 05 năm đối với bất động sản, 02 năm đối với động sản
+Đáp án đúng: C
+Giải thích: Bộ luật Dân sự 2015 quy định thời hiệu yêu cầu chia di sản thừa kế là 30 năm (bất động sản) và 10 năm (động sản).
+
+Câu 121 [Trung bình]: Trường hợp vợ chồng cùng lập di chúc chung chia tài sản chung thì khi một người chết trước, di chúc có hiệu lực như thế nào?
+A. Tài sản thuộc về UBND cấp xã
+B. Phần di chúc liên quan đến phần di sản của người chết trước có hiệu lực; phần tài sản của người còn sống chỉ có hiệu lực khi người còn sống chết
+C. Toàn bộ di chúc chung có hiệu lực 100% ngay lập tức
+D. Di chúc chung bị hủy bỏ toàn bộ
+Đáp án đúng: B
+Giải thích: Di chúc chung của vợ chồng có hiệu lực đối với phần di sản của người chết trước; phần còn lại có hiệu lực khi người kia chết.
+
+Câu 122 [Trung bình]: Di chúc lập tại cơ quan công chứng hoặc Ủy ban nhân dân cấp xã có giá trị pháp lý như thế nào?
+A. Bị vô hiệu nếu người thừa kế không có mặt
+B. Hoàn toàn giống giấy tay không công chứng
+C. Là di chúc bằng văn bản có giá trị chứng cứ cao nhất, không cần phải chứng minh trừ khi có căn cứ giả mạo
+D. Chỉ có giá trị tham khảo
+Đáp án đúng: C
+Giải thích: Di chúc công chứng/chứng thực bảo đảm tính hợp pháp cao nhất về hình thức và nội dung.
+
+Câu 123 [Vận dụng]: Ông A và Bà B là vợ chồng có khối tài sản chung là căn nhà trị giá 4 tỷ đồng và không có tài sản riêng. Ông A qua đời đột ngột không để lại di chúc. Gia đình gồm có Bà B (vợ) và 2 người con đẻ là C và D (đều đã trưởng thành). Di sản của Ông A là bao nhiêu và mỗi người được hưởng bao nhiêu?
+A. Di sản là 4 tỷ; chia đều cho Bà B, C, D mỗi người 1,33 tỷ
+B. Căn nhà bị Nhà nước thu hồi
+C. Toàn bộ 4 tỷ thuộc về Bà B, hai con không được gì
+D. Di sản của Ông A là 2 tỷ đồng (1/2 căn nhà); Bà B, C, D thuộc hàng thừa kế thứ nhất, mỗi người được hưởng 1/3 di sản của Ông A (tương đương 666,6 triệu đồng)
+Đáp án đúng: D
+Giải thích: Di sản Ông A là 1/2 tài sản chung (2 tỷ). Hàng thừa kế thứ nhất gồm B, C, D chia đều mỗi người 1/3 của 2 tỷ.
+
+Câu 124 [Vận dụng]: Ông K có tài sản là 1,2 tỷ đồng. Trước khi chết, Ông K lập di chúc hợp pháp để lại toàn bộ 1,2 tỷ đồng cho người bạn thân là Anh M, không cho người thân nào trong gia đình. Gia đình Ông K gồm có Vợ (Bà T), con trai lớn H (25 tuổi, hoàn toàn khỏe mạnh) và con gái nhỏ Y (10 tuổi). Quyền lợi của Bà T và cháu Y được giải quyết ra sao?
+A. Bà T và cháu Y không được hưởng đồng nào vì di chúc đã cho Anh M hết
+B. Anh H (25 tuổi) được hưởng 1/2 tài sản
+C. Bà T (vợ) và cháu Y (con chưa thành niên) được hưởng thừa kế không phụ thuộc di chúc; mỗi người được ít nhất 2/3 suất thừa kế theo pháp luật
+D. Anh M phải chia đều 1,2 tỷ cho tất cả mọi người
+Đáp án đúng: C
+Giải thích: Nếu chia theo luật thì có 3 người thuộc hàng 1 (T, H, Y), mỗi suất = 400 triệu. Bà T và Y thuộc diện bắt buộc được hưởng 2/3 của 400 triệu = 266,6 triệu/người.
+
+Câu 125 [Vận dụng]: Anh P có con trai là Q. Anh P chết năm 2023. Năm 2025, Ông N (là cha đẻ của Anh P) qua đời không để lại di chúc, di sản là 900 triệu đồng. Gia đình Ông N chỉ còn lại 1 người con gái là Chị R và cháu Q (con Anh P). Cháu Q có được hưởng thừa kế của Ông N không và hưởng bao nhiêu?
+A. Cháu Q không được hưởng vì cha đã chết trước
+B. Chị R được hưởng 100% di sản (900 triệu)
+C. Di sản nộp cho UBND cấp xã
+D. Cháu Q được hưởng thừa kế thế vị phần di sản mà Anh P được hưởng nếu còn sống (Cháu Q và Chị R mỗi người hưởng 450 triệu đồng)
+Đáp án đúng: D
+Giải thích: Anh P chết trước Ông N nên cháu Q được hưởng thừa kế thế vị suất của Anh P. Hàng 1 có P và R, nên Q thế vị P nhận 450 triệu.
+
+Câu 126 [Vận dụng]: Anh X cố ý gây thương tích nghiêm trọng cho cha đẻ của mình để ép cha phải sang tên nhà đất. Hành vi của Anh X bị Tòa án tuyên phạt 3 năm tù. Sau đó cha Anh X qua đời không để lại di chúc. Anh X có được chia di sản của cha không?
+A. Anh X vẫn được chia bình đẳng như các anh em khác
+B. Anh X được hưởng gấp đôi vì mới đi tù về
+C. Anh X phải giao lại phần của mình cho UBND cấp xã
+D. Anh X bị mất quyền hưởng di sản do có hành vi cố ý xâm phạm sức khỏe của người để lại di sản (trừ trường hợp người cha biết nhưng vẫn cho hưởng theo di chúc)
+Đáp án đúng: D
+Giải thích: Người bị kết án về hành vi cố ý xâm phạm tính mạng, sức khỏe của người để lại di sản thì bị tước quyền hưởng di sản.
+
+Câu 127 [Vận dụng]: Bà M lập di chúc bằng văn bản có công chứng để lại căn nhà cho con gái Chị T. Một năm sau, Bà M lại tự viết tay một bản di chúc mới có nội dung để lại căn nhà đó cho con trai Anh V. Khi Bà M chết, di chúc nào có hiệu lực?
+A. Di chúc viết tay sau có hiệu lực (nếu di chúc sau hợp pháp) vì di chúc lập sau thay đổi/hủy bỏ di chúc lập trước
+B. Di chúc công chứng trước luôn luôn thắng di chúc viết tay sau
+C. Cả hai di chúc đều bị vô hiệu
+D. Ủy ban nhân dân cấp xã quyết định chia đôi căn nhà
+Đáp án đúng: A
+Giải thích: Khi người lập di chúc thay đổi bằng di chúc mới hợp pháp thì di chúc lập sau làm thay đổi/hủy bỏ phần nội dung mâu thuẫn của di chúc trước.
+
+Câu 128 [Vận dụng]: Ông S chết để lại di sản là 300 triệu đồng nhưng Ông S còn nợ ngân hàng 500 triệu đồng. Anh K là con duy nhất và là người thừa kế duy nhất của Ông S nhận di sản 300 triệu đồng. Ngân hàng đòi Anh K phải trả đủ 500 triệu nợ. Anh K phải trả bao nhiêu?
+A. Anh K phải bỏ 200 triệu tiền riêng ra trả đủ 500 triệu
+B. Anh K bị đi tù thay cho Ông S
+C. Anh K chỉ có nghĩa vụ trả nợ cho ngân hàng trong phạm vi di sản nhận được là 300 triệu đồng; không phải dùng tài sản riêng để trả 200 triệu còn thiếu
+D. Anh K không phải trả đồng nào
+Đáp án đúng: C
+Giải thích: Trách nhiệm thực hiện nghĩa vụ tài sản của người thừa kế chỉ giới hạn trong phạm vi giá trị di sản được hưởng.
+
+Câu 129 [Vận dụng]: Ông B có 3 người con đẻ là C, D, E. Năm 2024, Ông B lập di chúc cho C hưởng 1/2 tài sản, D hưởng 1/2 tài sản, không cho E. Khi Ông B chết, người con E phát hiện di chúc do C cưỡng ép, đe dọa Ông B lập. E khởi kiện ra Tòa án. Nếu Tòa tuyên di chúc vô hiệu thì di sản chia ra sao?
+A. C vẫn được hưởng 1/2 như di chúc
+B. D được hưởng 100% di sản
+C. Di sản của Ông B sẽ được chia theo pháp luật: C, D, E mỗi người được hưởng 1/3 di sản bằng nhau
+D. Ủy ban nhân dân cấp xã tịch thu tài sản
+Đáp án đúng: C
+Giải thích: Di chúc bị cưỡng ép, đe dọa là di chúc vô hiệu. Khi di chúc vô hiệu thì toàn bộ di sản được chuyển sang chia theo pháp luật (C, D, E hàng 1 chia đều).
+
+Câu 130 [Vận dụng]: Vợ chồng Ông P và Bà Q có tài sản chung là 1 tỷ đồng. Hai người gặp tai nạn giao thông và chết cùng một thời điểm. Gia đình gồm có con đẻ duy nhất là Cháu K (12 tuổi). Việc thừa kế tài sản của Ông P và Bà Q được giải quyết như thế nào?
+A. Tài sản chia cho anh em ruột của P và Q
+B. Tài sản thuộc về UBND cấp xã
+C. Cháu K chỉ được nhận 10% di sản
+D. Vì Ông P và Bà Q chết cùng thời điểm nên họ không thừa kế di sản của nhau; toàn bộ di sản 1 tỷ đồng được chuyển cho Cháu K thừa kế theo pháp luật
+Đáp án đúng: D
+Giải thích: Những người có quyền thừa kế của nhau mà chết cùng thời điểm thì không được thừa kế di sản của nhau; di sản của mỗi người chia cho người thừa kế còn sống (Cháu K).
+
+--------------------------------------------------------------------------------
+MỤC 4.2.1. NHỮNG VẤN ĐỀ CHUNG VỀ LUẬT TỐ TỤNG DÂN SỰ
+--------------------------------------------------------------------------------
+
+Câu 131 [Dễ]: Tố tụng dân sự được hiểu là gì?
+A. Trình tự, thủ tục do pháp luật quy định để Tòa án nhân dân giải quyết các vụ án, việc dân sự và thi hành án dân sự nhằm bảo vệ quyền, lợi ích hợp pháp của chủ thể
+B. Thủ tục xử phạt vi phạm giao thông của Cảnh sát giao thông
+C. Thủ tục cấp Giấy chứng nhận quyền sử dụng đất tại Ủy ban nhân dân cấp xã
+D. Trình tự cuộc họp kỷ luật cán bộ trong cơ quan hành chính
+Đáp án đúng: A
+Giải thích: Tố tụng dân sự là trình tự, thủ tục luật định để Tòa án giải quyết các tranh chấp, yêu cầu dân sự bảo vệ quyền lợi hợp pháp.
+
+Câu 132 [Dễ]: Cơ quan nào sau đây là Cơ quan tiến hành tố tụng dân sự theo Bộ luật Tố tụng Dân sự 2015?
+A. Cơ quan Công an và Sở Tư pháp
+B. Ủy ban nhân dân cấp tỉnh và Ủy ban nhân dân cấp xã
+C. Tòa án nhân dân và Viện kiểm sát nhân dân
+D. Hội đồng nhân dân và Mặt trận Tổ quốc
+Đáp án đúng: C
+Giải thích: Cơ quan tiến hành tố tụng dân sự gồm Tòa án nhân dân và Viện kiểm sát nhân dân.
+
+Câu 133 [Dễ]: Chức danh nào sau đây thuộc nhóm 'Người tiến hành tố tụng dân sự' tại Tòa án?
+A. Thẩm phán, Hội thẩm nhân dân và Thư ký Tòa án
+B. Nguyên đơn và Bị đơn
+C. Luật sư bảo vệ quyền lợi
+D. Người làm chứng và Người giám định
+Đáp án đúng: A
+Giải thích: Người tiến hành tố tụng gồm Thẩm phán, Hội thẩm nhân dân, Thư ký Tòa án, Viện trưởng VKS, Kiểm sát viên...
+
+Câu 134 [Dễ]: Nguyên đơn trong vụ án dân sự là ai?
+A. Người khởi kiện hoặc được cơ quan, tổ chức, cá nhân khác khởi kiện yêu cầu Tòa án giải quyết vụ án dân sự khi cho rằng quyền, lợi ích hợp pháp của mình bị xâm phạm
+B. Người làm chứng cho vụ án
+C. Người đứng ra hòa giải tranh chấp
+D. Người bị khởi kiện ra Tòa án
+Đáp án đúng: A
+Giải thích: Nguyên đơn là người khởi kiện yêu cầu Tòa án bảo vệ quyền và lợi ích hợp pháp bị xâm phạm.
+
+Câu 135 [Dễ]: Bị đơn trong vụ án dân sự là ai?
+A. Người giám định tài sản
+B. Người đi kiện yêu cầu Tòa án đòi tiền
+C. Thẩm phán chủ tọa phiên tòa
+D. Người bị nguyên đơn khởi kiện hoặc bị cơ quan, tổ chức, cá nhân khác khởi kiện yêu cầu Tòa án giải quyết vụ án dân sự
+Đáp án đúng: D
+Giải thích: Bị đơn là người bị khởi kiện yêu cầu Tòa án giải quyết nghĩa vụ hoặc tranh chấp.
+
+Câu 136 [Dễ]: Nguyên tắc 'Quyền quyết định và tự đoạt của đương sự' trong tố tụng dân sự có nghĩa là gì?
+A. Tòa án bắt buộc đương sự phải đi kiện
+B. Ủy ban nhân dân cấp xã có quyền hủy bỏ đơn kiện của dân
+C. Thẩm phán quyết định thay cho đương sự việc rút đơn
+D. Đương sự có quyền quyết định việc khởi kiện, thay đổi, bổ sung, rút yêu cầu khởi kiện hoặc tự nguyện hòa giải, thỏa thuận với nhau
+Đáp án đúng: D
+Giải thích: Đương sự tự mình quyết định việc khởi kiện, thay đổi, rút đơn hoặc thỏa thuận hòa giải mà Tòa án không được ép buộc.
+
+Câu 137 [Dễ]: Nghĩa vụ cung cấp chứng cứ và chứng minh trong tố tụng dân sự thuộc về ai?
+A. Thuộc về Tòa án nhân dân khu vực phải đi tìm 100% chứng cứ thay đương sự
+B. Thuộc về Viện kiểm sát nhân dân khu vực
+C. Thuộc về các đương sự có yêu cầu bảo vệ quyền và lợi ích hợp pháp của mình
+D. Thuộc về Ủy ban nhân dân cấp xã
+Đáp án đúng: C
+Giải thích: Trong tố tụng dân sự, đương sự có yêu cầu có nghĩa vụ đưa ra chứng cứ và chứng minh cho yêu cầu của mình là có căn cứ.
+
+Câu 138 [Dễ]: Hệ thống Tòa án xét xử sơ thẩm các tranh chấp dân sự thông thường ở cấp cơ sở hiện nay là Tòa án nào?
+A. Tòa án nhân dân khu vực
+B. Tòa án nhân dân tối cao
+C. Ủy ban nhân dân cấp xã
+D. Tòa án nhân dân cấp cao
+Đáp án đúng: A
+Giải thích: Tòa án nhân dân khu vực có thẩm quyền xét xử sơ thẩm hầu hết các vụ án dân sự ở cấp cơ sở.
+
+Câu 139 [Dễ]: Chế độ xét xử trong tố tụng dân sự Việt Nam là chế độ mấy cấp?
+A. Chế độ xét xử ba cấp
+B. Chế độ xét xử bốn cấp
+C. Chế độ xét xử một cấp duy nhất
+D. Chế độ xét xử hai cấp (Sơ thẩm và Phúc thẩm)
+Đáp án đúng: D
+Giải thích: Tố tụng dân sự thực hiện chế độ xét xử hai cấp: Xét xử sơ thẩm và Xét xử phúc thẩm.
+
+Câu 140 [Trung bình]: Thẩm quyền giải quyết tranh chấp dân sự theo lãnh thổ của Tòa án nhân dân khu vực được xác định theo nguyên tắc chung nào?
+A. Tòa án nơi nguyên đơn thích nộp đơn nhất
+B. Tòa án nơi người làm chứng sinh sống
+C. Tòa án nhân dân tối cao
+D. Tòa án nhân dân khu vực nơi bị đơn cư trú, làm việc (nếu bị đơn là cá nhân) hoặc nơi bị đơn có trụ sở (nếu bị đơn là cơ quan, tổ chức)
+Đáp án đúng: D
+Giải thích: Nguyên tắc chung xác định thẩm quyền theo lãnh thổ là Tòa án nơi bị đơn cư trú, làm việc hoặc có trụ sở.
+
+Câu 141 [Trung bình]: Đối với tranh chấp dân sự mà đối tượng tranh chấp là Bất động sản (như nhà đát) thì Tòa án nào có thẩm quyền giải quyết?
+A. Chỉ Tòa án nhân dân khu vực nơi có bất động sản mới có thẩm quyền giải quyết
+B. Tòa án nơi bạn của bị đơn sinh sống
+C. Tòa án nơi nguyên đơn tạm trú
+D. Tòa án nhân dân cấp cao
+Đáp án đúng: A
+Giải thích: Đối tượng tranh chấp là bất động sản thì chỉ Tòa án nơi có bất động sản có thẩm quyền giải quyết.
+
+Câu 142 [Trung bình]: Trường hợp Thẩm phán hoặc Hội thẩm nhân dân thuộc trường hợp nào sau đây thì phải từ chối tiến hành tố tụng hoặc bị thay đổi?
+A. Nói giọng miền khác với bị đơn
+B. Không có bằng thạc sĩ luật
+C. Sống khác phường với nguyên đơn
+D. Đồng thời là đương sự, người đại diện, người thân thích của đương sự trong vụ án đó; hoặc đã tham gia với tư cách người làm chứng, người giám định
+Đáp án đúng: D
+Giải thích: Thẩm phán/Hội thẩm phải từ chối/bị thay đổi nếu là người thân thích của đương sự hoặc có căn cứ cho thấy không vô tư khi làm nhiệm vụ.
+
+Câu 143 [Trung bình]: Sự khác nhau cơ bản giữa 'Vụ án dân sự' và 'Việc dân sự' là gì?
+A. Hai khái niệm hoàn toàn giống nhau không có sự phân biệt
+B. Vụ án dân sự là tranh chấp giữa các bên có xung đột về quyền, nghĩa vụ; Việc dân sự là yêu cầu Tòa án công nhận hoặc không công nhận một sự kiện pháp lý (không có tranh chấp)
+C. Vụ án dân sự do UBND cấp xã xử; Việc dân sự do Tòa án xử
+D. Vụ án dân sự không cần Thẩm phán; Việc dân sự bắt buộc có 3 Thẩm phán
+Đáp án đúng: B
+Giải thích: Vụ án dân sự phát sinh từ tranh chấp quyền nghĩa vụ; Việc dân sự là yêu cầu công nhận sự kiện/quyền pháp lý mà không có tranh chấp.
+
+Câu 144 [Trung bình]: Tòa án nhân dân cấp tỉnh có thẩm quyền xét xử sơ thẩm những vụ án dân sự nào?
+A. Chỉ giải quyết tranh chấp ly hôn không có tài sản
+B. Những vụ án dân sự có đương sự hoặc tài sản ở nước ngoài hoặc cần phải ủy thác tư pháp cho cơ quan đại diện nước ngoài; vụ án phức tạp thuộc thẩm quyền TAND khu vực mà TAND cấp tỉnh lấy lên giải quyết
+C. Tất cả các vụ án đòi nợ dưới 10 triệu đồng
+D. Không có thẩm quyền xét xử sơ thẩm bất kỳ vụ án nào
+Đáp án đúng: B
+Giải thích: TAND cấp tỉnh xét xử sơ thẩm vụ án có yếu tố nước ngoài hoặc vụ án phức tạp do TAND cấp tỉnh rút lên giải quyết.
+
+Câu 145 [Trung bình]: Người bảo vệ quyền và lợi ích hợp pháp của đương sự (như Luật sư) có quyền hạn nào trong tố tụng dân sự?
+A. Tham gia tố tụng từ khi khởi kiện, thu thập và cung cấp chứng cứ, nghiên cứu hồ sơ vụ án, tham gia phiên tòa tranh luận để bảo vệ đương sự
+B. Bắt giữ bị đơn nhốt vào kho
+C. Thay mặt Tòa án ra bản án tuyên thắng kiện
+D. Quyết định phạt tiền bị đơn
+Đáp án đúng: A
+Giải thích: Người bảo vệ quyền lợi hợp pháp tham gia tố tụng để thu thập chứng cứ, nghiên cứu hồ sơ và tranh luận bảo vệ cho đương sự.
+
+Câu 146 [Trung bình]: Viện kiểm sát nhân dân có vai trò gì trong tố tụng dân sự?
+A. Thay Tòa án tuyên án phạt tiền
+B. Thu phí tòa án của đương sự
+C. Trực tiếp đứng ra đòi tiền hộ cho nguyên đơn
+D. Kiểm sát việc tuân theo pháp luật tố tụng dân sự của Tòa án, người tiến hành tố tụng và người tham gia tố tụng; thực hiện quyền kháng nghị bản án, quyết định trái luật
+Đáp án đúng: D
+Giải thích: Viện kiểm sát kiểm sát việc tuân theo pháp luật tố tụng dân sự nhằm bảo đảm việc giải quyết vụ án công minh, đúng luật.
+
+Câu 147 [Trung bình]: Trường hợp các đương sự tự thỏa thuận lựa chọn Tòa án giải quyết tranh chấp bằng văn bản thì Tòa án nào có thẩm quyền?
+A. Bất kỳ Tòa án nào ở nước ngoài
+B. Tòa án nơi không bên nào cư trú
+C. Ủy ban nhân dân cấp xã
+D. Tòa án nhân dân khu vực nơi cư trú hoặc có trụ sở của nguyên đơn (nếu các bên thỏa thuận bằng văn bản yêu cầu Tòa án nơi nguyên đơn giải quyết)
+Đáp án đúng: D
+Giải thích: Các bên tranh chấp có quyền thỏa thuận bằng văn bản yêu cầu Tòa án nơi cư trú/trụ sở của nguyên đơn giải quyết.
+
+Câu 148 [Trung bình]: Đương sự trong vụ án dân sự có quyền tự thỏa thuận hòa giải với nhau ở giai đoạn nào?
+A. Tuyệt đối cấm hòa giải khi đã nộp đơn ra Tòa
+B. Ở bất kỳ giai đoạn nào của quá trình giải quyết vụ án tố tụng dân sự
+C. Chỉ được hòa giải sau khi Tòa án đã tuyên bản án phúc thẩm
+D. Chỉ được hòa giải trước khi nộp đơn kiện
+Đáp án đúng: B
+Giải thích: Các bên đương sự có quyền tự do thỏa thuận hòa giải với nhau ở bất kỳ giai đoạn nào trong quá trình tố tụng dân sự.
+
+Câu 149 [Trung bình]: Thời hạn kháng cáo đối với Bản án sơ thẩm của Tòa án nhân dân là bao nhiêu ngày kể từ ngày tuyên án?
+A. 03 ngày kể từ ngày tuyên án
+B. 15 ngày kể từ ngày Tòa án tuyên án (hoặc kể từ ngày nhận được bản án nếu vắng mặt tại phiên tòa)
+C. 30 ngày kể từ ngày tuyên án
+D. 01 năm kể từ ngày tuyên án
+Đáp án đúng: B
+Giải thích: Thời hạn kháng cáo bản án sơ thẩm dân sự là 15 ngày kể từ ngày tuyên án (hoặc từ ngày bản án được giao/niêm yết).
+
+Câu 150 [Vận dụng]: Anh A (cư trú tại Phường X) muốn khởi kiện Anh B (cư trú tại Phường Y) đòi số tiền nợ 100 triệu đồng theo hợp đồng vay. Hai bên không có thỏa thuận về Tòa án giải quyết. Anh A phải nộp đơn khởi kiện đến Tòa án nào?
+A. Tòa án nhân dân khu vực nơi Anh B (bị đơn) cư trú tại Phường Y
+B. Tòa án nhân dân khu vực nơi Anh A cư trú
+C. Ủy ban nhân dân cấp xã Phường X
+D. Tòa án nhân dân tối cao
+Đáp án đúng: A
+Giải thích: Theo nguyên tắc chung, vụ án đòi nợ dân sự thuộc thẩm quyền giải quyết sơ thẩm của Tòa án nhân dân khu vực nơi bị đơn cư trú.
+
+Câu 151 [Vận dụng]: Ông M (cư trú tại Phường T) và Bà N (cư trú tại Phường K) tranh chấp quyền sở hữu một mảnh đất mảnh vườn tại Phường Z. Ông M muốn khởi kiện Bà N ra Tòa án. Tòa án nào có thẩm quyền thụ lý vụ án?
+A. Tòa án nhân dân khu vực nơi Ông M cư trú tại Phường T
+B. Ủy ban nhân dân cấp tỉnh
+C. Tòa án nhân dân khu vực nơi Bà N cư trú tại Phường K
+D. Tòa án nhân dân khu vực nơi có đất tranh chấp tại Phường Z
+Đáp án đúng: D
+Giải thích: Tranh chấp bất động sản (đất đai) thuộc thẩm quyền riêng biệt của Tòa án nhân dân khu vực nơi có bất động sản.
+
+Câu 152 [Vận dụng]: Trong vụ án tranh chấp hợp đồng mua bán giữa Công ty X và Công ty Y, Thẩm phán Z được phân công làm Chủ tọa phiên tòa. Công ty X phát hiện Thẩm phán Z là em ruột của Giám đốc Công ty Y. Công ty X có quyền làm gì?
+A. Yêu cầu UBND cấp xã hủy bỏ tư cách Thẩm phán Z
+B. Trực tiếp đánh Thẩm phán Z tại tòa
+C. Bỏ về không tham gia phiên tòa nữa
+D. Làm đơn yêu cầu thay đổi Thẩm phán Z vì Thẩm phán là người thân thích của đương sự, không bảo đảm tính vô tư khách quan
+Đáp án đúng: D
+Giải thích: Thẩm phán là em ruột của đương sự thuộc trường hợp phải từ chối hoặc bị thay đổi theo quy định tại Bộ luật Tố tụng Dân sự.
+
+Câu 153 [Vận dụng]: Chị K khởi kiện Anh H đòi tiền bồi thường tai nạn giao thông 50 triệu đồng. Tại phiên tòa sơ thẩm, Chị K không đưa ra được bất kỳ hóa đơn viện phí hay chứng cứ nào chứng minh thiệt hại. Thẩm phán sẽ xử lý ra sao?
+A. Bác yêu cầu khởi kiện của Chị K do Chị K không thực hiện nghĩa vụ chứng minh cho yêu cầu của mình
+B. Chuyển vụ án sang Công an phạt tù Anh H
+C. Tự động bắt Anh H phải bồi thường 50 triệu
+D. Hủy bỏ phiên tòa không bao giờ xét xử nữa
+Đáp án đúng: A
+Giải thích: Đương sự có nghĩa vụ đưa ra chứng cứ chứng minh; nếu không chứng minh được thì Tòa án không có căn cứ chấp nhận yêu cầu.
+
+Câu 154 [Vận dụng]: Công ty A (có trụ sở tại Việt Nam) tranh chấp hợp đồng mua bán hàng hóa trị giá 5 tỷ đồng với Công ty B (có trụ sở tại nước ngoài). Công ty A muốn khởi kiện Công ty B tại Tòa án Việt Nam. Tòa án nào có thẩm quyền xét xử sơ thẩm?
+A. Ủy ban nhân dân cấp xã
+B. Tòa án nhân dân tối cao
+C. Tòa án nhân dân cấp tỉnh có thẩm quyền xét xử sơ thẩm vụ án có yếu tố nước ngoài
+D. Tòa án nhân dân khu vực
+Đáp án đúng: C
+Giải thích: Vụ án dân sự có đương sự hoặc tài sản ở nước ngoài thuộc thẩm quyền xét xử sơ thẩm của Tòa án nhân dân cấp tỉnh.
+
+Câu 155 [Vận dụng]: Bà V và Ông T tranh chấp ranh giới đất đai gia đình. Hai người hòa giải thành công tại Ủy ban nhân dân cấp xã và lập Biên bản hòa giải thành. Tuy nhiên 1 tháng sau Ông T lại nhổ ranh giới rào sang đất Bà V. Bà V có quyền khởi kiện ra Tòa án nào?
+A. Ủy ban nhân dân cấp xã tự ra bản án phạt tù Ông T
+B. Tòa án nhân dân tối cao
+C. Tòa án nhân dân khu vực nơi có đất để yêu cầu giải quyết tranh chấp đất đai theo quy định Luật Đất đai 2024 và BLTTDS
+D. Hội đồng nhân dân cấp tỉnh
+Đáp án đúng: C
+Giải thích: Tranh chấp đất đai đã hòa giải tại UBND cấp xã không thành hoặc sau hòa giải vẫn vi phạm thì khởi kiện ra Tòa án nhân dân khu vực.
+
+--------------------------------------------------------------------------------
+MỤC 4.2.2. KHỞI KIỆN, THỤ LÝ VỤ ÁN DÂN SỰ
+--------------------------------------------------------------------------------
+
+Câu 156 [Dễ]: Thủ tục khởi kiện vụ án dân sự được bắt đầu bằng hành vi nào của người khởi kiện?
+A. Đăng bài viết đòi nợ trên mạng xã hội Facebook
+B. Gọi điện thoại phản ánh cho Chủ tịch UBND cấp xã
+C. Gửi thư khiếu nại đến Bộ trưởng Bộ Tư pháp
+D. Nộp Đơn khởi kiện và tài liệu, chứng cứ kèm theo đến Tòa án nhân dân có thẩm quyền
+Đáp án đúng: D
+Giải thích: Việc khởi kiện vụ án dân sự bắt đầu bằng việc người khởi kiện nộp Đơn khởi kiện cùng tài liệu chứng cứ đến Tòa án.
+
+Câu 157 [Dễ]: Đơn khởi kiện vụ án dân sự bắt buộc phải chứa đựng các nội dung chính nào?
+A. Biên bản họp gia đình dòng họ
+B. Ngày tháng năm làm đơn; Tòa án được yêu cầu; Tên, địa chỉ người khởi kiện và người bị kiện; Quyền lợi bị xâm phạm và Yêu cầu cụ thể
+C. Chữ ký xác nhận của Chủ tịch UBND cấp tỉnh
+D. Tiểu sử 3 đời của người khởi kiện
+Đáp án đúng: B
+Giải thích: Nội dung Đơn khởi kiện quy định tại Điều 189 BLTTDS bao gồm thông tin Tòa án, đương sự, quyền lợi bị xâm phạm và yêu cầu giải quyết.
+
+Câu 158 [Dễ]: Biện pháp khẩn cấp tạm thời trong tố tụng dân sự được áp dụng nhằm mục đích gì?
+A. Trừng phạt tù đối với bị đơn
+B. Tạm thời giải quyết yêu cầu cấp bách của đương sự, bảo vệ chứng cứ, bảo vệ tình trạng tài sản tránh gây thiệt hại không thể khắc phục
+C. Xử phạt vi phạm giao thông
+D. Tịch thu nhà đất của bị đơn giao cho nguyên đơn ngay lập tức
+Đáp án đúng: B
+Giải thích: Biện pháp khẩn cấp tạm thời nhằm bảo vệ tình trạng tài sản, chứng cứ và đáp ứng yêu cầu cấp bách của đương sự.
+
+Câu 159 [Dễ]: Trong thời hạn bao lâu kể từ ngày nhận được Đơn khởi kiện, Chánh án Tòa án phân công một Thẩm phán xem xét đơn?
+A. 03 ngày làm việc
+B. 01 năm
+C. 06 tháng
+D. 30 ngày làm việc
+Đáp án đúng: A
+Giải thích: Trong thời hạn 03 ngày làm việc kể từ ngày nhận đơn khởi kiện, Chánh án Tòa án phân công một Thẩm phán xem xét đơn.
+
+Câu 160 [Dễ]: Nghĩa vụ nộp Tiền tạm ứng án phí sơ thẩm dân sự do ai thực hiện trước khi Tòa án thụ lý vụ án (trừ trường hợp được miễn, giảm)?
+A. Bị đơn
+B. Ủy ban nhân dân cấp xã
+C. Thẩm phán
+D. Người khởi kiện vụ án dân sự
+Đáp án đúng: D
+Giải thích: Người khởi kiện có nghĩa vụ nộp tiền tạm ứng án phí sơ thẩm trong thời hạn luật định để Tòa án tiến hành thụ lý vụ án.
+
+Câu 161 [Dễ]: Thời hạn nộp Biên lai thu tiền tạm ứng án phí cho Tòa án sau khi nhận được thông báo nộp tạm ứng án phí là bao nhiêu ngày?
+A. 01 ngày
+B. 07 ngày kể từ ngày nhận được thông báo
+C. 03 tháng
+D. 30 ngày
+Đáp án đúng: B
+Giải thích: Trong thời hạn 07 ngày kể từ ngày nhận được thông báo, người khởi kiện phải nộp biên lai thu tiền tạm ứng án phí cho Tòa án.
+
+Câu 162 [Dễ]: Khi nào vụ án dân sự chính thức được Tòa án thụ lý giải quyết?
+A. Ngay khi người khởi kiện mới gửi thư qua bưu điện
+B. Khi Thẩm phán nhận được Biên lai nộp tiền tạm ứng án phí của người khởi kiện (hoặc từ ngày nhận đơn nếu được miễn/không phải nộp)
+C. Khi hai bên bắt đầu cãi nhau
+D. Khi UBND cấp xã chuyển đơn lên
+Đáp án đúng: B
+Giải thích: Vụ án dân sự chính thức được thụ lý kể từ thời điểm Thẩm phán nhận được biên lai nộp tiền tạm ứng án phí.
+
+Câu 163 [Trung bình]: Trường hợp nào sau đây Tòa án nhân dân ra quyết định Trả lại đơn khởi kiện cho người nộp đơn?
+A. Giá trị tranh chấp dưới 100 triệu đồng
+B. Đơn viết bằng mực màu xanh
+C. Người bị kiện ở cùng xã với người khởi kiện
+D. Người khởi kiện không có quyền khởi kiện; Chưa có đủ điều kiện khởi kiện; Sự việc đã được giải quyết bằng bản án/quyết định đã có hiệu lực pháp luật
+Đáp án đúng: D
+Giải thích: Tòa án trả lại đơn khởi kiện khi người nộp đơn không có quyền khởi kiện, chưa đủ điều kiện khởi kiện hoặc sự việc đã được giải quyết bằng bản án hiệu lực.
+
+Câu 164 [Trung bình]: Khi người khởi kiện không nộp tiền tạm ứng án phí trong thời hạn 07 ngày mà không có lý do chính đáng thì Thẩm phán xử lý Đơn khởi kiện như thế nào?
+A. Thụ lý vụ án miễn phí
+B. Mời UBND cấp xã đóng án phí thay
+C. Ra quyết định Trả lại đơn khởi kiện cho người khởi kiện
+D. Chuyển đơn sang Cơ quan Công an bắt giam người khởi kiện
+Đáp án đúng: C
+Giải thích: Không nộp biên lai tạm ứng án phí trong thời hạn 07 ngày mà không có lý do chính đáng thì Tòa án ra quyết định trả lại đơn khởi kiện.
+
+Câu 165 [Trung bình]: Trong thời hạn bao nhiêu ngày kể từ ngày thụ lý vụ án, Tòa án phải thông báo bằng văn bản về việc thụ lý vụ án cho bị đơn và Viện kiểm sát?
+A. 03 ngày làm việc
+B. 15 ngày
+C. 02 tháng
+D. 30 ngày
+Đáp án đúng: A
+Giải thích: Trong thời hạn 03 ngày làm việc kể từ ngày thụ lý vụ án, Tòa án phải thông báo bằng văn bản cho bị đơn, người có quyền lợi liên quan và VKS.
+
+Câu 166 [Trung bình]: Một số Biện pháp khẩn cấp tạm thời phổ biến được Bộ luật Tố tụng Dân sự quy định bao gồm:
+A. Kê biên tài sản đang tranh chấp; Cấm thay đổi hiện trạng tài sản; Phong tỏa tài khoản tại ngân hàng; Tạm dừng thực hiện hành vi
+B. Tước giấy phép lái xe vĩnh viễn
+C. Cấm đi khỏi nơi cư trú đối với người làm chứng
+D. Phạt tù có thời hạn đối với bị đơn
+Đáp án đúng: A
+Giải thích: Các biện pháp KCKTT gồm kê biên tài sản tranh chấp, phong tỏa tài khoản, cấm chuyển dịch quyền về tài sản, tạm dừng thực hiện hành vi...
+
+Câu 167 [Trung bình]: Trường hợp Đơn khởi kiện không ghi đầy đủ các nội dung theo luật định hoặc thiếu tài liệu chứng cứ thì Thẩm phán xử lý như thế nào?
+A. Trả lại đơn ngay lập tức không cho sửa
+B. Tự ý viết thêm vào đơn của người khởi kiện
+C. Hủy bỏ toàn bộ quyền tố tụng của người khởi kiện
+D. Thông báo bằng văn bản cho người khởi kiện biết để Sửa đổi, bổ sung đơn khởi kiện trong thời hạn luật định (thông thường không quá 01 tháng)
+Đáp án đúng: D
+Giải thích: Nếu đơn chưa đủ nội dung, Thẩm phán thông báo cho người khởi kiện sửa đổi, bổ sung đơn khởi kiện trong thời hạn luật định.
+
+Câu 168 [Trung bình]: Người khởi kiện có quyền khiếu nại Quyết định trả lại đơn khởi kiện của Thẩm phán trong thời hạn bao nhiêu ngày kể từ ngày nhận được quyết định?
+A. 01 năm
+B. 30 ngày
+C. 02 ngày
+D. 10 ngày kể từ ngày nhận được quyết định trả lại đơn khởi kiện
+Đáp án đúng: D
+Giải thích: Người khởi kiện có quyền khiếu nại quyết định trả lại đơn khởi kiện trong thời hạn 10 ngày kể từ ngày nhận được quyết định.
+
+Câu 169 [Trung bình]: Trường hợp vụ án dân sự không thuộc thẩm quyền giải quyết của Tòa án nhân dân được gửi đơn thì Thẩm phán xử lý như thế nào?
+A. Tiêu hủy đơn khởi kiện
+B. Tự ý xét xử dù không có thẩm quyền
+C. Ra quyết định chuyển đơn khởi kiện cho Tòa án có thẩm quyền và thông báo cho người khởi kiện (hoặc trả lại đơn nếu thuộc thẩm quyền cơ quan khác)
+D. Giữ lại hồ sơ vô thời hạn
+Đáp án đúng: C
+Giải thích: Nếu không thuộc thẩm quyền, Thẩm phán ra quyết định chuyển đơn cho Tòa án có thẩm quyền hoặc trả lại đơn nếu thuộc thẩm quyền giải quyết của cơ quan khác.
+
+Câu 170 [Trung bình]: Sau khi nhận được thông báo thụ lý vụ án, Bị đơn có quyền nộp Văn bản ghi ý kiến của mình đối với yêu cầu của nguyên đơn (Văn bản tự khai) trong thời hạn bao nhiêu ngày?
+A. 06 tháng
+B. 60 ngày
+C. 15 ngày kể từ ngày nhận được thông báo thụ lý vụ án
+D. 03 ngày
+Đáp án đúng: C
+Giải thích: Bị đơn có thời hạn 15 ngày kể từ ngày nhận thông báo thụ lý để nộp văn bản ghi ý kiến (ý kiến phản tố, tự khai) đối với yêu cầu của nguyên đơn.
+
+Câu 171 [Vận dụng]: Anh M nộp đơn khởi kiện Anh N đòi 200 triệu đồng nợ vay tại Tòa án nhân dân khu vực X. Tòa án kiểm tra hồ sơ thấy Anh M chưa nộp Biên bản hòa giải tại Ủy ban nhân dân cấp xã. Tòa án có trả lại đơn khởi kiện không?
+A. Trả lại đơn để phạt tiền Anh M
+B. Không trả lại đơn. Tranh chấp hợp đồng vay tài sản không bắt buộc phải qua thủ tục hòa giải tiền tố tụng tại UBND cấp xã
+C. Chuyển đơn cho Công an phạt tù Anh N
+D. Trả lại đơn ngay lập tức vì bắt buộc phải qua hòa giải xã
+Đáp án đúng: B
+Giải thích: Chỉ có tranh chấp đất đai mới bắt buộc hòa giải tại UBND cấp xã trước khi kiện; tranh chấp hợp đồng vay nợ không bắt buộc hòa giải ở xã.
+
+Câu 172 [Vận dụng]: Chị K khởi kiện tranh chấp quyền sở hữu xe ô tô với Anh P tại Tòa án nhân dân khu vực T. Trong quá trình thụ lý, Chị K phát hiện Anh P đang chuẩn bị bán chiếc xe ô tô đó cho người khác. Chị K cần làm gì để ngăn chặn Anh P bán xe?
+A. Yêu cầu Công an bắt giam Anh P
+B. Làm đơn yêu cầu Tòa án nhân dân khu vực T áp dụng Biện pháp khẩn cấp tạm thời 'Cấm chuyển dịch quyền về tài sản đối với tài sản đang tranh chấp'
+C. Trực tiếp đến cướp lại xe ô tô
+D. Nhờ UBND cấp xã đến thu hồi xe
+Đáp án đúng: B
+Giải thích: Để ngăn chặn bị đơn bán tài sản tranh chấp, nguyên đơn có quyền yêu cầu Tòa án áp dụng biện pháp khẩn cấp tạm thời cấm chuyển dịch quyền tài sản.
+
+Câu 173 [Vận dụng]: Ông H nộp đơn khởi kiện đòi nhà đất đối với Ông G. Thẩm phán kiểm tra thấy vụ án đòi nhà đất này đã được Tòa án nhân dân xét xử bằng Bản án có hiệu lực pháp luật từ năm 2018. Thẩm phán sẽ xử lý Đơn khởi kiện của Ông H như thế nào?
+A. Ra quyết định Trả lại đơn khởi kiện do sự việc đã được giải quyết bằng bản án đã có hiệu lực pháp luật
+B. Thụ lý và xét xử lại từ đầu
+C. Phạt tiền Ông H 10 triệu đồng
+D. Chuyển đơn cho UBND cấp xã xử lý
+Đáp án đúng: A
+Giải thích: Sự việc đã được giải quyết bằng bản án/quyết định có hiệu lực pháp luật là căn cứ Tòa án ra quyết định trả lại đơn khởi kiện.
+
+Câu 174 [Vận dụng]: Bà X nộp đơn khởi kiện Anh Y đòi tiền thuê nhà tại Tòa án nhân dân khu vực K. Tòa án ra thông báo nộp tiền tạm ứng án phí 2 triệu đồng. Bà X cho rằng mình là người đi đòi nợ nên không phải nộp án phí và cố tình không nộp sau 10 ngày. Thẩm phán xử lý ra sao?
+A. Tòa án phạt tù Bà X do chống đối
+B. Ủy ban nhân dân cấp xã phải nộp tiền thay Bà X
+C. Thụ lý vụ án và bắt Anh Y nộp thay
+D. Ra quyết định Trả lại đơn khởi kiện cho Bà X do không nộp biên lai tạm ứng án phí đúng thời hạn 07 ngày
+Đáp án đúng: D
+Giải thích: Người khởi kiện không thuộc trường hợp miễn/giảm mà cố tình không nộp biên lai tạm ứng án phí đúng hạn thì Tòa án ra quyết định trả lại đơn.
+
+Câu 175 [Vận dụng]: Công ty A nộp đơn khởi kiện Công ty B đòi 1 tỷ đồng tiền hàng. Trong thời hạn 15 ngày kể từ ngày nhận thông báo thụ lý, Công ty B nộp Đơn phản tố yêu cầu Công ty A bồi thường 300 triệu đồng do hàng lỗi. Tòa án xử lý Đơn phản tố của Công ty B ra sao?
+A. Trả lại đơn phản tố và yêu cầu Công ty B sang UBND cấp xã kiện
+B. Chuyển vụ án cho Tòa án nhân dân tối cao
+C. Bác đơn phản tố vì bị đơn không được kiện ngược lại
+D. Thụ lý Đơn phản tố của Công ty B để giải quyết cùng trong vụ án dân sự này nếu đáp ứng đủ điều kiện theo Bộ luật Tố tụng Dân sự
+Đáp án đúng: D
+Giải thích: Bị đơn có quyền đưa ra yêu cầu phản tố đối với nguyên đơn trước thời điểm họp kiểm tra việc giao nộp, tiếp cận, công khai chứng cứ và hòa giải.
+
+--------------------------------------------------------------------------------
+MỤC 4.2.3. TRÌNH TỰ, THỦ TỤC GIẢI QUYẾT VỤ ÁN DÂN SỰ
+--------------------------------------------------------------------------------
+
+Câu 176 [Dễ]: Thời hạn chuẩn bị xét xử đối với vụ án dân sự thông thường (như tranh chấp hợp đồng, sở hữu) là bao nhiêu tháng?
+A. 12 tháng kể từ ngày thụ lý vụ án
+B. 04 tháng kể từ ngày thụ lý vụ án (có thể gia hạn không quá 02 tháng đối với vụ án phức tạp)
+C. 05 năm kể từ ngày thụ lý vụ án
+D. 01 tháng kể từ ngày thụ lý vụ án
+Đáp án đúng: B
+Giải thích: Thời hạn chuẩn bị xét xử vụ án dân sự thông thường là 04 tháng kể từ ngày thụ lý vụ án; vụ án phức tạp được gia hạn không quá 02 tháng.
+
+Câu 177 [Dễ]: Thủ tục 'Hòa giải' tại Tòa án có vị trí như thế nào trong quá trình giải quyết vụ án dân sự?
+A. Là thủ tục tùy nghi thích thì làm không thích thì bỏ
+B. Là thủ tục bắt buộc trong giai đoạn chuẩn bị xét xử (trừ những vụ án không được hòa giải hoặc không tiến hành hòa giải được)
+C. Là thủ tục do UBND cấp xã trực tiếp thực hiện tại phiên tòa
+D. Là thủ tục chỉ dành cho vụ án hình sự
+Đáp án đúng: B
+Giải thích: Hòa giải là thủ tục bắt buộc trong quá trình giải quyết vụ án dân sự nhằm giúp các đương sự tự thỏa thuận giải quyết tranh chấp.
+
+Câu 178 [Dễ]: Khi các đương sự hòa giải thành công tại Tòa án, Thẩm phán ra văn bản pháp lý nào để ghi nhận?
+A. Quyết định công nhận sự thỏa thuận của các đương sự
+B. Biên bản xử phạt hành chính
+C. Quyết định tạm đình chỉ vụ án
+D. Bản án sơ thẩm phạt tiền bị đơn
+Đáp án đúng: A
+Giải thích: Khi các đương sự hòa giải thành, sau 07 ngày nếu không ai thay đổi ý kiến thì Thẩm phán ra Quyết định công nhận sự thỏa thuận của các đương sự.
+
+Câu 179 [Dễ]: Quyết định công nhận sự thỏa thuận của các đương sự có hiệu lực pháp lý như thế nào?
+A. Cần được UBND cấp xã phê chuẩn mới có hiệu lực
+B. Chỉ có giá trị tham khảo như giấy tay
+C. Có hiệu lực pháp luật ngay sau khi được ban hành và không bị kháng cáo, kháng nghị theo thủ tục phúc thẩm
+D. Vẫn có thể kháng cáo lên Tòa án cấp tỉnh trong 15 ngày
+Đáp án đúng: C
+Giải thích: Quyết định công nhận sự thỏa thuận của các đương sự có hiệu lực pháp luật ngay và không bị kháng cáo, kháng nghị phúc thẩm.
+
+Câu 180 [Dễ]: Thành phần Hội đồng xét xử sơ thẩm vụ án dân sự thông thường gồm có những ai?
+A. 03 Thẩm phán chuyên nghiệp
+B. 01 Thẩm phán và 02 Hội thẩm nhân dân
+C. 02 Thẩm phán và 01 Kiểm sát viên
+D. 01 Thẩm phán và 01 Chủ tịch UBND cấp xã
+Đáp án đúng: B
+Giải thích: Hội đồng xét xử sơ thẩm vụ án dân sự thông thường gồm 01 Thẩm phán và 02 Hội thẩm nhân dân.
+
+Câu 181 [Dễ]: Trình tự các bước diễn ra tại Phiên tòa sơ thẩm dân sự tuân theo thứ tự nào?
+A. Hỏi -> Tuyên án -> Nghị án -> Tranh luận
+B. Bắt đầu phiên tòa -> Hỏi -> Tranh luận -> Nghị án -> Tuyên án
+C. Tranh luận -> Tuyên án -> Bắt đầu phiên tòa
+D. Nghị án -> Tuyên án -> Hỏi -> Tranh luận
+Đáp án đúng: B
+Giải thích: Trình tự phiên tòa sơ thẩm: Bắt đầu phiên tòa -> Hỏi (xét hỏi) -> Tranh luận -> Nghị án -> Tuyên án.
+
+Câu 182 [Dễ]: Bản án phúc thẩm dân sự có hiệu lực pháp luật từ thời điểm nào?
+A. Có hiệu lực sau 15 ngày kể từ ngày tuyên án
+B. Có hiệu lực sau 30 ngày kể từ ngày tuyên án
+C. Có hiệu lực pháp luật kể từ ngày tuyên án
+D. Cần có sự đồng ý của UBND cấp tỉnh mới có hiệu lực
+Đáp án đúng: C
+Giải thích: Khác với bản án sơ thẩm, Bản án phúc thẩm dân sự có hiệu lực pháp luật ngay kể từ ngày tuyên án.
+
+Câu 183 [Dễ]: Thủ tục Giám đốc thẩm dân sự được tiến hành khi nào?
+A. Khi UBND cấp xã yêu cầu xét xử lại
+B. Khi bản án, quyết định của Tòa án ĐÃ CÓ HIỆU LỰC pháp luật bị kháng nghị vì phát hiện có vi phạm pháp luật nghiêm trọng trong việc giải quyết vụ án
+C. Khi bản án sơ thẩm chưa có hiệu lực bị đương sự kháng cáo
+D. Khi đương sự nộp đơn khởi kiện ban đầu
+Đáp án đúng: B
+Giải thích: Giám đốc thẩm xét lại bản án ĐÃ CÓ HIỆU LỰC pháp luật khi phát hiện có vi phạm pháp luật nghiêm trọng.
+
+Câu 184 [Dễ]: Thủ tục Tái thẩm dân sự được tiến hành khi nào?
+A. Khi Thẩm phán chuyển công tác
+B. Khi nguyên đơn đổi ý không muốn đòi tiền nữa
+C. Khi bản án, quyết định ĐÃ CÓ HIỆU LỰC pháp luật bị kháng nghị vì có những tình tiết mới quan trọng làm thay đổi cơ bản nội dung bản án mà Tòa án không thể biết được khi ra bản án đó
+D. Khi bị đơn đi khỏi nơi cư trú
+Đáp án đúng: C
+Giải thích: Tái thẩm xét lại bản án ĐÃ CÓ HIỆU LỰC pháp luật khi xuất hiện tình tiết mới quan trọng làm thay đổi bản chất vụ án.
+
+Câu 185 [Dễ]: Tòa án nhân dân cấp tỉnh thực hiện chức năng xét xử phúc thẩm đối với bản án, quyết định sơ thẩm của Tòa án nào bị kháng cáo, kháng nghị?
+A. Quyết định của Ủy ban nhân dân cấp xã
+B. Bản án của Tòa án nhân dân tối cao
+C. Bản án, quyết định sơ thẩm chưa có hiệu lực của Tòa án nhân dân khu vực
+D. Quyết định của Ủy ban nhân dân cấp tỉnh
+Đáp án đúng: C
+Giải thích: Tòa án nhân dân cấp tỉnh có thẩm quyền xét xử phúc thẩm các bản án, quyết định sơ thẩm của Tòa án nhân dân khu vực bị kháng cáo, kháng nghị.
+
+Câu 186 [Trung bình]: Trường hợp nào sau đây Tòa án ra quyết định 'Tạm đình chỉ giải quyết vụ án dân sự'?
+A. Bị đơn chấp nhận trả đủ 100% tiền nợ ngay tại Tòa
+B. Nguyên đơn rút toàn bộ yêu cầu khởi kiện
+C. Đương sự là cá nhân chết mà chưa có người thừa kế kế thừa quyền, nghĩa vụ tố tụng; hoặc cần chờ kết quả giải quyết vụ án khác liên quan
+D. Thư ký Tòa án bị ốm nhẹ 1 ngày
+Đáp án đúng: C
+Giải thích: Tạm đình chỉ vụ án áp dụng khi đương sự chết chưa có người thừa kế, cần chờ kết quả vụ án khác hoặc lý do khách quan hoãn tố tụng.
+
+Câu 187 [Trung bình]: Trường hợp nào sau đây Tòa án ra quyết định 'Đình chỉ giải quyết vụ án dân sự' (chấm dứt hẳn việc giải quyết vụ án)?
+A. Nguyên đơn rút toàn bộ yêu cầu khởi kiện; hoặc nguyên đơn đã được triệu tập hợp lệ lần thứ hai mà vẫn vắng mặt không có lý do chính đáng
+B. Tòa án cần thời gian đi xác minh tài sản 2 ngày
+C. Thẩm phán bận đi học tập chuyên môn
+D. Các bên xin hoãn phiên tòa 1 tuần
+Đáp án đúng: A
+Giải thích: Đình chỉ giải quyết vụ án khi nguyên đơn rút đơn khởi kiện hoặc nguyên đơn vắng mặt lần thứ 2 không có lý do chính đáng.
+
+Câu 188 [Trung bình]: Khi Tòa án ra quyết định 'Đình chỉ giải quyết vụ án dân sự' do nguyên đơn rút toàn bộ đơn khởi kiện thì tiền tạm ứng án phí được xử lý như thế nào?
+A. Bị tịch thu 100% nộp vào ngân sách nhà nước
+B. Chuyển cho bị đơn tiêu xài
+C. Tiền tạm ứng án phí được trả lại cho nguyên đơn (hoặc xử lý theo thỏa thuận của các đương sự)
+D. Nộp cho Ủy ban nhân dân cấp xã
+Đáp án đúng: C
+Giải thích: Trường hợp đình chỉ do nguyên đơn rút đơn khởi kiện thì tiền tạm ứng án phí được trả lại cho nguyên đơn.
+
+Câu 189 [Trung bình]: Điều kiện để vụ án dân sự được giải quyết theo 'Thủ tục rút gọn' bao gồm những gì?
+A. Vụ án có đương sự đang định cư tại nước ngoài
+B. Vụ án có tổng tài sản trên 100 tỷ đồng
+C. Tất cả các vụ án tranh chấp đất đai phức tạp
+D. Vụ án có tình tiết đơn giản, quan hệ pháp luật rõ ràng, đương sự thừa nhận nghĩa vụ; tài liệu chứng cứ đầy đủ, không có đương sự ở nước ngoài
+Đáp án đúng: D
+Giải thích: Thủ tục rút gọn áp dụng cho vụ án đơn giản, chứng cứ rõ ràng, đương sự thừa nhận nghĩa vụ và không có yếu tố nước ngoài.
+
+Câu 190 [Trung bình]: Phiên tòa xét xử theo 'Thủ tục rút gọn' do mấy Thẩm phán tiến hành xét xử?
+A. Do 01 Thẩm phán và 02 Hội thẩm nhân dân xét xử
+B.  do 01 Thẩm phán tiến hành xét xử (không có Hội thẩm nhân dân)
+C. Do Chủ tịch UBND cấp xã xét xử
+D. Do 03 Thẩm phán xét xử
+Đáp án đúng: B
+Giải thích: Phiên tòa sơ thẩm theo thủ tục rút gọn do 01 Thẩm phán độc lập tiến hành xét xử mà không có Hội thẩm nhân dân.
+
+Câu 191 [Trung bình]: Thời hạn Viện kiểm sát nhân dân cùng cấp ra quyết định kháng nghị phúc thẩm đối với bản án sơ thẩm của Tòa án nhân dân là bao nhiêu ngày?
+A. 01 năm kể từ ngày tuyên án
+B. 15 ngày kể từ ngày Tòa án tuyên án
+C. 03 ngày kể từ ngày tuyên án
+D. 60 ngày kể từ ngày tuyên án
+Đáp án đúng: B
+Giải thích: Thời hạn kháng nghị phúc thẩm của Viện kiểm sát cùng cấp đối với bản án sơ thẩm là 15 ngày kể từ ngày tuyên án.
+
+Câu 192 [Trung bình]: Trong giai đoạn tranh luận tại phiên tòa sơ thẩm dân sự, ai là người phát biểu tranh luận trước?
+A. Hội thẩm nhân dân phát biểu trước
+B. Bị đơn luôn luôn phát biểu trước
+C. Thẩm phán phát biểu tranh luận trước
+D. Nguyên đơn (hoặc người bảo vệ quyền lợi của nguyên đơn) phát biểu trước, sau đó bị đơn phát biểu tranh luận lại
+Đáp án đúng: D
+Giải thích: Trình tự tranh luận: Nguyên đơn/người bảo vệ quyền lợi nguyên đơn phát biểu ý kiến trước, sau đó bị đơn/người bảo vệ bị đơn tranh luận phản bác.
+
+Câu 193 [Trung bình]: Việc 'Nghị án' của Hội đồng xét xử dân sự được thực hiện theo nguyên tắc nào?
+A. Nghị án qua tin nhắn điện thoại
+B. Nghị án công khai trước toàn thể khán giả
+C. Nghị án tại phòng nghị án riêng; Hội đồng xét xử thảo luận, biểu quyết và quyết định theo đa số đối với từng vấn đề của vụ án
+D. Thẩm phán tự quyết định 100% không cho Hội thẩm nhân dân phát biểu
+Đáp án đúng: C
+Giải thích: Nghị án phải thực hiện trong phòng riêng; các thành viên HĐXX biểu quyết theo nguyên tắc đa số.
+
+Câu 194 [Vận dụng]: Anh M khởi kiện đòi Anh N bồi thường 100 triệu đồng do tai nạn tại Tòa án nhân dân khu vực X. Tại phiên hòa giải, hai bên tự nguyện thỏa thuận Anh N sẽ trả Anh M 70 triệu đồng trong hạn 1 tháng. Sau 7 ngày không ai đổi ý, Thẩm phán ra Quyết định công nhận sự thỏa thuận. Anh N sau đó lại đổi ý không trả tiền. Anh M có quyền làm gì?
+A. Không làm gì được vì đã hòa giải
+B. Khởi kiện lại từ đầu tại Tòa án
+C. Yêu cầu Cơ quan Thi hành án dân sự cưỡng chế thi hành quyết định công nhận sự thỏa thuận đã có hiệu lực pháp luật
+D. Nhờ UBND cấp xã đến bắt giam Anh N
+Đáp án đúng: C
+Giải thích: Quyết định công nhận sự thỏa thuận của các đương sự có hiệu lực pháp luật ngay và được cưỡng chế thi hành theo pháp luật thi hành án dân sự.
+
+Câu 195 [Vận dụng]: Chị H khởi kiện ly hôn với Anh K tại Tòa án nhân dân khu vực T. Tòa án đã mở phiên hòa giải lần 1 nhưng Anh K cố tình vắng mặt không lý do. Thẩm phán xử lý phiên hòa giải tiếp theo như thế nào?
+A. Tiếp tục triệu tập phiên hòa giải lần 2; nếu Anh K vẫn vắng mặt không lý do thì lập biên bản hòa giải không thành và ra quyết định đưa vụ án ra xét xử
+B. Trả lại đơn cho Chị H
+C. Tự động tuyên hai người ly hôn không cần xét xử
+D. Đình chỉ vụ án ly hôn ngay lập tức
+Đáp án đúng: A
+Giải thích: Bị đơn vắng mặt lần 1 thì hoãn hòa giải triệu tập lần 2; vắng mặt lần 2 không lý do thì coi như không tiến hành hòa giải được và đưa vụ án ra xét xử.
+
+Câu 196 [Vận dụng]: Ông B khởi kiện Anh D đòi 300 triệu nợ tiền mua hàng. Trong quá trình chuẩn bị xét xử, Anh D đột ngột bị tai nạn giao thông tử vong và chưa xác định được người thừa kế. Thẩm phán giải quyết vụ án xử lý ra sao?
+A. Tuyên Ông B thắng kiện nhận 300 triệu từ UBND cấp xã
+B. Bắt con trai Anh D đi tù ngay
+C. Ra Quyết định tạm đình chỉ giải quyết vụ án dân sự để chờ xác định người thừa kế kế thừa quyền, nghĩa vụ tố tụng của Anh D
+D. Ra Quyết định đình chỉ hủy bỏ vụ án vĩnh viễn
+Đáp án đúng: C
+Giải thích: Đương sự chết mà chưa có người thừa kế kế thừa nghĩa vụ tố tụng là căn cứ Tòa án ra quyết định tạm đình chỉ giải quyết vụ án.
+
+Câu 197 [Vận dụng]: Công ty P khởi kiện Công ty Q đòi 500 triệu đồng. Tòa án nhân dân khu vực X đã triệu tập hợp lệ lần thứ hai đến tham dự phiên tòa sơ thẩm nhưng đại diện Công ty P (nguyên đơn) vẫn vắng mặt không có lý do chính đáng và không có đơn xin xét xử vắng mặt. Hội đồng xét xử quyết định ra sao?
+A. Hoãn phiên tòa lần thứ 100
+B. Ra Quyết định đình chỉ giải quyết vụ án dân sự do nguyên đơn vắng mặt lần thứ hai không có lý do chính đáng
+C. Chuyển vụ án cho UBND cấp xã xử lý
+D. Tuyên Công ty P thắng kiện 100%
+Đáp án đúng: B
+Giải thích: Nguyên đơn được triệu tập hợp lệ lần thứ 2 mà vắng mặt không lý do chính đáng (và không xin xử vắng mặt) thì Tòa án ra quyết định đình chỉ giải quyết vụ án.
+
+Câu 198 [Vận dụng]: Tòa án nhân dân khu vực M xét xử sơ thẩm vụ án tranh chấp hợp đồng mua bán và tuyên Bản án sơ thẩm buộc Anh E trả cho Chị F 200 triệu đồng. Anh E không đồng ý và nộp Đơn kháng cáo trong thời hạn 10 ngày kể từ ngày tuyên án. Tòa án nào có thẩm quyền xét xử phúc thẩm?
+A. Tòa án nhân dân cấp tỉnh
+B. Tòa án nhân dân tối cao
+C. Ủy ban nhân dân cấp tỉnh
+D. Tòa án nhân dân khu vực M xét xử lại
+Đáp án đúng: A
+Giải thích: Tòa án nhân dân cấp tỉnh có thẩm quyền xét xử phúc thẩm đối với bản án sơ thẩm chưa có hiệu lực của Tòa án nhân dân khu vực bị kháng cáo.
+
+Câu 199 [Vận dụng]: Một vụ án tranh chấp thừa kế đất đai đã được Tòa án nhân dân cấp tỉnh xét xử phúc thẩm và ra Bản án phúc thẩm có hiệu lực pháp luật. Ba tháng sau, phát hiện chứng cứ quan trọng là di chúc hợp pháp của người chết bị một bên đương sự giấu đi nay mới tìm thấy. Đương sự cần làm đơn yêu cầu thủ tục tố tụng nào?
+A. Khởi kiện mới từ đầu tại Tòa án nhân dân khu vực
+B. Yêu cầu UBND cấp xã hủy bản án Tòa án
+C. Nộp đơn kháng cáo phúc thẩm lần 2
+D. Làm đơn đề nghị người có thẩm quyền (Chánh án TAND tối cao/Viện trưởng VKSND tối cao/Chánh án TAND cấp cao) kháng nghị Tái thẩm bản án đã có hiệu lực
+Đáp án đúng: D
+Giải thích: Phát hiện tình tiết mới quan trọng làm thay đổi bản chất vụ án sau khi bản án đã có hiệu lực pháp luật là căn cứ để kháng nghị Tái thẩm.
+
+Câu 200 [Vận dụng]: Bản án sơ thẩm của Tòa án nhân dân khu vực Y tuyên ngày 10/10/2026. Bị đơn K không có mặt tại phiên tòa nhưng được giao bản án hợp lệ ngày 15/10/2026. Thời hạn kháng cáo của Bị đơn K được tính từ ngày nào và kết thúc vào ngày nào?
+A. Tính từ ngày 15/10/2026 và kết thúc sau 30 ngày
+B. Không có quyền kháng cáo do vắng mặt
+C. Tính từ ngày 10/10/2026 và kết thúc ngày 25/10/2026
+D. Tính từ ngày 16/10/2026 và kết thúc vào ngày 30/10/2026 (đủ 15 ngày kể từ ngày nhận được bản án hợp lệ)
+Đáp án đúng: D
+Giải thích: Đương sự vắng mặt tại phiên tòa thì thời hạn kháng cáo 15 ngày được tính kể từ ngày bản án được giao hoặc niêm yết hợp lệ.
+
+================================================================================
+BẢNG ĐÁP ÁN TỔNG HỢP (200 CÂU HỎI CHƯƠNG 4)
+================================================================================
+
+  1. A      2. B      3. C      4. D      5. C      6. D      7. C      8. C      9. C     10. D
+ 11. D     12. C     13. C     14. B     15. B     16. B     17. B     18. A     19. D     20. B
+ 21. A     22. A     23. B     24. B     25. B     26. D     27. A     28. A     29. A     30. D
+ 31. B     32. D     33. D     34. C     35. B     36. D     37. D     38. C     39. C     40. D
+ 41. B     42. A     43. A     44. A     45. A     46. B     47. C     48. B     49. B     50. C
+ 51. D     52. C     53. B     54. A     55. B     56. C     57. C     58. D     59. D     60. A
+ 61. A     62. B     63. B     64. D     65. C     66. C     67. B     68. A     69. A     70. B
+ 71. C     72. B     73. B     74. D     75. C     76. A     77. A     78. D     79. D     80. C
+ 81. C     82. D     83. B     84. D     85. D     86. C     87. D     88. C     89. B     90. C
+ 91. D     92. C     93. A     94. C     95. B     96. B     97. B     98. A     99. B    100. A
+101. B    102. A    103. C    104. C    105. A    106. A    107. D    108. A    109. C    110. B
+111. B    112. B    113. D    114. D    115. D    116. C    117. B    118. D    119. B    120. C
+121. B    122. C    123. D    124. C    125. D    126. D    127. A    128. C    129. C    130. D
+131. A    132. C    133. A    134. A    135. D    136. D    137. C    138. A    139. D    140. D
+141. A    142. D    143. B    144. B    145. A    146. D    147. D    148. B    149. B    150. A
+151. D    152. D    153. A    154. C    155. C    156. D    157. B    158. B    159. A    160. D
+161. B    162. B    163. D    164. C    165. A    166. A    167. D    168. D    169. C    170. C
+171. B    172. B    173. A    174. D    175. D    176. B    177. B    178. A    179. C    180. B
+181. B    182. C    183. B    184. C    185. C    186. C    187. A    188. C    189. D    190. B
+191. B    192. D    193. C    194. C    195. A    196. C    197. B    198. A    199. D    200. D
+
+================================================================================
+HẾT NGÂN HÀNG CÂU HỎI CHƯƠNG 4
+================================================================================

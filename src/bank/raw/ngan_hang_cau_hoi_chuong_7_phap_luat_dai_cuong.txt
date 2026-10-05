@@ -1,0 +1,1661 @@
+================================================================================
+NGÂN HÀNG CÂU HỎI TRẮC NGHIỆM MÔN PHÁP LUẬT ĐẠI CƯƠNG
+CHƯƠNG 7: PHÁP LUẬT HÔN NHÂN VÀ GIA ĐÌNH
+(Dành cho sinh viên đại học không chuyên luật)
+Cập nhật quy định pháp luật hiện hành tính đến năm 2026 (Mô hình chính quyền địa phương 2 cấp và Tòa án nhân dân khu vực)
+================================================================================
+
+CẤU TRÚC VÀ PHÂN BỔ CÂU HỎI:
+- Tổng số câu hỏi: 200 câu trắc nghiệm (mỗi câu gồm 4 phương án A, B, C, D, 1 đáp án đúng).
+- Phân bổ độ khó:
+  + Dễ (Nhận biết): 62 câu
+  + Trung bình (Thông hiểu): 68 câu
+  + Vận dụng (Tình huống): 70 câu
+- Danh mục nội dung:
+  7.1. KHÁI QUÁT VỀ LUẬT HÔN NHÂN VÀ GIA ĐÌNH (30 câu)
+       7.1.1. Đối tượng điều chỉnh & Phương pháp điều chỉnh (15 câu)
+       7.1.2. Các nguyên tắc cơ bản của chế độ hôn nhân và gia đình Việt Nam (15 câu)
+  7.2. ĐIỀU KIỆN VÀ THỦ TỤC KẾT HÔN (45 câu)
+       7.2.1. Điều kiện kết hôn (25 câu)
+       7.2.2. Khái niệm, Thẩm quyền và Thủ tục đăng ký kết hôn (20 câu)
+  7.3. QUAN HỆ NHÂN THÂN VÀ QUAN HỆ TÀI SẢN GIỮA VỢ VÀ CHỒNG (65 câu)
+       7.3.1. Quan hệ nhân thân giữa vợ và chồng (25 câu)
+       7.3.2. Quan hệ tài sản giữa vợ và chồng (40 câu)
+  7.4. QUY ĐỊNH PHÁP LUẬT VỀ LY HÔN VÀ HẬU QUẢ PHÁP LÝ (60 câu)
+       7.4.1. Quyền yêu cầu Tòa án giải quyết việc ly hôn & Hạn chế quyền ly hôn (15 câu)
+       7.4.2. Thuận tình ly hôn và Ly hôn theo yêu cầu của một bên (15 câu)
+       7.4.3. Việc trông nom, chăm sóc, giáo dục, nuôi dưỡng con sau khi ly hôn (15 câu)
+       7.4.4. Giải quyết tài sản của vợ chồng khi ly hôn (15 câu)
+
+================================================================================
+
+
+--------------------------------------------------------------------------------
+MỤC 7.1. KHÁI QUÁT VỀ LUẬT HÔN NHÂN VÀ GIA ĐÌNH
+--------------------------------------------------------------------------------
+
+Câu 1 [Dễ]: Đối tượng điều chỉnh của Luật Hôn nhân và Gia đình Việt Nam bao gồm các nhóm quan hệ xã hội nào sau đây?
+A. Chỉ bao gồm quan hệ quản lý hành chính nhà nước về hộ tịch ở cấp xã
+B. Quan hệ tài sản và quan hệ nhân thân phát sinh giữa các thành viên trong gia đình
+C. Quan hệ lao động và tiền lương giữa các thành viên trong gia đình
+D. Chỉ bao gồm quan hệ hợp đồng thương mại giữa vợ và chồng
+Đáp án đúng: B
+Giải thích: Đối tượng điều chỉnh của Luật Hôn nhân và Gia đình là các quan hệ nhân thân và quan hệ tài sản phát sinh giữa vợ và chồng, giữa cha mẹ và con, và giữa các thành viên khác trong gia đình.
+
+Câu 2 [Dễ]: Phương pháp điều chỉnh đặc trưng của ngành luật Hôn nhân và Gia đình là gì?
+A. Phương pháp độc đoán đơn phương của người đứng đầu gia đình
+B. Phương pháp cưỡng chế hình sự của Tòa án nhân dân khu vực
+C. Phương pháp mệnh lệnh - quyền uy tuyệt đối của cơ quan nhà nước cấp tỉnh
+D. Phương pháp bình đẳng, tự nguyện, thỏa thuận trên cơ sở tình cảm gia đình và đạo đức xã hội
+Đáp án đúng: D
+Giải thích: Luật Hôn nhân và Gia đình sử dụng phương pháp điều chỉnh bình đẳng, tự nguyện, thỏa thuận kết hợp với sự hỗ trợ, can thiệp của Nhà nước nhằm bảo vệ quyền lợi hợp pháp của các bên.
+
+Câu 3 [Dễ]: Quan hệ nhân thân trong Luật Hôn nhân và Gia đình mang đặc điểm nổi bật nào sau đây?
+A. Do Ủy ban nhân dân cấp xã quyết định thay đổi theo yêu cầu của hàng xóm
+B. Có thể định giá bằng tiền và đem đi thế chấp ngân hàng
+C. Gắn liền với nhân thân của các chủ thể, không thể chuyển giao hoặc định giá bằng tiền
+D. Có thể mua bán, chuyển nhượng tự do trên thị trường
+Đáp án đúng: C
+Giải thích: Quan hệ nhân thân trong hôn nhân và gia đình gắn liền với giá trị tinh thần, nhân thân của các chủ thể, không thể chuyển giao cho người khác hay trao đổi bằng tiền.
+
+Câu 4 [Dễ]: Quan hệ tài sản trong Luật Hôn nhân và Gia đình có đặc điểm nào khác biệt so với quan hệ tài sản trong giao dịch dân sự thông thường?
+A. Bắt buộc phải qua sự phê chuẩn của Tòa án nhân dân khu vực trước khi thực hiện
+B. Luôn mang tính đền bù ngang giá giữa các bên
+C. Chỉ do UBND cấp xã trực tiếp quản lý và chia định kỳ
+D. Gắn liền và bị chi phối bởi quan hệ nhân thân giữa các thành viên gia đình
+Đáp án đúng: D
+Giải thích: Quan hệ tài sản giữa các thành viên gia đình xuất phát từ quan hệ nhân thân (hôn nhân, huyết thống, nuôi dưỡng), không mang tính đền bù ngang giá như quan hệ dân sự - thương mại.
+
+Câu 5 [Dễ]: Khái niệm 'Hôn nhân' theo quy định tại Luật Hôn nhân và Gia đình 2014 được hiểu là gì?
+A. Việc hai người cùng giới tính về sống chung nhà có sự chứng nhận của UBND cấp xã
+B. Hợp đồng kinh tế giữa hai dòng họ có xác nhận của Tòa án nhân dân khu vực
+C. Sự kết hợp giữa nam và nữ theo sự sắp đặt của cha mẹ hai bên
+D. Quan hệ giữa vợ và chồng sau khi kết hôn theo quy định của pháp luật
+Đáp án đúng: D
+Giải thích: Theo khoản 1 Điều 3 Luật Hôn nhân và Gia đình 2014, hôn nhân là quan hệ giữa vợ và chồng sau khi kết hôn.
+
+Câu 6 [Dễ]: Khái niệm 'Gia đình' theo Luật Hôn nhân và Gia đình 2014 được định nghĩa như thế nào?
+A. Là tập hợp những người gắn bó với nhau do hôn nhân, quan hệ huyết thống hoặc quan hệ nuôi dưỡng, làm phát sinh các quyền và nghĩa vụ giữa họ với nhau
+B. Là tổ chức chính trị - xã hội do UBND cấp tỉnh thành lập
+C. Là tập thể lao động cùng sản xuất kinh doanh tại một doanh nghiệp
+D. Chỉ bao gồm những người sống trong cùng một căn hộ tại Phường X
+Đáp án đúng: A
+Giải thích: Theo khoản 2 Điều 3 Luật Hôn nhân và Gia đình 2014, gia đình là tập hợp những người gắn bó với nhau do hôn nhân, quan hệ huyết thống hoặc quan hệ nuôi dưỡng, làm phát sinh các quyền và nghĩa vụ giữa họ.
+
+Câu 7 [Dễ]: Giai đoạn nào phát sinh quan hệ hôn nhân hợp pháp giữa nam và nữ?
+A. Khi hai bên về sống chung với nhau như vợ chồng được 1 năm
+B. Khi hai bên tổ chức tiệc cưới tại nhà hàng
+C. Khi có sự đồng ý bằng văn bản của Tòa án nhân dân khu vực
+D. Khi hai bên được UBND cấp xã cấp Giấy chứng nhận kết hôn theo quy định
+Đáp án đúng: D
+Giải thích: Quan hệ hôn nhân hợp pháp chỉ phát sinh kể từ thời điểm nam, nữ thực hiện việc đăng ký kết hôn và được cơ quan nhà nước có thẩm quyền (UBND cấp xã) cấp Giấy chứng nhận kết hôn.
+
+Câu 8 [Trung bình]: Nội dung nào sau đây thể hiện sự can thiệp của Nhà nước trong phương pháp điều chỉnh của Luật Hôn nhân và Gia đình?
+A. Quy định số lượng con tối đa mà mỗi gia đình phải sinh
+B. Quy định bắt buộc vợ chồng phải có cùng ngành nghề kinh doanh
+C. Đặt ra các điều kiện kết hôn, cấm kết hôn và quy định trình tự, thủ tục ly hôn do Tòa án nhân dân khu vực giải quyết
+D. Buộc các gia đình phải nộp tài sản chung cho UBND cấp xã quản lý
+Đáp án đúng: C
+Giải thích: Nhà nước can thiệp bằng cách thiết lập khung pháp lý (điều kiện kết hôn, cấm kết hôn, thủ tục kết hôn, ly hôn...) để bảo vệ trật tự xã hội và quyền lợi hợp pháp của cá nhân.
+
+Câu 9 [Trung bình]: Việc áp dụng tập quán trong hôn nhân và gia đình được thực hiện theo nguyên tắc nào?
+A. Chỉ áp dụng tập quán tốt đẹp thể hiện bản sắc của mỗi dân tộc, không trái với các nguyên tắc cơ bản của chế độ hôn nhân gia đình và không vi phạm điều cấm của luật
+B. Tập quán luôn được ưu tiên áp dụng trước văn bản luật
+C. Tập quán do Ủy ban nhân dân cấp tỉnh ban hành riêng cho từng Phường
+D. Áp dụng mọi tập quán địa phương dù có yếu tố trọng nam khinh nữ
+Đáp án đúng: A
+Giải thích: Theo Điều 5 Luật HN&GĐ 2014, chỉ áp dụng tập quán tốt đẹp, không trái với nguyên tắc cơ bản của chế độ hôn nhân và gia đình và không vi phạm điều cấm của luật.
+
+Câu 10 [Trung bình]: Khi quy định của Luật Hôn nhân và Gia đình không có và các bên không có thỏa thuận thì nguồn pháp luật nào có thể được xem xét áp dụng tiếp theo?
+A. Bản án hình sự của Tòa án nhân dân khu vực
+B. Nghị quyết của Hội đồng nhân dân cấp tỉnh về ngân sách
+C. Quyết định xử phạt của UBND cấp xã
+D. Quy định tương tự của Bộ luật Dân sự và tập quán tốt đẹp
+Đáp án đúng: D
+Giải thích: Theo quy định tại Điều 4 Luật HN&GĐ 2014 và Bộ luật Dân sự, khi Luật HN&GĐ không quy định và các bên không thỏa thuận thì áp dụng tập quán hoặc quy định tương tự của pháp luật dân sự.
+
+Câu 11 [Trung bình]: Chủ thể của quan hệ pháp luật hôn nhân và gia đình phải đáp ứng điều kiện chung nào sau đây?
+A. Bắt buộc phải cư trú thường trú tại cùng một tỉnh
+B. Phải có tài sản riêng trị giá từ 500 triệu đồng trở lên
+C. Bắt buộc phải là công chức làm việc tại UBND cấp xã
+D. Có năng lực chủ thể (bao gồm năng lực pháp luật và năng lực hành vi) phù hợp với từng loại quan hệ pháp luật cụ thể
+Đáp án đúng: D
+Giải thích: Chủ thể tham gia quan hệ pháp luật hôn nhân gia đình là cá nhân có năng lực pháp luật và năng lực hành vi phù hợp theo quy định của pháp luật.
+
+Câu 12 [Trung bình]: Quan hệ giữa ông bà nội, ông bà ngoại và cháu nội, cháu ngoại thuộc nhóm quan hệ nào trong Luật Hôn nhân và Gia đình?
+A. Quan hệ tố tụng dân sự tại Tòa án nhân dân khu vực
+B. Quan hệ lao động gia đình do UBND cấp xã cấp phép
+C. Quan hệ huyết thống trực hệ và quan hệ nuôi dưỡng giữa các thành viên gia đình
+D. Quan hệ hợp đồng dịch vụ chăm sóc trẻ em
+Đáp án đúng: C
+Giải thích: Đây là quan hệ giữa các thành viên trong gia đình dựa trên yếu tố huyết thống trực hệ và nghĩa vụ chăm sóc, nuôi dưỡng lẫn nhau.
+
+Câu 13 [Vận dụng]: Chị A và Anh B tổ chức đám cưới linh đình tại Phường X dưới sự chứng kiến của hai gia đình và bạn bè nhưng chưa đăng ký kết hôn tại UBND cấp xã. Sau 3 năm chung sống, hai người phát sinh mâu thuẫn và muốn chia tài sản. Quan hệ giữa Chị A và Anh B có được pháp luật công nhận là hôn nhân hợp pháp không?
+A. Được Tòa án nhân dân khu vực đương nhiên công nhận là vợ chồng hợp pháp
+B. Được UBND cấp xã cấp giấy công nhận hôn nhân thực tế
+C. Được công nhận vì đã tổ chức đám cưới công khai và chung sống 3 năm
+D. Không được công nhận là hôn nhân hợp pháp vì chưa đăng ký kết hôn tại cơ quan nhà nước có thẩm quyền
+Đáp án đúng: D
+Giải thích: Theo khoản 1 Điều 9 Luật HN&GĐ 2014, việc kết hôn phải được đăng ký tại cơ quan nhà nước có thẩm quyền. Việc nam nữ chung sống như vợ chồng mà không đăng ký kết hôn thì không làm phát sinh quyền, nghĩa vụ giữa vợ và chồng.
+
+Câu 14 [Vận dụng]: Trong dòng họ K tại Xã Y có tập quán 'con gái lấy chồng thì không được hưởng thừa kế di sản của cha mẹ'. Tập quán này có được áp dụng để giải quyết tranh chấp chia di sản thừa kế không?
+A. Không được áp dụng vì tập quán này vi phạm nguyên tắc bình đẳng nam nữ của pháp luật hôn nhân gia đình và dân sự
+B. Do Ủy ban nhân dân cấp xã quyết định áp dụng hay không
+C. Do Tòa án nhân dân khu vực phê chuẩn áp dụng riêng cho Xã Y
+D. Được áp dụng vì đó là tập quán lâu đời của dòng họ
+Đáp án đúng: A
+Giải thích: Tập quán phân biệt đối xử nam nữ, tước quyền thừa kế của con gái là tập quán lạc hậu, trái với nguyên tắc bình đẳng nam nữ theo quy định của Hiến pháp, Luật HN&GĐ và Bộ luật Dân sự nên không được áp dụng.
+
+Câu 15 [Vận dụng]: Chị M (25 tuổi) và Anh N (27 tuổi) đăng ký kết hôn hợp pháp tại UBND cấp xã Z. Sau khi kết hôn, Anh N bắt Chị M phải nghỉ việc tại công ty để ở nhà nội trợ, cấm Chị M đi học cao học. Hành vi của Anh N vi phạm điều gì trong pháp luật Hôn nhân và Gia đình?
+A. Không vi phạm vì người chồng có quyền quyết định mọi việc trong nhà
+B. Vi phạm quyền nhân thân bình đẳng của vợ chồng về lựa chọn nghề nghiệp, học tập
+C. Vi phạm hợp đồng lao động đã ký với công ty
+D. Vi phạm quy định về đăng ký kinh doanh tại UBND cấp xã
+Đáp án đúng: B
+Giải thích: Theo Điều 19 Luật HN&GĐ 2014, vợ chồng bình đẳng với nhau, có quyền tự do lựa chọn nghề nghiệp, học tập, tham gia hoạt động chính trị, kinh tế, văn hóa, xã hội.
+
+Câu 16 [Dễ]: Nguyên tắc cơ bản đầu tiên của chế độ hôn nhân và gia đình Việt Nam theo Luật Hôn nhân và Gia đình 2014 là gì?
+A. Hôn nhân tự nguyện, tiến bộ, một vợ một chồng, vợ chồng bình đẳng
+B. Hôn nhân do cha mẹ quyết định và Tòa án nhân dân khu vực phê duyệt
+C. Hôn nhân phụ thuộc vào sự cho phép của UBND cấp tỉnh
+D. Hôn nhân dựa trên thỏa thuận tài sản đền bù ngang giá
+Đáp án đúng: A
+Giải thích: Khoản 1 Điều 2 Luật HN&GĐ 2014 quy định nguyên tắc: Hôn nhân tự nguyện, tiến bộ, một vợ một chồng, vợ chồng bình đẳng.
+
+Câu 17 [Dễ]: Hôn nhân giữa công dân Việt Nam thuộc các dân tộc, tôn giáo, giữa người theo tôn giáo với người không theo tôn giáo được pháp luật bảo vệ theo nguyên tắc nào?
+A. Chỉ được công nhận nếu được UBND cấp tỉnh cấp phép riêng
+B. Được tôn trọng và bảo vệ bình đẳng, không bị phân biệt đối xử
+C. Bắt buộc một bên phải từ bỏ tôn giáo của mình
+D. Bị hạn chế nếu khác biệt về phong tục tập quán ở cấp xã
+Đáp án đúng: B
+Giải thích: Khoản 2 Điều 2 Luật HN&GĐ 2014 quy định hôn nhân giữa các dân tộc, tôn giáo, giữa người theo tôn giáo với người không theo tôn giáo... được tôn trọng và được pháp luật bảo vệ.
+
+Câu 18 [Dễ]: Thành viên nào trong gia đình được pháp luật hôn nhân và gia đình ưu tiên bảo vệ đặc biệt?
+A. Cán bộ làm việc tại UBND cấp xã
+B. Trẻ em, người cao tuổi, người khuyết tật
+C. Thành viên có thu nhập cao nhất trong nhà
+D. Chủ hộ gia đình đứng tên trên giấy tờ nhà đất
+Đáp án đúng: B
+Giải thích: Khoản 3 Điều 2 Luật HN&GĐ 2014 quy định Xây dựng gia đình ấm no, bình đẳng, tiến bộ, hạnh phúc; các thành viên gia đình có nghĩa vụ tôn trọng, quan tâm, chăm sóc, giúp đỡ nhau; không phân biệt đối xử giữa các con; trẻ em, người cao tuổi, người khuyết tật được ưu tiên bảo vệ.
+
+Câu 19 [Dễ]: Thái độ của Nhà nước Việt Nam đối với hành vi cưỡng ép kết hôn, tảo hôn, lừa dối kết hôn là gì?
+A. Chỉ nhắc nhở hòa giải tại Tòa án nhân dân khu vực mà không phạt
+B. Nghiêm cấm và xử lý nghiêm minh theo quy định của pháp luật
+C. Cho phép nếu có sự bảo lãnh của UBND cấp xã
+D. Khuyến khích thực hiện để bảo tồn dòng họ
+Đáp án đúng: B
+Giải thích: Các hành vi tảo hôn, cưỡng ép kết hôn, lừa dối kết hôn là những hành vi bị nghiêm cấm theo điểm b khoản 2 Điều 5 Luật HN&GĐ 2014.
+
+Câu 20 [Dễ]: Nguyên tắc 'Một vợ một chồng' trong Luật Hôn nhân và Gia đình được hiểu như thế nào?
+A. Trong một đời người chỉ được đăng ký kết hôn đúng một lần
+B. Vợ chồng bắt buộc phải có cùng một quốc tịch
+C. Mỗi gia đình chỉ được sinh một người con
+D. Một người chỉ được có duy nhất một người vợ hoặc một người chồng hợp pháp tại một thời điểm
+Đáp án đúng: D
+Giải thích: Nguyên tắc một vợ một chồng đòi hỏi người đang có vợ hoặc có chồng hợp pháp thì không được kết hôn hoặc chung sống như vợ chồng với người khác.
+
+Câu 21 [Trung bình]: Hành vi nào sau đây vi phạm trực tiếp nguyên tắc 'Vợ chồng bình đẳng'?
+A. Chồng tự ý bán nhà đất là tài sản chung của vợ chồng mà không có sự đồng ý của vợ
+B. Vợ chồng thỏa thuận lập văn bản chế độ tài sản trước khi kết hôn
+C. Vợ đi làm công sở còn chồng ở nhà làm nội trợ theo thỏa thuận
+D. Vợ chồng cùng bàn bạc chọn nơi cư trú của gia đình
+Đáp án đúng: A
+Giải thích: Vợ chồng có quyền và nghĩa vụ ngang nhau trong việc sở hữu, định đoạt tài sản chung. Việc chồng tự ý bán tài sản chung không có sự đồng ý của vợ là vi phạm nguyên tắc bình đẳng.
+
+Câu 22 [Trung bình]: Việc pháp luật cấm yêu sách ban ngày, thách cưới cao mang tính chất gả bán vi phạm nguyên tắc nào?
+A. Nguyên tắc tự do kinh doanh dịch vụ cưới hỏi
+B. Nguyên tắc thẩm quyền xét xử của Tòa án nhân dân khu vực
+C. Nguyên tắc hôn nhân tự nguyện, tiến bộ
+D. Nguyên tắc đăng ký hộ tịch tại UBND cấp tỉnh
+Đáp án đúng: C
+Giải thích: Yêu sách cúng lễ, thách cưới cao biến hôn nhân thành mua bán, gả bán, vi phạm nguyên tắc hôn nhân tự nguyện, tiến bộ và bình đẳng.
+
+Câu 23 [Trung bình]: Trách nhiệm của Nhà nước và Xã hội đối với gia đình được thể hiện qua chính sách nào?
+A. Đương nhiên chia lại nhà đất cho các gia đình nghèo ở cấp tỉnh
+B. Bắt buộc mọi gia đình phải nộp ngân sách cho UBND cấp xã
+C. Có chính sách bảo vệ bà mẹ và trẻ em, hỗ trợ các gia đình thực hiện chức năng gia đình
+D. Ủy quyền cho Tòa án nhân dân khu vực quyết định số con của mỗi nhà
+Đáp án đúng: C
+Giải thích: Nhà nước có chính sách bảo vệ bà mẹ, trẻ em, hỗ trợ xây dựng gia đình no ấm, bình đẳng, tiến bộ, hạnh phúc.
+
+Câu 24 [Trung bình]: Hành vi phân biệt đối xử giữa con đẻ và con nuôi, con riêng với con chung vi phạm quy định nào?
+A. Quy định về xử phạt giao thông của UBND cấp xã
+B. Quy định cấm phân biệt đối xử giữa các con trong gia đình tại Điều 2 Luật Hôn nhân và Gia đình 2014
+C. Nghị định của UBND cấp tỉnh về quản lý đô thị
+D. Quy chế hoạt động của Tòa án nhân dân khu vực
+Đáp án đúng: B
+Giải thích: Luật HN&GĐ 2014 nghiêm cấm mọi hành vi phân biệt đối xử giữa các con, dù là con đẻ, con nuôi, con riêng hay con chung.
+
+Câu 25 [Trung bình]: Theo Luật Hôn nhân và Gia đình 2014, việc bảo vệ quyền và lợi ích hợp pháp của công dân Việt Nam ở nước ngoài trong quan hệ hôn nhân và gia đình được thực hiện ra sao?
+A. Do UBND cấp xã trực tiếp cử cán bộ sang nước ngoài giải quyết
+B. Do Tòa án nhân dân khu vực ở Việt Nam đương nhiên tuyên vô hiệu
+C. Không được Nhà nước Việt Nam bảo hộ nếu đã xuất cảnh
+D. Được Nhà nước Việt Nam bảo hộ phù hợp với pháp luật Việt Nam và điều ước quốc tế mà Việt Nam là thành viên
+Đáp án đúng: D
+Giải thích: Khoản 5 Điều 2 Luật HN&GĐ 2014 quy định Nhà nước bảo hộ quyền, lợi ích hợp pháp của công dân Việt Nam ở nước ngoài trong quan hệ hôn nhân và gia đình.
+
+Câu 26 [Vận dụng]: Ông X ép con gái mình là Chị Y (21 tuổi) phải kết hôn với Anh Z (người cùng Phường) vì Anh Z hứa cho Ông X một số tiền lớn để trả nợ. Chị Y không đồng ý nhưng bị Ông X đe dọa. Hành vi của Ông X là hành vi gì và vi phạm nguyên tắc nào?
+A. Hành vi giao dịch dân sự hợp pháp do cha đại diện con
+B. Hành vi thỏa thuận tài sản hợp pháp do UBND cấp xã chứng nhận
+C. Hành vi cưỡng ép kết hôn, vi phạm nguyên tắc hôn nhân tự nguyện
+D. Hành vi môi giới hôn nhân hợp pháp theo quy định
+Đáp án đúng: C
+Giải thích: Hành vi dùng đe dọa, uy hiếp tinh thần ép buộc người khác kết hôn trái với ý muốn của họ là hành vi cưỡng ép kết hôn, vi phạm nghiêm trọng nguyên tắc hôn nhân tự nguyện.
+
+Câu 27 [Vận dụng]: Anh T đã có vợ hợp pháp là Chị M tại Xã K. Tuy nhiên, Anh T đến Phường Y thuê nhà ở và công khai chung sống như vợ chồng với Chị P. Chị M có quyền yêu cầu cơ quan nào can thiệp xử lý hành vi của Anh T?
+A. Ủy ban nhân dân cấp xã hoặc cơ quan Công an cấp xã/Tòa án nhân dân khu vực để xử lý vi phạm quy định một vợ một chồng
+B. Phòng Tư pháp cấp tỉnh để thu hồi nhà thuê
+C. Không có quyền yêu cầu vì Anh T có quyền tự do sống chung
+D. Sở Lao động - Thương binh và Xã hội để cắt tiền lương
+Đáp án đúng: A
+Giải thích: Hành vi của Anh T vi phạm chế độ một vợ một chồng. Chị M có quyền yêu cầu UBND cấp xã, cơ quan công an xử phạt hành chính hoặc Tòa án nhân dân khu vực xử lý theo quy định pháp luật.
+
+Câu 28 [Vận dụng]: Bà H có một con đẻ là Anh A và một con nuôi hợp pháp là Anh B. Khi Bà H qua đời không để lại di chúc, Anh A cho rằng Anh B chỉ là con nuôi nên không được hưởng thừa kế. Lập luận của Anh A có đúng pháp luật không?
+A. Sai vì pháp luật nghiêm cấm phân biệt đối xử giữa con đẻ và con nuôi; con nuôi hợp pháp có quyền thừa kế ngang hàng với con đẻ
+B. Do Tòa án nhân dân khu vực quyết định tước quyền của Anh B
+C. Đúng vì con nuôi không có cùng huyết thống
+D. Do UBND cấp xã quyết định chia cho Anh A nhiều hơn
+Đáp án đúng: A
+Giải thích: Luật HN&GĐ và Bộ luật Dân sự quy định con nuôi hợp pháp có quyền và nghĩa vụ bình đẳng như con đẻ, thuộc hàng thừa kế thứ nhất của cha mẹ nuôi.
+
+Câu 29 [Vận dụng]: Anh K và Chị L cùng 24 tuổi, thường trú tại Phường M, muốn đăng ký kết hôn. Cha mẹ hai bên kiên quyết cấm đoán vì lý do hai người không hợp tuổi tử vi. Anh K và Chị L có quyền tự đăng ký kết hôn không?
+A. Bắt buộc phải nộp bồi thường cho cha mẹ hai bên
+B. Có quyền tự mình thực hiện thủ tục đăng ký kết hôn tại UBND cấp xã nếu đủ điều kiện luật định vì hôn nhân là tự nguyện của nam nữ
+C. Không được đăng ký nếu không có sự đồng ý của cha mẹ
+D. Bắt buộc phải xin ý kiến chấp thuận của Tòa án nhân dân khu vực
+Đáp án đúng: B
+Giải thích: Quyền kết hôn là quyền nhân thân gắn liền với cá nhân nam, nữ. Nếu hai bên đủ điều kiện kết hôn và hoàn toàn tự nguyện thì có quyền đăng ký kết hôn tại UBND cấp xã mà không phụ thuộc vào sự đồng ý của cha mẹ.
+
+Câu 30 [Vận dụng]: Gia đình Ông V sống tại Xã Z có phong tục con trai cưng được đi học đại học, còn con gái phải nghỉ học từ cấp 2 để làm rẫy phụ gia đình. Hành vi của Ông V vi phạm quy định nào?
+A. Vi phạm quy chế tuyển sinh đại học
+B. Không vi phạm vì cha mẹ có toàn quyền nuôi dạy con
+C. Vi phạm quy định về quản lý đất rẫy của UBND cấp tỉnh
+D. Vi phạm nguyên tắc cấm phân biệt đối xử giữa các con dựa trên giới tính trong gia đình
+Đáp án đúng: D
+Giải thích: Việc tước bỏ quyền học tập của con gái vì lý do giới tính là hành vi phân biệt đối xử giữa các con, vi phạm nguyên tắc cơ bản của Luật HN&GĐ và Luật Trẻ em.
+
+
+--------------------------------------------------------------------------------
+MỤC 7.2. ĐIỀU KIỆN VÀ THỦ TỤC KẾT HÔN
+--------------------------------------------------------------------------------
+
+Câu 31 [Dễ]: Theo quy định tại Điều 8 Luật Hôn nhân và Gia đình 2014, độ tuổi kết hôn đối với nam và nữ là bao nhiêu?
+A. Nam từ 18 tuổi trở lên, nữ từ 16 tuổi trở lên
+B. Nam từ đủ 20 tuổi trở lên, nữ từ đủ 18 tuổi trở lên
+C. Nam và nữ đều phải đủ 20 tuổi trở lên
+D. Nam từ đủ 22 tuổi trở lên, nữ từ đủ 20 tuổi trở lên
+Đáp án đúng: B
+Giải thích: Khoản 1 Điều 8 Luật HN&GĐ 2014 quy định độ tuổi kết hôn: Nam từ đủ 20 tuổi trở lên, nữ từ đủ 18 tuổi trở lên.
+
+Câu 32 [Dễ]: Thuật ngữ 'từ đủ 18 tuổi' đối với nữ khi đăng ký kết hôn được tính chính xác như thế nào?
+A. Tính theo sự xác nhận độ tuổi của UBND cấp xã
+B. Tính từ ngày 1 tháng 1 của năm tròn 18 tuổi
+C. Tính từ ngày bước sang năm tuổi thứ 18
+D. Tính từ đúng ngày, tháng, năm sinh thứ 18 của người đó
+Đáp án đúng: D
+Giải thích: 'Từ đủ 18 tuổi' được tính từ đúng ngày, tháng, năm sinh thứ 18 của cá nhân theo Giấy khai sinh hoặc cơ sở dữ liệu quốc gia về dân cư.
+
+Câu 33 [Dễ]: Đồng ý kết hôn do sự quyết định và thống nhất hoàn toàn của hai bên nam, nữ mà không bị can thiệp, ép buộc thể hiện điều kiện nào?
+A. Điều kiện tự nguyện kết hôn
+B. Điều kiện về tài sản chung
+C. Điều kiện do Tòa án nhân dân khu vực quyết định
+D. Điều kiện về thẩm quyền của UBND cấp xã
+Đáp án đúng: A
+Giải thích: Điểm b khoản 1 Điều 8 Luật HN&GĐ 2014 quy định việc kết hôn do nam và nữ tự nguyện quyết định.
+
+Câu 34 [Dễ]: Trường hợp cá nhân bị Tòa án tuyên bố mất năng lực hành vi dân sự có được quyền đăng ký kết hôn không?
+A. Được kết hôn nếu người kia tự nguyện chăm sóc
+B. Được kết hôn nếu có cha mẹ bảo lãnh tại UBND cấp xã
+C. Do UBND cấp tỉnh xem xét cấp phép riêng
+D. Không được kết hôn vì vi phạm điều kiện về năng lực hành vi dân sự tại Điều 8 Luật HN&GĐ 2014
+Đáp án đúng: D
+Giải thích: Điểm c khoản 1 Điều 8 Luật HN&GĐ 2014 quy định người bị mất năng lực hành vi dân sự không được kết hôn.
+
+Câu 35 [Dễ]: Pháp luật Hôn nhân và Gia đình Việt Nam hiện hành quy định như thế nào về hôn nhân giữa những người cùng giới tính?
+A. Cho phép đăng ký kết hôn tại UBND cấp xã
+B. Cấm tuyệt đối việc sống chung nhà giữa những người cùng giới tính
+C. Ủy quyền cho Tòa án nhân dân khu vực cấp giấy chứng nhận hôn nhân
+D. Nhà nước không thừa nhận hôn nhân giữa những người cùng giới tính
+Đáp án đúng: D
+Giải thích: Khoản 2 Điều 8 Luật HN&GĐ 2014 quy định: 'Nhà nước không thừa nhận hôn nhân giữa những người cùng giới tính'.
+
+Câu 36 [Dễ]: Thế nào là hành vi 'Tảo hôn' theo quy định của pháp luật?
+A. Việc lấy vợ, lấy chồng khi một bên hoặc cả hai bên chưa đủ tuổi kết hôn theo quy định
+B. Việc đăng ký kết hôn tại UBND cấp xã vào ban đêm
+C. Việc kết hôn mà không tổ chức tiệc cưới công khai
+D. Việc kết hôn giữa hai người khác dân tộc tại Xã K
+Đáp án đúng: A
+Giải thích: Theo khoản 8 Điều 3 Luật HN&GĐ 2014, tảo hôn là việc lấy vợ, lấy chồng khi một bên hoặc cả hai bên chưa đủ tuổi kết hôn theo quy định pháp luật.
+
+Câu 37 [Dễ]: Hành vi 'Kết hôn giả tạo' được hiểu là gì?
+A. Việc hai bên nam nữ đăng ký kết hôn nhưng không tổ chức đám cưới
+B. Việc kết hôn nhằm mục đích xuất cảnh, nhập cảnh, cư trú, nhập quốc tịch, hưởng ưu đãi của Nhà nước hoặc mục đích khác mà không nhằm mục đích xây dựng gia đình
+C. Việc kết hôn do Tòa án nhân dân khu vực hòa giải không thành
+D. Việc kết hôn do UBND cấp xã cấp nhầm giấy chứng nhận
+Đáp án đúng: B
+Giải thích: Theo khoản 11 Điều 3 Luật HN&GĐ 2014, kết hôn giả tạo là việc lợi dụng kết hôn để xuất cảnh, nhập cảnh, cư trú, nhập quốc tịch, hưởng ưu đãi... mà không nhằm mục đích xây dựng gia đình.
+
+Câu 38 [Dễ]: Trường hợp nào sau đây thuộc cấm kết hôn do quan hệ gia đình, dòng máu?
+A. Giữa những người cùng dòng máu về trực hệ; giữa những người có họ trong phạm vi ba đời
+B. Giữa hai người là anh chị em họ xa ở đời thứ năm
+C. Giữa bạn học cũ cùng trường đại học
+D. Giữa hai người cùng quê quán tại Phường Y
+Đáp án đúng: A
+Giải thích: Điểm d khoản 2 Điều 5 Luật HN&GĐ 2014 nghiêm cấm kết hôn giữa những người cùng dòng máu về trực hệ, có họ trong phạm vi ba đời.
+
+Câu 39 [Dễ]: Những người có họ trong phạm vi ba đời là những người như thế nào?
+A. Là những người có quan hệ họ hàng từ đời thứ tư trở đi
+B. Là những người sống trong cùng một xóm thuộc Xã Z trong 30 năm
+C. Là những người có cùng họ tên đệm trong giấy khai sinh
+D. Là những người cùng một gốc sinh ra gồm cha mẹ là đời thứ nhất; anh chị em cùng cha mẹ, cùng cha khác mẹ, cùng mẹ khác cha là đời thứ hai; anh chị em con chú, con bác, con cô, con cậu, con dì là đời thứ ba
+Đáp án đúng: D
+Giải thích: Khoản 18 Điều 3 Luật HN&GĐ 2014 xác định phạm vi ba đời: Đời thứ nhất (Cha mẹ); Đời thứ hai (Anh chị em ruột, cùng cha khác mẹ, cùng mẹ khác cha); Đời thứ ba (Anh chị em con chú, con bác, con cô, con cậu, con dì).
+
+Câu 40 [Trung bình]: Quan hệ giữa người đã từng là cha nuôi với con nuôi cũ có được phép kết hôn với nhau không?
+A. Không được phép kết hôn theo quy định cấm tại điểm d khoản 2 Điều 5 Luật HN&GĐ 2014
+B. Được phép kết hôn nếu đã chấm dứt quan hệ nuôi dưỡng
+C. Do Tòa án nhân dân khu vực quyết định cho phép theo đơn yêu cầu
+D. Được phép kết hôn nếu có sự đồng ý của UBND cấp xã
+Đáp án đúng: A
+Giải thích: Pháp luật cấm kết hôn giữa cha, mẹ nuôi với con nuôi; giữa người đã từng là cha, mẹ nuôi với con nuôi nhằm bảo đảm đạo đức xã hội.
+
+Câu 41 [Trung bình]: Hôn nhân giữa cha dượng và con riêng của vợ, mẹ kế và con riêng của chồng bị pháp luật xử lý như thế nào?
+A. Cho phép nếu con riêng đã ra ở riêng
+B. Được chấp thuận nếu UBND cấp tỉnh ban hành quyết định riêng
+C. Được công nhận nếu hai người đã đủ 30 tuổi
+D. Là hành vi bị cấm tuyệt đối theo quy định của Luật Hôn nhân và Gia đình
+Đáp án đúng: D
+Giải thích: Điểm d khoản 2 Điều 5 Luật HN&GĐ 2014 nghiêm cấm kết hôn giữa cha dượng với con riêng của vợ, mẹ kế với con riêng của chồng.
+
+Câu 42 [Trung bình]: Người đang có vợ hoặc chồng hợp pháp mà thực hiện hành vi nào sau đây sẽ vi phạm điều cấm của Luật Hôn nhân và Gia đình?
+A. Ký hợp đồng lao động làm việc tại công ty khác
+B. Đứng tên mua tài sản riêng tại UBND cấp xã
+C. Kết hôn hoặc chung sống như vợ chồng với người khác
+D. Đi du học nước ngoài mà không đi cùng vợ/chồng
+Đáp án đúng: C
+Giải thích: Điểm c khoản 2 Điều 5 Luật HN&GĐ 2014 cấm người đang có vợ, có chồng mà kết hôn hoặc chung sống như vợ chồng với người khác.
+
+Câu 43 [Trung bình]: Hành vi lừa dối kết hôn được hiểu như thế nào?
+A. Là việc đăng ký kết hôn tại UBND cấp xã vào ngày nghỉ
+B. Là việc sau khi kết hôn mới mua xe máy mới
+C. Là hành vi cố ý làm cho bên kia hiểu sai lệch về tình trạng sức khỏe, nhân thân, khả năng tài chính... để buộc bên kia đồng ý kết hôn
+D. Là việc hai bên không tổ chức đám cưới ở nhà hàng
+Đáp án đúng: C
+Giải thích: Lừa dối kết hôn là hành vi cố ý làm cho người khác hiểu sai sự thật mà đồng ý kết hôn, vi phạm nguyên tắc tự nguyện.
+
+Câu 44 [Trung bình]: Nữ sinh ngày 15/10/2008. Đến ngày 16/10/2026, nữ sinh này đã đủ điều kiện về độ tuổi kết hôn chưa?
+A. Chưa đủ vì phải tính tròn 20 tuổi như nam
+B. Do UBND cấp xã quyết định xem xét
+C. Đã đủ điều kiện vì đã bước qua ngày sinh nhật lần thứ 18 (từ đủ 18 tuổi)
+D. Chưa đủ vì phải đợi hết năm 2026
+Đáp án đúng: C
+Giải thích: Sinh ngày 15/10/2008 thì đến ngày 15/10/2026 là tròn 18 tuổi. Ngày 16/10/2026 người này đã từ đủ 18 tuổi, đáp ứng điều kiện tuổi kết hôn.
+
+Câu 45 [Trung bình]: Sự khác biệt giữa 'Không thừa nhận hôn nhân đồng giới' và 'Cấm kết hôn đồng giới' là gì?
+A. Hai khái niệm này hoàn toàn giống hệt nhau không có sự phân biệt
+B. Không thừa nhận là do Tòa án nhân dân khu vực quyết định; Cấm là do UBND cấp xã xử lý
+C. Không thừa nhận áp dụng cho nam; Cấm áp dụng cho nữ
+D. Không thừa nhận là Nhà nước không đăng ký kết hôn và không công nhận là vợ chồng legal; Cấm là xử lý vi phạm hành chính/hình sự nếu họ sống chung
+Đáp án đúng: D
+Giải thích: Luật HN&GĐ 2014 không cấm người đồng giới sống chung, nhưng Nhà nước không đăng ký kết hôn và không công nhận quan hệ vợ chồng giữa họ.
+
+Câu 46 [Vận dụng]: Anh A (19 tuổi) và Chị B (17 tuổi) trú tại Xã K tự nguyện tổ chức đám cưới và về ở chung. UBND cấp xã phát hiện và lập biên bản xử lý. Anh A và Chị B vi phạm quy định nào?
+A. Chỉ Anh A vi phạm, Chị B không vi phạm
+B. Do Tòa án nhân dân khu vực quyết định cấp phép hồi truy
+C. Không vi phạm vì hai bên hoàn toàn tự nguyện
+D. Cả hai bên đều vi phạm quy định về độ tuổi kết hôn (tảo hôn)
+Đáp án đúng: D
+Giải thích: Độ tuổi kết hôn là Nam từ đủ 20, Nữ từ đủ 18. Anh A (19 tuổi) và Chị B (17 tuổi) đều chưa đủ tuổi kết hôn theo quy định.
+
+Câu 47 [Vận dụng]: Anh M và Chị N là con của hai anh em ruột (con chú con bác). Anh M và Chị N nộp hồ sơ đăng ký kết hôn tại UBND cấp xã Phường X. UBND cấp xã phải xử lý hồ sơ này như thế nào?
+A. Chuyển hồ sơ cho Tòa án nhân dân khu vực cho phép kết hôn
+B. Từ chối đăng ký kết hôn vì hai người có họ trong phạm vi ba đời, thuộc trường hợp cấm kết hôn theo điểm d khoản 2 Điều 5 Luật HN&GĐ 2014
+C. Yêu cầu hai bên nộp phạt tiền rồi cấp Giấy chứng nhận
+D. Cấp giấy chứng nhận kết hôn nếu hai bên cam kết tự nguyện
+Đáp án đúng: B
+Giải thích: Con chú con bác là những người có họ trong phạm vi đời thứ ba (cùng cha mẹ ông bà sinh ra ở đời thứ nhất). Việc kết hôn bị nghiêm cấm.
+
+Câu 48 [Vận dụng]: Chị H (25 tuổi) bị tai nạn giao thông dẫn đến tổn thương não nghiêm trọng, Tòa án nhân dân khu vực đã tuyên bố Chị H bị mất năng lực hành vi dân sự. Sau đó, Anh K nộp đơn đăng ký kết hôn với Chị H tại UBND cấp xã. Cơ quan đăng ký xử lý ra sao?
+A. Chấp nhận đăng ký nếu Anh K có đơn cam kết chăm sóc
+B. Chấp nhận đăng ký nếu có sự đồng ý của UBND cấp xã
+C. Từ chối đăng ký vì Chị H bị mất năng lực hành vi dân sự, không đủ điều kiện kết hôn
+D. Yêu cầu Tòa án nhân dân khu vực ra quyết định kết hôn thay
+Đáp án đúng: C
+Giải thích: Người bị Tòa án tuyên bố mất năng lực hành vi dân sự không thể tự mình bày tỏ ý chí tự nguyện kết hôn nên không đủ điều kiện kết hôn.
+
+Câu 49 [Vận dụng]: Anh P và Anh Q là hai người nam giới muốn đăng ký kết hôn tại UBND cấp xã Phường Y. UBND cấp xã trả lời như thế nào là đúng pháp luật?
+A. Cấp giấy xác nhận tình trạng hôn nhân thay cho Giấy chứng nhận kết hôn
+B. Chuyển hồ sơ lên UBND cấp tỉnh xin giấy phép đặc biệt
+C. Phạt tù hai người vì vi phạm chế độ hôn nhân
+D. Từ chối đăng ký vì Nhà nước không thừa nhận hôn nhân giữa những người cùng giới tính theo khoản 2 Điều 8 Luật HN&GĐ 2014
+Đáp án đúng: D
+Giải thích: Theo Luật HN&GĐ 2014, UBND cấp xã không thực hiện việc đăng ký kết hôn cho những người cùng giới tính.
+
+Câu 50 [Vận dụng]: Ông B (50 tuổi) ly hôn vợ cũ. Ông B muốn kết hôn với Chị C (25 tuổi) là con riêng của người vợ cũ (cháu C do vợ cũ sinh ra với chồng trước). Việc kết hôn giữa Ông B và Chị C có bị pháp luật cấm không?
+A. Cho phép nếu được sự đồng ý của UBND cấp xã
+B. Bị nghiêm cấm vì là quan hệ giữa cha dượng và con riêng của vợ theo điểm d khoản 2 Điều 5 Luật HN&GĐ 2014
+C. Không cấm vì Ông B và vợ cũ đã ly hôn
+D. Được phép nếu Chị C có đơn tự nguyện gửi Tòa án nhân dân khu vực
+Đáp án đúng: B
+Giải thích: Pháp luật nghiêm cấm việc kết hôn giữa cha dượng với con riêng của vợ kể cả sau khi đã chấm dứt quan hệ hôn nhân với người mẹ.
+
+Câu 51 [Dễ]: Cơ quan nhà nước có thẩm quyền đăng ký kết hôn giữa công dân Việt Nam cư trú trong nước là cơ quan nào?
+A. Công an cấp xã nơi tạm trú của hai bên
+B. Sở Tư pháp thuộc Ủy ban nhân dân cấp tỉnh
+C. Tòa án nhân dân khu vực nơi cư trú của nam hoặc nữ
+D. Ủy ban nhân dân cấp xã nơi cư trú của một trong hai bên nam, nữ
+Đáp án đúng: D
+Giải thích: Theo quy định của Luật Hộ tịch và Luật HN&GĐ, UBND cấp xã nơi cư trú của một trong hai bên nam, nữ có thẩm quyền đăng ký kết hôn.
+
+Câu 52 [Dễ]: Việc đăng ký kết hôn có bắt buộc cả hai bên nam và nữ phải cùng có mặt tại cơ quan đăng ký hộ tịch không?
+A. Có thể gửi hồ sơ qua đường bưu điện mà không cần có mặt
+B. Cho phép ủy quyền cho người thân mang CCCD đến ký thay
+C. Chỉ cần người nam có mặt ký tên là đủ
+D. Bắt buộc hai bên nam, nữ phải cùng có mặt trực tiếp
+Đáp án đúng: D
+Giải thích: Khi đăng ký kết hôn, hai bên nam, nữ phải cùng có mặt tại trụ sở UBND cấp xã để trực tiếp ký vào Sổ hộ tịch và Giấy chứng nhận kết hôn.
+
+Câu 53 [Dễ]: Thời điểm hôn nhân có hiệu lực pháp luật được tính từ khi nào?
+A. Từ ngày hai bên chụp ảnh cưới xong
+B. Từ ngày hai bên nộp đủ hồ sơ đăng ký
+C. Từ thời điểm cơ quan đăng ký hộ tịch (UBND cấp xã) ghi vào Sổ hộ tịch và trao Giấy chứng nhận kết hôn cho hai bên
+D. Từ ngày Tòa án nhân dân khu vực nhận đơn
+Đáp án đúng: C
+Giải thích: Theo khoản 1 Điều 9 Luật HN&GĐ 2014, hôn nhân có hiệu lực kể từ ngày đăng ký và được ghi vào Sổ hộ tịch.
+
+Câu 54 [Dễ]: Giấy tờ có giá trị pháp lý chứng nhận quan hệ hôn nhân hợp pháp giữa vợ và chồng là giấy tờ nào?
+A. Biên bản hòa giải của Tòa án nhân dân khu vực
+B. Sổ hộ khẩu gia đình hoặc xác nhận cư trú tại Phường
+C. Giấy chứng nhận kết hôn do cơ quan nhà nước có thẩm quyền cấp
+D. Giấy cam kết chung sống của hai bên
+Đáp án đúng: C
+Giải thích: Giấy chứng nhận kết hôn là văn bản do cơ quan nhà nước có thẩm quyền cấp cho hai bên nam, nữ khi đăng ký kết hôn.
+
+Câu 55 [Dễ]: Cơ quan nào có thẩm quyền tuyên bố hủy việc kết hôn trái pháp luật?
+A. Hội Liên hiệp Phụ nữ cấp tỉnh
+B. Tòa án nhân dân khu vực (hoặc Tòa án nhân dân cấp tỉnh)
+C. Công an cấp xã nơi hai bên cư trú
+D. Ủy ban nhân dân cấp xã nơi đăng ký kết hôn
+Đáp án đúng: B
+Giải thích: Theo quy định tại Điều 10, 11 Luật HN&GĐ 2014, Tòa án nhân dân là cơ quan duy nhất có thẩm quyền tuyên bố hủy việc kết hôn trái pháp luật.
+
+Câu 56 [Trung bình]: Kết hôn trái pháp luật được hiểu là việc nam, nữ đã đăng ký kết hôn tại cơ quan có thẩm quyền nhưng vi phạm điều kiện nào?
+A. Không tổ chức lễ cưới theo đúng phong tục tập quán
+B. Vi phạm một trong các điều kiện kết hôn quy định tại Điều 8 của Luật Hôn nhân và Gia đình 2014
+C. Không được sự đồng ý của Hội đồng nhân dân cấp xã
+D. Không nộp bồi thường cho UBND cấp tỉnh
+Đáp án đúng: B
+Giải thích: Kết hôn trái pháp luật là việc nam, nữ đã đăng ký kết hôn tại cơ quan có thẩm quyền nhưng một hoặc cả hai bên vi phạm điều kiện kết hôn (về tuổi, tự nguyện, năng lực hành vi, các trường hợp cấm).
+
+Câu 57 [Trung bình]: Chủ thể nào sau đây có quyền yêu cầu Tòa án tuyên bố hủy việc kết hôn trái pháp luật do bị cưỡng ép, lừa dối?
+A. Bên bị cưỡng ép, bị lừa dối kết hôn
+B. Chủ tịch UBND cấp xã nơi cư trú
+C. Chủ doanh nghiệp nơi hai bên làm việc
+D. Tổ trưởng tổ dân phố tại Phường X
+Đáp án đúng: A
+Giải thích: Theo khoản 1 Điều 10 Luật HN&GĐ 2014, người bị cưỡng ép kết hôn, bị lừa dối kết hôn có quyền tự mình yêu cầu Tòa án hủy việc kết hôn trái pháp luật.
+
+Câu 58 [Trung bình]: Hậu quả pháp lý đối với quan hệ nhân thân khi Tòa án tuyên bố hủy việc kết hôn trái pháp luật là gì?
+A. Do UBND cấp xã quyết định công nhận lại
+B. Hai bên bị phạt tù tự động 5 năm
+C. Hai bên vẫn tiếp tục được coi là vợ chồng hợp pháp
+D. Hai bên nam, nữ phải chấm dứt quan hệ như vợ chồng
+Đáp án đúng: D
+Giải thích: Khi việc kết hôn trái pháp luật bị hủy thì hai bên nam, nữ phải chấm dứt quan hệ như vợ chồng.
+
+Câu 59 [Trung bình]: Hậu quả pháp lý đối với con chung khi Tòa án tuyên bố hủy việc kết hôn trái pháp luật được giải quyết như thế nào?
+A. Con chung bắt buộc phải giao cho UBND cấp xã nuôi dưỡng
+B. Quyền và nghĩa vụ giữa cha, mẹ và con được giải quyết như trường hợp ly hôn
+C. Con chung bị tước bỏ mọi quyền lợi về nhân thân và tài sản
+D. Cha mẹ không có nghĩa vụ cấp dưỡng cho con
+Đáp án đúng: B
+Giải thích: Theo Điều 12 Luật HN&GĐ 2014, khi hủy kết hôn trái pháp luật, quyền, nghĩa vụ giữa nam, nữ đối với con chung được giải quyết theo quy định về quyền, nghĩa vụ của cha mẹ đối với con khi ly hôn.
+
+Câu 60 [Trung bình]: Quan hệ tài sản của hai bên khi bị Tòa án tuyên bố hủy kết hôn trái pháp luật được giải quyết theo nguyên tắc nào?
+A. Chia đôi 50/50 bắt buộc không cần xét công sức đóng góp
+B. Giải quyết theo thỏa thuận của các bên; nếu không thỏa thuận được thì giải quyết theo Bộ luật Dân sự và quy định bảo vệ quyền lợi hợp pháp của phụ nữ, con cái
+C. Chuyển toàn bộ tài sản cho Tòa án nhân dân khu vực sở hữu
+D. Tịch thu toàn bộ tài sản nộp vào ngân sách UBND cấp tỉnh
+Đáp án đúng: B
+Giải thích: Theo Điều 12 và Điều 16 Luật HN&GĐ 2014, tài sản của nam nữ chung sống như vợ chồng hoặc bị hủy kết hôn trái pháp luật được giải quyết theo thỏa thuận hoặc theo quy định của Bộ luật Dân sự.
+
+Câu 61 [Trung bình]: Thẩm quyền đăng ký kết hôn giữa công dân Việt Nam với người nước ngoài tại Việt Nam thuộc về cơ quan nào theo quy định pháp luật hiện hành?
+A. Công an cấp tỉnh
+B. Tòa án nhân dân tối cao
+C. Bộ Ngoại giao tại Hà Nội
+D. Ủy ban nhân dân cấp xã (hoặc cơ quan đăng ký hộ tịch cấp có thẩm quyền theo phân cấp)
+Đáp án đúng: D
+Giải thích: Theo phân cấp quản lý hộ tịch hiện hành dưới mô hình 2 cấp, việc đăng ký kết hôn có yếu tố nước ngoài do UBND cấp xã thực hiện theo thẩm quyền luật định.
+
+Câu 62 [Trung bình]: Trường hợp hai bên nam, nữ đủ điều kiện kết hôn nhưng lại chọn đăng ký kết hôn tại Tòa án nhân dân khu vực thì văn bản kết hôn có giá trị không?
+A. Do UBND cấp tỉnh quyết định công nhận
+B. Không có giá trị pháp lý vì Tòa án không có thẩm quyền đăng ký kết hôn
+C. Có giá trị tương đương Giấy chứng nhận kết hôn của UBND cấp xã
+D. Vẫn có giá trị nếu Tòa án đóng dấu đỏ
+Đáp án đúng: B
+Giải thích: Tòa án không phải là cơ quan đăng ký hộ tịch. Việc đăng ký kết hôn thực hiện tại Tòa án là sai thẩm quyền nên không có giá trị pháp lý.
+
+Câu 63 [Vận dụng]: Anh K (22 tuổi) giả mạo hồ sơ để đăng ký kết hôn với Chị M (16 tuổi) tại UBND cấp xã X. Sau khi phát hiện Chị M chưa đủ tuổi kết hôn, người thân của Chị M có quyền gửi đơn đến cơ quan nào để hủy việc kết hôn trái pháp luật?
+A. Gửi đơn cho Tòa án nhân dân tối cao giải quyết sơ thẩm
+B. Gửi đơn yêu cầu Tòa án nhân dân khu vực tuyên bố hủy việc kết hôn trái pháp luật
+C. Gửi đơn cho Công an cấp xã để thu hồi Giấy khai sinh
+D. Gửi đơn lên UBND cấp tỉnh để phạt tiền
+Đáp án đúng: B
+Giải thích: Tòa án nhân dân khu vực có thẩm quyền thụ lý và giải quyết đơn yêu cầu tuyên bố hủy việc kết hôn trái pháp luật do vi phạm độ tuổi kết hôn.
+
+Câu 64 [Vận dụng]: Anh A và Chị B đủ điều kiện kết hôn, đến UBND cấp xã Phường Y nộp hồ sơ. Do Anh A bận đi công tác xa nên đã viết giấy ủy quyền cho em trai là Anh C đến ký tên vào Sổ hộ tịch cùng Chị B. Giấy chứng nhận kết hôn được cấp trong trường hợp này có hợp pháp không?
+A. Hợp pháp nếu được UBND cấp xã đồng ý
+B. Do Tòa án nhân dân khu vực quyết định công nhận
+C. Hợp pháp vì có giấy ủy quyền công chứng
+D. Không hợp pháp vì việc đăng ký kết hôn bắt buộc hai bên nam nữ phải trực tiếp có mặt, không được ủy quyền
+Đáp án đúng: D
+Giải thích: Pháp luật quy định việc đăng ký kết hôn là quyền nhân thân đặc biệt gắn liền với cá nhân, không được ủy quyền cho người khác thực hiện thay.
+
+Câu 65 [Vận dụng]: Anh D và Chị E tổ chức đám cưới và sống chung tại Xã Z từ năm 2020 nhưng không đăng ký kết hôn. Đến năm 2026, hai người nộp hồ sơ đăng ký kết hôn tại UBND cấp xã Z. Thời điểm công nhận quan hệ hôn nhân hợp pháp của họ là khi nào?
+A. Hồi truy về năm 2020 khi hai người bắt đầu sống chung
+B. Kể từ ngày UBND cấp xã Z cấp Giấy chứng nhận kết hôn và ghi vào Sổ hộ tịch năm 2026
+C. Do Tòa án nhân dân khu vực quyết định công nhận
+D. Do hai bên tự thỏa thuận chọn thời điểm
+Đáp án đúng: B
+Giải thích: Theo quy định, hôn nhân chỉ phát sinh hiệu lực pháp luật kể từ thời điểm đăng ký tại cơ quan hộ tịch có thẩm quyền, không hồi truy về thời điểm sống chung thực tế.
+
+Câu 66 [Vận dụng]: Chị T bị Anh H cưỡng ép kết hôn vào năm 2024. Đến năm 2026, Chị T đã thoát khỏi sự khống chế và muốn hủy hôn nhân này. Chị T gửi đơn yêu cầu Tòa án nhân dân khu vực M. Tòa án sẽ giải quyết ra sao?
+A. Chuyển hồ sơ cho UBND cấp xã xử lý vi phạm hành chính
+B. Bác đơn vì đã sống chung 2 năm
+C. Tuyên bố hủy việc kết hôn trái pháp luật do vi phạm nguyên tắc tự nguyện kết hôn (bị cưỡng ép)
+D. Buộc Chị T phải bồi thường cho Anh H
+Đáp án đúng: C
+Giải thích: Bị cưỡng ép kết hôn là vi phạm điều kiện kết hôn. Người bị cưỡng ép có quyền yêu cầu Tòa án tuyên bố hủy việc kết hôn trái pháp luật.
+
+Câu 67 [Vận dụng]: Anh X (23 tuổi) và Chị Y (21 tuổi) nộp hồ sơ kết hôn tại UBND cấp xã nơi Anh X đăng ký thường trú. Công chức tư pháp - hộ tịch yêu cầu hai người phải nộp 10 triệu đồng 'tiền quỹ phát triển địa phương' thì mới cấp Giấy chứng nhận kết hôn. Yêu cầu này của công chức tư pháp đúng hay sai?
+A. Sai nhưng bắt buộc hai bên phải nộp nếu muốn đăng ký
+B. Đúng vì UBND cấp xã có quyền tự ra văn bản thu quỹ
+C. Đúng nếu được sự phê duyệt của Tòa án nhân dân khu vực
+D. Sai vì thu tiền trái quy định pháp luật; cơ quan đăng ký chỉ được thu lệ phí hộ tịch theo quy định
+Đáp án đúng: D
+Giải thích: Việc kết hôn chỉ phải nộp lệ phí hộ tịch theo quy định của pháp luật. Công chức đặt ra các khoản thu trái luật là vi phạm pháp luật.
+
+Câu 68 [Vận dụng]: Sau khi Tòa án nhân dân khu vực tuyên bố hủy việc kết hôn trái pháp luật giữa Anh B và Chị C, Anh B yêu cầu không cấp dưỡng cho con chung 2 tuổi vì cho rằng hôn nhân không hợp pháp. Yêu cầu của Anh B có đúng luật không?
+A. Đúng vì hôn nhân vô hiệu thì mọi nghĩa vụ bị hủy bỏ
+B. Đúng nếu Anh B chuyển toàn bộ tài sản cho Chị C
+C. Do UBND cấp xã quyết định thay Anh B
+D. Sai vì việc hủy kết hôn trái pháp luật không làm chấm dứt nghĩa vụ của cha mẹ đối với con chung; Anh B vẫn phải cấp dưỡng cho con theo quy định
+Đáp án đúng: D
+Giải thích: Theo Điều 12 Luật HN&GĐ 2014, quyền và nghĩa vụ đối với con chung khi hủy kết hôn trái pháp luật giải quyết như khi ly hôn. Cha mẹ không trực tiếp nuôi con vẫn có nghĩa vụ cấp dưỡng.
+
+Câu 69 [Vận dụng]: Chị M đăng ký kết hôn với Anh N tại UBND cấp xã X. Sau đó 1 tháng, Chị M phát hiện Anh N đã có một người vợ hợp pháp ở tỉnh khác chưa ly hôn. Chị M cần làm gì để bảo vệ quyền lợi của mình?
+A. Tự ý bỏ đi kết hôn với người khác mà không cần thủ tục pháp lý
+B. Yêu cầu Tòa án nhân dân khu vực tuyên bố hủy việc kết hôn trái pháp luật do Anh N vi phạm chế độ một vợ một chồng
+C. Đơn phương tự hủy Giấy chứng nhận kết hôn tại nhà
+D. Yêu cầu UBND cấp xã phạt tù Anh N
+Đáp án đúng: B
+Giải thích: Việc Anh N đang có vợ mà đăng ký kết hôn với Chị M là kết hôn trái pháp luật. Chị M có quyền yêu cầu Tòa án nhân dân khu vực hủy việc kết hôn này.
+
+Câu 70 [Vận dụng]: Anh S và Chị T chung sống như vợ chồng từ năm 2021 nhưng không đăng ký kết hôn. Năm 2026, hai người phát sinh mâu thuẫn và muốn chia tài sản chung trị giá 1 tỷ đồng. Cơ quan nào có thẩm quyền thụ lý giải quyết tranh chấp tài sản này?
+A. Ủy ban nhân dân cấp xã ra quyết định tịch thu
+B. Tòa án nhân dân khu vực thụ lý giải quyết theo quy định của Bộ luật Dân sự và Luật Hôn nhân và Gia đình
+C. Ủy ban nhân dân cấp tỉnh thụ lý sơ thẩm
+D. Công an cấp xã phân chia tài sản
+Đáp án đúng: B
+Giải thích: Tranh chấp tài sản của nam nữ chung sống như vợ chồng không đăng ký kết hôn thuộc thẩm quyền giải quyết của Tòa án nhân dân khu vực theo Bộ luật Tố tụng Dân sự.
+
+Câu 71 [Vận dụng]: Công dân A có đăng ký thường trú tại Xã M và tạm trú tại Phường N. Công dân A có thể nộp hồ sơ đăng ký kết hôn tại UBND cấp xã nào?
+A. Bắt buộc phải đăng ký tại Tòa án nhân dân khu vực
+B. Chỉ được đăng ký tại UBND cấp tỉnh
+C. Có thể chọn đăng ký tại UBND cấp xã M (thường trú) hoặc UBND cấp xã N (tạm trú)
+D. Bắt buộc phải đăng ký tại UBND cấp xã M
+Đáp án đúng: C
+Giải thích: Theo Luật Hộ tịch, nơi cư trú của cá nhân bao gồm nơi thường trú hoặc nơi tạm trú. Công dân có quyền chọn đăng ký kết hôn tại UBND cấp xã nơi thường trú hoặc tạm trú của một trong hai bên.
+
+Câu 72 [Vận dụng]: Chị Q (18 tuổi) bị cha mẹ hứa hôn và ép buộc kết hôn với Anh K (30 tuổi). Chị Q đã ký tên vào Sổ hộ tịch tại UBND cấp xã vì lo sợ bị cha mẹ đánh đuổi. Sau khi kết hôn, ai có quyền yêu cầu Tòa án hủy hôn nhân trái pháp luật này?
+A. Chỉ duy nhất cha mẹ Chị Q mới có quyền
+B. Không ai có quyền vì đã ký tên vào Sổ hộ tịch
+C. Chỉ duy nhất Anh K mới có quyền
+D. Chị Q, hoặc cơ quan quản lý nhà nước về gia đình, Hội liên hiệp phụ nữ có quyền yêu cầu Tòa án nhân dân khu vực hủy việc kết hôn trái pháp luật
+Đáp án đúng: D
+Giải thích: Theo Điều 10 Luật HN&GĐ 2014, người bị cưỡng ép kết hôn có quyền tự mình yêu cầu, hoặc cơ quan/tổ chức có quyền yêu cầu Tòa án hủy việc kết hôn trái pháp luật.
+
+Câu 73 [Vận dụng]: Hai công dân Việt Nam đang công tác tại Đại sứ quán Việt Nam ở nước ngoài muốn đăng ký kết hôn. Cơ quan nào có thẩm quyền đăng ký kết hôn cho họ?
+A. Tòa án nhân dân khu vực nơi họ đăng ký hộ khẩu cũ
+B. Ủy ban nhân dân cấp tỉnh nơi họ công tác trước đây
+C. Cơ quan đại diện ngoại giao, cơ quan đại diện lãnh sự của Việt Nam ở nước ngoài
+D. Ủy ban nhân dân cấp xã Phường X tại Việt Nam
+Đáp án đúng: C
+Giải thích: Theo Điều 78 Luật HN&GĐ 2014, Cơ quan đại diện ngoại giao, cơ quan đại diện lãnh sự của Việt Nam ở nước ngoài thực hiện đăng ký kết hôn giữa công dân Việt Nam với nhau ở nước ngoài.
+
+Câu 74 [Vận dụng]: Anh V và Chị U kết hôn trái pháp luật do Anh V chưa đủ tuổi. Sau 2 năm, khi Anh V đã đủ 20 tuổi và Chị U đủ 18 tuổi, hai bên vẫn tiếp tục chung sống hạnh phúc và cùng yêu cầu Tòa án công nhận hôn nhân. Tòa án nhân dân khu vực sẽ xử lý như thế nào?
+A. Nếu hai bên đã đủ điều kiện kết hôn theo Điều 8 và yêu cầu công nhận quan hệ hôn nhân thì Tòa án công nhận quan hệ hôn nhân kể từ thời điểm các bên đủ điều kiện
+B. Bắt buộc phải hủy hôn nhân và phạt tù Anh V
+C. Tuyên bố xóa bỏ mọi quyền tài sản của hai bên
+D. Chuyển hồ sơ cho UBND cấp xã xử phạt vi phạm hành chính
+Đáp án đúng: A
+Giải thích: Theo khoản 2 Điều 11 Luật HN&GĐ 2014 và hướng dẫn của TANDTC, nếu tại thời điểm Tòa án giải quyết mà hai bên đã đủ điều kiện kết hôn và yêu cầu công nhận thì Tòa án công nhận hôn nhân kể từ thời điểm đủ điều kiện.
+
+Câu 75 [Vận dụng]: Trường hợp hồ sơ đăng ký kết hôn tại UBND cấp xã có sự gian dối về tình trạng hôn nhân (sử dụng Giấy xác nhận tình trạng hôn nhân giả). Văn bản kết hôn đã cấp bị xử lý như thế nào?
+A. UBND cấp tỉnh cấp lại giấy chứng nhận mới
+B. Vẫn có giá trị nếu hai bên cam kết không tái phạm
+C. UBND cấp xã tự động phạt tù người giả mạo
+D. Tòa án nhân dân khu vực tuyên bố hủy việc kết hôn trái pháp luật và cơ quan có thẩm quyền xử lý hành vi vi phạm theo quy định
+Đáp án đúng: D
+Giải thích: Đăng ký kết hôn dựa trên hồ sơ giả mạo tình trạng hôn nhân là vi phạm pháp luật; Tòa án tuyên hủy việc kết hôn trái pháp luật và cá nhân vi phạm bị xử lý theo pháp luật.
+
+
+--------------------------------------------------------------------------------
+MỤC 7.3. QUAN HỆ NHÂN THÂN VÀ QUAN HỆ TÀI SẢN GIỮA VỢ VÀ CHỒNG
+--------------------------------------------------------------------------------
+
+Câu 76 [Dễ]: Nguyên tắc cơ bản chi phối toàn bộ quan hệ nhân thân giữa vợ và chồng theo Luật Hôn nhân và Gia đình 2014 là gì?
+A. Mọi quyền nhân thân do UBND cấp xã chỉ định
+B. Người vợ có toàn quyền quyết định về tài sản còn người chồng quyết định về nhân thân
+C. Vợ, chồng bình đẳng, có quyền, nghĩa vụ ngang nhau về mọi mặt trong gia đình
+D. Người chồng có quyền quyết định tối cao về mọi công việc gia đình
+Đáp án đúng: C
+Giải thích: Điều 17 Luật HN&GĐ 2014 quy định: 'Vợ, chồng bình đẳng, có quyền, nghĩa vụ ngang nhau về mọi mặt trong gia đình'.
+
+Câu 77 [Dễ]: Nơi cư trú của vợ chồng được xác định dựa trên nguyên tắc nào sau đây?
+A. Bắt buộc phải ở tại Phường X nơi người vợ công tác
+B. Do Chủ tịch UBND cấp xã nơi kết hôn chỉ định
+C. Do vợ chồng thỏa thuận, không bị ràng buộc bởi phong tục, tập quán hay địa giới hành chính
+D. Bắt buộc phải ở nhà bố mẹ đẻ của chồng
+Đáp án đúng: C
+Giải thích: Điều 20 Luật HN&GĐ 2014 quy định: 'Nơi cư trú của vợ chồng do vợ chồng thỏa thuận, không bị ràng buộc bởi phong tục, tập quán'.
+
+Câu 78 [Dễ]: Vợ chồng có nghĩa vụ như thế nào đối với quyền tự do tín ngưỡng, tôn giáo của nhau?
+A. Chồng có quyền bắt vợ phải theo tôn giáo của mình
+B. Vợ có quyền cấm chồng tham gia các sinh hoạt tôn giáo hợp pháp
+C. Tôn trọng quyền tự do tín ngưỡng, tôn giáo của nhau
+D. Do UBND cấp xã quyết định chọn tôn giáo chung cho cả hai
+Đáp án đúng: C
+Giải thích: Điều 22 Luật HN&GĐ 2014 quy định vợ, chồng có nghĩa vụ tôn trọng quyền tự do tín ngưỡng, tôn giáo của nhau.
+
+Câu 79 [Dễ]: Vợ, chồng có quyền tự do lựa chọn công việc, nghề nghiệp, học tập hay không?
+A. Phải được sự cho phép của UBND cấp tỉnh
+B. Vợ, chồng có quyền tự do lựa chọn nghề nghiệp, học tập, tham gia hoạt động chính trị, kinh tế, văn hóa, xã hội
+C. Chỉ người chồng mới có quyền tự do lựa chọn nghề nghiệp
+D. Phải được sự đồng ý bằng văn bản của Tòa án nhân dân khu vực
+Đáp án đúng: B
+Giải thích: Điều 19 Luật HN&GĐ 2014 quy định vợ, chồng có quyền tự do lựa chọn nghề nghiệp, học tập, tham gia các hoạt động xã hội.
+
+Câu 80 [Dễ]: Nghĩa vụ chung sống giữa vợ và chồng được quy định như thế nào trong Luật Hôn nhân và Gia đình?
+A. Do UBND cấp xã giám sát việc ở chung định kỳ hàng tháng
+B. Không có quy định về nghĩa vụ chung sống
+C. Vợ chồng có nghĩa vụ chung sống với nhau, trừ trường hợp vợ chồng có thỏa thuận khác hoặc do yêu cầu của nghề nghiệp, công tác, học tập
+D. Bắt buộc phải ở chung nhà 24/24 giờ không được đi xa
+Đáp án đúng: C
+Giải thích: Khoản 2 Điều 19 Luật HN&GĐ 2014 quy định vợ chồng có nghĩa vụ chung sống với nhau trừ trường hợp có thỏa thuận khác hoặc do yêu cầu công tác, học tập...
+
+Câu 81 [Trung bình]: Quyền đại diện giữa vợ và chồng được thực hiện trong những trường hợp nào?
+A. Vợ đương nhiên đại diện cho chồng bán nhà đất riêng của chồng
+B. Do UBND cấp xã chỉ định đại diện theo yêu cầu của hàng xóm
+C. Đại diện theo pháp luật, đại diện theo ủy quyền hoặc đại diện khi một bên mất năng lực hành vi dân sự / bị hạn chế năng lực hành vi dân sự mà bên kia có đủ điều kiện làm người giám hộ
+D. Chồng đương nhiên đại diện cho vợ trong mọi hợp đồng thương mại không cần ủy quyền
+Đáp án đúng: C
+Giải thích: Theo Điều 24, 25, 26 Luật HN&GĐ 2014, đại diện giữa vợ chồng phát sinh theo thỏa thuận ủy quyền, theo pháp luật hoặc khi một bên mất năng lực hành vi dân sự.
+
+Câu 82 [Trung bình]: Trường hợp vợ hoặc chồng kinh doanh chung thì việc thực hiện giao dịch kinh doanh liên quan đến tài sản chung do ai đại diện?
+A. Do UBND cấp xã chỉ định người đại diện
+B. Do vợ chồng thỏa thuận cử một bên làm đại diện hoặc cả hai cùng tham gia giao dịch
+C. Mặc nhiên người chồng làm đại diện duy nhất
+D. Do Tòa án nhân dân khu vực ra quyết định cử đại diện
+Đáp án đúng: B
+Giải thích: Điều 25 Luật HN&GĐ 2014 quy định việc đại diện giữa vợ và chồng trong quan hệ kinh doanh do vợ chồng thỏa thuận.
+
+Câu 83 [Trung bình]: Nội dung nào sau đây thể hiện đúng nghĩa vụ tình cảm và tôn trọng lẫn nhau giữa vợ và chồng?
+A. Vợ có quyền ngăn cấm chồng thăm nom cha mẹ đẻ của chồng
+B. Chồng có quyền mắng chửi vợ nếu vợ không làm tròn việc nhà
+C. Vợ chồng có nghĩa vụ thương yêu, chung thủy, tôn trọng, quan tâm, chăm sóc, giúp đỡ nhau; cùng nhau chia sẻ, thực hiện các công việc trong gia đình
+D. Vợ chồng chỉ cần đóng góp tiền bạc, không có nghĩa vụ chăm sóc khi ốm đau
+Đáp án đúng: C
+Giải thích: Khoản 1 Điều 19 Luật HN&GĐ 2014 quy định nghĩa vụ thương yêu, chung thủy, tôn trọng, quan tâm, chăm sóc, giúp đỡ nhau của vợ chồng.
+
+Câu 84 [Trung bình]: Giao dịch do một bên vợ hoặc chồng thực hiện nhằm đáp ứng nhu cầu thiết yếu của gia đình mà không có sự đồng ý của bên kia thì trách nhiệm tài sản thuộc về ai?
+A. Giao dịch đó đương nhiên bị Tòa án tuyên vô hiệu
+B. UBND cấp xã có trách nhiệm trả nợ thay
+C. Phát sinh trách nhiệm liên đới của cả vợ và chồng đối với giao dịch đó
+D. Chỉ bên trực tiếp thực hiện giao dịch chịu trách nhiệm bằng tài sản riêng
+Đáp án đúng: C
+Giải thích: According to Điều 27 & 30 Luật HN&GĐ 2014, vợ chồng chịu trách nhiệm liên đới đối với giao dịch do một bên thực hiện nhằm đáp ứng nhu cầu thiết yếu của gia đình.
+
+Câu 85 [Trung bình]: Nhu cầu thiết yếu của gia đình được hiểu là gì?
+A. Là nhu cầu vay tiền mở doanh nghiệp riêng
+B. Là nhu cầu mua xe ô tô hạng sang để đi du lịch
+C. Là nhu cầu sinh hoạt thông thường về ăn, ở, mặc, học tập, chữa bệnh và nhu cầu sinh hoạt thông thường khác không thể thiếu cho đời sống của mỗi người, mỗi gia đình
+D. Là nhu cầu đầu tư chứng khoán rủi ro cao
+Đáp án đúng: C
+Giải thích: Khoản 20 Điều 3 Luật HN&GĐ 2014 định nghĩa nhu cầu thiết yếu là nhu cầu sinh hoạt thông thường về ăn, ở, mặc, học tập, chữa bệnh... thiết yếu cho đời sống gia đình.
+
+Câu 86 [Vận dụng]: Anh M cấm Chị N (vợ Anh M) tham gia lớp học đại học tại Phường X vì cho rằng phụ nữ chỉ cần ở nhà chăm con. Anh M đe dọa sẽ đánh Chị N nếu Chị N vẫn đi học. Hành vi của Anh M vi phạm quy định nào?
+A. Không vi phạm vì người chồng có quyền dạy bảo vợ
+B. Vi phạm quyền nhân thân tự do học tập, nâng cao trình độ của người vợ và hành vi bạo lực gia đình
+C. Vi phạm quy chế tuyển sinh của trường đại học
+D. Vi phạm quy định quản lý hộ tịch của UBND cấp xã
+Đáp án đúng: B
+Giải thích: Anh M vi phạm quyền tự do học tập của vợ (Điều 19 Luật HN&GĐ 2014) và thực hiện hành vi bạo lực gia đình theo Luật Phòng, chống bạo lực gia đình.
+
+Câu 87 [Vận dụng]: Chị K muốn theo đạo Công giáo sau khi kết hôn nhưng Anh L (chồng Chị K) ép buộc Chị K phải bỏ đạo để theo phong tục thờ cúng gia tiên nhà chồng tại Xã Z. Anh L dọa sẽ ly hôn nếu Chị K không nghe theo. Hành vi của Anh L vi phạm quy định nào?
+A. Vi phạm thẩm quyền giải quyết ly hôn của Tòa án nhân dân khu vực
+B. Vi phạm nghĩa vụ tôn trọng quyền tự do tín ngưỡng, tôn giáo của vợ quy định tại Điều 22 Luật HN&GĐ 2014
+C. Không vi phạm vì vợ phải theo tôn giáo của gia đình chồng
+D. Vi phạm quy định đăng ký kết hôn tại UBND cấp xã
+Đáp án đúng: B
+Giải thích: Vợ chồng có nghĩa vụ tôn trọng quyền tự do tín ngưỡng, tôn giáo của nhau. Ép buộc vợ từ bỏ tôn giáo là vi phạm pháp luật.
+
+Câu 88 [Vận dụng]: Anh A và Chị B kết hôn tại Phường Y. Sau khi kết hôn, Anh A làm việc tại tỉnh T, Chị B làm việc tại tỉnh H. Hai người thỏa thuận sống ở hai nơi khác nhau và cuối tuần mới về gặp nhau. Thỏa thuận này có phù hợp pháp luật không?
+A. Hoàn toàn phù hợp vì pháp luật cho phép vợ chồng thỏa thuận về nơi cư trú do yêu cầu công tác
+B. Phải được sự đồng ý bằng văn bản của UBND cấp xã
+C. Trái pháp luật vì bắt buộc vợ chồng phải ở cùng một nhà liên tục
+D. Phải qua sự phê chuẩn của Tòa án nhân dân khu vực
+Đáp án đúng: A
+Giải thích: Theo khoản 2 Điều 19 và Điều 20 Luật HN&GĐ 2014, vợ chồng có quyền thỏa thuận về nơi cư trú do yêu cầu công tác, học tập.
+
+Câu 89 [Vận dụng]: Con chung 5 tuổi của Anh P và Chị Q bị bệnh nặng cần mổ gấp tại bệnh viện. Chị Q tự mình ký vay ngân hàng 100 triệu đồng để nộp viện phí mổ cho con mà không kịp hỏi ý kiến Anh P. Nghĩa vụ trả nợ này thuộc về ai?
+A. Bệnh viện chịu trách nhiệm trả nợ
+B. Chỉ riêng Chị Q chịu trách nhiệm trả nợ vì Anh P không ký tên
+C. UBND cấp xã phải chi ngân sách trả nợ thay
+D. Nghĩa vụ liên đới của cả Anh P và Chị Q vì giao dịch nhằm đáp ứng nhu cầu thiết yếu (chữa bệnh cho con) của gia đình
+Đáp án đúng: D
+Giải thích: Khoản 1 Điều 30 Luật HN&GĐ 2014 quy định vợ, chồng chịu trách nhiệm liên đới đối với giao dịch do một bên thực hiện nhằm đáp ứng nhu cầu thiết yếu của gia đình.
+
+Câu 90 [Dễ]: Chế độ tài sản của vợ chồng theo quy định tại Luật Hôn nhân và Gia đình 2014 bao gồm các dạng nào?
+A. Chế độ tài sản tịch thu toàn bộ cho Nhà nước
+B. Chế độ tài sản theo luật định và chế độ tài sản theo thỏa thuận
+C. Chế độ tài sản do UBND cấp xã áp đặt
+D. Chế độ tài sản do Tòa án nhân dân khu vực chỉ định
+Đáp án đúng: B
+Giải thích: Điều 28 Luật HN&GĐ 2014 quy định vợ chồng có quyền lựa chọn áp dụng Chế độ tài sản theo luật định hoặc Chế độ tài sản theo thỏa thuận.
+
+Câu 91 [Dễ]: Tài sản nào sau đây thuộc khối tài sản chung của vợ chồng theo Chế độ tài sản theo luật định?
+A. Tài sản do vợ, chồng tạo ra, thu nhập do lao động, hoạt động sản xuất, kinh doanh, hoa lợi, lợi tức phát sinh từ tài sản riêng và thu nhập hợp pháp khác trong thời kỳ hôn nhân
+B. Tài sản được thừa kế riêng của người vợ trong thời kỳ hôn nhân
+C. Đồ dùng trang sức cá nhân có giá trị nhỏ do người vợ mua bằng tiền riêng
+D. Tài sản mà người chồng có từ trước khi kết hôn
+Đáp án đúng: A
+Giải thích: Điều 33 Luật HN&GĐ 2014 quy định tài sản chung của vợ chồng gồm tài sản do vợ, chồng tạo ra, thu nhập do lao động, sản xuất kinh doanh... trong thời kỳ hôn nhân.
+
+Câu 92 [Dễ]: Quyền sử dụng đất mà vợ, chồng có được sau khi kết hôn được pháp luật xác định như thế nào (trừ trường hợp được thừa kế riêng, tặng cho riêng)?
+A. Là tài sản thuộc sở hữu của UBND cấp xã
+B. Là tài sản chung của vợ chồng
+C. Là tài sản chung của dòng họ hai bên
+D. Mặc nhiên là tài sản riêng của người chồng
+Đáp án đúng: B
+Giải thích: Khoản 1 Điều 33 Luật HN&GĐ 2014 quy định Quyền sử dụng đất mà vợ, chồng có được sau khi kết hôn là tài sản chung của vợ chồng.
+
+Câu 93 [Dễ]: Trong trường hợp tài sản thuộc sở hữu chung của vợ chồng mà pháp luật quy định phải đăng ký quyền sở hữu thì Giấy chứng nhận quyền sở hữu phải ghi tên ai?
+A. Chỉ được ghi tên người chồng
+B. Do UBND cấp xã quyết định chọn ghi tên một người
+C. Chỉ được ghi tên người đứng ra trả tiền mua
+D. Phải ghi cả họ, tên vợ và họ, tên chồng, trừ trường hợp vợ chồng có thỏa thuận khác
+Đáp án đúng: D
+Giải thích: Khoản 1 Điều 34 Luật HN&GĐ 2014 quy định Giấy chứng nhận quyền sở hữu, quyền sử dụng đối với tài sản chung phải ghi cả họ, tên vợ và họ, tên chồng.
+
+Câu 94 [Dễ]: Tài sản nào sau đây thuộc khối tài sản riêng của vợ, chồng?
+A. Lợi tức thu được từ việc cho thuê nhà chung của vợ chồng
+B. Tài sản mà mỗi người có trước khi kết hôn; tài sản được thừa kế riêng, tặng cho riêng trong thời kỳ hôn nhân
+C. Tiền thưởng tết của người vợ trong thời kỳ hôn nhân
+D. Tiền lương hàng tháng của người chồng kiếm được trong thời kỳ hôn nhân
+Đáp án đúng: B
+Giải thích: Khoản 1 Điều 43 Luật HN&GĐ 2014 quy định tài sản riêng gồm tài sản có trước khi kết hôn, tài sản được thừa kế riêng, tặng cho riêng trong thời kỳ hôn nhân.
+
+Câu 95 [Dễ]: Vợ, chồng có quyền nhập tài sản riêng của mình vào khối tài sản chung của vợ chồng hay không?
+A. Phải được sự đồng ý của Tòa án nhân dân khu vực
+B. Không được phép nhập tài sản riêng vào tài sản chung
+C. Có quyền nhập tài sản riêng vào tài sản chung theo thỏa thuận của vợ chồng
+D. Phải đóng thuế 50% cho UBND cấp xã mới được nhập
+Đáp án đúng: C
+Giải thích: Khoản 1 Điều 44 Luật HN&GĐ 2014 quy định vợ, chồng có quyền nhập tài sản riêng vào tài sản chung.
+
+Câu 96 [Trung bình]: Trong trường hợp không có chứng cứ chứng minh tài sản mà vợ, chồng đang có tranh chấp là tài sản riêng của mỗi bên thì tài sản đó được pháp luật xác định là gì?
+A. Do Tòa án nhân dân khu vực chia đều cho cha mẹ hai bên
+B. Được coi là tài sản chung của vợ chồng
+C. Tịch thu vào quỹ của UBND cấp xã
+D. Được coi là tài sản riêng của người chồng
+Đáp án đúng: B
+Giải thích: Khoản 3 Điều 33 Luật HN&GĐ 2014 quy định: Trong trường hợp không có chứng cứ chứng minh tài sản mà vợ, chồng đang có tranh chấp là tài sản riêng thì tài sản đó được coi là tài sản chung.
+
+Câu 97 [Trung bình]: Việc định đoạt tài sản chung của vợ chồng là bất động sản hoặc tài sản có giá trị lớn phải được thực hiện theo quy định nào?
+A. Do Tòa án nhân dân khu vực ra quyết định bán
+B. Do Chủ tịch UBND cấp xã phê duyệt đơn phương
+C. Chỉ cần người chồng quyết định và ký tên
+D. Phải có sự thỏa thuận bằng văn bản của cả vợ và chồng
+Đáp án đúng: D
+Giải thích: Khoản 2 Điều 35 Luật HN&GĐ 2014 quy định việc định đoạt tài sản chung là bất động sản, động sản mà pháp luật quy định phải đăng ký quyền sở hữu... phải có sự thỏa thuận bằng văn bản của vợ chồng.
+
+Câu 98 [Trung bình]: Thỏa thuận về Chế độ tài sản của vợ chồng theo thỏa thuận phải được lập vào thời điểm nào và dưới hình thức nào?
+A. Lập sau khi kết hôn bằng lời nói có người làm chứng
+B. Lập tại UBND cấp xã sau khi đã có 2 con
+C. Phải được lập TRƯỚC KHI kết hôn, bằng văn bản có công chứng hoặc chứng thực
+D. Lập tại Tòa án nhân dân khu vực khi chuẩn bị ly hôn
+Đáp án đúng: C
+Giải thích: Điều 47 Luật HN&GĐ 2014 quy định thỏa thuận về chế độ tài sản phải được lập trước khi kết hôn, bằng văn bản có công chứng hoặc chứng thực.
+
+Câu 99 [Trung bình]: Vợ chồng có quyền chia tài sản chung trong thời kỳ hôn nhân không?
+A. Có quyền thỏa thuận chia một phần hoặc toàn bộ tài sản chung trong thời kỳ hôn nhân; nếu không thỏa thuận được thì có quyền yêu cầu Tòa án giải quyết
+B. Tuyệt đối không được chia tài sản chung khi chưa ly hôn
+C. Chỉ được chia khi có sự cho phép của UBND cấp xã
+D. Chỉ được chia khi người chồng bị phạt tù
+Đáp án đúng: A
+Giải thích: Khoản 1 Điều 38 Luật HN&GĐ 2014 quy định trong thời kỳ hôn nhân, vợ chồng có quyền thỏa thuận chia một phần hoặc toàn bộ tài sản chung.
+
+Câu 100 [Trung bình]: Hoa lợi, lợi tức phát sinh từ tài sản đã chia riêng trong thời kỳ hôn nhân thuộc về sở hữu của ai (trừ trường hợp có thỏa thuận khác)?
+A. Do Tòa án nhân dân khu vực chia lại định kỳ
+B. Thuộc sở hữu riêng của người được chia phần tài sản đó
+C. Thuộc sở hữu của UBND cấp xã nơi cư trú
+D. Vẫn thuộc khối tài sản chung của vợ chồng
+Đáp án đúng: B
+Giải thích: Khoản 1 Điều 40 Luật HN&GĐ 2014 quy định hoa lợi, lợi tức phát sinh từ tài sản đã chia riêng thuộc sở hữu riêng của mỗi người, trừ trường hợp có thỏa thuận khác.
+
+--------------------------------------------------------------------------------
+MỤC 7.4. CHẤM DỨT HÔN NHÂN VÀ LY HÔN
+--------------------------------------------------------------------------------
+
+Câu 101 [Dễ]: Theo Luật Hôn nhân và Gia đình 2014, hôn nhân chấm dứt kể từ thời điểm nào?
+A. Kể từ ngày vợ chồng ký thỏa thuận ly hôn tại UBND cấp xã
+B. Kể từ ngày bản án, quyết định ly hôn của Tòa án có hiệu lực pháp luật
+C. Kể từ ngày Tòa án nhận đơn khởi kiện ly hôn
+D. Kể từ ngày hai bên chuyển sang sống ly thân
+Đáp án đúng: B
+Giải thích: Khoản 1 Điều 57 Luật HN&GĐ quy định: Quan hệ hôn nhân chấm dứt kể từ ngày bản án, quyết định ly hôn của Tòa án có hiệu lực pháp luật.
+
+Câu 102 [Dễ]: Người có quyền yêu cầu giải quyết ly hôn bao gồm những ai?
+A. Chỉ có người chồng mới có quyền nộp đơn
+B. Vợ, chồng hoặc cả hai người; hoặc cha, mẹ, người thân thích khác trong trường hợp luật định
+C. Chỉ có người vợ mới có quyền nộp đơn
+D. Chỉ có Chủ tịch UBND cấp xã nơi cư trú
+Đáp án đúng: B
+Giải thích: Điều 51 Luật HN&GĐ quy định quyền yêu cầu giải quyết ly hôn thuộc về vợ, chồng hoặc cả hai, hoặc người thân thích khác khi một bên mắc bệnh tâm thần và là nạn nhân bạo lực.
+
+Câu 103 [Dễ]: Trường hợp nào sau đây người chồng KHÔNG được quyền yêu cầu ly hôn?
+A. Vợ đang có thai, sinh con hoặc đang nuôi con dưới 12 tháng tuổi
+B. Vợ bị ốm đau thông thường
+C. Vợ đi học tập nâng cao ở nước ngoài
+D. Vợ từ chối sống chung với gia đình nhà chồng
+Đáp án đúng: A
+Giải thích: Khoản 3 Điều 51 Luật HN&GĐ quy định: Chồng không có quyền yêu cầu ly hôn trong trường hợp vợ đang có thai, sinh con hoặc đang nuôi con dưới 12 tháng tuổi.
+
+Câu 104 [Trung bình]: Khi người vợ đang mang thai hoặc nuôi con dưới 12 tháng tuổi, người vợ có quyền yêu cầu ly hôn không?
+A. Không, cả hai vợ chồng đều bị cấm ly hôn trong giai đoạn này
+B. Có, quyền hạn chế chỉ áp dụng đối với người chồng, người vợ vẫn có quyền yêu cầu ly hôn
+C. Chỉ được ly hôn nếu được Hội liên hiệp Phụ nữ bảo lãnh
+D. Chỉ được ly hôn khi người chồng đồng ý ký đơn
+Đáp án đúng: B
+Giải thích: Hạn chế quyền ly hôn ở Khoản 3 Điều 51 Luật HN&GĐ chỉ áp dụng đối với người chồng nhằm bảo vệ bà mẹ và trẻ em; người vợ vẫn có đầy đủ quyền yêu cầu ly hôn.
+
+Câu 105 [Dễ]: Thuận tình ly hôn là trường hợp nào sau đây?
+A. Chỉ một bên vợ hoặc chồng muốn ly hôn và có đơn
+B. Hai vợ chồng cùng yêu cầu ly hôn, tự nguyện và đã thỏa thuận về chia tài sản, trông nom nuôi dưỡng con
+C. Tòa án bắt buộc hai bên phải ly hôn do mâu thuẫn kéo dài
+D. UBND xã ra quyết định hủy bỏ hôn nhân vì không hòa hợp
+Đáp án đúng: B
+Giải thích: Điều 55 Luật HN&GĐ quy định thuận tình ly hôn khi hai bên cùng yêu cầu, thật sự tự nguyện ly hôn và đã thỏa thuận về việc chia tài sản, chăm sóc, nuôi dưỡng con.
+
+Câu 106 [Trung bình]: Trong thủ tục giải quyết ly hôn tại Tòa án, hòa giải là thủ tục:
+A. Không bắt buộc, chỉ thực hiện khi đương sự yêu cầu
+B. Bắt buộc theo quy định của pháp luật tố tụng dân sự và hôn nhân gia đình
+C. Chỉ áp dụng với các cặp vợ chồng dưới 30 tuổi
+D. Chỉ áp dụng khi có tranh chấp về tài sản trên 1 tỷ đồng
+Đáp án đúng: B
+Giải thích: Điều 54 Luật HN&GĐ quy định sau khi thụ lý đơn yêu cầu ly hôn, Tòa án tiến hành hòa giải theo quy định của pháp luật về tố tụng dân sự.
+
+Câu 107 [Trung bình]: Tòa án giải quyết cho ly hôn đơn phương khi có căn cứ nào sau đây?
+A. Vợ chồng có bất đồng nhỏ trong sinh hoạt hằng ngày
+B. Có bạo lực gia đình hoặc vi phạm nghiêm trọng quyền, nghĩa vụ khiến hôn nhân trầm trọng, đời sống chung không thể kéo dài
+C. Một bên đi công tác xa trên 3 tháng
+D. Một bên không đồng ý sinh thêm con thứ ba
+Đáp án đúng: B
+Giải thích: Khoản 1 Điều 56 Luật HN&GĐ quy định Tòa án giải quyết ly hôn nếu có căn cứ về việc bạo lực gia đình hoặc vi phạm nghiêm trọng quyền, nghĩa vụ làm cho hôn nhân lâm vào tình trạng trầm trọng, đời sống chung không thể kéo dài, mục đích hôn nhân không đạt được.
+
+Câu 108 [Dễ]: Khi ly hôn, nguyên tắc phân chia tài sản chung của vợ chồng theo luật định là gì?
+A. Chia toàn bộ cho người chồng vì là trụ cột gia đình
+B. Chia toàn bộ cho người vợ để nuôi con nhỏ
+C. Tài sản chung của vợ chồng được chia đôi nhưng có tính đến các yếu tố hoàn cảnh, công sức đóng góp, lỗi...
+D. Do UBND cấp xã quyết định chia theo tỷ lệ phần trăm
+Đáp án đúng: C
+Giải thích: Điều 59 Luật HN&GĐ quy định tài sản chung của vợ chồng về nguyên tắc được chia đôi nhưng có tính đến hoàn cảnh gia đình, công sức đóng góp, lỗi của mỗi bên...
+
+Câu 109 [Trung bình]: Lao động của vợ, chồng trong gia đình (nội trợ, chăm sóc con cái) được tính như thế nào khi chia tài sản chung?
+A. Không được tính vì không tạo ra thu nhập bằng tiền mặt trực tiếp
+B. Được coi như lao động có thu nhập để tính công sức đóng góp
+C. Chỉ được tính tượng trưng tối đa 10% giá trị tài sản
+D. Tùy thuộc vào việc người kia có đồng ý trả công hay không
+Đáp án đúng: B
+Giải thích: Điểm b Khoản 2 Điều 59 Luật HN&GĐ khẳng định lao động của vợ, chồng trong gia đình được coi như lao động có thu nhập.
+
+Câu 110 [Dễ]: Khi ly hôn, tài sản riêng của ai thì:
+A. Đều phải sung công quỹ nhà nước
+B. Tự động chia đều cho cả hai vợ chồng
+C. Vẫn thuộc quyền sở hữu của người đó, trừ trường hợp đã sáp nhập hoặc có thỏa thuận khác
+D. Chuyển toàn bộ cho các con thừa kế ngay lập tức
+Đáp án đúng: C
+Giải thích: Khoản 4 Điều 59 Luật HN&GĐ quy định tài sản riêng của vợ, chồng thuộc quyền sở hữu của người đó, trừ trường hợp tài sản riêng đã nhập vào tài sản chung.
+
+Câu 111 [Trung bình]: Khi ly hôn, con dưới bao nhiêu tháng tuổi được giao trực tiếp cho người mẹ nuôi dưỡng (trừ trường hợp mẹ không đủ điều kiện hoặc có thỏa thuận khác)?
+A. Dưới 12 tháng tuổi
+B. Dưới 24 tháng tuổi
+C. Dưới 36 tháng tuổi
+D. Dưới 6 tháng tuổi
+Đáp án đúng: C
+Giải thích: Khoản 3 Điều 81 Luật HN&GĐ quy định con dưới 36 tháng tuổi được giao cho mẹ trực tiếp nuôi dưỡng, trừ trường hợp người mẹ không đủ điều kiện hoặc cha mẹ có thỏa thuận khác phù hợp với lợi ích của con.
+
+Câu 112 [Trung bình]: Khi ly hôn, con từ đủ bao nhiêu tuổi trở lên thì Tòa án phải xem xét nguyện vọng của con khi quyết định người trực tiếp nuôi con?
+A. Từ đủ 5 tuổi trở lên
+B. Từ đủ 7 tuổi trở lên
+C. Từ đủ 9 tuổi trở lên
+D. Từ đủ 12 tuổi trở lên
+Đáp án đúng: B
+Giải thích: Khoản 2 Điều 81 Luật HN&GĐ quy định: Con từ đủ 7 tuổi trở lên thì phải xem xét nguyện vọng của con.
+
+Câu 113 [Dễ]: Nghĩa vụ cấp dưỡng của cha hoặc mẹ không trực tiếp nuôi con sau khi ly hôn là nghĩa vụ:
+A. Tự nguyện, nếu không muốn thì không ai có quyền yêu cầu
+B. Bắt buộc đối với con chưa thành niên hoặc con đã thành niên mất năng lực hành vi dân sự/không có khả năng lao động
+C. Chỉ thực hiện trong vòng 1 năm đầu sau khi ly hôn
+D. Chỉ thực hiện khi cha/mẹ được Tòa án cấp giấy khen
+Đáp án đúng: B
+Giải thích: Điều 82 và Điều 110 Luật HN&GĐ quy định cha, mẹ không trực tiếp nuôi con có nghĩa vụ cấp dưỡng cho con chưa thành niên, con đã thành niên không có khả năng lao động và không có tài sản để tự nuôi mình.
+
+Câu 114 [Trung bình]: Người không trực tiếp nuôi con sau ly hôn có quyền thăm nom con mà:
+A. Không ai được cản trở, trừ trường hợp bị Tòa án hạn chế quyền thăm nom
+B. Phải có giấy phép của Trưởng Công an phường/xã
+C. Chỉ được gặp con khi người trực tiếp nuôi con cho phép bằng văn bản
+D. Chỉ được gặp con vào các ngày lễ tết lớn
+Đáp án đúng: A
+Giải thích: Khoản 3 Điều 82 Luật HN&GĐ quy định sau khi ly hôn, người không trực tiếp nuôi con có quyền, nghĩa vụ thăm nom con mà không ai được cản trở.
+
+Câu 115 [Vận dụng]: Anh A và Chị B ly hôn. Khi ly hôn con chung của hai người mới được 2 tuổi. Anh A muốn nuôi con với lý do thu nhập của anh cao gấp 5 lần Chị B. Hỏi Tòa án sẽ giải quyết thế nào?
+A. Giao con cho Anh A vì điều kiện kinh tế giàu có hơn
+B. Giao con cho Chị B trực tiếp nuôi dưỡng vì con dưới 36 tháng tuổi, trừ khi Chị B không đủ điều kiện hoặc hai bên thỏa thuận khác
+C. Tổ chức đấu giá quyền nuôi con
+D. Gửi con vào trung tâm bảo trợ xã hội cho đến khi đủ 18 tuổi
+Đáp án đúng: B
+Giải thích: Theo Khoản 3 Điều 81 Luật HN&GĐ, con dưới 36 tháng tuổi được giao cho mẹ trực tiếp nuôi, điều kiện kinh tế của người cha không phải căn cứ tước quyền nuôi con của mẹ nếu mẹ vẫn đủ điều kiện tối thiểu chăm sóc con.
+
+Câu 116 [Vận dụng]: Sau khi ly hôn, Chị H được nuôi con. Chị H liên tục tìm cách cấm đoán, không cho Anh K (chồng cũ) đến thăm hoặc đón con đi chơi. Hành vi của Chị H là:
+A. Hợp pháp vì Chị H là người trực tiếp nuôi con
+B. Vi phạm pháp luật hôn nhân và gia đình về quyền thăm nom con của người không trực tiếp nuôi
+C. Đúng quy định pháp luật nếu Chị H đã lấy chồng mới
+D. Chỉ là vấn đề đạo đức, pháp luật không can thiệp
+Đáp án đúng: B
+Giải thích: Khoản 2 Điều 83 Luật HN&GĐ quy định cha, mẹ trực tiếp nuôi con cùng các thành viên gia đình không được cản trở người không trực tiếp nuôi con trong việc thăm nom, chăm sóc, nuôi dưỡng, giáo dục con.
+
+Câu 117 [Trung bình]: Hôn nhân chấm dứt do một bên vợ hoặc chồng chết hoặc bị Tòa án tuyên bố là đã chết kể từ thời điểm nào?
+A. Kể từ thời điểm người đó qua đời hoặc thời điểm xác định trong quyết định tuyên bố đã chết của Tòa án có hiệu lực
+B. Kể từ ngày làm lễ tang
+C. Sau 3 năm kể từ ngày người đó mất tích
+D. Kể từ ngày cấp giấy chứng tử tại cơ quan công an
+Đáp án đúng: A
+Giải thích: Điều 65 Luật HN&GĐ quy định hôn nhân chấm dứt kể từ thời điểm một bên vợ, chồng chết hoặc thời điểm xác định trong quyết định của Tòa án tuyên bố vợ, chồng đã chết có hiệu lực pháp luật.
+
+Câu 118 [Trung bình]: Khi một bên bị Tòa án tuyên bố đã chết trở về mà người vợ/chồng chưa kết hôn với người khác thì:
+A. Quan hệ hôn nhân tự động hủy bỏ vĩnh viễn
+B. Quan hệ hôn nhân được phục hồi kể từ thời điểm Tòa án ra quyết định hủy bỏ tuyên bố đã chết
+C. Phải làm thủ tục đăng ký kết hôn lại từ đầu tại UBND xã
+D. UBND xã phạt tiền vì làm mất thời gian của cơ quan chức năng
+Đáp án đúng: B
+Giải thích: Khoản 1 Điều 67 Luật HN&GĐ quy định khi người bị tuyên bố là đã chết trở về mà vợ/chồng chưa kết hôn với người khác thì quan hệ hôn nhân được phục hồi kể từ thời điểm quyết định hủy bỏ tuyên bố chết có hiệu lực.
+
+Câu 119 [Trung bình]: Nếu người vợ/chồng của người bị tuyên bố đã chết đã kết hôn hợp pháp với người khác, khi người bị tuyên bố chết trở về thì:
+A. Hôn nhân sau bị vô hiệu ngay lập tức
+B. Hôn nhân được phục hồi với người đầu tiên
+C. Hôn nhân với người khác vẫn có hiệu lực pháp luật, quan hệ hôn nhân trước không được phục hồi
+D. Tòa án bắt buộc người vợ/chồng phải sống chung với cả hai người
+Đáp án đúng: C
+Giải thích: Khoản 2 Điều 67 Luật HN&GĐ quy định trường hợp vợ, chồng của người bị tuyên bố là đã chết đã kết hôn với người khác thì quan hệ hôn nhân đó vẫn có hiệu lực pháp luật.
+
+Câu 120 [Dễ]: Trường hợp vợ chồng sống ly thân nhiều năm thì quan hệ hôn nhân theo pháp luật:
+A. Tự động chấm dứt sau 3 năm ly thân
+B. Tự động chấm dứt sau 5 năm ly thân
+C. Vẫn tồn tại cho đến khi có bản án/quyết định ly hôn có hiệu lực hoặc một bên chết
+D. Tự động chuyển thành quan hệ độc thân
+Đáp án đúng: C
+Giải thích: Pháp luật Việt Nam không công nhận chế định ly thân làm chấm dứt hôn nhân. Quan hệ vợ chồng chỉ chấm dứt khi có bản án, quyết định ly hôn của Tòa án có hiệu lực hoặc một bên chết.
+
+Câu 121 [Trung bình]: Nghĩa vụ thanh toán các khoản nợ chung của vợ chồng sau khi ly hôn được quy định như thế nào?
+A. Xóa bỏ toàn bộ vì hai người không còn là vợ chồng
+B. Chuyển toàn bộ cho người chồng có trách nhiệm trả
+C. Vợ, chồng vẫn phải liên đới chịu trách nhiệm thanh toán các nghĩa vụ tài sản chung đã xác lập
+D. Nhà nước đứng ra chi trả thay
+Đáp án đúng: C
+Giải thích: Điều 60 Luật HN&GĐ quy định quyền, nghĩa vụ tài sản của vợ chồng đối với người thứ ba vẫn có hiệu lực sau khi ly hôn, trừ trường hợp vợ chồng và người thứ ba có thỏa thuận khác.
+
+Câu 122 [Dễ]: Khi chia tài sản chung là nhà ở duy nhất của vợ chồng mà không thể chia bằng hiện vật thì:
+A. Đập bỏ ngôi nhà để chia đất
+B. Người sở hữu ngôi nhà phải thanh toán cho bên kia phần giá trị tài sản mà họ được hưởng
+C. Giao toàn bộ nhà cho bên ít tiền hơn mà không cần trả giá trị chênh lệch
+D. Bán đấu giá sung công quỹ
+Đáp án đúng: B
+Giải thích: Khoản 3 Điều 59 Luật HN&GĐ quy định tài sản chung được chia bằng hiện vật, nếu không chia được bằng hiện vật thì chia theo giá trị; bên nhận hiện vật phải thanh toán cho bên kia phần giá trị họ được hưởng.
+
+Câu 123 [Vận dụng]: Anh M và Chị N thỏa thuận ly hôn. Hai bên thống nhất Chị N nuôi con và Anh M không cần cấp dưỡng. Thỏa thuận này:
+A. Có hiệu lực tuyệt đối và không bao giờ được thay đổi
+B. Hợp pháp tại thời điểm thỏa thuận, nhưng khi cần thiết vì lợi ích của con, người nuôi con vẫn có quyền yêu cầu cấp dưỡng
+C. Bị vô hiệu ngay từ đầu vì cha mẹ bắt buộc phải cấp dưỡng
+D. Chỉ có hiệu lực nếu có sự phê chuẩn của Bộ Công an
+Đáp án đúng: B
+Giải thích: Cha mẹ có thể thỏa thuận về việc không yêu cầu cấp dưỡng, nhưng khi hoàn cảnh thay đổi hoặc vì lợi ích của con, người trực tiếp nuôi con hoặc cơ quan tổ chức vẫn có quyền yêu cầu người kia thực hiện nghĩa vụ cấp dưỡng.
+
+Câu 124 [Trung bình]: Căn cứ đình chỉ nghĩa vụ cấp dưỡng giữa vợ chồng sau khi ly hôn là:
+A. Người được cấp dưỡng đã kết hôn với người khác
+B. Người cấp dưỡng cảm thấy chán nản
+C. Người được cấp dưỡng chuyển chỗ ở mới
+D. Người cấp dưỡng bị giảm lương 10%
+Đáp án đúng: A
+Giải thích: Khoản 2 Điều 118 Luật HN&GĐ quy định nghĩa vụ cấp dưỡng chấm dứt khi người được cấp dưỡng đã kết hôn với người khác.
+
+Câu 125 [Dễ]: Tòa án không công nhận quan hệ vợ chồng đối với trường hợp nào sau đây?
+A. Nam nữ chung sống với nhau như vợ chồng mà không đăng ký kết hôn khi có yêu cầu ly hôn
+B. Vợ chồng kết hôn hợp pháp có đăng ký kết hôn tại UBND cấp xã
+C. Vợ chồng đã có 5 người con chung
+D. Vợ chồng tổ chức đám cưới trang trọng tại khách sạn
+Đáp án đúng: A
+Giải thích: Khoản 2 Điều 53 Luật HN&GĐ quy định trong trường hợp không đăng ký kết hôn mà có yêu cầu ly hôn thì Tòa án thụ lý và tuyên bố không công nhận quan hệ vợ chồng.
+
+Câu 126 [Trung bình]: Quyền yêu cầu cấp dưỡng giữa vợ và chồng sau khi ly hôn phát sinh khi nào?
+A. Bất kỳ khi nào một bên có nhu cầu
+B. Khi một bên có khó khăn, túng thiếu, có lý do chính đáng và yêu cầu cấp dưỡng, bên kia có khả năng thực tế để cấp dưỡng
+C. Chỉ khi người chồng thất nghiệp
+D. Chỉ khi người vợ không đi làm
+Đáp án đúng: B
+Giải thích: Điều 115 Luật HN&GĐ quy định khi ly hôn nếu bên khó khăn, túng thiếu có yêu cầu cấp dưỡng mà có lý do chính đáng thì bên kia có nghĩa vụ cấp dưỡng theo khả năng của mình.
+
+Câu 127 [Dễ]: Mức cấp dưỡng nuôi con do ai quyết định?
+A. Pháp luật quy định cứng là 2 triệu đồng/tháng cho mọi trường hợp
+B. Do các bên thỏa thuận căn cứ vào thu nhập, khả năng thực tế của người cấp dưỡng và nhu cầu thiết yếu của người được cấp dưỡng; nếu không thỏa thuận được thì Tòa án quyết định
+C. Do UBND phường nơi người con cư trú ấn định
+D. Do nhà trường nơi người con theo học quy định
+Đáp án đúng: B
+Giải thích: Điều 116 Luật HN&GĐ quy định mức cấp dưỡng do người có nghĩa vụ cấp dưỡng và người được cấp dưỡng hoặc người giám hộ thỏa thuận căn cứ vào thu nhập, khả năng thực tế và nhu cầu thiết yếu của người được cấp dưỡng.
+
+Câu 128 [Trung bình]: Phương thức cấp dưỡng có thể được thực hiện như thế nào?
+A. Định kỳ hằng tháng, hằng quý, nửa năm, hằng năm hoặc một lần theo thỏa thuận của các bên
+B. Bắt buộc phải trả bằng vàng miếng hằng ngày
+C. Chỉ được trả một lần duy nhất bằng bất động sản
+D. Bắt buộc phải khấu trừ qua tài khoản ngân hàng nhà nước
+Đáp án đúng: A
+Giải thích: Điều 117 Luật HN&GĐ quy định việc cấp dưỡng có thể được thực hiện định kỳ hằng tháng, hằng quý, nửa năm, hằng năm hoặc một lần.
+
+Câu 129 [Vận dụng]: Anh B bị Tòa án buộc cấp dưỡng nuôi con 3 triệu đồng/tháng. Sau đó Anh B bị tai nạn lao động mất 81% sức khỏe, mất việc làm và không còn thu nhập. Anh B có quyền gì?
+A. Bắt buộc phải đi vay nợ xã hội đen để trả cấp dưỡng
+B. Yêu cầu Tòa án thay đổi hoặc tạm ngừng mức cấp dưỡng do khả năng thực tế đã thay đổi
+C. Tự động bỏ trốn ra nước ngoài
+D. Bị Tòa án phạt tù ngay lập tức
+Đáp án đúng: B
+Giải thích: Khoản 2 Điều 116 Luật HN&GĐ quy định khi có lý do chính đáng, mức cấp dưỡng có thể thay đổi do các bên thỏa thuận hoặc yêu cầu Tòa án giải quyết.
+
+Câu 130 [Trung bình]: Trường hợp vợ chồng sống chung trong gia đình có nhiều thế hệ, khi ly hôn tài sản của gia đình được giải quyết thế nào?
+A. Chia đều cho tất cả các thành viên trong dòng họ
+B. Tách phần tài sản của vợ chồng trong khối tài sản chung của hộ gia đình để chia; nếu không xác định được thì chia theo công sức đóng góp
+C. Tịch thu toàn bộ nhà đất của hộ gia đình
+D. Vợ chồng không được nhận bất kỳ tài sản nào
+Đáp án đúng: B
+Giải thích: Điều 61 Luật HN&GĐ quy định việc chia tài sản trong trường hợp vợ chồng sống chung với gia đình căn cứ vào phần tài sản vợ chồng được trích chia hoặc công sức đóng góp.
+
+Câu 131 [Dễ]: Quyền lưu cư của vợ hoặc chồng sau khi ly hôn được quy định nhằm mục đích gì?
+A. Bắt buộc hai bên phải sống chung trọn đời
+B. Bảo vệ bên gặp khó khăn về chỗ ở được lưu cư trong thời hạn 06 tháng kể từ ngày quan hệ hôn nhân chấm dứt
+C. Cho phép bên không có nhà được quyền sở hữu một nửa ngôi nhà
+D. Phạt bên có lỗi trong hôn nhân
+Đáp án đúng: B
+Giải thích: Điều 63 Luật HN&GĐ quy định nhà ở thuộc sở hữu riêng của một bên đã đưa vào sử dụng chung thì khi ly hôn bên kia có khó khăn về chỗ ở được quyền lưu cư trong thời hạn 06 tháng.
+
+Câu 132 [Trung bình]: Ai có quyền yêu cầu hủy việc kết hôn trái pháp luật?
+A. Người bị cưỡng ép kết hôn, lừa dối kết hôn; cha mẹ, con; cơ quan quản lý nhà nước về gia đình, trẻ em; Hội liên hiệp phụ nữ
+B. Bất kỳ người hàng xóm nào không thích cặp đôi
+C. Chỉ có Viện kiểm sát nhân dân tối cao
+D. Chỉ có Chủ tịch nước
+Đáp án đúng: A
+Giải thích: Điều 10 Luật HN&GĐ quy định các chủ thể có quyền yêu cầu hủy việc kết hôn trái pháp luật bao gồm người bị cưỡng ép, lừa dối, người thân thích và các cơ quan, tổ chức liên quan.
+
+Câu 133 [Trung bình]: Hậu quả pháp lý của việc hủy kết hôn trái pháp luật đối với quan hệ giữa hai bên nam nữ là:
+A. Hai bên được chia tài sản như vợ chồng hợp pháp
+B. Hai bên phải chấm dứt quan hệ như vợ chồng; quyền và nghĩa vụ nhân thân giữa vợ chồng không phát sinh
+C. Hai bên bị phạt tù từ 1 đến 3 năm
+D. Hai bên vẫn được pháp luật công nhận là vợ chồng danh nghĩa
+Đáp án đúng: B
+Giải thích: Khoản 1 Điều 12 Luật HN&GĐ quy định khi việc kết hôn trái pháp luật bị hủy thì hai bên nam, nữ phải chấm dứt quan hệ như vợ chồng; các quyền, nghĩa vụ của vợ chồng không phát sinh.
+
+Câu 134 [Dễ]: Hậu quả pháp lý của việc hủy kết hôn trái pháp luật đối với con chung:
+A. Con chung bị mất mọi quyền lợi hợp pháp
+B. Quyền, nghĩa vụ của cha, mẹ, con được giải quyết theo quy định về quyền, nghĩa vụ của cha, mẹ, con khi ly hôn
+C. Con tự động theo họ của mẹ và cha không phải cấp dưỡng
+D. Con phải vào trại trẻ mồ côi
+Đáp án đúng: B
+Giải thích: Khoản 2 Điều 12 Luật HN&GĐ quy định quyền, nghĩa vụ của cha, mẹ, con được giải quyết theo quy định về cha, mẹ, con khi ly hôn nhằm bảo vệ tối đa quyền lợi của trẻ em.
+
+Câu 135 [Trung bình]: Tài sản của hai bên nam nữ trong trường hợp kết hôn trái pháp luật bị hủy được giải quyết theo nguyên tắc nào?
+A. Chia đôi bằng nhau tuyệt đối
+B. Giải quyết theo thỏa thuận; nếu không thỏa thuận được thì giải quyết theo Bộ luật Dân sự và các quy định khác có liên quan, bảo đảm quyền lợi người phụ nữ và con
+C. Tịch thu sung công quỹ toàn bộ
+D. Giao toàn bộ cho bên nam quản lý
+Đáp án đúng: B
+Giải thích: Khoản 3 Điều 12 và Điều 16 Luật HN&GĐ quy định quan hệ tài sản giữa nam nữ chung sống không đăng ký kết hôn hoặc hủy kết hôn trái pháp luật giải quyết theo thỏa thuận hoặc theo Bộ luật Dân sự.
+
+Câu 136 [Vận dụng]: Anh T và Chị V lấy nhau có đăng ký kết hôn hợp pháp. Khi ly hôn, Anh T phát hiện đứa con 5 tuổi không cùng huyết thống với mình qua xét nghiệm ADN. Anh T có phải tiếp tục nuôi con không?
+A. Bắt buộc nuôi vì đã mang họ của Anh T
+B. Anh T có quyền yêu cầu Tòa án xác định không phải cha của con; nếu Tòa chấp nhận thì Anh T không phải thực hiện nghĩa vụ cấp dưỡng nữa
+C. Anh T bị phạt tiền vì nghi ngờ vợ
+D. Tòa án buộc Anh T phải nuôi đến khi con 18 tuổi rồi mới được xét nghiệm lại
+Đáp án đúng: B
+Giải thích: Theo quy định tại Điều 88 và Điều 89 Luật HN&GĐ, người không nhận con có quyền yêu cầu cơ quan có thẩm quyền xác định con không phải là con của mình. Khi có quyết định xác định không phải cha con, nghĩa vụ cấp dưỡng chấm dứt.
+
+Câu 137 [Dễ]: Thời hiệu khởi kiện chia tài sản chung sau khi ly hôn là:
+A. 1 năm kể từ ngày ly hôn
+B. Áp dụng theo quy định của Bộ luật Dân sự về quyền sở hữu (không áp dụng thời hiệu đối với yêu cầu bảo vệ quyền sở hữu)
+C. Tối đa 3 năm kể từ ngày ly hôn
+D. Tối đa 6 tháng kể từ ngày ly hôn
+Đáp án đúng: B
+Giải thích: Theo quy định của Bộ luật Dân sự và hướng dẫn của Tòa án nhân dân tối cao, tranh chấp chia tài sản chung vợ chồng sau ly hôn là tranh chấp về quyền sở hữu nên không áp dụng thời hiệu khởi kiện.
+
+Câu 138 [Trung bình]: Việc thay đổi người trực tiếp nuôi con sau khi ly hôn được giải quyết khi có căn cứ nào?
+A. Cha, mẹ có thỏa thuận về việc thay đổi hoặc người trực tiếp nuôi con không còn đủ điều kiện trực tiếp trông nom, chăm sóc, nuôi dưỡng, giáo dục con
+B. Con bị điểm kém ở trường
+C. Người trực tiếp nuôi con mua thêm nhà mới
+D. Người không nuôi con muốn lấy lại con để đỡ tiền cấp dưỡng
+Đáp án đúng: A
+Giải thích: Điều 84 Luật HN&GĐ quy định Tòa án thay đổi người trực tiếp nuôi con khi cha mẹ có thỏa thuận hoặc người trực tiếp nuôi con không còn đủ điều kiện chăm sóc giáo dục con.
+
+Câu 139 [Vận dụng]: Sau ly hôn, Anh D được giao nuôi con trai 9 tuổi. Anh D thường xuyên say xỉn, bạo hành con và bỏ mặc con không cho đi học. Chị G (mẹ cháu bé) cần làm gì?
+A. Bắt cóc con đưa về nhà mình nuôi giấu giếm
+B. Yêu cầu Tòa án thay đổi người trực tiếp nuôi con để bảo vệ quyền lợi của con
+C. Đăng bài lên mạng xã hội chửi bới Anh D
+D. Từ bỏ mọi trách nhiệm với con
+Đáp án đúng: B
+Giải thích: Theo Khoản 2 Điều 84 Luật HN&GĐ, Chị G có quyền yêu cầu Tòa án thay đổi người trực tiếp nuôi con do Anh D không còn đủ điều kiện và có hành vi bạo lực xâm phạm quyền của con.
+
+Câu 140 [Trung bình]: Ai có quyền yêu cầu Tòa án thay đổi người trực tiếp nuôi con ngoài cha và mẹ?
+A. Người thân thích; Cơ quan quản lý nhà nước về gia đình; Cơ quan quản lý nhà nước về trẻ em; Hội liên hiệp phụ nữ
+B. Bất kỳ người dân nào sống cùng khu phố
+C. Hiệu trưởng trường học nơi con học
+D. Công ty nơi người cha công tác
+Đáp án đúng: A
+Giải thích: Khoản 5 Điều 84 Luật HN&GĐ quy định trong trường hợp xét thấy cả cha và mẹ đều không đủ điều kiện nuôi con thì người thân thích, cơ quan gia đình, trẻ em, phụ nữ có quyền yêu cầu Tòa án giao con cho người giám hộ.
+
+Câu 141 [Dễ]: Quyền yêu cầu cấp dưỡng có thể chuyển giao cho người khác không?
+A. Có thể bán hoặc chuyển nhượng cho bất kỳ ai
+B. Không thể chuyển giao cho người khác vì gắn liền với nhân thân của người được cấp dưỡng
+C. Chỉ được chuyển nhượng cho ngân hàng
+D. Được tặng cho bạn bè thân thiết
+Đáp án đúng: B
+Giải thích: Điều 112 Luật HN&GĐ quy định quyền yêu cầu cấp dưỡng gắn liền với nhân thân của người được cấp dưỡng, không thể chuyển giao cho người khác.
+
+Câu 142 [Trung bình]: Trường hợp người có nghĩa vụ cấp dưỡng trốn tránh nghĩa vụ thì:
+A. Pháp luật hoàn toàn bất lực
+B. Bị cưỡng chế thi hành án dân sự hoặc có thể bị xử lý hình sự về tội từ chối hoặc trốn tránh nghĩa vụ cấp dưỡng
+C. Người được cấp dưỡng phải đi xin ăn
+D. Chính quyền xã phải cấp dưỡng thay thế trọn đời
+Đáp án đúng: B
+Giải thích: Theo Luật Thi hành án dân sự và Điều 186 Bộ luật Hình sự 2015, hành vi trốn tránh nghĩa vụ cấp dưỡng có thể bị cưỡng chế khấu trừ thu nhập hoặc bị truy cứu trách nhiệm hình sự.
+
+Câu 143 [Dễ]: Hành vi bạo lực gia đình giữa những người đã ly hôn có bị Luật Phòng, chống bạo lực gia đình điều chỉnh không?
+A. Không, vì họ đã ly hôn không còn là người trong gia đình
+B. Có, các hành vi bạo lực giữa vợ chồng đã ly hôn vẫn thuộc phạm vi điều chỉnh của pháp luật phòng, chống bạo lực gia đình
+C. Chỉ điều chỉnh nếu họ vẫn ở chung một nhà
+D. Chỉ áp dụng với người chồng cũ
+Đáp án đúng: B
+Giải thích: Luật Phòng, chống bạo lực gia đình quy định hành vi bạo lực giữa người đã ly hôn hoặc chung sống như vợ chồng vẫn thuộc phạm vi áp dụng các biện pháp xử lý bạo lực gia đình.
+
+Câu 144 [Trung bình]: Khi chia tài sản ly hôn, quyền sử dụng đất nông nghiệp trồng cây hàng năm, nuôi trồng thủy sản được chia thế nào?
+A. Thu hồi trả về cho Nhà nước
+B. Nếu cả hai bên đều có nhu cầu và điều kiện trực tiếp sử dụng thì chia theo thỏa thuận; nếu không thỏa thuận được thì chia theo giá trị hoặc công sức
+C. Chỉ chia cho bên nam
+D. Bắt buộc chuyển đổi thành đất ở đô thị
+Đáp án đúng: B
+Giải thích: Điều 62 Luật HN&GĐ quy định quyền sử dụng đất nông nghiệp của vợ chồng được chia căn cứ vào nhu cầu và điều kiện trực tiếp sản xuất nông nghiệp của mỗi bên.
+
+Câu 145 [Trung bình]: Hợp đồng ủy quyền quản lý tài sản chung giữa vợ và chồng sẽ chấm dứt khi nào?
+A. Khi vợ chồng ly hôn hoặc một bên chết, mất tích
+B. Sau 30 ngày kể từ ngày ký
+C. Khi có người thứ ba yêu cầu hủy
+D. Không bao giờ chấm dứt
+Đáp án đúng: A
+Giải thích: Theo quy định chung của Bộ luật Dân sự và Luật HN&GĐ, hợp đồng ủy quyền chấm dứt khi quan hệ ủy quyền không còn đối tượng hoặc một bên chết, quan hệ hôn nhân chấm dứt làm thay đổi chế độ tài sản.
+
+Câu 146 [Vận dụng]: Anh A và Chị B đã ly hôn. Khi ly hôn hai bên không yêu cầu chia tài sản nên Tòa án không giải quyết. Sau 2 năm, Chị B phát hiện một mảnh đất mua trong thời kỳ hôn nhân đứng tên Anh A. Chị B có quyền gì?
+A. Mất quyền vì đã quá thời hạn 1 năm
+B. Khởi kiện yêu cầu Tòa án phân chia tài sản chung sau ly hôn
+C. Chỉ có quyền đứng nhìn Anh A bán đất
+D. Bị phạt vì không khai báo tài sản lúc ly hôn
+Đáp án đúng: B
+Giải thích: Tài sản chưa được chia khi ly hôn vẫn là tài sản chung hợp nhất của vợ chồng; bất kỳ bên nào cũng có quyền khởi kiện yêu cầu Tòa án phân chia tài sản chung sau ly hôn.
+
+Câu 147 [Dễ]: Chế độ tài sản theo thỏa thuận của vợ chồng có thể bị Tòa án tuyên bố vô hiệu toàn bộ khi nào?
+A. Khi hai bên có mức thu nhập chênh lệch nhau
+B. Vi phạm nghiêm trọng điều kiện có hiệu lực của giao dịch dân sự hoặc thỏa thuận trốn tránh nghĩa vụ tài sản với người thứ ba
+C. Khi người chồng bị sa thải khỏi cơ quan
+D. Khi sinh con gái đầu lòng
+Đáp án đúng: B
+Giải thích: Điều 50 Luật HN&GĐ quy định thỏa thuận về chế độ tài sản của vợ chồng bị vô hiệu toàn bộ khi vi phạm điều kiện có hiệu lực của giao dịch dân sự, trốn tránh nghĩa vụ tài sản hoặc vi phạm quyền bình đẳng vợ chồng.
+
+Câu 148 [Trung bình]: Khi ly hôn, người vợ hoặc chồng có quyền lấy lại tên/họ thời độc thân của mình không?
+A. Pháp luật Việt Nam quy định khi kết hôn không đổi họ nên ly hôn vẫn giữ nguyên họ tên của mình
+B. Bắt buộc phải đổi họ theo cơ quan hộ tịch
+C. Phải nộp tiền chuộc lại họ cũ
+D. Chỉ người chồng mới có quyền đổi họ
+Đáp án đúng: A
+Giải thích: Pháp luật Việt Nam tôn trọng quyền nhân thân đối với họ tên, vợ chồng sau khi kết hôn không bị bắt buộc thay đổi theo họ của đối phương, do đó khi ly hôn họ tên của mỗi bên không bị ảnh hưởng.
+
+Câu 149 [Dễ]: Thẩm quyền giải quyết việc thuận tình ly hôn thuộc về:
+A. Tòa án nhân dân cấp huyện (hoặc TAND khu vực)
+B. Công an cấp xã
+C. Hội Phụ nữ cấp phường
+D. Văn phòng Thừa phát lại
+Đáp án đúng: A
+Giải thích: Theo Bộ luật Tố tụng dân sự, việc dân sự về thuận tình ly hôn thuộc thẩm quyền giải quyết của Tòa án nhân dân cấp sơ thẩm (TAND cấp huyện / TAND khu vực).
+
+Câu 150 [Trung bình]: Bản án sơ thẩm của Tòa án về ly hôn có hiệu lực ngay lập tức không?
+A. Có hiệu lực ngay tại phiên tòa
+B. Chưa có hiệu lực ngay; các đương sự có quyền kháng cáo trong thời hạn 15 ngày kể từ ngày tuyên án
+C. Chỉ có hiệu lực sau 1 năm thử thách
+D. Có hiệu lực sau khi đăng báo trung ương 3 kỳ
+Đáp án đúng: B
+Giải thích: Theo Bộ luật Tố tụng dân sự, bản án sơ thẩm chưa có hiệu lực pháp luật ngay mà có thời hạn kháng cáo, kháng nghị là 15 ngày kể từ ngày tuyên án (hoặc kể từ ngày nhận bản án đối với đương sự vắng mặt).
+
+--------------------------------------------------------------------------------
+MỤC 7.5. QUAN HỆ GIỮA CHA MẸ VÀ CON CÁI
+--------------------------------------------------------------------------------
+
+Câu 151 [Dễ]: Con sinh ra trong thời kỳ hôn nhân hoặc do người vợ có thai trong thời kỳ đó được xác định là:
+A. Con riêng của người vợ
+B. Con chung của vợ chồng
+C. Con của người đứng tên giấy khai sinh bất kỳ
+D. Con nuôi của người chồng
+Đáp án đúng: B
+Giải thích: Khoản 1 Điều 88 Luật HN&GĐ quy định con sinh ra trong thời kỳ hôn nhân hoặc do người vợ có thai trong thời kỳ đó là con chung của vợ chồng.
+
+Câu 152 [Trung bình]: Con sinh ra trong thời hạn bao nhiêu ngày kể từ ngày chấm dứt hôn nhân được coi là con do người vợ có thai trong thời kỳ hôn nhân?
+A. Trong thời hạn 100 ngày
+B. Trong thời hạn 180 ngày
+C. Trong thời hạn 300 ngày
+D. Trong thời hạn 365 ngày
+Đáp án đúng: C
+Giải thích: Khoản 1 Điều 88 Luật HN&GĐ quy định con sinh ra trong thời hạn 300 ngày kể từ ngày chấm dứt hôn nhân được coi là con do người vợ có thai trong thời kỳ hôn nhân.
+
+Câu 153 [Trung bình]: Con sinh ra trước ngày đăng ký kết hôn và được cha mẹ thừa nhận thì:
+A. Mãi mãi là con ngoài giá thú
+B. Được coi là con chung của vợ chồng
+C. Phải làm thủ tục nhận con nuôi
+D. Bị tước quyền thừa kế tài sản của cha
+Đáp án đúng: B
+Giải thích: Khoản 1 Điều 88 Luật HN&GĐ quy định con sinh ra trước ngày đăng ký kết hôn và được cha mẹ thừa nhận là con chung của vợ chồng.
+
+Câu 154 [Dễ]: Cha, mẹ có nghĩa vụ nuôi dạy, chăm sóc con cái đến khi nào?
+A. Đến khi con đủ 12 tuổi
+B. Đến khi con đủ 18 tuổi (thành niên) hoặc đã thành niên nhưng mất năng lực hành vi dân sự, không có khả năng lao động và không có tài sản để tự nuôi mình
+C. Đến khi con kiếm được việc làm đầu tiên
+D. Đến khi cha mẹ nghỉ hưu
+Đáp án đúng: B
+Giải thích: Điều 69 và Điều 71 Luật HN&GĐ quy định nghĩa vụ chăm sóc, nuôi dưỡng con chưa thành niên, con đã thành niên mất năng lực hành vi dân sự hoặc không có khả năng lao động và không có tài sản tự nuôi mình.
+
+Câu 155 [Dễ]: Cha mẹ có quyền phân biệt đối xử giữa con trai và con gái, con đẻ và con nuôi không?
+A. Được phép ưu tiên con trai hơn con gái
+B. Nghiêm cấm phân biệt đối xử giữa các con
+C. Được phép ưu tiên con đẻ hơn con nuôi trong mọi việc
+D. Tùy thuộc vào phong tục tập quán từng dòng họ
+Đáp án đúng: B
+Giải thích: Khoản 2 Điều 69 Luật HN&GĐ quy định cha mẹ không được phân biệt đối xử giữa các con theo giới tính hoặc theo tình trạng sinh ra (con đẻ, con nuôi, con trong giá thú, ngoài giá thú).
+
+Câu 156 [Trung bình]: Con từ đủ bao nhiêu tuổi trở lên có quyền có tài sản riêng?
+A. Chỉ người từ đủ 18 tuổi mới có tài sản riêng
+B. Mọi độ tuổi; con có quyền có tài sản riêng được thừa kế, tặng cho riêng, thu nhập do lao động của mình...
+C. Chỉ khi đã lập gia đình riêng
+D. Từ đủ 15 tuổi mới được phép có tài sản riêng
+Đáp án đúng: B
+Giải thích: Điều 75 Luật HN&GĐ quy định con có quyền có tài sản riêng. Tài sản riêng của con bao gồm tài sản được thừa kế riêng, được tặng cho riêng, thu nhập do lao động của con, hoa lợi phát sinh...
+
+Câu 157 [Trung bình]: Việc quản lý tài sản riêng của con dưới 15 tuổi hoặc mất năng lực hành vi dân sự do ai thực hiện?
+A. Tòa án nhân dân khu vực quản lý
+B. Do cha mẹ quản lý và có thể giao cho người khác quản lý theo sự thỏa thuận
+C. Ủy ban nhân dân cấp xã giữ hộ
+D. Nhà trường nơi con học tập giữ hộ
+Đáp án đúng: B
+Giải thích: Khoản 1 Điều 76 Luật HN&GĐ quy định tài sản riêng của con dưới 15 tuổi, con mất năng lực hành vi dân sự do cha mẹ quản lý và có thể giao cho người khác quản lý theo thỏa thuận.
+
+Câu 158 [Trung bình]: Con từ đủ bao nhiêu tuổi có quyền tự mình định đoạt tài sản riêng để phục vụ nhu cầu thiết yếu hàng ngày?
+A. Từ đủ 9 tuổi đến dưới 15 tuổi
+B. Từ đủ 15 tuổi đến dưới 18 tuổi
+C. Chỉ người từ đủ 20 tuổi trở lên
+D. Không có độ tuổi nào, luôn phải có chữ ký của cha mẹ
+Đáp án đúng: B
+Giải thích: Khoản 1 Điều 77 Luật HN&GĐ quy định con từ đủ 15 tuổi đến dưới 18 tuổi có quyền tự mình định đoạt tài sản riêng, trừ trường hợp tài sản là bất động sản hoặc động sản phải đăng ký quyền sở hữu.
+
+Câu 159 [Dễ]: Con đã thành niên có nghĩa vụ phụng dưỡng cha mẹ khi nào?
+A. Khi cha mẹ già yếu, ốm đau, không có khả năng lao động và không có tài sản tự nuôi mình
+B. Chỉ khi cha mẹ để lại di chúc chia tài sản cho mình
+C. Chỉ đối với con trai cả trong nhà
+D. Không có nghĩa vụ pháp lý, chỉ là tự nguyện
+Đáp án đúng: A
+Giải thích: Điều 70 và Điều 71 Luật HN&GĐ quy định con đã thành niên có nghĩa vụ phụng dưỡng, chăm sóc cha mẹ khi cha mẹ mất khả năng lao động hoặc khó khăn túng thiếu.
+
+Câu 160 [Trung bình]: Người bị Tòa án hạn chế quyền của cha, mẹ đối với con chưa thành niên trong trường hợp nào?
+A. Bị kết án về một trong các tội xâm phạm tính mạng, sức khỏe, nhân phẩm, danh dự của con với lỗi cố ý
+B. Đi công tác xa nhà dài ngày
+C. Bị mất việc làm do công ty giải thể
+D. Không đồng ý cho con kết hôn sớm
+Đáp án đúng: A
+Giải thích: Điều 85 Luật HN&GĐ quy định cha mẹ bị hạn chế quyền đối với con khi bị kết án về tội xâm phạm tính mạng, sức khỏe con với lỗi cố ý; vi phạm nghiêm trọng nghĩa vụ nuôi dưỡng; phá tán tài sản của con; có lối sống đồi trụy...
+
+Câu 161 [Trung bình]: Thời hạn hạn chế quyền của cha, mẹ đối với con chưa thành niên theo quyết định của Tòa án là:
+A. Vĩnh viễn suốt đời
+B. Từ 01 năm đến 05 năm
+C. Tối đa 6 tháng
+D. Đến khi con đủ 30 tuổi
+Đáp án đúng: B
+Giải thích: Khoản 1 Điều 85 Luật HN&GĐ quy định Tòa án ra quyết định hạn chế quyền của cha, mẹ đối với con chưa thành niên trong thời hạn từ 01 năm đến 05 năm.
+
+Câu 162 [Dễ]: Người cha, mẹ bị hạn chế quyền đối với con chưa thành niên có phải tiếp tục thực hiện nghĩa vụ cấp dưỡng nuôi con không?
+A. Được miễn toàn bộ nghĩa vụ cấp dưỡng
+B. Vẫn phải thực hiện nghĩa vụ cấp dưỡng nuôi con theo quy định
+C. Chỉ phải nộp 10% tiền học phí
+D. Nhà nước chi trả thay hoàn toàn
+Đáp án đúng: B
+Giải thích: Khoản 2 Điều 87 Luật HN&GĐ quy định việc hạn chế quyền của cha mẹ không làm chấm dứt nghĩa vụ cấp dưỡng nuôi con của người đó.
+
+Câu 163 [Trung bình]: Cơ quan, tổ chức nào sau đây có quyền yêu cầu Tòa án hạn chế quyền của cha, mẹ đối với con chưa thành niên?
+A. Hội Liên hiệp Phụ nữ; Cơ quan quản lý nhà nước về trẻ em; Đoàn Thanh niên
+B. Tổ dân phố hoặc hội đồng hương
+C. Bất kỳ cá nhân nào trong xã hội
+D. Chỉ có Viện Kiểm sát nhân dân cấp cao
+Đáp án đúng: A
+Giải thích: Điều 86 Luật HN&GĐ quy định người thân thích, cơ quan quản lý nhà nước về gia đình, trẻ em, Hội liên hiệp phụ nữ có quyền yêu cầu Tòa án hạn chế quyền của cha mẹ đối với con chưa thành niên.
+
+Câu 164 [Dễ]: Theo Luật Nuôi con nuôi 2010, người nhận con nuôi phải hơn con nuôi bao nhiêu tuổi?
+A. Hơn từ 10 tuổi trở lên
+B. Hơn từ 20 tuổi trở lên (trừ trường hợp cha dượng nhận con riêng của vợ, mẹ kế nhận con riêng của chồng hoặc cô cậu dì chú bác nhận cháu)
+C. Hơn từ 30 tuổi trở lên
+D. Hơn từ 5 tuổi trở lên
+Đáp án đúng: B
+Giải thích: Khoản 1 Điều 14 Luật Nuôi con nuôi 2010 quy định người nhận con nuôi phải hơn người được nhận làm con nuôi từ 20 tuổi trở lên, trừ trường hợp cha dượng, mẹ kế hoặc cô cậu ruột nhận con nuôi.
+
+Câu 165 [Trung bình]: Một người độc thân có được nhận con nuôi không?
+A. Tuyệt đối không được, chỉ có cặp vợ chồng mới được nhận
+B. Được nhận con nuôi nếu đáp ứng đủ các điều kiện do Luật Nuôi con nuôi quy định
+C. Chỉ được nhận con nuôi là người cùng giới tính
+D. Chỉ được nhận con nuôi sau 50 tuổi
+Đáp án đúng: B
+Giải thích: Luật Nuôi con nuôi 2010 cho phép người độc thân có đủ năng lực hành vi dân sự, có tư cách đạo đức, có điều kiện kinh tế, sức khỏe và hơn con nuôi từ 20 tuổi trở lên được nhận con nuôi.
+
+Câu 166 [Dễ]: Một đứa trẻ có thể làm con nuôi của hai người độc thân cùng một lúc được không?
+A. Được phép nếu hai người đó là bạn thân
+B. Không, chỉ một người độc thân hoặc hai người là vợ chồng mới được cùng nhận một người làm con nuôi
+C. Được phép nếu đứa trẻ đồng ý
+D. Được phép nếu UBND cấp xã cho phép
+Đáp án đúng: B
+Giải thích: Khoản 3 Điều 8 Luật Nuôi con nuôi 2010 quy định một người chỉ có thể làm con nuôi của một người độc thân hoặc của cả hai người là vợ chồng.
+
+Câu 167 [Trung bình]: Khi nhận trẻ em từ đủ bao nhiêu tuổi làm con nuôi thì phải được sự đồng ý của chính đứa trẻ đó?
+A. Từ đủ 7 tuổi trở lên
+B. Từ đủ 9 tuổi trở lên
+C. Từ đủ 12 tuổi trở lên
+D. Từ đủ 15 tuổi trở lên
+Đáp án đúng: B
+Giải thích: Khoản 1 Điều 21 Luật Nuôi con nuôi 2010 quy định việc nhận con nuôi đối với trẻ em từ đủ 9 tuổi trở lên phải được sự đồng ý của trẻ em đó.
+
+Câu 168 [Dễ]: Quan hệ giữa con nuôi và cha mẹ nuôi sau khi đăng ký việc nuôi con nuôi hợp pháp:
+A. Chỉ mang tính chất danh nghĩa xã hội
+B. Phát sinh đầy đủ quyền, nghĩa vụ giữa cha mẹ và con như đối với con đẻ
+C. Con nuôi không có quyền thừa kế tài sản của cha mẹ nuôi
+D. Cha mẹ nuôi không có quyền đại diện cho con nuôi
+Đáp án đúng: B
+Giải thích: Khoản 1 Điều 24 Luật Nuôi con nuôi 2010 khẳng định kể từ ngày giao nhận con nuôi, giữa cha mẹ nuôi và con nuôi phát sinh đầy đủ quyền, nghĩa vụ giữa cha mẹ và con theo quy định của pháp luật hôn nhân gia đình.
+
+Câu 169 [Trung bình]: Con nuôi có được quyền thừa kế di sản của cha mẹ đẻ của mình không?
+A. Bị mất quyền thừa kế của cha mẹ đẻ ngay khi làm con nuôi
+B. Vẫn có quyền thừa kế di sản của cha mẹ đẻ theo quy định của Bộ luật Dân sự
+C. Chỉ được hưởng 10% di sản của cha mẹ đẻ
+D. Phải từ bỏ quyền thừa kế bằng văn bản công chứng
+Đáp án đúng: B
+Giải thích: Bộ luật Dân sự quy định con nuôi vẫn thuộc hàng thừa kế thứ nhất của cha mẹ đẻ và ngược lại; việc làm con nuôi không làm chấm dứt quan hệ huyết thống về quyền thừa kế đối với cha mẹ đẻ.
+
+Câu 170 [Vận dụng]: Anh Nam (28 tuổi, độc thân) muốn nhận cháu gái Hoa (12 tuổi, là con của chị gái ruột đã qua đời) làm con nuôi. Anh Nam có đủ điều kiện về tuổi so với cháu Hoa không?
+A. Không, vì anh Nam chưa hơn cháu 20 tuổi
+B. Được, vì anh Nam là cậu ruột nên không áp dụng điều kiện phải hơn con nuôi từ 20 tuổi trở lên
+C. Không, người độc thân không được nhận cháu làm con nuôi
+D. Chỉ được nhận khi anh Nam đã đủ 40 tuổi
+Đáp án đúng: B
+Giải thích: Điểm b Khoản 2 Điều 14 Luật Nuôi con nuôi 2010 quy định trường hợp cô, dì, chú, bác, cậu ruột nhận cháu làm con nuôi thì không áp dụng điều kiện phải hơn con nuôi từ 20 tuổi trở lên.
+
+Câu 171 [Dễ]: Theo Luật Hôn nhân và Gia đình 2014, mang thai hộ vì mục đích thương mại là hành vi:
+A. Được khuyến khích phát triển
+B. Bị nghiêm cấm tuyệt đối
+C. Được thực hiện nếu có hợp đồng công chứng
+D. Chỉ áp dụng với người nước ngoài
+Đáp án đúng: B
+Giải thích: Điểm g Khoản 2 Điều 5 Luật HN&GĐ quy định nghiêm cấm hành vi thực hiện kỹ thuật hỗ trợ sinh sản vì mục đích thương mại, mang thai hộ vì mục đích thương mại.
+
+Câu 172 [Trung bình]: Mang thai hộ vì mục đích nhân đạo chỉ được áp dụng đối với cặp vợ chồng nào?
+A. Cặp vợ chồng có người vợ được cơ sở y tế xác nhận không thể mang thai và sinh con ngay cả khi áp dụng kỹ thuật hỗ trợ sinh sản; chưa có con chung
+B. Cặp vợ chồng quá bận rộn công tác không muốn mang thai
+C. Cặp vợ chồng sợ sinh con làm xấu vóc dáng
+D. Cặp vợ chồng muốn sinh con theo giới tính định trước
+Đáp án đúng: A
+Giải thích: Điều 95 Luật HN&GĐ quy định điều kiện mang thai hộ vì mục đích nhân đạo: người vợ phải có xác nhận không thể mang thai và sinh con, chưa có con chung, đã được tư vấn y tế pháp lý.
+
+Câu 173 [Trung bình]: Người được nhờ mang thai hộ vì mục đích nhân đạo phải là:
+A. Bất kỳ phụ nữ nào đồng ý nhận tiền thù lao
+B. Người thân thích cùng hàng của bên vợ hoặc bên chồng nhờ mang thai hộ; đã từng sinh con và chỉ được mang thai hộ một lần
+C. Phụ nữ dưới 18 tuổi
+D. Người nước ngoài cư trú bất hợp pháp
+Đáp án đúng: B
+Giải thích: Khoản 3 Điều 95 Luật HN&GĐ quy định người mang thai hộ phải là người thân thích cùng hàng của vợ hoặc chồng, đã từng sinh con và chỉ được mang thai hộ một lần, ở độ tuổi phù hợp.
+
+Câu 174 [Dễ]: Con sinh ra trong trường hợp mang thai hộ vì mục đích nhân đạo là con của ai kể từ thời điểm thụ thai?
+A. Là con của người phụ nữ mang thai hộ
+B. Là con của cặp vợ chồng nhờ mang thai hộ
+C. Là con chung của cả người mang thai hộ và người nhờ
+D. Tòa án nhân dân khu vực sẽ quyết định sau khi bé 1 tuổi
+Đáp án đúng: B
+Giải thích: Điều 94 Luật HN&GĐ khẳng định con sinh ra trong trường hợp mang thai hộ vì mục đích nhân đạo là con chung của vợ chồng nhờ mang thai hộ kể từ thời điểm con được sinh ra.
+
+Câu 175 [Trung bình]: Thỏa thuận về mang thai hộ vì mục đích nhân đạo phải được lập thành:
+A. Tin nhắn điện thoại hoặc ghi âm
+B. Văn bản có công chứng
+C. Lời nói trước sự chứng kiến của 2 người hàng xóm
+D. Giấy viết tay không cần xác thực
+Đáp án đúng: B
+Giải thích: Khoản 1 Điều 96 Luật HN&GĐ quy định thỏa thuận về mang thai hộ vì mục đích nhân đạo phải được lập thành văn bản có công chứng.
+
+Câu 176 [Dễ]: Cơ quan có thẩm quyền đăng ký nhận cha, mẹ, con mà không có tranh chấp là:
+A. Ủy ban nhân dân cấp xã
+B. Tòa án nhân dân tối cao
+C. Hội đồng nhân dân cấp tỉnh
+D. Viện Kiểm sát nhân dân khu vực
+Đáp án đúng: A
+Giải thích: Theo Luật Hộ tịch 2014, UBND cấp xã là cơ quan có thẩm quyền đăng ký nhận cha, mẹ, con giữa công dân Việt Nam cư trú ở trong nước không có tranh chấp.
+
+Câu 177 [Trung bình]: Trường hợp có tranh chấp về việc nhận cha, mẹ, con thì thẩm quyền giải quyết thuộc về cơ quan nào?
+A. Ủy ban nhân dân cấp huyện
+B. Tòa án nhân dân
+C. Công an cấp tỉnh
+D. Trung tâm Trọng tài Thương mại
+Đáp án đúng: B
+Giải thích: Điều 101 Luật HN&GĐ quy định Tòa án có thẩm quyền giải quyết việc xác định cha, mẹ, con trong trường hợp có tranh chấp hoặc người được yêu cầu đã chết.
+
+Câu 178 [Dễ]: Cha, mẹ có quyền chiếm đoạt tiền mừng tuổi hoặc tiền lương của con đã thành niên không?
+A. Có quyền toàn quyền vì công sinh thành dưỡng dục
+B. Không, tài sản của con đã thành niên thuộc sở hữu riêng của con
+C. Được quyền nếu cha mẹ là chủ hộ khẩu
+D. Được quyền nếu con chưa lấy vợ/chồng
+Đáp án đúng: B
+Giải thích: Khoản 1 Điều 75 Luật HN&GĐ quy định tài sản riêng của con thuộc sở hữu của con; cha mẹ không có quyền chiếm đoạt hoặc định đoạt trái ý muốn của con đã thành niên.
+
+Câu 179 [Trung bình]: Trường hợp cha mẹ không trực tiếp nuôi con thì có quyền đại diện cho con trước pháp luật không?
+A. Mất hoàn toàn tư cách làm cha mẹ
+B. Vẫn là người đại diện theo pháp luật của con chưa thành niên, trừ trường hợp con đã có người giám hộ hoặc bị hạn chế quyền đại diện theo bản án của Tòa án
+C. Chỉ được đại diện khi đóng đủ tiền bảo hiểm
+D. Chỉ được đại diện cho con khi con đạt giải học sinh giỏi
+Đáp án đúng: B
+Giải thích: Điều 73 Luật HN&GĐ quy định cha mẹ là người đại diện theo pháp luật của con chưa thành niên, trừ trường hợp con có người giám hộ hoặc bị hạn chế quyền theo quy định của pháp luật.
+
+Câu 180 [Dễ]: Quyền và nghĩa vụ của cha dượng, mẹ kế đối với con riêng của bên kia sống chung với mình:
+A. Không có bất kỳ quyền và nghĩa vụ nào, chỉ coi như khách trọ
+B. Có quyền và nghĩa vụ trông nom, nuôi dưỡng, chăm sóc, giáo dục con riêng cùng sống chung như đối với con đẻ
+C. Được quyền đánh đập để răn đe
+D. Được quyền bán tài sản riêng của con riêng
+Đáp án đúng: B
+Giải thích: Điều 79 Luật HN&GĐ quy định cha dượng, mẹ kế có quyền và nghĩa vụ trông nom, nuôi dưỡng, chăm sóc, giáo dục con riêng của vợ hoặc chồng cùng sống chung với mình theo quy định.
+
+--------------------------------------------------------------------------------
+MỤC 7.6. QUAN HỆ GIỮA CÁC THÀNH VIÊN KHÁC TRONG GIA ĐÌNH VÀ YẾU TỐ NƯỚC NGOÀI
+--------------------------------------------------------------------------------
+
+Câu 181 [Dễ]: Giữa ông bà nội, ông bà ngoại và cháu có nghĩa vụ gì khi cháu chưa thành niên hoặc đã thành niên mất năng lực hành vi dân sự mồ côi cả cha mẹ?
+A. Chỉ có nghĩa vụ thăm nom vào ngày giỗ
+B. Có nghĩa vụ trông nom, chăm sóc, giáo dục và nuôi dưỡng cháu nếu cháu không có người nuôi dưỡng
+C. Không có nghĩa vụ pháp lý nào
+D. Chỉ có nghĩa vụ nếu cháu có cùng họ nội
+Đáp án đúng: B
+Giải thích: Điều 104 Luật HN&GĐ quy định ông bà nội, ông bà ngoại có nghĩa vụ trông nom, chăm sóc, giáo dục cháu, nuôi dưỡng cháu chưa thành niên hoặc đã thành niên mất năng lực hành vi dân sự nếu cháu không có người nuôi dưỡng.
+
+Câu 182 [Dễ]: Ngược lại, cháu đã thành niên có nghĩa vụ gì đối với ông bà nội, ông bà ngoại khi ông bà không có người chăm sóc?
+A. Có nghĩa vụ phụng dưỡng, chăm sóc ông bà
+B. Không có nghĩa vụ vì đã có nhà dưỡng lão
+C. Chỉ phải đến viếng khi ông bà mất
+D. Chỉ có nghĩa vụ nếu được ông bà cho nhà đất
+Đáp án đúng: A
+Giải thích: Khoản 2 Điều 104 Luật HN&GĐ quy định cháu đã thành niên có nghĩa vụ phụng dưỡng ông bà nội, ông bà ngoại trong trường hợp ông bà không có người phụng dưỡng.
+
+Câu 183 [Trung bình]: Anh, chị, em ruột có nghĩa vụ nuôi dưỡng, đùm bọc lẫn nhau trong trường hợp nào?
+A. Trong mọi trường hợp khi một bên yêu cầu
+B. Khi không còn cha mẹ hoặc cha mẹ không có điều kiện trông nom, nuôi dưỡng, giáo dục con
+C. Chỉ khi các bên ký cam kết tại Ủy ban nhân dân
+D. Chỉ áp dụng đối với anh chị em cùng cha cùng mẹ
+Đáp án đúng: B
+Giải thích: Điều 105 Luật HN&GĐ quy định anh, chị, em có nghĩa vụ thương yêu, chăm sóc, giúp đỡ nhau; có nghĩa vụ nuôi dưỡng nhau trong trường hợp không còn cha mẹ hoặc cha mẹ không có điều kiện.
+
+Câu 184 [Trung bình]: Cô, dì, chú, bác, cậu ruột và cháu ruột có nghĩa vụ nuôi dưỡng nhau khi nào?
+A. Khi cháu không còn cha mẹ và không còn người nuôi dưỡng theo luật định
+B. Trong mọi dịp nghỉ hè
+C. Chỉ khi có chỉ thị của Chủ tịch Ủy ban nhân dân cấp tỉnh
+D. Không có quy định nào về nghĩa vụ giữa cô dì chú bác và cháu
+Đáp án đúng: A
+Giải thích: Điều 106 Luật HN&GĐ quy định cô, dì, chú, bác, cậu ruột và cháu ruột có nghĩa vụ thương yêu, giúp đỡ, nuôi dưỡng nhau trong trường hợp người đó không còn cha mẹ, con, ông bà, anh chị em.
+
+Câu 185 [Dễ]: Quan hệ hôn nhân và gia đình có yếu tố nước ngoài là quan hệ mà:
+A. Ít nhất một bên tham gia là người nước ngoài, người Việt Nam định cư ở nước ngoài hoặc sự kiện pháp lý xảy ra ở nước ngoài
+B. Cả hai bên đều là công dân Việt Nam sinh sống tại Hà Nội
+C. Hai bên kết hôn và mua ô tô nhập khẩu từ nước ngoài
+D. Đám cưới có mời khách nước ngoài tham dự
+Đáp án đúng: A
+Giải thích: Khoản 25 Điều 3 Luật HN&GĐ quy định quan hệ hôn nhân gia đình có yếu tố nước ngoài là quan hệ có ít nhất một bên là người nước ngoài, người Việt Nam định cư ở nước ngoài hoặc căn cứ xác lập ở nước ngoài.
+
+Câu 186 [Trung bình]: Thẩm quyền đăng ký kết hôn có yếu tố nước ngoài tại Việt Nam thuộc cơ quan nào?
+A. Ủy ban nhân dân cấp huyện nơi cư trú của công dân Việt Nam
+B. Bộ Ngoại giao
+C. Sứ quán nước ngoài tại Việt Nam
+D. Tòa án nhân dân tối cao
+Đáp án đúng: A
+Giải thích: Theo Luật Hộ tịch 2014, UBND cấp huyện (nay là chính quyền cấp huyện) nơi công dân Việt Nam cư trú có thẩm quyền đăng ký kết hôn có yếu tố nước ngoài.
+
+Câu 187 [Trung bình]: Trong việc kết hôn giữa công dân Việt Nam với người nước ngoài, mỗi bên phải tuân theo:
+A. Pháp luật của nước ngoài hoàn toàn
+B. Pháp luật của nước mình về điều kiện kết hôn; nếu tiến hành tại cơ quan nhà nước có thẩm quyền của Việt Nam thì người nước ngoài còn phải tuân theo quy định của Luật này về điều kiện kết hôn
+C. Chỉ tuân theo điều lệ tôn giáo của bên nước ngoài
+D. Pháp luật của nước thứ ba do hai bên chọn
+Đáp án đúng: B
+Giải thích: Khoản 1 Điều 126 Luật HN&GĐ quy định trong việc kết hôn giữa công dân Việt Nam với người nước ngoài, mỗi bên phải tuân theo pháp luật nước mình về điều kiện kết hôn; tại cơ quan Việt Nam thì người nước ngoài phải tuân theo điều kiện kết hôn của Việt Nam.
+
+Câu 188 [Dễ]: Nhà nước Cộng hòa xã hội chủ nghĩa Việt Nam bảo hộ quyền và lợi ích hợp pháp của ai trong quan hệ hôn nhân có yếu tố nước ngoài?
+A. Chỉ bảo hộ người nước ngoài giàu có
+B. Công dân Việt Nam, người nước ngoài, phụ nữ và trẻ em phù hợp với pháp luật Việt Nam và điều ước quốc tế
+C. Chỉ bảo hộ người có quốc tịch kép
+D. Không bảo hộ bất kỳ ai
+Đáp án đúng: B
+Giải thích: Điều 121 Luật HN&GĐ khẳng định Nhà nước CHXHCN Việt Nam bảo hộ quyền, lợi ích hợp pháp của công dân Việt Nam ở nước ngoài, người nước ngoài tại Việt Nam trong quan hệ hôn nhân gia đình.
+
+Câu 189 [Trung bình]: Việc ly hôn giữa công dân Việt Nam với người nước ngoài tại cơ quan có thẩm quyền của Việt Nam được giải quyết theo quy định của:
+A. Luật Hôn nhân và Gia đình Việt Nam
+B. Luật của nước mà người nước ngoài mang quốc tịch
+C. Luật bang New York của Hoa Kỳ
+D. Tập quán thương mại quốc tế Incoterms
+Đáp án đúng: A
+Giải thích: Khoản 1 Điều 127 Luật HN&GĐ quy định việc ly hôn giữa công dân Việt Nam với người nước ngoài giải quyết tại cơ quan có thẩm quyền của Việt Nam theo quy định của Luật này.
+
+Câu 190 [Trung bình]: Trong trường hợp bên là công dân Việt Nam không thường trú tại Việt Nam vào thời điểm yêu cầu ly hôn thì việc ly hôn được giải quyết theo:
+A. Pháp luật của nước nơi vợ chồng có nơi thường trú chung
+B. Luật của Tòa án Trọng tài Quốc tế La Haye
+C. Bị từ chối giải quyết vĩnh viễn
+D. Luật của nước sở tại do bên nam lựa chọn
+Đáp án đúng: A
+Giải thích: Khoản 2 Điều 127 Luật HN&GĐ quy định nếu công dân Việt Nam không thường trú tại Việt Nam thì giải quyết theo pháp luật của nước nơi vợ chồng cùng thường trú.
+
+Câu 191 [Dễ]: Áp dụng tập quán tốt đẹp trong hôn nhân và gia đình được thực hiện theo nguyên tắc nào?
+A. Tập quán đứng trên luật viết
+B. Vận dụng tập quán tốt đẹp không trái với các nguyên tắc cơ bản của pháp luật hôn nhân và gia đình
+C. Tập quán của dòng họ nào thì dòng họ đó toàn quyền tự xử
+D. Áp dụng mọi tập quán kể cả hôn nhân cận huyết
+Đáp án đúng: B
+Giải thích: Điều 7 Luật HN&GĐ quy định trong trường hợp pháp luật không quy định và các bên không có thỏa thuận thì tập quán tốt đẹp thể hiện bản sắc được áp dụng nhưng không trái nguyên tắc cơ bản của Luật này.
+
+Câu 192 [Trung bình]: Phong tục tập quán lạc hậu nào sau đây bị nghiêm cấm trong hôn nhân gia đình?
+A. Tục thách cưới cao mang tính chất gả bán, cướp vợ để cưỡng ép kết hôn
+B. Tổ chức liên hoan mừng đám cưới ấm cúng
+C. Mặc trang phục truyền thống trong ngày cưới
+D. Mời họ hàng đến chúc phúc
+Đáp án đúng: A
+Giải thích: Nghị định hướng dẫn thi hành Luật HN&GĐ quy định danh mục các tập quán lạc hậu cần xóa bỏ và nghiêm cấm, bao gồm kết hôn trước tuổi, thách cưới gả bán, cướp vợ để ép kết hôn, đa thê...
+
+Câu 193 [Dễ]: Theo Luật Hôn nhân và Gia đình 2014, kết hôn giữa những người cùng giới tính:
+A. Được Nhà nước cấp đăng ký kết hôn
+B. Nhà nước không thừa nhận hôn nhân giữa những người cùng giới tính
+C. Bị phạt tù từ 2 đến 5 năm
+D. Bị tịch thu toàn bộ tài sản
+Đáp án đúng: B
+Giải thích: Khoản 2 Điều 8 Luật HN&GĐ quy định: Nhà nước không thừa nhận hôn nhân giữa những người cùng giới tính (không cấm tổ chức đám cưới nhưng cơ quan nhà nước không cấp đăng ký kết hôn).
+
+Câu 194 [Vận dụng]: Anh David (quốc tịch Pháp) và Chị Lan (quốc tịch Việt Nam) kết hôn tại Pháp theo đúng pháp luật Pháp. Khi về Việt Nam sinh sống, hai người muốn quan hệ hôn nhân được công nhận tại Việt Nam thì cần làm gì?
+A. Phải tổ chức đám cưới lại tại Việt Nam
+B. Làm thủ tục ghi chú kết hôn tại cơ quan đăng ký hộ tịch có thẩm quyền của Việt Nam
+C. Nộp phạt vi phạm hành chính
+D. Xin ý kiến của Hội đồng thẩm phán Tòa án nhân dân tối cao
+Đáp án đúng: B
+Giải thích: Theo Luật Hộ tịch và Nghị định 123/2015/NĐ-CP, việc kết hôn của công dân Việt Nam đã được giải quyết tại cơ quan có thẩm quyền của nước ngoài phải làm thủ tục ghi chú vào sổ hộ tịch tại Việt Nam để được công nhận.
+
+Câu 195 [Trung bình]: Nghĩa vụ cấp dưỡng giữa các thành viên trong gia đình chấm dứt trong trường hợp nào sau đây?
+A. Người được cấp dưỡng đã thành niên và có khả năng lao động tự nuôi mình
+B. Người cấp dưỡng đổi số điện thoại
+C. Người được cấp dưỡng chuyển trường học
+D. Trời mưa bão
+Đáp án đúng: A
+Giải thích: Điều 118 Luật HN&GĐ quy định nghĩa vụ cấp dưỡng chấm dứt khi người được cấp dưỡng đã thành niên và có khả năng lao động, hoặc người được cấp dưỡng kết hôn, người được cấp dưỡng/cấp dưỡng chết...
+
+Câu 196 [Dễ]: Hành vi nào sau đây bị coi là vi phạm chế độ hôn nhân một vợ, một chồng?
+A. Người đang có vợ, có chồng mà kết hôn hoặc chung sống như vợ chồng với người khác
+B. Người độc thân đi ăn tối cùng bạn bè
+C. Vợ chồng cùng nhau đi du lịch
+D. Vợ chồng thỏa thuận mở tài khoản chung
+Đáp án đúng: A
+Giải thích: Điểm c Khoản 2 Điều 5 Luật HN&GĐ nghiêm cấm người đang có vợ, có chồng mà kết hôn hoặc chung sống như vợ chồng với người khác hoặc chưa có vợ/chồng mà kết hôn/chung sống với người đang có vợ/chồng.
+
+Câu 197 [Trung bình]: Xử lý hành vi vi phạm chế độ một vợ một chồng theo Bộ luật Hình sự 2015 (sửa đổi 2017) được quy định tại tội danh nào?
+A. Tội lừa đảo chiếm đoạt tài sản
+B. Tội vi phạm chế độ một vợ, một chồng (Điều 182)
+C. Tội gây rối trật tự công cộng
+D. Tội làm nhục người khác
+Đáp án đúng: B
+Giải thích: Điều 182 Bộ luật Hình sự 2015 quy định Tội vi phạm chế độ một vợ, một chồng, áp dụng hình phạt cảnh cáo, phạt cải tạo không giam giữ hoặc phạt tù đối với người vi phạm làm cho quan hệ hôn nhân của một/hai bên dẫn đến ly hôn hoặc đã bị xử phạt hành chính mà còn vi phạm.
+
+Câu 198 [Dễ]: Tuổi kết hôn theo Luật Hôn nhân và Gia đình 2014 là:
+A. Nam từ đủ 20 tuổi trở lên, nữ từ đủ 18 tuổi trở lên
+B. Nam bước sang tuổi 20, nữ bước sang tuổi 18
+C. Nam đủ 18 tuổi, nữ đủ 16 tuổi
+D. Nam nữ đều phải từ đủ 22 tuổi trở lên
+Đáp án đúng: A
+Giải thích: Điểm a Khoản 1 Điều 8 Luật HN&GĐ quy định độ tuổi kết hôn: Nam từ đủ 20 tuổi trở lên, nữ từ đủ 18 tuổi trở lên (tính theo ngày tháng năm sinh chính xác).
+
+Câu 199 [Trung bình]: Ai sau đây KHÔNG có quyền yêu cầu ly hôn thay cho người vợ/chồng bị bệnh tâm thần?
+A. Cha, mẹ của người bị bệnh
+B. Người thân thích khác của người bị bệnh
+C. Người hàng xóm cùng tổ dân phố
+D. Viện Kiểm sát có thẩm quyền
+Đáp án đúng: C
+Giải thích: Khoản 2 Điều 51 Luật HN&GĐ chỉ cho phép cha, mẹ, người thân thích khác yêu cầu Tòa án giải quyết ly hôn khi một bên vợ, chồng do bị bệnh tâm thần hoặc mắc bệnh khác mà không thể nhận thức, làm chủ hành vi, đồng thời là nạn nhân của bạo lực gia đình.
+
+Câu 200 [Vận dụng]: Chị Mai và Anh Tuấn kết hôn năm 2018. Năm 2021, bố đẻ của Chị Mai lập di chúc tặng riêng cho Chị Mai một căn nhà phố. Năm 2024, Chị Mai bán căn nhà này được 5 tỷ đồng và gửi tiết kiệm ngân hàng mang tên Chị Mai. Khi ly hôn năm 2026, số tiền 5 tỷ đồng này được giải quyết thế nào?
+A. Chia đôi cho Anh Tuấn 2,5 tỷ đồng
+B. Thuộc sở hữu riêng của Chị Mai vì có nguồn gốc từ tài sản được tặng cho riêng và không có thỏa thuận nhập vào tài sản chung
+C. Tòa án tịch thu vì không báo cho chồng biết khi bán nhà
+D. Chuyển toàn bộ cho các con thừa kế
+Đáp án đúng: B
+Giải thích: Theo Điều 43 Luật HN&GĐ, tài sản tặng cho riêng là tài sản riêng; theo Điều 40 và nguyên tắc bảo toàn tài sản, số tiền thu được từ việc bán tài sản riêng gửi tiết kiệm đứng tên riêng vẫn là tài sản riêng của Chị Mai, trừ trường hợp có thỏa thuận nhập vào tài sản chung.
+
+================================================================================
+HẾT NGÂN HÀNG CÂU HỎI CHƯƠNG 7
+================================================================================

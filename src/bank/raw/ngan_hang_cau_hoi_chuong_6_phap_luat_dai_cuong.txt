@@ -1,0 +1,1691 @@
+================================================================================
+NGÂN HÀNG CÂU HỎI TRẮC NGHIỆM MÔN PHÁP LUẬT ĐẠI CƯƠNG
+CHƯƠNG 6: LUẬT HÌNH SỰ
+(Dành cho sinh viên đại học không chuyên luật)
+Cập nhật quy định pháp luật hiện hành tính đến năm 2026 (Mô hình chính quyền địa phương 2 cấp và Tòa án nhân dân khu vực)
+================================================================================
+
+CẤU TRÚC VÀ PHÂN BỔ CÂU HỎI:
+- Tổng số câu hỏi: 200 câu trắc nghiệm (mỗi câu 4 phương án A, B, C, D, 1 đáp án đúng).
+- Mức độ phân bổ:
+  + Dễ (Nhận biết): 62 câu
+  + Trung bình (Thông hiểu): 61 câu
+  + Vận dụng: 77 câu
+- Nội dung bao gồm:
+  6.1. KHÁI QUÁT VỀ LUẬT HÌNH SỰ VÀ TỘI PHẠM (70 câu)
+       6.1.1. Khái niệm, nhiệm vụ và các nguyên tắc cơ bản của Luật Hình sự (15 câu: Q1 - Q15)
+       6.1.2. Khái niệm, đặc điểm và Phân loại Tội phạm (25 câu: Q16 - Q40)
+       6.1.3. Cấu thành tội phạm (20 câu: Q41 - Q60)
+       6.1.4. Các giai đoạn thực hiện tội phạm và Đồng phạm (10 câu: Q61 - Q70)
+  6.2. TRÁCH NHIỆM HÌNH SỰ, HÌNH PHẠT VÀ CÁC BIỆN PHÁP TƯ PHÁP (65 câu)
+       6.2.1. Khái niệm Trách nhiệm hình sự và Tuổi chịu trách nhiệm hình sự (15 câu: Q71 - Q85)
+       6.2.2. Các trường hợp loại trừ trách nhiệm hình sự (20 câu: Q86 - Q105)
+       6.2.3. Khái niệm, mục đích và Hệ thống hình phạt (20 câu: Q106 - Q125)
+       6.2.4. Quyết định hình phạt, Miễn, Giảm, Án treo và Xóa án tích (10 câu: Q126 - Q135)
+  6.3. CÁC TỘI PHẠM CỤ THỂ VÀ TỐ TỤNG HÌNH SỰ (65 câu)
+       6.3.1. Các tội xâm phạm tính mạng, sức khỏe, nhân phẩm, danh dự (15 câu: Q136 - Q150)
+       6.3.2. Các tội xâm phạm sở hữu (15 câu: Q151 - Q165)
+       6.3.3. Các tội xâm phạm trật tự quản lý kinh tế, chức vụ và tham nhũng (15 câu: Q166 - Q180)
+       6.3.4. Căn bản về Tố tụng hình sự, thẩm quyền xét xử của Tòa án nhân dân khu vực và TAND cấp tỉnh (20 câu: Q181 - Q200)
+
+================================================================================
+
+
+--------------------------------------------------------------------------------
+MỤC 6.1.1. KHÁI NIỆM, NHIỆM VỤ VÀ CÁC NGUYÊN TẮC CƠ BẢN CỦA LUẬT HÌNH SỰ
+--------------------------------------------------------------------------------
+
+Câu 1 [Dễ]: Luật Hình sự Việt Nam là một ngành luật độc lập trong hệ thống pháp luật Việt Nam, bao gồm hệ thống các quy phạm pháp luật do cơ quan nào sau đây ban hành?
+A. Quốc hội
+B. Viện kiểm sát nhân dân tối cao
+C. Tòa án nhân dân khu vực
+D. Ủy ban nhân dân cấp tỉnh
+Đáp án đúng: A
+Giải thích: Theo Hiến pháp 2013 và Luật Ban hành văn bản quy phạm pháp luật, Bộ luật Hình sự là văn bản luật do Quốc hội - cơ quan quyền lực nhà nước cao nhất - ban hành.
+
+Câu 2 [Dễ]: Văn bản quy phạm pháp luật duy nhất quy định về tội phạm và hình phạt trong hệ thống pháp luật Việt Nam hiện nay là văn bản nào?
+A. Bộ luật Hình sự 2015 (sửa đổi, bổ sung 2017)
+B. Quy chế làm việc của Tòa án nhân dân khu vực
+C. Nghị định xử phạt vi phạm hành chính của Chính phủ
+D. Quyết định của Chủ tịch Ủy ban nhân dân cấp tỉnh
+Đáp án đúng: A
+Giải thích: Theo Điều 2 Bộ luật Hình sự 2015 (sửa đổi 2017), chỉ có Bộ luật Hình sự mới quy định về tội phạm và hình phạt.
+
+Câu 3 [Dễ]: Phương pháp điều chỉnh đặc trưng của ngành Luật Hình sự là phương pháp nào?
+A. Phương pháp bình đẳng, tự thỏa thuận giữa các bên
+B. Phương pháp quyền uy - xử phạt nghiêm khắc (mệnh lệnh - quyền uy)
+C. Phương pháp hiệp thương thương mại
+D. Phương pháp hòa giải tại Ủy ban nhân dân cấp xã
+Đáp án đúng: B
+Giải thích: Phương pháp điều chỉnh của Luật Hình sự là phương pháp quyền uy, thể hiện mối quan hệ giữa Nhà nước (có quyền áp dụng hình phạt) và người phạm tội (có nghĩa vụ chấp hành).
+
+Câu 4 [Dễ]: Nhiệm vụ trọng tâm và quan trọng nhất của Bộ luật Hình sự Việt Nam là gì?
+A. Cấp giấy phép kinh doanh cho các doanh nghiệp tư nhân
+B. Giải quyết các tranh chấp về chia tài sản thừa kế giữa các cá nhân
+C. Bảo vệ chủ quyền quốc gia, an ninh đất nước, bảo vệ quyền con người, quyền công dân, trật tự pháp luật và đấu tranh phòng, chống tội phạm
+D. Thu tiền phạt để bổ sung vào ngân sách của Ủy ban nhân dân cấp xã
+Đáp án đúng: C
+Giải thích: Theo Điều 1 Bộ luật Hình sự 2015, nhiệm vụ của Bộ luật Hình sự là bảo vệ chế độ xã hội, quyền con người, trật tự pháp luật và đấu tranh phòng chống tội phạm.
+
+Câu 5 [Dễ]: Nguyên tắc 'Mọi người phạm tội đều bình đẳng trước pháp luật' trong Luật Hình sự được hiểu như thế nào?
+A. Cán bộ công chức cấp tỉnh phạm tội thì được miễn truy cứu trách nhiệm hình sự
+B. Do Tòa án nhân dân khu vực tự quyết định áp dụng tùy theo cảm tính
+C. Không phân biệt nam, nữ, dân tộc, niềm tin tôn giáo, thành phần, địa vị xã hội, hễ phạm tội thì đều bị xử lý theo pháp luật
+D. Chỉ áp dụng đối với người dân sinh sống tại các xã vùng sâu vùng xa
+Đáp án đúng: C
+Giải thích: Điều 3 Bộ luật Hình sự 2015 quy định nguyên tắc bình đẳng: Mọi người phạm tội đều bình đẳng trước pháp luật, không phân biệt giới tính, dân tộc, tín ngưỡng, thành phần xã hội.
+
+Câu 6 [Trung bình]: Nguyên tắc 'Nhân đạo' trong xử lý hình sự thể hiện ở nội dung nào sau đây?
+A. Giao toàn bộ việc xử lý người phạm tội cho Ủy ban nhân dân cấp xã tự giải quyết
+B. Nghiêm trị người chủ mưu, cầm đầu, nhưng khoan hồng đối với người tự thú, đầu thú, thành khẩn khai báo, ăn ăn hối cải
+C. Bỏ qua mọi hành vi vi phạm pháp luật mà không cần xử lý
+D. Cho phép người phạm tội dùng tiền mua lại tự do mà không cần qua xét xử
+Đáp án đúng: B
+Giải thích: Theo khoản 1 Điều 3 BLHS 2015, nguyên tắc nhân đạo thể hiện ở việc khoan hồng đối với người tự thú, đầu thú, ăn ăn hối cải, tự nguyện sửa chữa hoặc bồi thường thiệt hại.
+
+Câu 7 [Trung bình]: Bộ luật Hình sự Việt Nam áp dụng đối với mọi hành vi phạm tội thực hiện trên lãnh thổ nước Cộng hòa xã hội chủ nghĩa Việt Nam. Đây là quy định về hiệu lực gì của BLHS?
+A. Hiệu lực theo thẩm quyền riêng của Tòa án nhân dân khu vực
+B. Hiệu lực theo không gian (lãnh thổ)
+C. Hiệu lực theo thời gian
+D. Hiệu lực theo đối tượng quản lý hành chính của UBND cấp xã
+Đáp án đúng: B
+Giải thích: Theo Điều 5 Bộ luật Hình sự 2015, hiệu lực theo không gian quy định BLHS áp dụng đối với mọi hành vi phạm tội thực hiện trên lãnh thổ Việt Nam.
+
+Câu 8 [Trung bình]: Tàu bay, tàu thủy mang quốc kỳ Việt Nam đang ở không phận quốc tế hoặc vùng biển quốc tế được coi là gì khi xác định hiệu lực theo không gian của BLHS?
+A. Là lãnh thổ nước ngoài
+B. Không thuộc thẩm quyền tài x판 của bất kỳ quốc gia nào
+C. Được coi là lãnh thổ của nước Cộng hòa xã hội chủ nghĩa Việt Nam
+D. Là khu vực thuộc thẩm quyền xử phạt của Ủy ban nhân dân cấp xã
+Đáp án đúng: C
+Giải thích: Theo khoản 1 Điều 5 BLHS 2015, BLHS cũng áp dụng đối với hành vi phạm tội trên tàu bay, tàu thủy mang quốc kỳ Việt Nam hoặc đăng ký tại Việt Nam.
+
+Câu 9 [Trung bình]: Theo quy định của BLHS 2015, người nước ngoài phạm tội trên lãnh thổ Việt Nam thuộc đối tượng được hưởng quyền miễn trừ ngoại giao hoặc lãnh sự thì giải quyết như thế nào?
+A. Được giải quyết theo quy định của điều ước quốc tế mà Việt Nam là thành viên hoặc theo tập quán quốc tế; trường hợp chưa có quy định thì giải quyết bằng đường ngoại giao
+B. Đương nhiên bị Tòa án nhân dân khu vực phạt tù chung thân
+C. Do Ủy ban nhân dân cấp xã quyết định trục xuất ngay lập tức
+D. Miễn hoàn toàn mọi trách nhiệm mà không cần xem xét điều ước quốc tế
+Đáp án đúng: A
+Giải thích: Theo khoản 2 Điều 5 BLHS 2015, người nước ngoài thuộc đối tượng hưởng miễn trừ ngoại giao/lãnh sự phạm tội tại Việt Nam được giải quyết theo điều ước quốc tế hoặc đường ngoại giao.
+
+Câu 10 [Trung bình]: Hiệu lực theo thời gian của Bộ luật Hình sự được xác định căn cứ vào thời điểm nào?
+A. Thời điểm người phạm tội chấp hành xong hình phạt tù
+B. Thời điểm bị công an cấp xã phát hiện
+C. Thời điểm hành vi phạm tội được thực hiện
+D. Thời điểm Tòa án nhân dân khu vực thụ lý vụ án
+Đáp án đúng: C
+Giải thích: Theo Điều 7 BLHS 2015, điều luật được áp dụng đối với một hành vi phạm tội là điều luật đang có hiệu lực thi hành tại thời điểm mà hành vi phạm tội được thực hiện.
+
+Câu 11 [Trung bình]: Nguyên tắc 'Không hồi truy' (không áp dụng hiệu lực trở về trước) của luật hình sự KHÔNG áp dụng đối với trường hợp nào sau đây?
+A. Điều luật mới tăng mức phạt tiền đối với hành vi phạm tội
+B. Điều luật mới quy định một tội phạm mới nặng hơn
+C. Điều luật mới quy định một hình phạt nặng hơn
+D. Điều luật mới xóa bỏ một tội phạm, quy định hình phạt nhẹ hơn hoặc quy định tình tiết giảm nhẹ trách nhiệm hình sự mới (điều luật có lợi cho người phạm tội)
+Đáp án đúng: D
+Giải thích: Theo khoản 3 Điều 7 BLHS 2015, điều luật xóa bỏ một tội phạm, quy định hình phạt nhẹ hơn, tình tiết giảm nhẹ mới... thì ĐƯỢC áp dụng đối với hành vi phạm tội đã thực hiện trước khi điều luật đó có hiệu lực.
+
+Câu 12 [Vận dụng]: Anh Smith (quốc tịch Mỹ) thực hiện hành vi trộm cắp tài sản tại một khách sạn thuộc Phường X, tỉnh T. Khách sạn này thuộc địa bàn quản lý của Tòa án nhân dân khu vực K. Anh Smith có bị xử lý theo Bộ luật Hình sự Việt Nam không?
+A. Có, nhưng chỉ bị Tòa án nhân dân khu vực xử phạt vi phạm hành chính
+B. Không, trừ khi Ủy ban nhân dân cấp xã Phường X đồng ý
+C. Không, vì Anh Smith là người nước ngoài nên áp dụng luật của Mỹ
+D. Có, vì hành vi trộm cắp tài sản được thực hiện trên lãnh thổ Việt Nam và Anh Smith không thuộc đối tượng hưởng quyền miễn trừ ngoại giao
+Đáp án đúng: D
+Giải thích: Theo khoản 1 Điều 5 BLHS 2015, hành vi phạm tội thực hiện trên lãnh thổ Việt Nam bởi người nước ngoài không thuộc đối tượng miễn trừ ngoại giao đều bị xử lý theo BLHS Việt Nam.
+
+Câu 13 [Vận dụng]: Tháng 3/2025, Anh B thực hiện một hành vi mà theo BLHS tại thời điểm đó khung hình phạt là từ 02 đến 07 năm tù. Đến tháng 8/2025 (khi vụ án đang chuẩn bị đưa ra xét xử tại Tòa án nhân dân khu vực M), Quốc hội ban hành Luật sửa đổi BLHS giảm khung hình phạt của hành vi đó xuống còn từ 01 đến 03 năm tù. Tòa án nhân dân khu vực M sẽ áp dụng quy định nào đối với Anh B?
+A. Áp dụng quy định cũ từ 02 đến 07 năm tù vì hành vi thực hiện tháng 3/2025
+B. Chuyển hồ sơ cho Ủy ban nhân dân cấp xã Phường X xử phạt hành chính
+C. Áp dụng quy định mới từ 01 đến 03 năm tù vì đây là quy định có lợi cho người phạm tội (hiệu lực trở về trước)
+D. Tự do lựa chọn một trong hai quy định tùy theo ý chí của Thẩm phán
+Đáp án đúng: C
+Giải thích: Theo khoản 3 Điều 7 BLHS 2015, điều luật mới quy định hình phạt nhẹ hơn (có lợi cho người phạm tội) được áp dụng hiệu lực trở về trước đối với hành vi phạm tội đã thực hiện trước đó.
+
+Câu 14 [Vận dụng]: Ông K (công dân Việt Nam) trong thời gian du lịch tại nước ngoài đã thực hiện hành vi bắt cóc tống tiền công dân nước sở tại. Khi trở về Việt Nam, hành vi của Ông K bị phát hiện. Cơ quan tiến hành tố tụng xử lý Ông K ra sao?
+A. Chỉ bị Tòa án nhân dân khu vực phạt tiền hành chính
+B. Chỉ bị Ủy ban nhân dân cấp xã nơi cư trú tịch thu hộ chiếu
+C. Có thể bị truy cứu trách nhiệm hình sự theo Bộ luật Hình sự Việt Nam theo quy định tại Điều 6 BLHS 2015 về hiệu lực đối với hành vi phạm tội ở ngoài lãnh thổ Việt Nam
+D. Không xử lý vì hành vi xảy ra ngoài lãnh thổ Việt Nam
+Đáp án đúng: C
+Giải thích: Theo khoản 1 Điều 6 BLHS 2015, công dân Việt Nam phạm tội ở ngoài lãnh thổ nước Việt Nam có thể bị truy cứu trách nhiệm hình sự tại Việt Nam theo BLHS.
+
+Câu 15 [Vận dụng]: Chị T phạm tội lừa đảo chiếm đoạt tài sản. Trong quá trình điều tra, Chị T đã tự nguyện ra đầu thú, thành khẩn khai báo và vận động gia đình khắc phục toàn bộ hậu quả thiệt hại. Việc Tòa án xem xét giảm nhẹ hình phạt cho Chị T thể hiện nguyên tắc cơ bản nào của Luật Hình sự?
+A. Nguyên tắc suy đoán vô tội trong xử phạt của UBND cấp xã
+B. Nguyên tắc tự do hợp đồng
+C. Nguyên tắc nhân đạo và phân hóa trách nhiệm hình sự
+D. Nguyên tắc tập trung dân chủ
+Đáp án đúng: C
+Giải thích: Việc giảm nhẹ hình phạt đối với người thành khẩn khai báo, khắc phục hậu quả thể hiện nguyên tắc nhân đạo và phân hóa xử lý được ghi nhận tại Điều 3 BLHS 2015.
+
+
+--------------------------------------------------------------------------------
+MỤC 6.1.2. KHÁI NIỆM, ĐẶC ĐIỂM VÀ PHÂN LOẠI TỘI PHẠM
+--------------------------------------------------------------------------------
+
+Câu 16 [Dễ]: Khái niệm 'Tội phạm' được quy định chính thức tại điều luật nào của Bộ luật Hình sự 2015?
+A. Điều 8
+B. Điều 12
+C. Điều 32
+D. Điều 123
+Đáp án đúng: A
+Giải thích: Điều 8 Bộ luật Hình sự 2015 quy định định nghĩa pháp lý chính thức về Tội phạm.
+
+Câu 17 [Dễ]: Dấu hiệu nào sau đây là thuộc tính cơ bản quan trọng nhất, quyết định bản chất chất lượng của tội phạm?
+A. Tính được thực hiện tại địa bàn của Ủy ban nhân dân cấp xã
+B. Tính nguy hiểm cho xã hội
+C. Tính bị phạt tiền bởi Tòa án nhân dân khu vực
+D. Tính gây ra thiệt hại tài sản trên 1 tỷ đồng
+Đáp án đúng: B
+Giải thích: Tính nguy hiểm cho xã hội là thuộc tính nội dung, cơ bản nhất quyết định một hành vi có phải là tội phạm hay không.
+
+Câu 18 [Dễ]: Thuộc tính 'Tính trái pháp luật hình sự' của tội phạm có nghĩa là gì?
+A. Hành vi đó được quy định là tội phạm trong Bộ luật Hình sự
+B. Hành vi đó bị Tòa án nhân dân khu vực nhắc nhở
+C. Hành vi đó vi phạm quy chế nội bộ của doanh nghiệp
+D. Hành vi đó bị quy định và cấm trong văn bản của Ủy ban nhân dân cấp tỉnh
+Đáp án đúng: A
+Giải thích: Tính trái pháp luật hình sự có nghĩa là hành vi nguy hiểm cho xã hội đó phải được quy định cụ thể là tội phạm trong Bộ luật Hình sự.
+
+Câu 19 [Dễ]: Theo Điều 9 Bộ luật Hình sự 2015 (sửa đổi 2017), tội phạm được phân thành mấy loại?
+A. 5 loại
+B. 4 loại
+C. 2 loại
+D. 3 loại
+Đáp án đúng: B
+Giải thích: Điều 9 BLHS 2015 phân loại tội phạm thành 4 loại: tội phạm ít nghiêm trọng, nghiêm trọng, rất nghiêm trọng và đặc biệt nghiêm trọng.
+
+Câu 20 [Dễ]: Tội phạm ít nghiêm trọng là tội phạm có tính chất và mức độ nguy hiểm cho xã hội không lớn mà mức cao nhất của khung hình phạt do BLHS quy định đối với tội ấy là mức nào?
+A. Phạt tiền dưới 10 triệu đồng do UBND cấp xã thu
+B. Đến 03 năm tù
+C. Từ trên 03 năm tù đến 07 năm tù
+D. Cảnh cáo do Tòa án nhân dân khu vực áp dụng
+Đáp án đúng: B
+Giải thích: Theo điểm a khoản 1 Điều 9 BLHS 2015, tội phạm ít nghiêm trọng có mức cao nhất của khung hình phạt là phạt tiền, phạt cải tạo không giam giữ hoặc phạt tù đến 03 năm.
+
+Câu 21 [Dễ]: Tội phạm nghiêm trọng là tội phạm có mức cao nhất của khung hình phạt do BLHS quy định đối với tội ấy là mức nào?
+A. Từ trên 03 năm tù đến 07 năm tù
+B. Từ trên 07 năm tù đến 15 năm tù
+C. Đến 03 năm tù
+D. Từ trên 15 năm tù đến 20 năm tù
+Đáp án đúng: A
+Giải thích: Theo điểm b khoản 1 Điều 9 BLHS 2015, tội phạm nghiêm trọng có mức cao nhất của khung hình phạt là từ trên 03 năm tù đến 07 năm tù.
+
+Câu 22 [Dễ]: Tội phạm rất nghiêm trọng có mức cao nhất của khung hình phạt do Bộ luật Hình sự quy định là mức nào?
+A. Từ trên 03 năm tù đến 05 năm tù
+B. Từ trên 07 năm tù đến 15 năm tù
+C. Tù chung thân hoặc tử hình
+D. Do Ủy ban nhân dân cấp xã quy định
+Đáp án đúng: B
+Giải thích: Theo điểm c khoản 1 Điều 9 BLHS 2015, tội phạm rất nghiêm trọng có mức cao nhất của khung hình phạt là từ trên 07 năm tù đến 15 năm tù.
+
+Câu 23 [Dễ]: Tội phạm đặc biệt nghiêm trọng có mức cao nhất của khung hình phạt do BLHS quy định là mức nào?
+A. Từ 05 năm đến 10 năm tù
+B. Từ trên 15 năm tù đến 20 năm tù, tù chung thân hoặc tử hình
+C. Phạt tiền 500 triệu đồng
+D. Tù có thời hạn 03 năm tại Tòa án nhân dân khu vực
+Đáp án đúng: B
+Giải thích: Theo điểm d khoản 1 Điều 9 BLHS 2015, tội phạm đặc biệt nghiêm trọng có mức cao nhất của khung hình phạt là từ trên 15 năm tù đến 20 năm tù, tù chung thân hoặc tử hình.
+
+Câu 24 [Trung bình]: Căn cứ trực tiếp và chủ yếu để phân loại tội phạm thành 4 loại trong Luật Hình sự Việt Nam là gì?
+A. Số tiền bị tịch thu nộp vào ngân sách UBND cấp xã
+B. Mức cao nhất của khung hình phạt do Bộ luật Hình sự quy định đối với hành vi đó
+C. Ý kiến cá nhân của Thẩm phán Tòa án nhân dân khu vực
+D. Nơi cư trú của bị cáo tại xã hoặc tỉnh
+Đáp án đúng: B
+Giải thích: Theo Điều 9 BLHS 2015, việc phân loại tội phạm căn cứ vào tính chất, mức độ nguy hiểm cho xã hội của hành vi và mức cao nhất của khung hình phạt quy định cho tội đó.
+
+Câu 25 [Trung bình]: Theo quy định của BLHS 2015, chủ thể của tội phạm bao gồm những đối tượng nào?
+A. Mọi cơ quan hành chính bao gồm cả Ủy ban nhân dân cấp xã
+B. Chỉ bao gồm cá nhân có năng lực trách nhiệm hình sự và đạt độ tuổi luật định
+C. Cá nhân có năng lực trách nhiệm hình sự và Pháp nhân thương mại (trong một số tội phạm cụ thể)
+D. Chỉ các hộ kinh doanh cá thể
+Đáp án đúng: C
+Giải thích: BLHS 2015 mở rộng chủ thể của tội phạm bao gồm cá nhân có năng lực TNHS và Pháp nhân thương mại (chịu TNHS về các tội quy định tại Điều 76).
+
+Câu 26 [Trung bình]: Điều kiện để một Pháp nhân thương mại phải chịu trách nhiệm hình sự theo Điều 75 BLHS 2015 bao gồm nội dung nào sau đây?
+A. Pháp nhân đó phải có trụ sở đặt tại thành phố lớn
+B. Hành vi được thực hiện nhân danh pháp nhân thương mại, vì lợi ích của pháp nhân, có sự phê duyệt/chấp thuận của pháp nhân và chưa hết thời hiệu truy cứu TNHS
+C. Chỉ cần do Chủ tịch Ủy ban nhân dân cấp xã yêu cầu xử lý
+D. Do Tòa án nhân dân khu vực chỉ định không cần căn cứ quy định luật
+Đáp án đúng: B
+Giải thích: Theo Điều 75 BLHS 2015, pháp nhân thương mại chịu TNHS khi hành vi phạm tội được thực hiện nhân danh pháp nhân, vì lợi ích của pháp nhân, có sự chỉ đạo/chấp thuận và chưa hết thời hiệu.
+
+Câu 27 [Trung bình]: Việc truy cứu trách nhiệm hình sự đối với Pháp nhân thương mại có làm loại trừ trách nhiệm hình sự của cá nhân thực hiện hành vi không?
+A. Do Ủy ban nhân dân cấp xã quyết định miễn cho cá nhân
+B. Không loại trừ trách nhiệm hình sự của cá nhân
+C. Chỉ loại trừ nếu Tòa án nhân dân khu vực đồng ý
+D. Có, cá nhân hoàn toàn được miễn trách nhiệm hình sự
+Đáp án đúng: B
+Giải thích: Khoản 2 Điều 75 BLHS 2015 quy định: Việc pháp nhân thương mại chịu trách nhiệm hình sự không loại trừ trách nhiệm hình sự của cá nhân.
+
+Câu 28 [Trung bình]: Một hành vi tuy có dấu hiệu của tội phạm nhưng tính chất nguy hiểm cho xã hội không đáng kể thì được xử lý như thế nào theo khoản 2 Điều 8 BLHS 2015?
+A. Đương nhiên bị phạt tù chung thân
+B. Vẫn bắt buộc xử lý hình sự và phạt tù tại Tòa án nhân dân khu vực
+C. Không phải là tội phạm và được xử lý bằng các biện pháp khác (như xử lý hành chính)
+D. Do Ủy ban nhân dân cấp xã tịch thu toàn bộ nhà đất
+Đáp án đúng: C
+Giải thích: Khoản 2 Điều 8 BLHS 2015 quy định: Những hành vi tuy có dấu hiệu của tội phạm nhưng tính chất nguy hiểm cho xã hội không đáng kể thì không phải là tội phạm và được xử lý bằng các biện pháp khác.
+
+Câu 29 [Trung bình]: Pháp nhân thương mại KHÔNG phải chịu trách nhiệm hình sự về nhóm tội phạm nào sau đây?
+A. Các tội phạm về môi trường (như Tội gây ô nhiễm môi trường)
+B. Các tội xâm phạm trật tự quản lý kinh tế (như Tội buôn lậu)
+C. Tội trốn đóng bảo hiểm xã hội, bảo hiểm y tế cho người lao động
+D. Các tội xâm phạm tính mạng, sức khỏe con người (như Tội giết người, Tội cố ý gây thương tích)
+Đáp án đúng: D
+Giải thích: Theo Điều 76 BLHS 2015, Pháp nhân thương mại chỉ chịu TNHS về các tội phạm thuộc lĩnh vực kinh tế, môi trường, trật tự quản lý kinh tế... được liệt kê cụ thể; không chịu TNHS về các tội xâm phạm tính mạng, sức khỏe cá nhân.
+
+Câu 30 [Trung bình]: Nội dung nào phản ánh ĐÚNG sự khác biệt giữa Tội phạm và Vi phạm hành chính?
+A. Tội phạm do BLHS quy định và bị xử lý bằng hình phạt; Vi phạm hành chính do văn bản xử lý vphc quy định và bị xử lý bằng biện pháp xử phạt hành chính
+B. Tội phạm do UBND cấp xã xử phạt; Vi phạm hành chính do Tòa án khu vực xét xử
+C. Tội phạm và Vi phạm hành chính là hai khái niệm hoàn toàn giống nhau
+D. Vi phạm hành chính có mức độ nguy hiểm cho xã hội cao hơn tội phạm
+Đáp án đúng: A
+Giải thích: Tội phạm có tính nguy hiểm cho xã hội cao nhất, quy định trong BLHS và do Tòa án áp dụng hình phạt. Vi phạm hành chính có mức độ nguy hiểm thấp hơn, quy định trong Luật XLVPHC.
+
+Câu 31 [Vận dụng]: Anh M thực hiện hành vi trộm cắp tài sản. Điều luật quy định khung hình phạt đối với hành vi của M là phạt cải tạo không giam giữ đến 03 năm hoặc phạt tù từ 06 tháng đến 03 năm. Hỏi tội phạm mà M thực hiện thuộc loại tội phạm nào?
+A. Tội phạm nghiêm trọng
+B. Tội phạm ít nghiêm trọng
+C. Tội phạm rất nghiêm trọng
+D. Tội phạm đặc biệt nghiêm trọng
+Đáp án đúng: B
+Giải thích: Vì mức cao nhất của khung hình phạt đối với hành vi này là 03 năm tù, theo điểm a khoản 1 Điều 9 BLHS 2015 đây là Tội phạm ít nghiêm trọng.
+
+Câu 32 [Vận dụng]: Anh K bị truy tố về Tội lừa đảo chiếm đoạt tài sản theo khoản 3 Điều 174 BLHS với khung hình phạt quy định là phạt tù từ 07 năm đến 15 năm. Tội phạm Anh K thực hiện thuộc phân loại nào?
+A. Tội phạm ít nghiêm trọng
+B. Tội phạm đặc biệt nghiêm trọng
+C. Tội phạm nghiêm trọng
+D. Tội phạm rất nghiêm trọng
+Đáp án đúng: D
+Giải thích: Khung hình phạt có mức cao nhất là 15 năm tù. Theo điểm c khoản 1 Điều 9 BLHS 2015, tội phạm có mức cao nhất của khung hình phạt từ trên 07 năm đến 15 năm tù là Tội phạm rất nghiêm trọng.
+
+Câu 33 [Vận dụng]: Chị N thực hiện hành vi cướp tài sản thuộc trường hợp quy định tại khoản 4 Điều 168 BLHS có khung hình phạt là phạt tù từ 18 năm đến 20 năm hoặc tù chung thân. Tội phạm Chị N thực hiện thuộc loại nào?
+A. Tội phạm đặc biệt nghiêm trọng
+B. Tội phạm rất nghiêm trọng
+C. Tội phạm nghiêm trọng
+D. Tội phạm ít nghiêm trọng
+Đáp án đúng: A
+Giải thích: Mức cao nhất của khung hình phạt là tù chung thân. Theo điểm d khoản 1 Điều 9 BLHS 2015, đây là Tội phạm đặc biệt nghiêm trọng.
+
+Câu 34 [Vận dụng]: Công ty TNHH Xả thải A (là pháp nhân thương mại) cố ý xả trực tiếp hàng ngàn m3 chất thải độc hại ra dòng sông gây ô nhiễm môi trường nghiêm trọng tại Phường Y. Việc xử lý hình sự đối với Công ty A căn cứ vào quy định nào?
+A. Chỉ do Ủy ban nhân dân cấp xã Phường Y phạt tiền 2 triệu đồng
+B. Công ty A bị truy cứu trách nhiệm hình sự theo Điều 75 và Điều 235 BLHS 2015 về Tội gây ô nhiễm môi trường dành cho pháp nhân thương mại
+C. Công ty A không thể bị xử lý hình sự vì pháp nhân không có tay chân để đi tù
+D. Do Tòa án nhân dân khu vực tịch thu toàn bộ vốn góp của các cá nhân
+Đáp án đúng: B
+Giải thích: Theo Điều 75 và Điều 76 BLHS 2015, Pháp nhân thương mại phải chịu TNHS về Tội gây ô nhiễm môi trường (Điều 235) khi có đủ các điều kiện luật định.
+
+Câu 35 [Vận dụng]: Ông H hái trộm 02 quả bưởi trong vườn nhà hàng xóm trị giá khoảng 30.000 đồng. Hành vi của Ông H có bị truy cứu trách nhiệm hình sự về Tội trộm cắp tài sản theo Điều 173 BLHS không?
+A. Có, và Tòa án nhân dân khu vực sẽ phạt tù 05 năm
+B. Không, vì tài sản bị chiếm đoạt dưới 2.000.000 đồng (và không thuộc các trường hợp đặc biệt do luật định), tính chất nguy hiểm cho xã hội không đáng kể, không cấu thành tội phạm theo khoản 2 Điều 8 BLHS
+C. Có, bị xử lý hình sự ngay lập tức không cần xét giá trị
+D. Do Ủy ban nhân dân cấp xã tịch thu nhà của Ông H
+Đáp án đúng: B
+Giải thích: Tội trộm cắp tài sản (Điều 173) thông thường yêu cầu giá trị tài sản từ 2.000.000 đồng trở lên. Giá trị 30.000đ tính nguy hiểm không đáng kể nên không cấu thành tội phạm (khoản 2 Điều 8 BLHS).
+
+Câu 36 [Vận dụng]: Anh B mua một chiếc xe máy trộm cắp từ người lạ ngoài đường với giá rất rẻ mà biết rõ đó là tài sản do phạm tội mà có. Hành vi của Anh B xâm phạm đến thuộc tính nào của tội phạm?
+A. Tính không bị Tòa án nhân dân khu vực xử lý
+B. Tính được UBND cấp xã khen thưởng
+C. Tính nguy hiểm cho xã hội và Tính trái pháp luật hình sự (cấu thành Tội chứa chấp hoặc tiêu thụ tài sản do người khác phạm tội mà có)
+D. Không xâm phạm gì vì Anh B bỏ tiền ra mua
+Đáp án đúng: C
+Giải thích: Hành vi biết rõ tài sản do phạm tội mà có nhưng vẫn mua tiêu thụ gây nguy hiểm cho trật tự quản lý tài sản, cấu thành tội phạm quy định tại Điều 323 BLHS 2015.
+
+Câu 37 [Vận dụng]: Một vụ án tham ô tài sản xảy ra tại Công ty cổ phần X có 51% vốn nhà nước. Tổng giám đốc chỉ đạo Kế toán trưởng lập khống chứng từ rút 5 tỷ đồng chia nhau. Tội phạm tham ô tài sản thuộc nhóm phân loại tội phạm nào khi khung hình phạt là từ 20 năm tù, tù chung thân hoặc tử hình?
+A. Tội phạm ít nghiêm trọng
+B. Tội phạm đặc biệt nghiêm trọng
+C. Tội phạm rất nghiêm trọng
+D. Tội phạm nghiêm trọng
+Đáp án đúng: B
+Giải thích: Khung hình phạt có mức cao nhất là tử hình/tù chung thân. Căn cứ điểm d khoản 1 Điều 9 BLHS 2015, đây là Tội phạm đặc biệt nghiêm trọng.
+
+Câu 38 [Vận dụng]: Công ty Cổ phần Thương mại V bị Tòa án xét xử và tuyên phạt hình phạt tiền 5 tỷ đồng về Tội trốn thuế. Giám đốc Công ty V là Ông P cho rằng chỉ Công ty chịu phạt tiền chứ cá nhân Ông P không liên quan. Khẳng định của Ông P đúng hay sai?
+A. Đúng nếu Ủy ban nhân dân cấp xã xác nhận Ông P có đơn xin miễn trách nhiệm
+B. Đúng, vì pháp nhân chịu trách nhiệm thì cá nhân không phải chịu
+C. Đúng nếu Tòa án nhân dân khu vực không tuyên án cá nhân
+D. Sai, vì theo khoản 2 Điều 75 BLHS 2015, việc pháp nhân thương mại chịu trách nhiệm hình sự không loại trừ trách nhiệm hình sự của cá nhân trực tiếp thực hiện hành vi phạm tội
+Đáp án đúng: D
+Giải thích: Theo khoản 2 Điều 75 BLHS 2015, cá nhân trực tiếp chỉ đạo/thực hiện hành vi phạm tội vẫn phải chịu trách nhiệm hình sự độc lập bên cạnh trách nhiệm của pháp nhân.
+
+Câu 39 [Vận dụng]: Anh T thực hiện hành vi cố ý gây thương tích cho Anh V với tỷ lệ tổn thương cơ thể là 15%. Khung hình phạt đối với hành vi này là phạt cải tạo không giam giữ đến 03 năm hoặc phạt tù từ 06 tháng đến 03 năm. Xác định loại tội phạm?
+A. Tội phạm rất nghiêm trọng
+B. Tội phạm nghiêm trọng
+C. Tội phạm đặc biệt nghiêm trọng
+D. Tội phạm ít nghiêm trọng
+Đáp án đúng: D
+Giải thích: Mức cao nhất của khung hình phạt quy định là 03 năm tù, do đó căn cứ điểm a khoản 1 Điều 9 BLHS 2015 đây là Tội phạm ít nghiêm trọng.
+
+Câu 40 [Vận dụng]: Hành vi buôn bán hàng cấm số lượng lớn của Doanh nghiệp M có khung hình phạt tiền từ 1 tỷ đến 3 tỷ đồng hoặc đình chỉ hoạt động có thời hạn từ 06 tháng đến 03 năm đối với pháp nhân. Pháp nhân M bị xử lý bởi cơ quan nào có thẩm quyền xét xử hình sự?
+A. Tòa án nhân dân có thẩm quyền xét xử theo quy định của Bộ luật Tố tụng Hình sự
+B. Phòng Tư pháp địa phương
+C. Sở Kế hoạch và Đầu tư cấp tỉnh
+D. Ủy ban nhân dân cấp xã nơi đặt trụ sở
+Đáp án đúng: A
+Giải thích: Chỉ có Tòa án nhân dân mới có thẩm quyền xét xử và tuyên phạt hình sự đối với cá nhân và pháp nhân thương mại phạm tội.
+
+
+--------------------------------------------------------------------------------
+MỤC 6.1.3. CẤU THÀNH TỘI PHẠM
+--------------------------------------------------------------------------------
+
+Câu 41 [Dễ]: Cấu thành tội phạm là tổng hợp những dấu hiệu pháp lý đặc trưng do luật hình sự quy định để xác định hành vi phạm tội. Cấu thành tội phạm bao gồm mấy yếu tố hợp thành?
+A. 5 yếu tố
+B. 4 yếu tố
+C. 2 yếu tố
+D. 3 yếu tố
+Đáp án đúng: B
+Giải thích: Cấu thành tội phạm bao gồm 4 yếu tố bắt buộc: Khách thể của tội phạm, Mặt khách quan của tội phạm, Chủ thể của tội phạm và Mặt chủ quan của tội phạm.
+
+Câu 42 [Dễ]: Khách thể của tội phạm được hiểu là gì?
+A. Công cụ, phương tiện mà người phạm tội sử dụng
+B. Quan hệ xã hội được luật hình sự bảo vệ và bị tội phạm xâm hại gây thiệt hại hoặc đe dọa gây thiệt hại
+C. Địa bàn quản lý hành chính của Ủy ban nhân dân cấp xã
+D. Trụ sở của Tòa án nhân dân khu vực xét xử vụ án
+Đáp án đúng: B
+Giải thích: Khách thể của tội phạm là các quan hệ xã hội được luật hình sự bảo vệ và bị tội phạm xâm hại.
+
+Câu 43 [Dễ]: Yếu tố 'Đối tượng tác động của tội phạm' trong cấu thành tội phạm là gì?
+A. Quyết định xử phạt hành chính của Ủy ban nhân dân cấp xã
+B. Thời gian giải quyết vụ án của Tòa án nhân dân khu vực
+C. Bộ phận của khách thể, là sự vật vật chất, con người hoặc hoạt động bình thường của chủ thể mà người phạm tội tác động vào để gây thiệt hại cho khách thể
+D. Địa điểm thực hiện tội phạm tại Phường X
+Đáp án đúng: C
+Giải thích: Đối tượng tác động của tội phạm là những vật thể vật chất, con người hoặc hành vi mà người phạm tội tác động trực tiếp vào nhằm xâm hại quan hệ xã hội (khách thể).
+
+Câu 44 [Dễ]: Mặt khách quan của tội phạm bao gồm dấu hiệu hình thức biểu hiện ra bên ngoài của tội phạm, trong đó dấu hiệu nào là BẮT BUỘC phải có trong mọi cấu thành tội phạm?
+A. Địa điểm thực hiện tội phạm tại trụ sở UBND cấp xã
+B. Hành vi nguy hiểm cho xã hội
+C. Phương tiện phạm tội bằng vũ khí quân dụng
+D. Thời gian phạm tội vào ban đêm
+Đáp án đúng: B
+Giải thích: Hành vi nguy hiểm cho xã hội là dấu hiệu duy nhất bắt buộc phải có trong mặt khách quan của mọi cấu thành tội phạm (không có hành vi thì không có tội phạm).
+
+Câu 45 [Dễ]: Hành vi nguy hiểm cho xã hội trong mặt khách quan của tội phạm có thể thể hiện dưới những hình thức nào?
+A. Chỉ bằng hình thức lời nói trực tiếp
+B. Chỉ bằng hình thức hành động phạm tội
+C. Do Ủy ban nhân dân cấp xã quy định từng trường hợp
+D. Hành động phạm tội (làm việc mà pháp luật cấm) hoặc Không hành động phạm tội (không làm việc mà pháp luật bắt buộc phải làm mặc dù có đủ điều kiện để làm)
+Đáp án đúng: D
+Giải thích: Hành vi nguy hiểm cho xã hội thể hiện dưới 2 dạng: Hành động phạm tội (chủ động thực hiện việc bị cấm) và Không hành động phạm tội (không thực hiện nghĩa vụ pháp lý bắt buộc).
+
+Câu 46 [Dễ]: Năng lực trách nhiệm hình sự của cá nhân bao gồm hai khả năng cốt lõi nào?
+A. Khả năng kiện tụng tại Tòa án nhân dân khu vực
+B. Khả năng nhận thức được tính chất nguy hiểm cho xã hội của hành vi và Khả năng điều khiển hành vi của mình
+C. Khả năng tài chính và khả năng nộp tiền phạt cho UBND cấp xã
+D. Khả năng lao động chân tay và khả năng nói lưu khoát
+Đáp án đúng: B
+Giải thích: Năng lực TNHS gồm 2 yếu tố: Năng lực nhận thức (nhận thức được tính chất nguy hiểm của hành vi) và Năng lực điều khiển hành vi.
+
+Câu 47 [Dễ]: Thái độ tâm lý của người phạm tội đối với hành vi nguy hiểm cho xã hội của mình và đối với hậu quả do hành vi đó gây ra được gọi là gì?
+A. Phương tiện phạm tội
+B. Đối tượng tác động
+C. Khách thể của tội phạm
+D. Mặt chủ quan của tội phạm (Lỗi)
+Đáp án đúng: D
+Giải thích: Mặt chủ quan của tội phạm phản ánh thái độ tâm lý của người phạm tội đối với hành vi và hậu quả nguy hiểm cho xã hội, thể hiện qua yếu tố lỗi, động cơ, mục đích.
+
+Câu 48 [Trung bình]: Hình thức 'Lỗi cố ý trực tiếp' được hiểu như thế nào theo Luật Hình sự?
+A. Người phạm tội thấy trước hậu quả nhưng hy vọng, tin tưởng hậu quả sẽ không xảy ra
+B. Người phạm tội nhận thức rõ hành vi của mình là nguy hiểm cho xã hội, thấy trước hậu quả của hành vi đó và mong muốn hậu quả xảy ra
+C. Người phạm tội không thấy trước hành vi của mình có thể gây ra hậu quả nguy hiểm cho xã hội
+D. Do Tòa án nhân dân khu vực suy đoán không cần chứng minh tâm lý
+Đáp án đúng: B
+Giải thích: Theo khoản 1 Điều 10 BLHS 2015, Lỗi cố ý trực tiếp là trường hợp người phạm tội nhận thức rõ hành vi nguy hiểm, thấy trước hậu quả và mong muốn hậu quả đó xảy ra.
+
+Câu 49 [Trung bình]: Hình thức 'Lỗi cố ý gián tiếp' khác với Lỗi cố ý trực tiếp ở điểm cốt lõi nào về mặt ý chí đối với hậu quả nguy hiểm cho xã hội?
+A. Lỗi cố ý gián tiếp là do Tòa án nhân dân khu vực quyết định thay
+B. Lỗi cố ý trực tiếp là mong muốn hậu quả; Lỗi cố ý gián tiếp là không mong muốn nhưng có ý thức để mặc cho hậu quả xảy ra
+C. Lỗi cố ý gián tiếp chỉ áp dụng cho hình phạt tiền tại UBND cấp xã
+D. Lỗi cố ý gián tiếp hoàn toàn không nhận thức được hành vi
+Đáp án đúng: B
+Giải thích: Theo khoản 2 Điều 10 BLHS 2015, Lỗi cố ý gián tiếp là trường hợp người phạm tội thấy trước hậu quả, tuy không mong muốn nhưng có ý thức để mặc cho hậu quả xảy ra.
+
+Câu 50 [Trung bình]: Lỗi vô ý do quá tự tin là trường hợp người phạm tội:
+A. Không thấy trước hành vi của mình có thể gây hậu quả mặc dù phải thấy trước và có thể thấy trước
+B. Hoàn toàn bị tâm thần không có năng lực nhận thức
+C. Mong muốn hậu quả chết người xảy ra ngay lập tức
+D. Tuy thấy trước hành vi của mình có thể gây ra hậu quả nguy hiểm cho xã hội nhưng cho rằng hậu quả đó sẽ không xảy ra hoặc có thể ngăn ngừa được
+Đáp án đúng: D
+Giải thích: Theo khoản 1 Điều 11 BLHS 2015, Lỗi vô ý do quá tự tin là trường hợp thấy trước hậu quả nhưng tin rằng hậu quả sẽ không xảy ra hoặc ngăn ngừa được.
+
+Câu 51 [Trung bình]: Lỗi vô ý do cẩu thả là trường hợp người phạm tội:
+A. Thực hiện hành vi theo lệnh của Ủy ban nhân dân cấp xã
+B. Mong muốn hậu quả thiệt hại xảy ra để thu lợi bất chính
+C. Không thấy trước hành vi của mình có thể gây ra hậu quả nguy hiểm cho xã hội, mặc dù phải thấy trước và có thể thấy trước hậu quả đó
+D. Cố tình bỏ mặc hậu quả nghiêm trọng xảy ra
+Đáp án đúng: C
+Giải thích: Theo khoản 2 Điều 11 BLHS 2015, Lỗi vô ý do cẩu thả là trường hợp không thấy trước hậu quả nguy hiểm mặc dù theo quy định phải thấy trước và có điều kiện để thấy trước.
+
+Câu 52 [Trung bình]: Nội dung nào sau đây là điều kiện bắt buộc đối với Mối quan hệ nhân quả giữa hành vi và hậu quả trong mặt khách quan của tội phạm?
+A. Hậu quả phải xảy ra trước rồi mới thực hiện hành vi
+B. Hành vi và hậu quả phải xảy ra đồng thời tại trụ sở Ủy ban nhân dân cấp xã
+C. Do Tòa án nhân dân khu vực quyết định mà không cần mối liên hệ thực tế
+D. Hành vi nguy hiểm phải xảy ra trước hậu quả về mặt thời gian, là nguyên nhân trực tiếp hoặc chủ yếu sinh ra hậu quả nguy hiểm cho xã hội
+Đáp án đúng: D
+Giải thích: Mối quan hệ nhân quả đòi hỏi hành vi phải xảy ra trước hậu quả, chứa đựng khả năng thực tế sinh ra hậu quả và là nguyên nhân trực tiếp dẫn tới hậu quả đó.
+
+Câu 53 [Trung bình]: Sự khác biệt căn bản giữa 'Khách thể của tội phạm' và 'Đối tượng tác động của tội phạm' được thể hiện như thế nào?
+A. Khách thể là quan hệ xã hội bị xâm hại; Đối tượng tác động là sự vật/con người cụ thể mà hành vi phạm tội tác động vào
+B. Khách thể là Tòa án nhân dân khu vực; Đối tượng tác động là Ủy ban nhân dân cấp xã
+C. Đối tượng tác động luôn bị đi tù còn Khách thể được bồi thường
+D. Khách thể và Đối tượng tác động là hai thuật ngữ đồng nghĩa hoàn toàn
+Đáp án đúng: A
+Giải thích: Khách thể là nội dung bản chất (quan hệ xã hội bị xâm hại); Đối tượng tác động là vật thể/con người cụ thể bị hành vi phạm tội trực tiếp tác động.
+
+Câu 54 [Vận dụng]: Anh A vô tình làm rơi chiếc ví tiền chứa 20 triệu đồng trên đường thuộc Phường M. Anh B đi sau nhặt được chiếc ví. Mặc dù biết rõ ví của A bị rơi và A đang quay lại tìm kiếm, B vẫn cố tình đút ví vào túi rồi nhanh chóng bỏ đi. Xác định Khách thể và Đối tượng tác động trong trường hợp này?
+A. Khách thể: Quyền quản lý của Ủy ban nhân dân cấp xã Phường M; Đối tượng tác động: Anh A
+B. Khách thể: Trật tự an toàn giao thông; Đối tượng tác động: Chiếc ví tiền 20 triệu đồng
+C. Khách thể: Quyền sở hữu tài sản của Anh A; Đối tượng tác động: Chiếc ví tiền chứa 20 triệu đồng
+D. Khách thể: Thẩm quyền xét xử của Tòa án nhân dân khu vực; Đối tượng tác động: Anh B
+Đáp án đúng: C
+Giải thích: Hành vi chiếm đoạt tài sản xâm phạm quan hệ sở hữu tài sản của Anh A (Khách thể) và tác động trực tiếp vào chiếc ví tiền 20 triệu đồng (Đối tượng tác động).
+
+Câu 55 [Vận dụng]: Chị C là y tế thôn bản tại Xã K. Do mâu thuẫn cá nhân với Chị H, Chị C thấy Chị H bị sốc phản vệ nặng cần tiêm thuốc cấp cứu ngay. Chị C có sẵn thuốc và đầy đủ chuyên môn nhưng cố tình khoanh tay đứng nhìn không tiêm, dẫn đến Chị H tử vong. Xác định hình thức hành vi của Chị C?
+A. Sự kiện bất ngờ không có lỗi
+B. Hành động phạm tội
+C. Không hành động phạm tội (vi phạm nghĩa vụ pháp lý bắt buộc phải cứu chữa người trong tình trạng nguy hiểm)
+D. Chỉ là vi phạm quy chế hành chính xử phạt tại Ủy ban nhân dân cấp xã
+Đáp án đúng: C
+Giải thích: Chị C có nghĩa vụ pháp lý và có đủ điều kiện thực hiện nhưng cố tình không thực hiện (không tiêm thuốc cứu người), cấu thành Tội không cứu giúp người đang trong tình trạng nguy hiểm đến tính mạng dưới hình thức 'Không hành động phạm tội'.
+
+Câu 56 [Vận dụng]: Bác sĩ X thực hiện phẫu thuật cho bệnh nhân Y. Do không kiểm tra kỹ danh sách dị ứng thuốc ghi rõ trong hồ sơ bệnh án (mặc dù quy trình y tế bắt buộc phải kiểm tra), Bác sĩ X đã tiêm loại thuốc gây dị ứng làm bệnh nhân Y tử vong. Lỗi của Bác sĩ X thuộc dạng nào?
+A. Lỗi vô ý do quá tự tin
+B. Lỗi cố ý trực tiếp
+C. Lỗi vô ý do cẩu thả
+D. Lỗi cố ý gián tiếp
+Đáp án đúng: C
+Giải thích: Bác sĩ X không thấy trước hậu quả tử vong do cẩu thả không đọc hồ sơ bệnh án, mặc dù quy tắc nghề nghiệp bắt buộc phải thấy trước và có đủ điều kiện thấy trước. Đây là Lỗi vô ý do cẩu thả.
+
+Câu 57 [Vận dụng]: Anh M điều khiển xe ô tô chạy quá tốc độ cho phép 30km/h trên đoạn đường qua Phường X. Anh M tự tin cho rằng mình lái xe giỏi nên có thể phanh kịp nếu có sự cố. Khi một cháu bé bất ngờ sang đường, Anh M phanh không kịp gây tai nạn làm cháu bé tử vong. Lỗi của Anh M thuộc loại nào?
+A. Lỗi cố ý trực tiếp
+B. Lỗi vô ý do quá tự tin
+C. Lỗi vô ý do cẩu thả
+D. Lỗi cố ý gián tiếp
+Đáp án đúng: B
+Giải thích: Anh M thấy trước hành vi chạy quá tốc độ có thể gây tai nạn nhưng quá tự tin vào tay lái tin rằng hậu quả sẽ không xảy ra, đây là Lỗi vô ý do quá tự tin.
+
+Câu 58 [Vận dụng]: Anh D dùng súng tự chế bắn vào bụi cây tại Phường T vì nghi có lợn rừng. Thực tế, trong bụi cây là Anh K đang hái nấm. Phát đạn trúng ngực Anh K làm Anh K tử vong tại chỗ. Anh D hoàn toàn không biết và không thể biết có người trong bụi cây. Hành vi của Anh D được xác định ra sao?
+A. Là sự kiện bất ngờ (không có lỗi về mặt hình sự) theo Điều 20 BLHS 2015
+B. Lỗi cố ý trực tiếp phạm tội giết người
+C. Lỗi cố ý gián tiếp do Tòa án nhân dân khu vực tuyên án
+D. Ủy ban nhân dân cấp xã phạt tù 10 năm
+Đáp án đúng: A
+Giải thích: Theo Điều 20 BLHS 2015, người thực hiện hành vi gây hậu quả nguy hại cho xã hội do sự kiện bất ngờ (không thể thấy trước hoặc không bắt buộc phải thấy trước hậu quả) thì không phải chịu trách nhiệm hình sự.
+
+Câu 59 [Vận dụng]: Để bẫy chuột bảo vệ ruộng lúa tại Xã Y, Ông T chăng dây điện trần 220V quanh ruộng mà không làm biển cảnh báo, không gác trông. Đêm đó, Anh N đi soi cá vướng vào dây điện bị giật chết. Ông T khai chỉ muốn diệt chuột chứ không muốn làm chết người. Xác định hình thức lỗi của Ông T?
+A. Không có lỗi vì ruộng lúa thuộc quyền sở hữu của Ông T
+B. Lỗi vô ý do cẩu thả
+C. Sự kiện bất ngờ không có lỗi
+D. Lỗi cố ý gián tiếp (thấy trước hậu quả chết người có thể xảy ra, tuy không mong muốn nhưng có ý thức bỏ mặc cho hậu quả xảy ra)
+Đáp án đúng: D
+Giải thích: Việc chăng điện trần nguy hiểm không cảnh báo/trông gác thể hiện người phạm tội nhận thức rõ tính nguy hiểm, thấy trước hậu quả có thể làm chết người, tuy không mong muốn nhưng chấp nhận bỏ mặc hậu quả xảy ra. Đây là Lỗi cố ý gián tiếp.
+
+Câu 60 [Vận dụng]: Anh P (20 tuổi, hoàn toàn khỏe mạnh, nhận thức bình thường) rủ bạn đến trộm cắp xe máy tại Phường H. Khi bị truy cứu trách nhiệm hình sự, Anh P khai do bị bạn rủ rê nên không nhận thức được trộm cắp là phạm tội. Tòa án nhân dân khu vực xử lý luận điểm của Anh P như thế nào?
+A. Bác bỏ luận điểm, vì P đã đủ tuổi và có đầy đủ năng lực nhận thức/điều khiển hành vi; sự thiếu hiểu biết pháp luật không làm mất năng lực TNHS
+B. Chuyển hồ sơ cho Ủy ban nhân dân cấp xã Phường H quyết định phạt tiền 100.000 đồng
+C. Miễn hình phạt tù cho P
+D. Chấp nhận luận điểm và miễn trách nhiệm hình sự cho P
+Đáp án đúng: A
+Giải thích: Người đủ 18 tuổi, nhận thức và điều khiển hành vi bình thường có đầy đủ năng lực TNHS. Việc không hiểu biết pháp luật không phải là căn cứ loại trừ năng lực TNHS.
+
+
+--------------------------------------------------------------------------------
+MỤC 6.1.4. CÁC GIAI ĐOẠN THỰC HIỆN TỘI PHẠM VÀ ĐỒNG PHẠM
+--------------------------------------------------------------------------------
+
+Câu 61 [Dễ]: Giai đoạn 'Chuẩn bị phạm tội' theo Điều 14 Bộ luật Hình sự 2015 là gì?
+A. Là việc đã bắt đầu thực hiện hành vi khách thể được quy định trong BLHS
+B. Do Ủy ban nhân dân cấp xã xác nhận khi người phạm tội khai báo
+C. Là việc thực hiện xong toàn bộ hành vi và gây ra hậu quả thiệt hại
+D. Là việc tìm kiếm, sửa soạn công cụ, phương tiện hoặc tạo ra những điều kiện khác để thực hiện tội phạm hoặc thành lập, tham gia nhóm thanh toán để thực hiện tội phạm
+Đáp án đúng: D
+Giải thích: Theo Điều 14 BLHS 2015, Chuẩn bị phạm tội là việc tìm kiếm, sửa soạn công cụ, phương tiện hoặc tạo ra những điều kiện khác để thực hiện tội phạm...
+
+Câu 62 [Dễ]: Phạm tội chưa thành theo Điều 15 Bộ luật Hình sự 2015 được hiểu là gì?
+A. Tự mình dừng lại không thực hiện tội phạm mặc dù không có ai ngăn cản
+B. Cố ý thực hiện tội phạm nhưng không thực hiện được đến cùng vì những nguyên nhân ngoài ý muốn của người phạm tội
+C. Do Ủy ban nhân dân cấp xã quyết định dừng việc phạm tội
+D. Chỉ là vi phạm kỷ luật lao động tại cơ quan nhà nước cấp tỉnh
+Đáp án đúng: B
+Giải thích: Điều 15 BLHS 2015 quy định: Phạm tội chưa thành là cố ý thực hiện tội phạm nhưng không thực hiện được đến cùng vì những nguyên nhân ngoài ý muốn của người phạm tội.
+
+Câu 63 [Dễ]: Theo Điều 16 Bộ luật Hình sự 2015, 'Tự ý nửa chừng chấm dứt việc phạm tội' có hậu quả pháp lý như thế nào đối với người phạm tội?
+A. Được miễn trách nhiệm hình sự về tội định phạm (nếu hành vi thực tế đã thực hiện không cấu thành tội khác)
+B. Bắt buộc vẫn bị Tòa án nhân dân khu vực phạt tù chung thân
+C. Bị Ủy ban nhân dân cấp xã tịch thu toàn bộ tài sản
+D. Phải bồi thường gấp 10 lần giá trị tài sản cho nhà nước
+Đáp án đúng: A
+Giải thích: Điều 16 BLHS 2015 quy định: Người tự ý nửa chừng chấm dứt việc phạm tội được miễn trách nhiệm hình sự về tội định phạm.
+
+Câu 64 [Dễ]: Khái niệm 'Đồng phạm' được quy định tại Điều 17 Bộ luật Hình sự 2015 như thế nào?
+A. Do Ủy ban nhân dân cấp xã chứng nhận danh sách
+B. Là trường hợp có từ 02 người trở lên cố ý cùng thực hiện một tội phạm
+C. Là trường hợp 02 người vô ý gây ra tai nạn giao thông cùng lúc
+D. Là trường hợp có 01 người duy nhất thực hiện tội phạm
+Đáp án đúng: B
+Giải thích: Khoản 1 Điều 17 BLHS 2015 quy định: Đồng phạm là trường hợp có 02 người trở lên cố ý cùng thực hiện một tội phạm.
+
+Câu 65 [Trung bình]: Trong vụ án đồng phạm, người trực tiếp thực hiện tội phạm được gọi là loại người đồng phạm nào?
+A. Người giúp sức
+B. Người xúi giục
+C. Người tổ chức
+D. Người thực hành
+Đáp án đúng: D
+Giải thích: Khoản 3 Điều 17 BLHS 2015 quy định: Người thực hành là người trực tiếp thực hiện tội phạm.
+
+Câu 66 [Trung bình]: Trong vụ án đồng phạm, người chủ mưu, cầm đầu, chỉ huy việc thực hiện tội phạm được gọi là:
+A. Người tổ chức
+B. Người giúp sức
+C. Người xúi giục
+D. Người thực hành
+Đáp án đúng: A
+Giải thích: Khoản 3 Điều 17 BLHS 2015 quy định: Người tổ chức là người chủ mưu, cầm đầu, chỉ huy việc thực hiện tội phạm.
+
+Câu 67 [Trung bình]: Người tạo điều kiện tinh thần hoặc vật chất cho việc thực hiện tội phạm (như cung cấp công cụ, phương tiện, chỉ dẫn sơ đồ...) trong vụ án đồng phạm là:
+A. Người giúp sức
+B. Người xúi giục
+C. Người tổ chức
+D. Người thực hành
+Đáp án đúng: A
+Giải thích: Khoản 3 Điều 17 BLHS 2015 quy định: Người giúp sức là người tạo điều kiện tinh thần hoặc vật chất cho việc thực hiện tội phạm.
+
+Câu 68 [Vận dụng]: Anh X chuẩn bị 01 thanh đao và 01 khẩu súng tự chế với mục đích đi cướp tiệm vàng tại Phường K. Khi Anh X đang đứng quan sát trước cửa tiệm vàng chờ sơ hở thì bị lực lượng công an phát hiện, bắt giữ. Hành vi của Anh X ở giai đoạn nào?
+A. Không cấu thành tội phạm do chưa lấy được tài sản
+B. Chuẩn bị phạm tội (điều tra xử lý theo Điều 14 và Điều 168 BLHS 2015)
+C. Phạm tội hoàn thành
+D. Tự ý nửa chừng chấm dứt việc phạm tội
+Đáp án đúng: B
+Giải thích: Anh X đã chuẩn bị công cụ (súng, đao) và tạo điều kiện (đứng quan sát chờ sơ hở) để cướp tài sản nhưng chưa kịp thực hiện hành vi vũ lực. Đây là giai đoạn Chuẩn bị phạm tội cướp tài sản (Điều 14, Điều 168 BLHS).
+
+Câu 69 [Vận dụng]: Anh A đột nhập vào nhà Chị B tại Phường T để trộm cắp chiếc xe máy. Khi A đã dắt xe ra đến sân và cạy khóa cổ xe thì người nhà Chị B phát hiện tri hô. A bỏ xe lại leo tường tẩu thoát. Tòa án nhân dân khu vực xác định giai đoạn thực hiện tội phạm của Anh A là:
+A. Chuẩn bị phạm tội
+B. Tự ý nửa chừng chấm dứt việc phạm tội
+C. Phạm tội đã hoàn thành
+D. Phạm tội chưa thành (đã thực hiện hành vi khách quan của Tội trộm cắp tài sản nhưng chưa chiếm đoạt trọn vẹn do nguyên nhân ngoài ý muốn)
+Đáp án đúng: D
+Giải thích: A đã bắt đầu thực hiện hành vi dịch chuyển tài sản (dắt xe) nhưng chưa chiếm đoạt hoàn thành do bị phát hiện tri hô (nguyên nhân ngoài ý muốn). Đây là Phạm tội chưa thành (Điều 15 BLHS).
+
+Câu 70 [Vận dụng]: Anh K lập kế hoạch cướp ngân hàng tại Phường M, phân công Anh M lái xe chở đi tẩu thoát, Anh N đứng cảnh giới ngoài cửa, còn Anh K cầm súng xông vào khống chế nhân viên lấy tiền. Xác định vai trò đồng phạm của Anh N và Anh M?
+A. Anh N và M là Người thực hành
+B. Anh N và M không phải chịu trách nhiệm hình sự
+C. Anh K là Người tổ chức kiêm Người thực hành; Anh N và M là Người giúp sức trong vụ án đồng phạm
+D. Do Ủy ban nhân dân cấp xã Phường M phân loại vai trò
+Đáp án đúng: C
+Giải thích: Anh K vạch kế hoạch (người tổ chức) và trực tiếp xông vào lấy tiền (người thực hành); Anh M và N lái xe tẩu thoát và cảnh giới là tạo điều kiện vật chất/tinh thần cho việc cướp (người giúp sức) theo Điều 17 BLHS 2015.
+
+
+--------------------------------------------------------------------------------
+MỤC 6.2.1. KHÁI NIỆM TRÁCH NHIỆM HÌNH SỰ VÀ TUỔI CHỊU TRÁCH NHIỆM HÌNH SỰ
+--------------------------------------------------------------------------------
+
+Câu 71 [Dễ]: Trách nhiệm hình sự được hiểu là gì trong khoa học luật hình sự?
+A. Nghĩa vụ nộp phạt tiền hành chính tại Ủy ban nhân dân cấp xã
+B. Dạng trách nhiệm pháp lý nghiêm khắc nhất, là hậu quả pháp lý bất lợi mà người phạm tội hoặc pháp nhân thương mại phạm tội phải chịu trước Nhà nước
+C. Nghĩa vụ đóng học phí của sinh viên đại học
+D. Nghĩa vụ hòa giải tranh chấp đất đai tại Phường X
+Đáp án đúng: B
+Giải thích: Trách nhiệm hình sự là dạng trách nhiệm pháp lý nghiêm khắc nhất do Tòa án áp dụng đối với chủ thể phạm tội.
+
+Câu 72 [Dễ]: Căn cứ duy nhất và bắt buộc để truy cứu trách nhiệm hình sự đối với một chủ thể theo Điều 2 BLHS 2015 là gì?
+A. Do bị nhiều người dân tại địa phương tố cáo
+B. Thực hiện một hành vi cấu thành tội phạm do Bộ luật Hình sự quy định
+C. Do Chủ tịch Ủy ban nhân dân cấp xã đề nghị truy tố
+D. Không có khả năng tài chính nộp tiền phạt
+Đáp án đúng: B
+Giải thích: Điều 2 BLHS 2015 quy định cơ sở của TNHS: Chỉ người nào phạm một tội đã được Bộ luật Hình sự quy định mới phải chịu trách nhiệm hình sự.
+
+Câu 73 [Dễ]: Theo khoản 1 Điều 12 Bộ luật Hình sự 2015, độ tuổi chịu trách nhiệm hình sự về MỌI TỘI PHẠM là bao nhiêu?
+A. Người từ đủ 16 tuổi trở lên
+B. Người đủ 21 tuổi trở lên
+C. Người từ đủ 14 tuổi trở lên
+D. Người từ đủ 18 tuổi trở lên
+Đáp án đúng: A
+Giải thích: Khoản 1 Điều 12 BLHS 2015 quy định: Người từ đủ 16 tuổi trở lên phải chịu trách nhiệm hình sự về mọi tội phạm, trừ những tội phạm mà Bộ luật này có quy định khác.
+
+Câu 74 [Dễ]: Người từ đủ 14 tuổi đến dưới 16 tuổi phải chịu trách nhiệm hình sự về loại tội phạm nào theo khoản 2 Điều 12 BLHS 2015 (sửa đổi 2017)?
+A. Do Ủy ban nhân dân cấp xã tự chỉ định danh mục tội phạm
+B. Mọi loại tội phạm không phân biệt mức độ
+C. Chỉ về các tội phạm ít nghiêm trọng do vô ý
+D. Tội phạm rất nghiêm trọng hoặc đặc biệt nghiêm trọng quy định tại một số điều luật cụ thể (như Tội giết người, Tội hiếp dâm, Tội cướp tài sản...)
+Đáp án đúng: D
+Giải thích: Theo khoản 2 Điều 12 BLHS 2015 (sửa đổi 2017), người từ đủ 14 tuổi đến dưới 16 tuổi chỉ chịu TNHS về tội rất nghiêm trọng hoặc đặc biệt nghiêm trọng quy định tại một số điều luật được liệt kê cụ thể.
+
+Câu 75 [Dễ]: Người dưới bao nhiêu tuổi thì KHÔNG PHẢI chịu trách nhiệm hình sự trong bất kỳ trường hợp nào theo Luật Hình sự Việt Nam?
+A. Người dưới 12 tuổi
+B. Người dưới 14 tuổi
+C. Người dưới 16 tuổi
+D. Người dưới 18 tuổi
+Đáp án đúng: B
+Giải thích: Theo Điều 12 BLHS 2015, người dưới 14 tuổi chưa đủ độ tuổi chịu trách nhiệm hình sự tối thiểu, do đó không phải chịu TNHS trong bất kỳ trường hợp nào.
+
+Câu 76 [Trung bình]: Cách tính tuổi để xác định trách nhiệm hình sự đối với người dưới 18 tuổi căn cứ vào thời điểm nào?
+A. Thời điểm thực hiện hành vi phạm tội (tính chính xác theo ngày, tháng, năm sinh)
+B. Thời điểm bị Tòa án nhân dân khu vực xét xử
+C. Thời điểm bị công an cấp xã lập biên bản vi phạm
+D. Thời điểm tròn 18 tuổi học xong trung học phổ thông
+Đáp án đúng: A
+Giải thích: Tuổi chịu trách nhiệm hình sự được xác định chính xác tính đến ngày, tháng, năm sinh vào thời điểm người đó thực hiện hành vi phạm tội.
+
+Câu 77 [Trung bình]: Đặc điểm cơ bản trong chính sách xử lý hình sự đối với người dưới 18 tuổi phạm tội theo BLHS 2015 là gì?
+A. Giao toàn bộ việc xử phạt tù cho Ủy ban nhân dân cấp xã thực hiện
+B. Tước toàn bộ quyền công dân vĩnh viễn
+C. Việc xử lý chủ yếu nhằm mục đích giáo dục, giúp đỡ họ sửa chữa sai lầm; ưu tiên áp dụng biện pháp giám sát, giáo dục tại xã, phường
+D. Bắt buộc phải áp dụng hình phạt tử hình để răn đe
+Đáp án đúng: C
+Giải thích: Điều 91 BLHS 2015 quy định nguyên tắc xử lý người dưới 18 tuổi phạm tội chủ yếu nhằm giáo dục, giúp đỡ họ sửa chữa sai lầm, phát triển lành mạnh.
+
+Câu 78 [Trung bình]: Mức hình phạt tù tối đa có thể áp dụng đối với người từ đủ 16 tuổi đến dưới 18 tuổi khi phạm tội đặc biệt nghiêm trọng (như Tội giết người) là bao nhiêu?
+A. Tù chung thân
+B. Không quá 18 năm tù
+C. Không quá 12 năm tù
+D. Tử hình
+Đáp án đúng: B
+Giải thích: Theo khoản 1 Điều 101 BLHS 2015, người từ đủ 16 tuổi đến dưới 18 tuổi khi phạm tội nếu điều luật quy định tù chung thân hoặc tử hình thì mức hình phạt cao nhất được áp dụng không quá 18 năm tù.
+
+Câu 79 [Trung bình]: Mức hình phạt tù tối đa có thể áp dụng đối với người từ đủ 14 tuổi đến dưới 16 tuổi phạm tội là bao nhiêu?
+A. Do Ủy ban nhân dân cấp xã quyết định không khống chế
+B. Không quá 18 năm tù
+C. Tù chung thân
+D. Không quá 12 năm tù
+Đáp án đúng: D
+Giải thích: Theo khoản 2 Điều 101 BLHS 2015, đối với người từ đủ 14 tuổi đến dưới 16 tuổi, nếu điều luật quy định tù chung thân hoặc tử hình thì mức hình phạt cao nhất được áp dụng không quá 12 năm tù.
+
+Câu 80 [Trung bình]: Hình phạt nào sau đây KHÔNG ĐƯỢC ÁP DỤNG đối với người dưới 18 tuổi phạm tội trong bất kỳ trường hợp nào?
+A. Phạt tiền
+B. Cải tạo không giam giữ
+C. Tù chung thân và Tử hình
+D. Phạt tù có thời hạn
+Đáp án đúng: C
+Giải thích: Theo Điều 98, Điều 101 BLHS 2015, không áp dụng hình phạt Tù chung thân và Tử hình đối với người dưới 18 tuổi phạm tội.
+
+Câu 81 [Vận dụng]: Em A (sinh ngày 10/10/2011). Ngày 15/5/2025 (khi A được 13 tuổi 7 tháng), A thực hiện hành vi đột nhập nhà hàng xóm trộm cắp số tiền 100 triệu đồng. Tòa án nhân dân khu vực xử lý Em A như thế nào?
+A. Không truy cứu trách nhiệm hình sự đối với A vì A chưa đủ 14 tuổi (dưới tuổi chịu TNHS); chuyển xử lý bằng các biện pháp giáo dục hành chính/xã hội phù hợp
+B. Xử phạt Em A 05 năm tù giam
+C. Tịch toàn bộ tài sản của bố mẹ A
+D. Ủy ban nhân dân cấp xã phạt tù A 03 năm
+Đáp án đúng: A
+Giải thích: Em A 13 tuổi 7 tháng (dưới 14 tuổi) nên chưa đủ tuổi chịu trách nhiệm hình sự theo Điều 12 BLHS 2015. Do đó không truy cứu TNHS đối với A.
+
+Câu 82 [Vận dụng]: Em H (15 tuổi 2 tháng) thực hiện hành vi trộm cắp chiếc xe đạp trị giá 2,5 triệu đồng tại Phường X. Tội trộm cắp tài sản giá trị 2,5 triệu thuộc Tội phạm ít nghiêm trọng (khung hình phạt đến 03 năm tù). Em H có phải chịu trách nhiệm hình sự không?
+A. Có, và bị Tòa án nhân dân khu vực phạt tù 02 năm
+B. Ủy ban nhân dân cấp xã phạt tù H 01 năm
+C. Không, vì người từ đủ 14 tuổi đến dưới 16 tuổi chỉ chịu TNHS về tội rất nghiêm trọng hoặc đặc biệt nghiêm trọng quy định tại khoản 2 Điều 12 BLHS; Tội trộm cắp ít nghiêm trọng không thuộc trường hợp chịu TNHS ở độ tuổi này
+D. Có, vì H đã đủ 15 tuổi
+Đáp án đúng: C
+Giải thích: Người từ 14 đến dưới 16 tuổi chỉ chịu TNHS về tội rất nghiêm trọng hoặc đặc biệt nghiêm trọng liệt kê tại khoản 2 Điều 12 BLHS. Tội trộm cắp 2,5 triệu thuộc khoản 1 (tội ít nghiêm trọng) nên Em H không phải chịu TNHS.
+
+Câu 83 [Vận dụng]: Em N (15 tuổi 6 tháng) do mâu thuẫn đã dùng dao đâm chết bạn học tại Phường Y. Tội giết người (Điều 123) có khung hình phạt từ 07 đến 20 năm, tù chung thân hoặc tử hình (Tội phạm đặc biệt nghiêm trọng). Em N có bị truy cứu trách nhiệm hình sự không?
+A. Có, bị truy cứu trách nhiệm hình sự về Tội giết người vì N đủ 15 tuổi phạm tội đặc biệt nghiêm trọng quy định cụ thể tại khoản 2 Điều 12 BLHS 2015
+B. Ủy ban nhân dân cấp xã tự xử phạt hành chính 500.000 đồng
+C. Không, vì N dưới 18 tuổi
+D. Bị tuyên phạt tử hình ngay lập tức
+Đáp án đúng: A
+Giải thích: Tội giết người (Điều 123) là tội đặc biệt nghiêm trọng nằm trong danh mục quy định tại khoản 2 Điều 12 BLHS. Do đó người từ đủ 14 đến dưới 16 tuổi (Em N 15 tuổi 6 tháng) phải chịu TNHS.
+
+Câu 84 [Vận dụng]: Anh T (17 tuổi 8 tháng) thực hiện hành vi Giết người và Cướp tài sản với tính chất đặc biệt dã man tại Phường M. Khung hình phạt luật quy định cho tội danh này là Tử hình. Tòa án tuyên mức án tối đa đối với Anh T là mức nào?
+A. Phạt tù có thời hạn không quá 18 năm tù (theo khoản 1 Điều 101 BLHS 2015)
+B. Ủy ban nhân dân cấp xã phạt tù 10 năm
+C. Tù chung thân
+D. Án Tử hình
+Đáp án đúng: A
+Giải thích: Người từ đủ 16 tuổi đến dưới 18 tuổi khi phạm tội không bị áp dụng hình phạt Tù chung thân hoặc Tử hình. Mức tù có thời hạn tối đa là không quá 18 năm tù (khoản 1 Điều 101 BLHS 2015).
+
+Câu 85 [Vận dụng]: Bà K bị kết án phạt tù về Tội buôn lậu. Sau khi bản án có hiệu lực, Cơ quan thi hành án hình sự phát hiện Bà K đang có thai 04 tháng. Việc thi hành hình phạt tù đối với Bà K được xử lý thế nào?
+A. Miễn hình phạt tiền do Tòa án nhân dân khu vực tuyên
+B. Được tạm đình chỉ chấp hành hình phạt tù cho đến khi con đủ 36 tháng tuổi theo quy định tại điểm n khoản 1 Điều 67 BLHS 2015
+C. Ủy ban nhân dân cấp xã Phường X tịch toàn bộ con cái
+D. Vẫn bắt buộc đi tù ngay lập tức
+Đáp án đúng: B
+Giải thích: Phụ nữ mang thai hoặc đang nuôi con dưới 36 tháng tuổi được hoãn hoặc tạm đình chỉ chấp hành hình phạt tù cho đến khi con đủ 36 tháng tuổi (Điều 67 BLHS 2015).
+
+
+--------------------------------------------------------------------------------
+MỤC 6.2.2. CÁC TRƯỜNG HỢP LOẠI TRỪ TRÁCH NHIỆM HÌNH SỰ
+--------------------------------------------------------------------------------
+
+Câu 86 [Dễ]: Các trường hợp loại trừ trách nhiệm hình sự được quy định tập trung tại Chương nào của Bộ luật Hình sự 2015?
+A. Chương VII
+B. Chương IV
+C. Chương XV
+D. Chương IX
+Đáp án đúng: B
+Giải thích: Chương IV Bộ luật Hình sự 2015 quy định về Các trường hợp loại trừ trách nhiệm hình sự (từ Điều 20 đến Điều 26).
+
+Câu 87 [Dễ]: Sự kiện bất ngờ theo Điều 20 Bộ luật Hình sự 2015 là gì?
+A. Do Tòa án nhân dân khu vực bất ngờ tuyên án tù
+B. Là trường hợp thực hiện hành vi gây hậu quả nguy hại cho xã hội do không thể thấy trước hoặc không bắt buộc phải thấy trước hậu quả của hành vi đó
+C. Là trường hợp uống rượu bia say rồi thực hiện hành vi đánh người
+D. Là trường hợp theo lệnh của Chủ tịch Ủy ban nhân dân cấp xã
+Đáp án đúng: B
+Giải thích: Điều 20 BLHS 2015 quy định: Người thực hiện hành vi gây hậu quả nguy hại cho xã hội do sự kiện bất ngờ (không thể thấy trước hoặc không bắt buộc phải thấy trước) thì không phải chịu TNHS.
+
+Câu 88 [Dễ]: Tình trạng không có năng lực trách nhiệm hình sự theo Điều 21 BLHS 2015 là trường hợp người thực hiện hành vi nguy hiểm cho xã hội trong khi đang mắc bệnh gì?
+A. Bị tai nạn gãy chân đang điều trị tại bệnh viện
+B. Mắc bệnh tâm thần hoặc một bệnh khác làm mất khả năng nhận thức hoặc khả năng điều khiển hành vi của mình
+C. Mắc bệnh đau dạ dày hoặc cảm cúm thông thường
+D. Mắc bệnh về mắt nhưng nhận thức hoàn toàn bình thường
+Đáp án đúng: B
+Giải thích: Điều 21 BLHS 2015 quy định người mắc bệnh tâm thần hoặc bệnh khác làm mất khả năng nhận thức hoặc khả năng điều khiển hành vi thì không phải chịu TNHS.
+
+Câu 89 [Dễ]: Khái niệm 'Phòng vệ chính đáng' được quy định tại khoản 1 Điều 22 Bộ luật Hình sự 2015 như thế nào?
+A. Là việc Tòa án nhân dân khu vực cho phép dùng vũ lực giải quyết tranh chấp
+B. Là hành vi tự do đánh người dưới sự đồng ý của Ủy ban nhân dân cấp xã
+C. Là hành vi cầm dao đuổi đánh lại người đã ngưng xâm phạm và chạy trốn
+D. Là hành vi của người vì bảo vệ quyền hoặc lợi ích chính đáng của mình, của người khác hoặc lợi ích của Nhà nước mà chống trả lại một cách cần thiết người đang có hành vi xâm phạm các lợi ích nói trên
+Đáp án đúng: D
+Giải thích: Khoản 1 Điều 22 BLHS 2015 quy định: Phòng vệ chính đáng là hành vi của người vì bảo vệ lợi ích hợp pháp mà chống trả lại một cách cần thiết người đang có hành vi xâm phạm.
+
+Câu 90 [Dễ]: Hành vi Phòng vệ chính đáng có phải là tội phạm không?
+A. Không phải là tội phạm
+B. Do Ủy ban nhân dân cấp xã phạt tiền 500.000 đồng
+C. Vẫn là tội phạm và bị phạt tù
+D. Là tội phạm ít nghiêm trọng
+Đáp án đúng: A
+Giải thích: Khoản 1 Điều 22 BLHS 2015 khẳng định rõ: Phòng vệ chính đáng không phải là tội phạm.
+
+Câu 91 [Trung bình]: Thế nào là 'Vượt quá giới hạn phòng vệ chính đáng' theo khoản 2 Điều 22 BLHS 2015?
+A. Là hành vi báo cáo sự việc cho công an địa phương
+B. Là hành vi nộp tiền bồi thường thiệt hại tại UBND cấp xã
+C. Là hành vi chống trả vừa đủ làm người tấn công dừng lại
+D. Là hành vi chống trả rõ ràng quá mức cần thiết, không phù hợp với tính chất và mức độ nguy hiểm cho xã hội của hành vi xâm hại
+Đáp án đúng: D
+Giải thích: Khoản 2 Điều 22 BLHS 2015 quy định: Vượt quá giới hạn phòng vệ chính đáng là hành vi chống trả rõ ràng quá mức cần thiết, không phù hợp với tính chất và mức độ nguy hiểm của hành vi xâm hại.
+
+Câu 92 [Trung bình]: Người thực hiện hành vi Vượt quá giới hạn phòng vệ chính đáng có phải chịu trách nhiệm hình sự không?
+A. Phải chịu trách nhiệm hình sự về tội tương ứng (như Tội giết người do vượt quá giới hạn phòng vệ chính đáng)
+B. Do Tòa án nhân dân khu vực quyết định miễn hoàn toàn không điều kiện
+C. Không phải chịu trách nhiệm hình sự
+D. Chỉ bị Ủy ban nhân dân cấp xã phạt cảnh cáo
+Đáp án đúng: A
+Giải thích: Người vượt quá giới hạn phòng vệ chính đáng phải chịu TNHS về hành vi vượt quá của mình (tuy nhiên được xem xét là tình tiết giảm nhẹ trách nhiệm hình sự).
+
+Câu 93 [Trung bình]: Khái niệm 'Tình thế cấp thiết' theo khoản 1 Điều 23 BLHS 2015 được hiểu là gì?
+A. Là tình thế của người vì muốn tránh gây thiệt hại cho lợi ích hợp pháp mà cố ý gây một thiệt hại khác nhỏ hơn thiệt hại cần ngăn ngừa
+B. Là việc Tòa án nhân dân khu vực hoãn phiên tòa xét xử
+C. Là tình thế cố ý gây thiệt hại lớn hơn thiệt hại cần ngăn ngừa
+D. Là việc thực hiện theo quyết định xử phạt của Ủy ban nhân dân cấp xã
+Đáp án đúng: A
+Giải thích: Khoản 1 Điều 23 BLHS 2015 quy định: Tình thế cấp thiết là tình thế của người vì muốn tránh gây thiệt hại cho lợi ích hợp pháp mà cố ý gây một thiệt hại khác nhỏ hơn thiệt hại cần ngăn ngừa.
+
+Câu 94 [Trung bình]: Điều kiện quan trọng nhất về mặt giá trị thiệt hại trong Tình thế cấp thiết là gì?
+A. Do Ủy ban nhân dân cấp xã tự định giá không theo thực tế
+B. Thiệt hại gây ra phải lớn gấp 10 lần thiệt hại cần ngăn ngừa
+C. Thiệt hại gây ra phải nhỏ hơn thiệt hại cần ngăn ngừa
+D. Thiệt hại gây ra phải bằng thiệt hại cần ngăn ngừa
+Đáp án đúng: C
+Giải thích: Theo khoản 1 Điều 23 BLHS 2015, trong tình thế cấp thiết, thiệt hại gây ra bắt buộc phải nhỏ hơn thiệt hại cần ngăn ngừa.
+
+Câu 95 [Trung bình]: Trường hợp gây thiệt hại rõ ràng quá yêu cầu của Tình thế cấp thiết (thiệt hại gây ra bằng hoặc lớn hơn thiệt hại cần ngăn ngừa) thì xử lý như thế nào?
+A. Được miễn hoàn toàn trách nhiệm hình sự
+B. Tòa án nhân dân khu vực tuyên miễn phạt tiền
+C. Ủy ban nhân dân cấp xã khen thưởng vì có công bảo vệ
+D. Người gây thiệt hại phải chịu trách nhiệm hình sự theo quy định tại khoản 2 Điều 23 BLHS 2015
+Đáp án đúng: D
+Giải thích: Khoản 2 Điều 23 BLHS 2015 quy định: Trường hợp thiệt hại gây ra rõ ràng quá yêu cầu của tình thế cấp thiết thì người gây thiệt hại phải chịu trách nhiệm hình sự.
+
+Câu 96 [Trung bình]: Người uống rượu, bia hoặc dùng chất kích thích mạnh khác mà thực hiện hành vi phạm tội thì xử lý trách nhiệm hình sự ra sao theo Điều 13 BLHS 2015?
+A. Vẫn phải chịu trách nhiệm hình sự (không được miễn trách nhiệm hình sự)
+B. Được miễn trách nhiệm hình sự hoàn toàn vì không tự chủ được
+C. Chỉ bị Ủy ban nhân dân cấp xã phạt tiền 200.000 đồng
+D. Do Tòa án nhân dân khu vực giảm một nửa hình phạt
+Đáp án đúng: A
+Giải thích: Điều 13 BLHS 2015 quy định: Người phạm tội trong tình trạng mất khả năng nhận thức/điều khiển hành vi do dùng rượu, bia hoặc chất kích thích mạnh khác thì vẫn phải chịu TNHS.
+
+Câu 97 [Trung bình]: Hành vi gây thiệt hại trong khi bắt giữ người phạm tội (Điều 24 BLHS 2015) không phải là tội phạm khi đáp ứng điều kiện nào?
+A. Sử dụng vũ lực là biện pháp duy nhất cần thiết và không rõ ràng quá mức cần thiết để bắt giữ người phạm tội
+B. Đánh chết người phạm tội mặc dù họ đã buông vũ khí hàng phục
+C. Tự do dùng súng bắn vào đám đông
+D. Do Chủ tịch Ủy ban nhân dân cấp xã trực tiếp ra lệnh đánh chết
+Đáp án đúng: A
+Giải thích: Điều 24 BLHS 2015 quy định hành vi gây thiệt hại để bắt giữ người phạm tội nếu là biện pháp duy nhất cần thiết và không quá mức cần thiết thì không phải là tội phạm.
+
+Câu 98 [Trung bình]: Theo Điều 25 BLHS 2015, Rủi ro trong nghiên cứu, thử nghiệm, áp dụng tiến bộ khoa học, kỹ thuật và công nghệ KHÔNG PHẢI là tội phạm khi người thực hiện đáp ứng điều kiện gì?
+A. Đã áp dụng đúng quy trình, quy phạm, dùng mọi biện pháp phòng ngừa và thiệt hại xảy ra nằm ngoài ý muốn
+B. Thử nghiệm thuốc độc trực tiếp lên người dân mà không xin phép
+C. Tự ý bỏ qua toàn bộ quy trình an toàn bắt buộc
+D. Chỉ cần có xác nhận ủng hộ của Ủy ban nhân dân cấp xã
+Đáp án đúng: A
+Giải thích: Điều 25 BLHS 2015 loại trừ TNHS cho rủi ro nghiên cứu khoa học khi đã tuân thủ đúng quy trình, áp dụng biện pháp phòng ngừa cần thiết.
+
+Câu 99 [Vận dụng]: Anh M đang đi xe máy trên đường tại Phường H thì bất ngờ bị T cầm dao xông ra chém thẳng vào đầu nhằm cướp tài sản. Anh M giơ chiếc mũ bảo hiểm đỡ làm dao văng ra, đồng thời vơ chiếc gậy gỗ bên đường đập 01 phát vào tay T làm T gãy tay ngã xuống đường. Anh M lấy lại xe tẩu thoát. Hành vi của Anh M được xác định là:
+A. Tội không tố giác tội phạm tại Ủy ban nhân dân cấp xã
+B. Phòng vệ chính đáng (không phải là tội phạm) theo Điều 22 BLHS 2015
+C. Vượt quá giới hạn phòng vệ chính đáng
+D. Tội cố ý gây thương tích
+Đáp án đúng: B
+Giải thích: Anh M dùng gậy đập gãy tay T để ngăn chặn hành vi chém cướp tính mạng đang diễn ra là chống trả cần thiết bảo vệ tính mạng mình. Đây là Phòng vệ chính đáng (Điều 22 BLHS).
+
+Câu 100 [Vận dụng]: Anh K bị Anh B tát 01 cái vào mặt trong cuộc tranh cãi tại Phường Y. Anh B đã dừng lại không đánh tiếp. Tuy nhiên, Anh K tức giận rút dao găm xông tới đâm thẳng vào ngực Anh B làm B tử vong. Tòa án nhân dân khu vực xử lý hành vi của K ra sao?
+A. Chỉ là vi phạm hành chính tại Ủy ban nhân dân cấp xã
+B. Tình thế cấp thiết
+C. Tội giết người (không được coi là phòng vệ chính đáng vì B đã dừng hành vi xâm phạm và K chống trả rõ ràng không cần thiết/quá mức)
+D. Phòng vệ chính đáng vì K bị đánh trước
+Đáp án đúng: C
+Giải thích: Anh B chỉ tát 1 cái và đã dừng hành vi; việc K dùng dao đâm chết B là hành vi cố ý sát hại hoàn toàn không còn tính chất phòng vệ, cấu thành Tội giết người (Điều 123 BLHS).
+
+Câu 101 [Vận dụng]: Trong một vụ hỏa hoạn dữ dội tại ngôi nhà ở Phường M, Anh P phát hiện ngọn lửa chuẩn bị bùng cháy lan sang kho xăng nguy cơ gây nổ thảm họa. Để tạo đường rút lửa, P đã dùng búa tàn phá chiếc xe máy trị giá 20 triệu đồng của hàng xóm để cản lửa. Xe bị hư hỏng hoàn toàn. Thiệt hại ngăn ngừa là tính mạng hàng chục người. Hành vi của P là:
+A. Tình thế cấp thiết (được loại trừ trách nhiệm hình sự) theo Điều 23 BLHS 2015
+B. Tội cố ý làm hư hỏng tài sản
+C. Vi phạm quy định của Ủy ban nhân dân cấp xã
+D. Vượt quá giới hạn phòng vệ chính đáng
+Đáp án đúng: A
+Giải thích: Anh P cố ý làm hỏng xe máy (20 triệu) để tránh thảm họa nổ kho xăng đe dọa tính mạng hàng chục người. Thiệt hại gây ra nhỏ hơn thiệt hại ngăn ngừa, đây là Tình thế cấp thiết (Điều 23 BLHS).
+
+Câu 102 [Vận dụng]: Anh D mượn xe máy của bạn đi dự sinh nhật và uống say ngất ngây. Trên đường lái xe về qua Phường X, do không kiểm soát được tay lái, D đã tông trúng một người đi bộ gây chấn thương sọ não 65%. Tại cơ quan công an, D khai do say rượu không biết gì. D có phải chịu trách nhiệm hình sự không?
+A. Không, vì D say rượu mất khả năng nhận thức
+B. Tòa án nhân dân khu vực miễn hình phạt
+C. Có, D vẫn phải chịu trách nhiệm hình sự theo Điều 13 BLHS 2015 do tự mình đặt vào tình trạng say rượu
+D. Ủy ban nhân dân cấp xã Phường X tự giải quyết cho về
+Đáp án đúng: C
+Giải thích: Theo Điều 13 BLHS 2015, người phạm tội trong tình trạng say rượu vẫn phải chịu trách nhiệm hình sự đầy đủ.
+
+Câu 103 [Vận dụng]: Ông H (50 tuổi) có tiền sử bệnh tâm thần phân liệt nặng, đã có hồ sơ bệnh án và chứng nhận giám định pháp y tâm thần làm mất hoàn toàn khả năng nhận thức. Trong một cơn phát bệnh tại Phường T, Ông H đã dùng gậy đánh vỡ kính xe ô tô của hàng xóm. Việc xử lý Ông H ra sao?
+A. Đưa Ông H đi tù chung thân
+B. Không truy cứu trách nhiệm hình sự đối với Ông H do thuộc Tình trạng không có năng lực TNHS (Điều 21 BLHS); áp dụng biện pháp bắt buộc chữa bệnh
+C. Ủy ban nhân dân cấp xã phạt tiền Ông H 10 triệu đồng
+D. Xử phạt tù Ông H 02 năm tại Tòa án nhân dân khu vực
+Đáp án đúng: B
+Giải thích: Ông H thực hiện hành vi trong tình trạng mất khả năng nhận thức do bệnh tâm thần (có chứng nhận y tế), thuộc Điều 21 BLHS 2015 nên được loại trừ TNHS và áp dụng bắt buộc chữa bệnh.
+
+Câu 104 [Vận dụng]: Anh C phát hiện Tội phạm cướp giật tài sản tên X đang tẩu thoát trên đường tại Phường K. C đuổi theo bắt giữ. Khi C đuổi kịp, X rút dao găm đâm trả quyết liệt. C dùng gậy đập gãy tay X để tước dao, khống chế bắt giữ X giao cho Công an Phường K. Hành vi của C được xác định ra sao?
+A. Vượt quá yêu cầu của tình thế cấp thiết
+B. Tội cố ý gây thương tích
+C. Vi phạm quy chế của Ủy ban nhân dân cấp xã
+D. Hành vi gây thiệt hại trong khi bắt giữ người phạm tội (được loại trừ trách nhiệm hình sự theo Điều 24 BLHS 2015)
+Đáp án đúng: D
+Giải thích: Anh C dùng lực đập gãy tay X để tước dao khống chế kẻ cướp giật đang chống trả là biện pháp duy nhất cần thiết để bắt giữ người phạm tội, thuộc Điều 24 BLHS 2015 (loại trừ TNHS).
+
+Câu 105 [Vận dụng]: Bác sĩ M là chỉ huy đội phẫu thuật cấp cứu tại bệnh viện cấp tỉnh. Bác sĩ M ra lệnh cho y tá N tiêm liều thuốc A cho bệnh nhân. Y tá N phát hiện liều thuốc A trái quy định gây nguy hiểm tính mạng đã giải thích nhưng Bác sĩ M vẫn bắt buộc tiêm. N biết rõ hành vi tiêm thuốc sẽ làm bệnh nhân tử vong nhưng vẫn cố tình tiêm. Bệnh nhân tử vong. Y tá N có được miễn trách nhiệm hình sự theo Điều 26 BLHS không?
+A. Không được miễn TNHS, vì Y tá N biết rõ mệnh lệnh đó là trái pháp luật và gây hậu quả chết người (khoản 2 Điều 26 BLHS 2015)
+B. Ủy ban nhân dân cấp xã xử phạt Y tá N 100.000 đồng
+C. Do Tòa án nhân dân khu vực tự do tuyên trắng án
+D. Được miễn hoàn toàn vì thi hành mệnh lệnh cấp trên
+Đáp án đúng: A
+Giải thích: Theo khoản 2 Điều 26 BLHS 2015, người chấp hành mệnh lệnh không được miễn trách nhiệm hình sự nếu biết rõ mệnh lệnh đó là trái pháp luật.
+
+
+--------------------------------------------------------------------------------
+MỤC 6.2.3. KHÁI NIỆM, MỤC ĐÍCH VÀ HỆ THỐNG HÌNH PHẠT
+--------------------------------------------------------------------------------
+
+Câu 106 [Dễ]: Khái niệm 'Hình phạt' được quy định tại Điều 30 Bộ luật Hình sự 2015 như thế nào?
+A. Là quyết định xử phạt vi phạm hành chính của Ủy ban nhân dân cấp xã
+B. Là biện pháp phạt tiền do cơ quan công an địa phương tự thu
+C. Là hình thức nhắc nhở tại cuộc họp tổ dân phố ở Phường X
+D. Là biện pháp cưỡng chế nghiêm khắc nhất của Nhà nước do Tòa án quyết định áp dụng đối với người hoặc pháp nhân thương mại phạm tội
+Đáp án đúng: D
+Giải thích: Điều 30 BLHS 2015 quy định: Hình phạt là biện pháp cưỡng chế nghiêm khắc nhất của Nhà nước do Tòa án quyết định áp dụng đối với người hoặc pháp nhân thương mại phạm tội.
+
+Câu 107 [Dễ]: Mục đích của hình phạt theo Điều 31 Bộ luật Hình sự 2015 bao gồm nội dung nào?
+A. Chỉ nhằm mục đích trừng trị người phạm tội
+B. Không chỉ trừng trị người phạm tội mà còn giáo dục họ trở thành người có ích cho xã hội, phòng ngừa tội phạm chung
+C. Do Tòa án nhân dân khu vực quyết định tùy thuộc số tiền bị phạt
+D. Nhằm thu tiền bồi thường cho ngân sách của Ủy ban nhân dân cấp xã
+Đáp án đúng: B
+Giải thích: Điều 31 BLHS 2015 quy định mục đích hình phạt: Không chỉ trừng trị người phạm tội mà còn giáo dục họ trở thành người có ích, phòng ngừa người khác phạm tội.
+
+Câu 108 [Dễ]: Cơ quan duy nhất có thẩm quyền tuyên áp dụng hình phạt đối với cá nhân và pháp nhân thương mại phạm tội là cơ quan nào?
+A. Tòa án nhân dân
+B. Viện kiểm sát nhân dân
+C. Ủy ban nhân dân cấp tỉnh
+D. Ủy ban nhân dân cấp xã
+Đáp án đúng: A
+Giải thích: Theo quy định của Hiến pháp 2013 và Điều 30 BLHS 2015, chỉ có Tòa án nhân dân mới có quyền áp dụng hình phạt.
+
+Câu 109 [Dễ]: Hệ thống hình phạt đối với CÁ NHÂN phạm tội theo Điều 32 BLHS 2015 được chia thành hai nhóm chính là gì?
+A. Hình phạt hành chính và Hình phạt hình sự
+B. Hình phạt do UBND cấp xã áp dụng và Hình phạt do Tòa án áp dụng
+C. Hình phạt chính và Hình phạt bổ sung
+D. Hình phạt tù và Hình phạt tử hình
+Đáp án đúng: C
+Giải thích: Điều 32 BLHS 2015 quy định hệ thống hình phạt gồm Hình phạt chính và Hình phạt bổ sung.
+
+Câu 110 [Dễ]: Trong các hình phạt sau đây, hình phạt nào là HÌNH PHẠT CHÍNH đối với cá nhân theo Điều 32 BLHS 2015?
+A. Quản chế
+B. Tải tạo không giam giữ
+C. Cấm cư trú
+D. Tước một số quyền công dân
+Đáp án đúng: B
+Giải thích: Theo khoản 1 Điều 32 BLHS 2015, Cải tạo không giam giữ là một trong các hình phạt chính.
+
+Câu 111 [Dễ]: Trong các hình phạt sau đây, hình phạt nào là HÌNH PHẠT BỔ SUNG đối với cá nhân theo Điều 32 BLHS 2015?
+A. Tù chung thân
+B. Cấm đảm nhiệm chức vụ, cấm hành nghề hoặc làm công việc nhất định
+C. Cảnh cáo
+D. Tù có thời hạn
+Đáp án đúng: B
+Giải thích: Theo khoản 2 Điều 32 BLHS 2015, Cấm đảm nhiệm chức vụ, cấm hành nghề là hình phạt bổ sung.
+
+Câu 112 [Dễ]: Mỗi tội phạm, người phạm tội bị Tòa án tuyên áp dụng bao nhiêu HÌNH PHẠT CHÍNH?
+A. Không hạn chế số lượng hình phạt chính
+B. Có thể tuyên từ 02 đến 03 hình phạt chính cùng lúc
+C. Do Ủy ban nhân dân cấp xã quyết định số lượng
+D. Chỉ duy nhất 01 hình phạt chính
+Đáp án đúng: D
+Giải thích: Đối với mỗi tội phạm, người phạm tội chỉ bị tuyên áp dụng duy nhất 01 hình phạt chính.
+
+Câu 113 [Trung bình]: Hình phạt 'Cảnh cáo' (Điều 35 BLHS 2015) được áp dụng đối với người phạm tội gì?
+A. Phạm tội đặc biệt nghiêm trọng có mức phạt tù 20 năm
+B. Phạm tội thuộc trường hợp tái phạm nguy hiểm
+C. Phạm tội ít nghiêm trọng và có nhiều tình tiết giảm nhẹ, nhưng chưa đến mức miễn hình phạt
+D. Do Chủ tịch Ủy ban nhân dân cấp xã trực tiếp cảnh cáo tại trụ sở
+Đáp án đúng: C
+Giải thích: Điều 35 BLHS 2015 quy định Cảnh cáo áp dụng đối với người phạm tội ít nghiêm trọng và có nhiều tình tiết giảm nhẹ nhưng chưa đến mức miễn hình phạt.
+
+Câu 114 [Trung bình]: Thời hạn của hình phạt 'Cải tạo không giam giữ' theo Điều 36 Bộ luật Hình sự 2015 là bao lâu?
+A. Từ 03 năm đến 05 năm
+B. Từ 01 tháng đến 01 năm
+C. Do Ủy ban nhân dân cấp xã tự quyết định thời gian
+D. Từ 06 tháng đến 03 năm
+Đáp án đúng: D
+Giải thích: Khoản 1 Điều 36 BLHS 2015 quy định hình phạt Cải tạo không giam giữ được áp dụng từ 06 tháng đến 03 năm.
+
+Câu 115 [Trung bình]: Hình phạt 'Tù có thời hạn' đối với người phạm tội cá nhân theo Điều 38 BLHS 2015 có mức tối thiểu và tối đa (trong trường hợp 01 tội) là bao nhiêu?
+A. Tối thiểu 03 tháng và Tối đa 20 năm
+B. Tối thiểu 06 tháng và Tối đa 15 năm
+C. Tối thiểu 01 tháng và Tối đa 30 năm
+D. Tối thiểu 01 năm và Tối đa 25 năm
+Đáp án đúng: A
+Giải thích: Theo khoản 1 Điều 38 BLHS 2015, Tù có thời hạn đối với người phạm 01 tội có mức tối thiểu là 03 tháng và tối đa là 20 năm.
+
+Câu 116 [Trung bình]: Hình phạt 'Tù chung thân' (Điều 39 BLHS 2015) là hình phạt tù không thời hạn được áp dụng đối với người phạm tội gì?
+A. Phạm tội ít nghiêm trọng do vô ý
+B. Mọi trường hợp phạm tội lừa đảo tài sản dưới 2 triệu
+C. Phạm tội đặc biệt nghiêm trọng, nhưng chưa đến mức bị xử phạt tử hình
+D. Phạm tội bị Ủy ban nhân dân cấp xã xử phạt tiền 1 triệu đồng
+Đáp án đúng: C
+Giải thích: Điều 39 BLHS 2015 quy định Tù chung thân là hình phạt tù không thời hạn áp dụng đối với người phạm tội đặc biệt nghiêm trọng nhưng chưa đến mức bị tử hình.
+
+Câu 117 [Trung bình]: Hình phạt 'Tử hình' (Điều 40 BLHS 2015) KHÔNG ĐƯỢC ÁP DỤNG đối với những đối tượng nào sau đây?
+A. Người phạm tội trộm cắp tài sản giá trị 50 triệu
+B. Người dưới 18 tuổi khi phạm tội, phụ nữ có thai, phụ nữ đang nuôi con dưới 36 tháng tuổi hoặc người đủ 75 tuổi trở lên khi phạm tội hoặc khi xét xử
+C. Mọi người phạm tội có tiền nộp phạt cho Tòa án nhân dân khu vực
+D. Chỉ miễn tử hình cho cán bộ công chức cấp tỉnh
+Đáp án đúng: B
+Giải thích: Khoản 2 Điều 40 BLHS 2015 quy định không áp dụng hình phạt tử hình đối với người dưới 18 tuổi, phụ nữ có thai/nuôi con dưới 36 tháng tuổi và người đủ 75 tuổi trở lên.
+
+Câu 118 [Trung bình]: Hệ thống hình phạt đối với PHÁP NHÂN THƯƠNG MẠI phạm tội theo Điều 33 BLHS 2015 bao gồm các HÌNH PHẠT CHÍNH nào?
+A. Phạt tiền; Đình chỉ hoạt động có thời hạn; Đình chỉ hoạt động vĩnh viễn
+B. Tịch thu nhà của Giám đốc doanh nghiệp
+C. Tù có thời hạn và Tử hình
+D. Cải tạo không giam giữ tại Ủy ban nhân dân cấp xã
+Đáp án đúng: A
+Giải thích: Khoản 1 Điều 33 BLHS 2015 quy định hình phạt chính đối với pháp nhân thương mại gồm: Phạt tiền, Đình chỉ hoạt động có thời hạn, Đình chỉ hoạt động vĩnh viễn.
+
+Câu 119 [Trung bình]: Hình phạt 'Đình chỉ hoạt động vĩnh viễn' đối với Pháp nhân thương mại (Điều 79 BLHS 2015) được áp dụng khi nào?
+A. Chỉ đình chỉ hoạt động 01 tháng tại Ủy ban nhân dân cấp xã
+B. Do Tòa án nhân dân khu vực cho phép khắc phục trong 10 năm
+C. Áp dụng cho mọi trường hợp doanh nghiệp chậm nộp thuế 10 triệu đồng
+D. Chấm dứt hoàn toàn hoạt động của pháp nhân thương mại trong một hoặc một số lĩnh vực mà pháp nhân phạm tội gây thiệt hại hoặc có khả năng thực tế gây thiệt hại đến tính mạng nhiều người, sự cố môi trường...
+Đáp án đúng: D
+Giải thích: Điều 79 BLHS 2015 quy định Đình chỉ hoạt động vĩnh viễn áp dụng khi pháp nhân phạm tội gây thiệt hại hoặc có khả năng thực tế gây thiệt hại nghiêm trọng tính mạng nhiều người, môi trường...
+
+Câu 120 [Vận dụng]: Cơ quan công an thi hành án hình sự giám sát người bị tuyên án hình phạt 'Cải tạo không giam giữ' giao cho cơ quan nào trực tiếp giám sát, giáo dục tại địa phương?
+A. Hội liên hiệp phụ nữ cấp tỉnh
+B. Ủy ban nhân dân cấp xã nơi người đó cư trú hoặc cơ quan, tổ chức nơi người đó làm việc
+C. Phòng Tư pháp địa phương
+D. Tòa án nhân dân khu vực trực tiếp cử người đi theo hàng ngày
+Đáp án đúng: B
+Giải thích: Theo khoản 2 Điều 36 BLHS 2015 và Luật Thi hành án hình sự, người chấp hành án Cải tạo không giam giữ được giao cho UBND cấp xã nơi cư trú trực tiếp giám sát, giáo dục.
+
+Câu 121 [Vận dụng]: Ông K (76 tuổi) phạm Tội buôn bán ma túy thuộc khung hình phạt có mức cao nhất là Tử hình. Tòa án nhân dân cấp tỉnh xét xử tuyên án đối với Ông K. Tòa án có được tuyên phạt mức án Tử hình đối với Ông K không?
+A. Tuyên tử hình nhưng hoãn thi hành 50 năm
+B. Được, vì đây là tội ma túy đặc biệt nghiêm trọng
+C. Do Ủy ban nhân dân cấp xã quyết định thay Tòa án
+D. Không, vì theo khoản 2 Điều 40 BLHS 2015, người đủ 75 tuổi trở lên khi phạm tội hoặc khi xét xử không bị áp dụng hình phạt tử hình
+Đáp án đúng: D
+Giải thích: Theo khoản 2 Điều 40 BLHS 2015, người đủ 75 tuổi trở lên khi phạm tội hoặc khi xét xử không áp dụng hình phạt Tử hình (chuyển sang Tù chung thân).
+
+Câu 122 [Vận dụng]: Chị L bị Tòa án tuyên phạt 05 năm tù về Tội tham ô tài sản. Bổ sung thêm, Tòa án tuyên 'Cấm đảm nhiệm chức vụ quản lý trong các doanh nghiệp nhà nước thời hạn 03 năm kể từ ngày chấp hành xong hình phạt tù'. Hình phạt cấm đảm nhiệm chức vụ là hình phạt thuộc loại nào?
+A. Hình phạt chính
+B. Hình phạt bổ sung
+C. Hình phạt hành chính do Ủy ban nhân dân cấp xã áp dụng
+D. Biện pháp kỷ luật lao động
+Đáp án đúng: B
+Giải thích: Cấm đảm nhiệm chức vụ là Hình phạt bổ sung được áp dụng kèm theo hình phạt chính (Tù có thời hạn) theo khoản 2 Điều 32 và Điều 41 BLHS 2015.
+
+Câu 123 [Vận dụng]: Công ty Cổ phần Hóa chất X xả thải hóa chất độc hại cực mạnh gây thảm họa diệt chủng sinh vật biển diện rộng tại Phường T. Tòa án nhân dân cấp tỉnh quyết định tuyên 'Đình chỉ hoạt động vĩnh viễn' đối với Công ty X. Bản án này thể hiện sự áp dụng hình phạt nào?
+A. Hình phạt chính đối với Pháp nhân thương mại phạm tội theo Điều 33 và Điều 79 BLHS 2015
+B. Rút giấy phép kinh doanh của Sở Kế hoạch và Đầu tư không qua tố tụng hình sự
+C. Hình phạt bổ sung đối với cá nhân Giám đốc
+D. Biện pháp xử phạt hành chính của Ủy ban nhân dân cấp xã
+Đáp án đúng: A
+Giải thích: Đình chỉ hoạt động vĩnh viễn là một trong các Hình phạt chính áp dụng đối với Pháp nhân thương mại phạm tội xâm phạm môi trường đặc biệt nghiêm trọng (Điều 33, 79 BLHS 2015).
+
+Câu 124 [Vận dụng]: Anh B phạm Tội cố ý gây thương tích nhẹ, bị Tòa án nhân dân khu vực phạt tiền 20 triệu đồng là hình phạt chính. Ngoài ra Tòa án có được tuyên phạt thêm hình phạt chính 'Cải tạo không giam giữ 01 năm' đối với Anh B cho cùng tội đó không?
+A. Được nếu Viện kiểm sát yêu cầu
+B. Không được, vì mỗi tội phạm cá nhân chỉ bị tuyên áp dụng duy nhất 01 hình phạt chính
+C. Được, tuyên bao nhiêu hình phạt chính tùy Tòa án
+D. Được nếu Ủy ban nhân dân cấp xã đồng ý phê duyệt
+Đáp án đúng: B
+Giải thích: Đối với mỗi tội phạm, người phạm tội chỉ bị tuyên áp dụng duy nhất 01 hình phạt chính. Đã tuyên Phạt tiền là hình phạt chính thì không tuyên thêm Cải tạo không giam giữ.
+
+Câu 125 [Vận dụng]: Bị cáo X phạm tội trộm cắp tài sản. Tòa án nhân dân khu vực tuyên X 02 năm tù có thời hạn. X cho rằng mình bị Tòa án phạt tiền 5 triệu nộp ngân sách địa phương rồi nên không thể bị tù nữa. Qua xác minh, 5 triệu là khoản xử phạt hành chính trước đó của công an. Tòa án tuyên án tù có đúng luật không?
+A. Sai, vì đã phạt tiền hành chính thì không được xử tù
+B. X được quyền tự chọn chấp hành hình phạt tiền
+C. Đúng, vì phạt tiền hành chính trước đó không phải là hình phạt hình sự do Tòa án tuyên; việc xử lý hình sự và tuyên phạt tù đối với tội phạm trộm cắp là hoàn toàn đúng pháp luật
+D. Do Ủy ban nhân dân cấp xã quyết định hủy bỏ án tù
+Đáp án đúng: C
+Giải thích: Việc xử phạt hành chính trước đó không thay thế hình phạt hình sự do Tòa án tuyên khi hành vi cấu thành tội phạm hình sự.
+
+
+--------------------------------------------------------------------------------
+MỤC 6.2.4. QUYẾT ĐỊNH HÌNH PHẠT, MIỄN, GIẢM, ÁN TREO VÀ XÓA ÁN TÍCH
+--------------------------------------------------------------------------------
+
+Câu 126 [Dễ]: Khái niệm 'Án treo' theo Điều 65 Bộ luật Hình sự 2015 được hiểu là gì?
+A. Là một hình phạt độc lập trong hệ thống hình phạt
+B. Là biện pháp miễn chấp hành hình phạt tù có điều kiện, áp dụng đối với người bị xử phạt tù không quá 03 năm, có nhân thân tốt và có nhiều tình tiết giảm nhẹ
+C. Là quyết định cho về nhà của Ủy ban nhân dân cấp xã
+D. Là việc Tòa án nhân dân khu vực hủy bỏ toàn bộ bản án
+Đáp án đúng: B
+Giải thích: Điều 65 BLHS 2015 quy định Án treo không phải là hình phạt mà là biện pháp miễn chấp hành hình phạt tù có điều kiện áp dụng cho người bị phạt tù không quá 03 năm.
+
+Câu 127 [Dễ]: Thời gian thử thách đối với người được hưởng Án treo theo quy định tại Điều 65 BLHS 2015 là bao lâu?
+A. Từ 03 năm đến 10 năm
+B. Do Ủy ban nhân dân cấp xã tự quy định thời gian
+C. Từ 01 năm đến 05 năm
+D. Từ 06 tháng đến 02 năm
+Đáp án đúng: C
+Giải thích: Khoản 1 Điều 65 BLHS 2015 quy định thời gian thử thách đối với án treo là từ 01 năm đến 05 năm.
+
+Câu 128 [Dễ]: Cơ quan nào có trách nhiệm trực tiếp giám sát, giáo dục người được hưởng án treo trong thời gian thử thách tại địa phương?
+A. Sở Tư pháp cấp tỉnh
+B. Ủy ban nhân dân cấp xã nơi người đó cư trú (hoặc cơ quan, tổ chức nơi người đó làm việc)
+C. Hội Cựu chiến binh địa phương
+D. Tòa án nhân dân khu vực cử cán bộ gác cổng nhà
+Đáp án đúng: B
+Giải thích: Theo khoản 2 Điều 65 BLHS 2015, Tòa án giao người được hưởng án treo cho Ủy ban nhân dân cấp xã nơi người đó cư trú để giám sát, giáo dục.
+
+Câu 129 [Dễ]: Hậu quả pháp lý của việc được 'Xóa án tích' (Điều 69 BLHS 2015) là gì?
+A. Người được xóa án tích được coi như chưa từng bị kết án
+B. Được Ủy ban nhân dân cấp xã cấp toàn bộ tài sản mới
+C. Do Tòa án nhân dân khu vực giữ nguyên lý lịch tư pháp xấu
+D. Vẫn bị coi là người có tiền án vĩnh viễn không bao giờ hết
+Đáp án đúng: A
+Giải thích: Khoản 1 Điều 69 BLHS 2015 quy định: Người được xóa án tích coi như chưa bị kết án.
+
+Câu 130 [Trung bình]: Trong thời gian thử thách, nếu người được hưởng án treo cố ý vi phạm nghĩa vụ theo quy định của Luật Thi hành án hình sự từ 02 lần trở lên thì xử lý thế nào?
+A. Tòa án có thể quyết định buộc người đó phải chấp hành hình phạt tù của bản án đã cho hưởng án treo
+B. Miễn toàn bộ nghĩa vụ không cần chấp hành tù
+C. Được kéo dài thời gian thử thách thêm 20 năm
+D. Ủy ban nhân dân cấp xã phạt tiền 500.000 đồng
+Đáp án đúng: A
+Giải thích: Theo khoản 5 Điều 65 BLHS 2015, vi phạm nghĩa vụ từ 02 lần trở lên trong thời gian thử thách thì Tòa án buộc chấp hành hình phạt tù của bản án đó.
+
+Câu 131 [Trung bình]: Nội dung nào sau đây ĐÚNG về trường hợp 'Đương nhiên được xóa án tích' theo Điều 70 BLHS 2015?
+A. Chỉ áp dụng cho người bị phạt tù chung thân
+B. Phải qua phiên tòa xét xử công khai mới được xóa
+C. Do Chủ tịch Ủy ban nhân dân cấp xã ra quyết định cấp giấy xóa án tích
+D. Áp dụng đối với người bị kết án không phải về các tội xâm phạm an ninh quốc gia/tội phá hòa bình..., nếu từ khi chấp hành xong hình phạt chính hoặc hết thời gian thử thách án treo, người đó đã chấp hành xong hình phạt bổ sung, các quyết định khác và không thực hiện hành vi phạm tội mới trong thời hạn luật định
+Đáp án đúng: D
+Giải thích: Điều 70 BLHS 2015 quy định về Đương nhiên được xóa án tích khi chấp hành xong bản án và đáp ứng thời hạn không phạm tội mới mà không cần Tòa án ra quyết định.
+
+Câu 132 [Vận dụng]: Anh K bị Tòa án nhân dân khu vực M tuyên phạt 02 năm tù về Tội trộm cắp tài sản nhưng cho hưởng Án treo, thời gian thử thách 04 năm. Tòa án giao Anh K cho Ủy ban nhân dân cấp xã Phường X giám sát, giáo dục. Anh K muốn đi khỏi nơi cư trú 03 ngày để về quê ăn Tết thì phải làm gì?
+A. Phải xin phép và được sự đồng ý của Ủy ban nhân dân cấp xã Phường X (cơ quan trực tiếp giám sát, giáo dục) theo quy định của Luật Thi hành án hình sự
+B. Chỉ cần thông báo cho bảo vệ tổ dân phố
+C. Tự do đi mà không cần xin phép bất kỳ ai
+D. Phải làm đơn gửi Tòa án nhân dân tối cao
+Đáp án đúng: A
+Giải thích: Theo Luật Thi hành án hình sự, người chấp hành án treo khi vắng mặt tại nơi cư trú phải xin phép và được sự đồng ý của UBND cấp xã trực tiếp giám sát.
+
+Câu 133 [Vận dụng]: Anh B bị Tòa án phạt 04 năm tù về Tội cố ý gây thương tích. B có đơn xin cho hưởng án treo vì gia đình hoàn cảnh khó khăn. Tòa án có được chấp nhận cho B hưởng án treo không?
+A. Không được, vì theo Điều 65 BLHS 2015, án treo chỉ áp dụng đối với người bị xử phạt tù không quá 03 năm (mức tù của B là 04 năm nên không đủ điều kiện)
+B. Do Thẩm phán Tòa án nhân dân khu vực tự quyết định không theo luật
+C. Được nếu B nộp phạt tiền 100 triệu đồng
+D. Được, nếu Ủy ban nhân dân cấp xã Phường Y đứng ra bảo lãng
+Đáp án đúng: A
+Giải thích: Điều 65 BLHS 2015 quy định điều kiện về mức phạt tù để được hưởng án treo là phạt tù 'không quá 03 năm'. Anh B bị phạt 04 năm tù nên không đủ điều kiện hưởng án treo.
+
+Câu 134 [Vận dụng]: Anh M bị tuyên phạt 01 năm tù cho hưởng án treo, thời gian thử thách 02 năm. Khi mới chấp hành thời gian thử thách được 01 năm tại Phường T, Anh M lại cố ý thực hiện hành vi trộm cắp tài sản (phạm tội mới). Tòa án nhân dân khu vực giải quyết ra sao?
+A. Buộc Anh M phải chấp hành hình phạt 01 năm tù của bản án trước và tổng hợp với hình phạt của bản án mới theo quy định tại khoản 5 Điều 65 BLHS 2015
+B. Bỏ qua tội mới vì đang trong thời gian thử thách
+C. Kéo dài thời gian thử thách thêm 10 năm
+D. Ủy ban nhân dân cấp xã phạt tiền 2 triệu đồng rồi cho về
+Đáp án đúng: A
+Giải thích: Nếu người được hưởng án treo phạm tội mới trong thời gian thử thách thì Tòa án buộc chấp hành hình phạt tù của bản án trước và tổng hợp với hình phạt của bản án mới.
+
+Câu 135 [Vận dụng]: Chị H bị phạt tù 01 năm về tội trộm cắp. Tháng 5/2022 Chị H đã chấp hành xong toàn bộ bản án (gồm án tù, tiền bồi thường, án phí). Trong thời hạn 01 năm sau đó (đến tháng 5/2023), Chị H hoàn toàn không phạm tội mới. Theo Điều 70 BLHS 2015, Chị H có trạng thái tư pháp thế nào?
+A. Ủy ban nhân dân cấp xã Phường X ra quyết định thu hồi hộ khẩu
+B. Vẫn có tiền án vĩnh viễn
+C. Đương nhiên được xóa án tích và coi như chưa từng bị kết án
+D. Tòa án nhân dân khu vực mở phiên tòa tuyên xóa án tích mới được tính
+Đáp án đúng: C
+Giải thích: Theo Điều 70 BLHS 2015, Chị H thuộc trường hợp Đương nhiên được xóa án tích khi chấp hành xong bản án và không phạm tội mới trong thời hạn 01 năm đối với mức phạt tù đến 01 năm.
+
+
+--------------------------------------------------------------------------------
+MỤC 6.3.1. CÁC TỘI XÂM PHẠM TÍNH MẠNG, SỨC KHỎE, NHÂN PHẨM, DANH DỰ CỦA CON NGƯỜI
+--------------------------------------------------------------------------------
+
+Câu 136 [Dễ]: Tội phạm nào sau đây là tội phạm đặc biệt nghiêm trọng xâm phạm trực tiếp đến quyền sống của con người được quy định tại Điều 123 BLHS 2015?
+A. Tội cố ý gây thương tích nhẹ
+B. Tội trộm cắp tài sản giá trị 3 triệu đồng
+C. Tội vi phạm giao thông bị UBND cấp xã phạt tiền
+D. Tội giết người
+Đáp án đúng: D
+Giải thích: Điều 123 BLHS 2015 quy định Tội giết người, đây là tội phạm xâm phạm quyền sống - quyền con người cơ bản nhất.
+
+Câu 137 [Dễ]: Cơ sở xác định Tội cố ý gây thương tích hoặc gây tổn hại cho sức khỏe của người khác theo Điều 134 BLHS 2015 thông thường dựa vào tiêu chí chính nào?
+A. Tỷ lệ tổn thương cơ thể của nạn nhân (từ 11% trở lên hoặc dưới 11% nhưng thuộc các trường hợp đặc biệt do luật định)
+B. Địa điểm xảy ra sự việc tại Phường X hay Phường Y
+C. Mức phạt tiền thu nộp ngân sách Ủy ban nhân dân cấp xã
+D. Số dư tài khoản ngân hàng của bị cáo
+Đáp án đúng: A
+Giải thích: Điều 134 BLHS 2015 quy định Tội cố ý gây thương tích thông thường căn cứ vào tỷ lệ tổn thương cơ thể từ 11% trở lên (hoặc dưới 11% nếu dùng vũ khí, có tính chất côn đồ...).
+
+Câu 138 [Dễ]: Hành vi xúc phạm nghiêm trọng nhân phẩm, danh dự của người khác cấu thành tội phạm nào theo Điều 155 BLHS 2015?
+A. Tội cướp tài sản
+B. Tội vô ý làm chết người
+C. Tội làm nhục người khác
+D. Tội lừa đảo chiếm đoạt tài sản
+Đáp án đúng: C
+Giải thích: Điều 155 BLHS 2015 quy định Tội làm nhục người khác đối với hành vi xúc phạm nghiêm trọng nhân phẩm, danh dự của người khác.
+
+Câu 139 [Dễ]: Hành vi bịa đặt hoặc lan truyền những điều biết rõ là sai sự thật nhằm xúc phạm nghiêm trọng nhân phẩm, danh dự hoặc gây thiệt hại đến quyền, lợi ích hợp pháp của người khác cấu thành tội gì theo Điều 156 BLHS 2015?
+A. Tội vu khống
+B. Tội phản bội tổ quốc
+C. Tội trộm cắp tài sản
+D. Tội đe dọa giết người
+Đáp án đúng: A
+Giải thích: Điều 156 BLHS 2015 quy định Tội vu khống đối với hành vi bịa đặt/lan truyền điều biết rõ là sai sự thật nhằm xúc phạm nhân phẩm, danh dự của người khác.
+
+Câu 140 [Trung bình]: Sự khác biệt căn bản giữa 'Tội giết người' (Điều 123) và 'Tội cố ý gây thương tích dẫn đến chết người' (khoản 4 Điều 134 BLHS 2015) nằm ở yếu tố nào trong cấu thành tội phạm?
+A. Thẩm quyền giải quyết của Phòng Tư pháp
+B. Khách thể của tội phạm
+C. Mặt chủ quan về lỗi đối với hậu quả chết người (Giết người có lỗi cố ý đối với hậu quả chết người; Cố ý gây thương tích dẫn đến chết người có lỗi cố ý với thương tích nhưng vô ý đối với hậu quả chết người)
+D. Địa bàn quản lý của Ủy ban nhân dân cấp xã
+Đáp án đúng: C
+Giải thích: Giết người: Lỗi cố ý đối với cả hành vi và hậu quả chết người. Cố ý gây thương tích dẫn đến chết người: Lỗi cố ý đối với thương tích, nhưng lỗi vô ý đối với hậu quả chết người.
+
+Câu 141 [Trung bình]: Tội vô ý làm chết người (Điều 128 BLHS 2015) khác với Tội giết người ở chỗ nào?
+A. Lỗi của người phạm tội là lỗi cố ý trực tiếp tột cùng
+B. Người phạm tội do Chủ tịch Ủy ban nhân dân cấp xã chỉ định
+C. Lỗi của người phạm tội đối với hậu quả chết người là lỗi vô ý (do quá tự tin hoặc do cẩu thả)
+D. Hậu quả không có ai bị chết
+Đáp án đúng: C
+Giải thích: Tội vô ý làm chết người xuất phát từ lỗi vô ý (quá tự tin hoặc cẩu thả) đối với hậu quả tử vong của nạn nhân.
+
+Câu 142 [Trung bình]: Nội dung nào sau đây cấu thành 'Tội không cứu giúp người đang trong tình trạng nguy hiểm đến tính mạng' theo Điều 132 BLHS 2015?
+A. Thấy người khác đang trong tình trạng nguy hiểm đến tính mạng, tuy có điều kiện mà không cứu giúp dẫn đến hậu quả người đó chết
+B. Gọi điện báo ngay cho công an cấp xã và lực lượng cấp cứu 115
+C. Thấy người khác ngất xỉu lập tức cõng đến bệnh viện cấp cứu
+D. Không có chuyên môn y tế nên không thể phẫu thuật tim
+Đáp án đúng: A
+Giải thích: Điều 132 BLHS 2015 quy định Tội không cứu giúp người đang trong tình trạng nguy hiểm đến tính mạng khi có đủ điều kiện cứu giúp mà không cứu dẫn đến người đó chết.
+
+Câu 143 [Trung bình]: Tội hiếp dâm (Điều 141 BLHS 2015) được thực hiện bằng những thủ đoạn khách quan nào?
+A. Nhờ Tòa án nhân dân khu vực hòa giải tình cảm
+B. Dùng vũ lực, đe dọa dùng vũ lực hoặc lợi dụng tình trạng không thể tự vệ được của nạn nhân hoặc thủ đoạn khác giao cấu hoặc thực hiện hành vi quan hệ tình dục khác trái với ý muốn của nạn nhân
+C. Đăng ký kết hôn hợp pháp tại Ủy ban nhân dân cấp xã
+D. Thỏa thuận tự nguyện giao cấu hai bên tại khách sạn
+Đáp án đúng: B
+Giải thích: Điều 141 BLHS 2015 quy định Tội hiếp dâm bằng thủ đoạn dùng vũ lực, đe dọa dùng vũ lực, lợi dụng tình trạng không thể tự vệ... thực hiện quan hệ tình dục trái ý muốn nạn nhân.
+
+Câu 144 [Vận dụng]: Do nghi ngờ Chị K có quan hệ bất chính với chồng mình, Bà T cùng 2 người bạn đến Phường M khống chế Chị K, xé quần áo, lột đồ giữa đường đông người và quay video phát trực tiếp lên mạng xã hội nhằm làm Chị K xấu hổ nhục nhã. Hành vi của Bà T cấu thành tội gì?
+A. Tội cướp tài sản
+B. Tội trộm cắp tài sản
+C. Chỉ là vi phạm trật tự công cộng bị Ủy ban nhân dân cấp xã phạt 100.000 đồng
+D. Tội làm nhục người khác (Điều 155 BLHS 2015)
+Đáp án đúng: D
+Giải thích: Hành vi lột đồ, quay clip phát mạng xã hội xúc phạm nghiêm trọng nhân phẩm, danh dự người khác cấu thành Tội làm nhục người khác theo Điều 155 BLHS 2015.
+
+Câu 145 [Vận dụng]: Anh H giận B nên cắt ghép hình ảnh Anh B vào các hình ảnh nhạy cảm rồi tạo tài khoản giả viết bài bịa đặt Anh B bị nhiễm HIV chuyên đi lây nhiễm cho người khác tại Phường X. Việc này làm Anh B bị khủng hoảng tinh thần nghiêm trọng. Anh H phạm tội gì?
+A. Vi phạm quy chế nội bộ của Ủy ban nhân dân cấp xã
+B. Tội cướp giật tài sản
+C. Tội vu khống (Điều 156 BLHS 2015)
+D. Tội đe dọa giết người
+Đáp án đúng: C
+Giải thích: Bịa đặt thông tin sai sự thật (bị nhiễm HIV) lan truyền nhằm hạ uy tín, xúc phạm danh dự nghiêm trọng cấu thành Tội vu khống (Điều 156 BLHS 2015).
+
+Câu 146 [Vận dụng]: Anh D trong lúc tranh cãi tại Phường T đã dùng tay đấm 01 cái vào mặt Anh M. M bị ngã ngửa đầu đập xuống nền bê tông chấn thương sọ não tử vong. D khai chỉ muốn đấm cho M chói mắt chứ hoàn toàn không muốn M chết. Xác định tội danh của D?
+A. Sự kiện bất ngờ không có tội
+B. Ủy ban nhân dân cấp xã phạt tiền 1 triệu đồng
+C. Tội cố ý gây thương tích dẫn đến chết người (khoản 4 Điều 134 BLHS 2015)
+D. Tội giết người (Điều 123)
+Đáp án đúng: C
+Giải thích: Anh D cố ý gây thương tích (đấm vào mặt), nhưng vô ý đối với hậu quả tử vong của M (ngã đập đầu xuống nền bê tông). Hành vi cấu thành Tội cố ý gây thương tích dẫn đến chết người (khoản 4 Điều 134 BLHS).
+
+Câu 147 [Vận dụng]: Anh K vứt vỏ dưa hấu từ tầng 10 chung cư xuống sân chơi của trẻ em tại Phường Y. Vỏ dưa rơi trúng đầu cháu bé 5 tuổi làm cháu chấn thương sọ nặng tử vong. Anh K không cố ý giết cháu bé nhưng quá cẩu thả khi vứt đồ nguy hiểm. Anh K phạm tội gì?
+A. Không phạm tội vì dưa hấu là chất hữu cơ
+B. Tội giết người
+C. Tội vô ý làm chết người (Điều 128 BLHS 2015)
+D. Tội vi phạm quy định về vệ sinh của Ủy ban nhân dân cấp xã
+Đáp án đúng: C
+Giải thích: Anh K vô ý do cẩu thả khi ném vật nặng từ tầng cao xuống khu vực sân chơi làm chết người, cấu thành Tội vô ý làm chết người (Điều 128 BLHS 2015).
+
+Câu 148 [Vận dụng]: Bị cáo X vung dao chém liên tiếp 3 phát vào vùng đầu và cổ của Anh Y tại Phường H. Anh Y được người dân đưa đi cấp cứu kịp thời nên không chết nhưng tổn thương sức khỏe 45%. Tòa án nhân dân khu vực xét xử X về tội danh nào?
+A. Chỉ xử phạt vi phạm hành chính tại Ủy ban nhân dân cấp xã
+B. Tội cố ý gây thương tích
+C. Tội gây rối trật tự công cộng
+D. Tội giết người (ở giai đoạn Phạm tội chưa thành)
+Đáp án đúng: D
+Giải thích: Dùng vũ khí nguy hiểm chém vào vùng yếu huyệt (đầu, cổ) thể hiện ý thức cố ý tước đoạt tính mạng. Việc nạn nhân không chết là ngoài ý muốn, cấu thành Tội giết người chưa thành (Điều 123, Điều 15 BLHS).
+
+Câu 149 [Vận dụng]: Anh T phát hiện người hàng xóm ngã xuống giếng nước sâu tại Phường K đang kêu cứu ngạt nước. Anh T có sẵn dây thừng dài cạnh đó và hoàn toàn có sức khỏe để thả dây kéo người lên hoặc hô hoán xung quanh nhưng vì ghét người này nên T lặng lẽ bỏ đi nằm ngủ. Nạn nhân tử vong. T phạm tội gì?
+A. Tội thiếu trách nhiệm gây hậu quả nghiêm trọng
+B. Ủy ban nhân dân cấp xã phạt vi phạm trật tự 200.000 đồng
+C. Tội giết người
+D. Tội không cứu giúp người đang trong tình trạng nguy hiểm đến tính mạng (Điều 132 BLHS 2015)
+Đáp án đúng: D
+Giải thích: Thấy người nguy hiểm tính mạng, có điều kiện cứu giúp mà không cứu dẫn đến người đó chết cấu thành Tội không cứu giúp người đang trong tình trạng nguy hiểm đến tính mạng (Điều 132 BLHS).
+
+Câu 150 [Vận dụng]: Anh P dùng gậy gỗ đập gãy chân Anh Q tại Phường M. Qua giám định pháp y, tỷ lệ tổn thương cơ thể của Q là 15%. Tuy nhiên, P thực hiện hành vi có tính chất côn đồ và dùng gậy gỗ là dung cụ nguy hiểm. Tòa án nhân dân khu vực xét xử P theo tội danh nào?
+A. Tội hủy hoại tài sản
+B. Ủy ban nhân dân cấp xã xử phạt vi phạm hành chính 500.000 đồng
+C. Tội cố ý gây thương tích theo điểm a, i khoản 1 Điều 134 BLHS 2015
+D. Tội đe dọa giết người
+Đáp án đúng: C
+Giải thích: Gây thương tích 15% bằng hung khí nguy hiểm và có tính chất côn đồ cấu thành Tội cố ý gây thương tích theo Điều 134 BLHS 2015.
+
+
+--------------------------------------------------------------------------------
+MỤC 6.3.2. CÁC TỘI XÂM PHẠM SỞ HỮU
+--------------------------------------------------------------------------------
+
+Câu 151 [Dễ]: Hành vi 'Dùng vũ lực, đe dọa dùng vũ lực ngay tức khắc hoặc có hành vi khác làm cho người bị tấn công lâm vào tình trạng không thể chống cự được nhằm chiếm đoạt tài sản' cấu thành tội phạm nào theo Điều 168 BLHS 2015?
+A. Tội cướp tài sản
+B. Tội lừa đảo chiếm đoạt tài sản
+C. Tội trộm cắp tài sản
+D. Tội chiếm giữ trái phép tài sản
+Đáp án đúng: A
+Giải thích: Điều 168 BLHS 2015 quy định Tội cướp tài sản với các dấu hiệu khách quan dùng vũ lực, đe dọa dùng vũ lực ngay tức khắc làm nạn nhân không thể chống cự.
+
+Câu 152 [Dễ]: Dấu hiệu hành vi đặc trưng nhất của 'Tội trộm cắp tài sản' theo Điều 173 Bộ luật Hình sự 2015 là gì?
+A. Do Ủy ban nhân dân cấp xã chứng nhận bán lại tài sản
+B. Công khai giật phăng dây chuyền rồi chạy trốn
+C. Dùng súng đe dọa bắn chết nạn nhân giữa đường
+D. Hành vi lén lút (bí mật) đối với chủ sở hữu tài sản để chiếm đoạt tài sản
+Đáp án đúng: D
+Giải thích: Dấu hiệu đặc trưng của Tội trộm cắp tài sản là lén lút (bí mật) đối với chủ sở hữu hoặc người quản lý tài sản.
+
+Câu 153 [Dễ]: Mức giá trị tài sản tối thiểu thông thường bị chiếm đoạt để bị truy cứu trách nhiệm hình sự về Tội trộm cắp tài sản (Điều 173) hoặc Tội lừa đảo chiếm đoạt tài sản (Điều 174) là bao nhiêu?
+A. Từ 500.000 đồng trở lên
+B. Từ 10.000.000 đồng trở lên
+C. Từ 2.000.000 đồng trở lên
+D. Từ 50.000.000 đồng trở lên
+Đáp án đúng: C
+Giải thích: Theo Điều 173 và Điều 174 BLHS 2015, định ngạch giá trị tài sản tối thiểu thông thường bị chiếm đoạt để xử lý hình sự là từ 2.000.000 đồng trở lên.
+
+Câu 154 [Dễ]: Dấu hiệu hành vi đặc trưng nhất của 'Tội cướp giật tài sản' (Điều 171 BLHS 2015) là gì?
+A. Nhanh chóng, công khai chiếm đoạt tài sản rồi tẩu thoát
+B. Thủ đoạn gian dối tạo niềm tin rồi nhận tiền
+C. Do Ủy ban nhân dân cấp xã cho phép lấy tài sản
+D. Lén lút đột nhập lúc nửa đêm không ai biết
+Đáp án đúng: A
+Giải thích: Tội cướp giật tài sản có đặc trưng khách quan là 'Nhanh chóng chiếm đoạt tài sản một cách công khai rồi tẩu thoát'.
+
+Câu 155 [Trung bình]: Tội cướp tài sản (Điều 168 BLHS 2015) được xem là hoàn thành từ thời điểm nào?
+A. Khi đã mang tài sản về nhà cất giấu an toàn
+B. Khi Ủy ban nhân dân cấp xã lập biên bản tịch thu tài sản
+C. Từ thời điểm người phạm tội thực hiện hành vi dùng vũ lực, đe dọa dùng vũ lực ngay tức khắc hoặc hành vi khác làm nạn nhân không thể chống cự (không phụ thuộc đã lấy được tài sản hay chưa)
+D. Khi Tòa án nhân dân khu vực thụ lý hồ sơ
+Đáp án đúng: C
+Giải thích: Tội cướp tài sản có cấu thành tội phạm hình thức, hoàn thành ngay từ thời điểm thực hiện hành vi dùng vũ lực/đe dọa dùng vũ lực nhằm chiếm đoạt tài sản.
+
+Câu 156 [Trung bình]: Sự khác biệt căn bản giữa 'Tội lừa đảo chiếm đoạt tài sản' (Điều 174) và 'Tội lạm dụng tín nhiệm chiếm đoạt tài sản' (Điều 175 BLHS 2015) nằm ở thời điểm phát sinh thủ đoạn gian dối?
+A. Lừa đảo không cần tài sản; Lạm dụng tín nhiệm phải trên 1 tỷ đồng
+B. Hai tội phạm này hoàn toàn giống nhau không có điểm khác
+C. Lừa đảo do Tòa án khu vực xử; Lạm dụng tín nhiệm do UBND cấp xã xử
+D. Lừa đảo: Thủ đoạn gian dối có TRƯỚC khi giao tài sản; Lạm dụng tín nhiệm: Có tài sản hợp pháp TRƯỚC (qua vay, mượn, thuê) rồi mới phát sinh thủ đoạn gian dối/bỏ trốn để chiếm đoạt
+Đáp án đúng: D
+Giải thích: Tội lừa đảo: Gian dối trước để chủ tài sản tin tưởng giao tài sản. Tội lạm dụng tín nhiệm: Nhận tài sản hợp pháp trước qua hợp đồng vay/mượn/thuê rồi sau đó mới nảy sinh gian dối/bỏ trốn để chiếm đoạt.
+
+Câu 157 [Trung bình]: Trường hợp người trộm cắp tài sản khi bị phát hiện đã dùng vũ lực đe dọa, tấn công người đuổi bắt để BẢO VỆ TÀI SẢN VỪA TRỘM ĐƯỢC thì hành vi sẽ chuyển hóa thành tội gì?
+A. Chuyển hóa thành Tội cướp tài sản (Điều 168 BLHS 2015)
+B. Vẫn giữ nguyên Tội trộm cắp tài sản
+C. Tội gây rối trật tự công cộng
+D. Chuyển thành phạt hành chính tại Ủy ban nhân dân cấp xã
+Đáp án đúng: A
+Giải thích: Hành vi dùng vũ lực tấn công người bắt giữ nhằm giữ bằng được tài sản vừa lấy trộm làm hành vi chuyển hóa thành Tội cướp tài sản theo Điều 168 BLHS.
+
+Câu 158 [Trung bình]: Hành vi đe dọa sẽ dùng vũ lực hoặc có thủ đoạn khác uy hiếp tinh thần người khác (như dọa công bố bí mật đời tư) nhằm buộc người đó giao tài sản cấu thành tội gì theo Điều 170 BLHS 2015?
+A. Tội cưỡng đoạt tài sản
+B. Tội lừa đảo chiếm đoạt tài sản
+C. Tội cướp giật tài sản
+D. Tội trộm cắp tài sản
+Đáp án đúng: A
+Giải thích: Điều 170 BLHS 2015 quy định Tội cưỡng đoạt tài sản đối với hành vi đe dọa sẽ dùng vũ lực hoặc uy hiếp tinh thần người khác nhằm chiếm đoạt tài sản.
+
+Câu 159 [Vận dụng]: Anh K điều khiển xe máy đi chậm trên đường tại Phường X. Phát hiện Chị M đang đứng nghe điện thoại sơ hở, K áp sát giật phăng chiếc điện thoại iPhone trị giá 25 triệu đồng trên tay Chị M rồi tăng ga tẩu thoát. Anh K phạm tội gì?
+A. Tội trộm cắp tài sản
+B. Ủy ban nhân dân cấp xã phạt vi phạm giao thông
+C. Tội cướp giật tài sản (Điều 171 BLHS 2015)
+D. Tội lừa đảo chiếm đoạt tài sản
+Đáp án đúng: C
+Giải thích: Hành vi áp sát công khai giật lấy tài sản (điện thoại) trên tay nạn nhân rồi nhanh chóng tẩu thoát cấu thành Tội cướp giật tài sản (Điều 171 BLHS 2015).
+
+Câu 160 [Vận dụng]: Anh A đến tiệm cầm đồ tại Phường Y mượn chiếc xe máy giá trị 40 triệu đồng chạy thử. A lấy lý do chạy thử xe rồi lái thẳng xe đi bán cho người khác lấy tiền tiêu xài, tắt điện thoại bỏ trốn. Hành vi của A cấu thành tội gì?
+A. Tội cướp giật tài sản
+B. Tội cướp tài sản
+C. Tội lừa đảo chiếm đoạt tài sản (Điều 174 BLHS 2015)
+D. Vi phạm hợp đồng dân sự gửi Tòa án nhân dân khu vực
+Đáp án đúng: C
+Giải thích: Anh A dùng thủ đoạn gian dối giả vờ xin 'chạy thử xe' nhằm chiếm đoạt chiếc xe 40 triệu. Thủ đoạn gian dối có trước khi nhận tài sản, cấu thành Tội lừa đảo chiếm đoạt tài sản (Điều 174 BLHS).
+
+Câu 161 [Vận dụng]: Chị B thuê một chiếc ô tô tự lái trị giá 600 triệu đồng của Công ty V trong thời hạn 03 ngày. Đến hạn trả xe, Chị B đem chiếc xe này đi làm giấy tờ giả bán cho Ông C lấy 400 triệu đồng rồi bỏ trốn khỏi địa phương. Chị B phạm tội gì?
+A. Tội cướp tài sản
+B. Tội trộm cắp tài sản
+C. Ủy ban nhân dân cấp xã phạt hành chính 5 triệu
+D. Tội lạm dụng tín nhiệm chiếm đoạt tài sản (Điều 175 BLHS 2015)
+Đáp án đúng: D
+Giải thích: Chị B có tài sản thông qua hợp đồng thuê xe hợp pháp trước, sau đó mới nảy sinh thủ đoạn gian dối bán xe lấy tiền rồi bỏ trốn. Hành vi cấu thành Tội lạm dụng tín nhiệm chiếm đoạt tài sản (Điều 175 BLHS).
+
+Câu 162 [Vận dụng]: Anh T lẻn vào bãi giữ xe của bệnh viện tại Phường M dắt trộm chiếc xe máy trị giá 18 triệu đồng. Khi T vừa dắt xe ra cổng thì bị bảo vệ phát hiện giữ lại. T dùng dao găm mang sẵn trong người đâm bảo vệ trọng thương rồi bỏ chạy nhưng vẫn bị bắt. T phạm tội gì?
+A. Tội trộm cắp tài sản
+B. Chỉ xử phạt tại Ủy ban nhân dân cấp xã
+C. Tội cướp tài sản (chuyển hóa từ trộm cắp do dùng vũ lực đe dọa tính mạng để giữ tài sản trộm được theo Điều 168 BLHS)
+D. Tội lừa đảo tài sản
+Đáp án đúng: C
+Giải thích: Hành vi trộm cắp bị phát hiện đã dùng dao đâm bảo vệ để giữ bằng được tài sản trộm được làm hành vi chuyển hóa thành Tội cướp tài sản (Điều 168 BLHS 2015).
+
+Câu 163 [Vận dụng]: Anh N quay lén clip nhạy cảm của Anh P tại khách sạn ở Phường T. N nhắn tin cho P dọa nếu không chuyển 50 triệu đồng vào tài khoản của N thì N sẽ phát clip lên trang mạng xã hội của cơ quan P. P lo sợ nên đã chuyển 50 triệu cho N. Anh N phạm tội gì?
+A. Tội cưỡng đoạt tài sản (Điều 170 BLHS 2015)
+B. Tội cướp giật tài sản
+C. Tội lừa đảo chiếm đoạt tài sản
+D. Ủy ban nhân dân cấp xã giải quyết hòa giải
+Đáp án đúng: A
+Giải thích: Hành vi đe dọa công bố clip nhạy cảm (uy hiếp tinh thần) buộc nạn nhân giao 50 triệu đồng cấu thành Tội cưỡng đoạt tài sản theo Điều 170 BLHS 2015.
+
+Câu 164 [Vận dụng]: Do tức giận vì bị đòi nợ, Anh H mang xăng đến đốt cháy chiếc xe ô tô trị giá 800 triệu đồng của Anh K tại Phường X. Xe bị cháy rụi hoàn toàn. Anh H phạm tội gì?
+A. Tội trộm cắp tài sản
+B. Tội hủy hoại hoặc cố ý làm hư hỏng tài sản (Điều 178 BLHS 2015)
+C. Tội cướp tài sản
+D. Ủy ban nhân dân cấp xã xử phạt vi phạm môi trường
+Đáp án đúng: B
+Giải thích: Hành vi dùng xăng đốt cháy rụi ô tô 800 triệu đồng cấu thành Tội hủy hoại tài sản theo quy định tại Điều 178 BLHS 2015.
+
+Câu 165 [Vận dụng]: Anh C (chưa từng có tiền án tiền sự) dắt trộm chiếc xe đạp cũ trị giá 1,2 triệu đồng tại Phường H. C bị công an bắt giữ. Giá trị tài sản trộm cắp dưới 2.000.000 đồng và không thuộc các trường hợp đặc biệt khác. Xử lý hành vi của Anh C ra sao?
+A. Tòa án nhân dân khu vực xử phạt tù 03 năm
+B. Ủy ban nhân dân cấp xã tịch thu toàn bộ nhà cửa
+C. Không truy cứu trách nhiệm hình sự; bị xử phạt vi phạm hành chính theo Luật Xử lý vi phạm hành chính
+D. Tòa án tuyên phạt tù chung thân
+Đáp án đúng: C
+Giải thích: Tài sản bị trộm dưới 2 triệu đồng và C không thuộc các trường hợp quy định tại khoản 1 Điều 173 BLHS nên không cấu thành tội phạm, chỉ bị xử phạt vi phạm hành chính.
+
+
+--------------------------------------------------------------------------------
+MỤC 6.3.3. CÁC TỘI XÂM PHẠM TRẬT TỰ QUẢN LÝ KINH TẾ, CHỨC VỤ VÀ THAM NHỮNG
+--------------------------------------------------------------------------------
+
+Câu 166 [Dễ]: Hành vi lợi dụng chức vụ, quyền hạn chiếm đoạt tài sản mà mình có trách nhiệm quản lý cấu thành tội phạm nào theo Điều 353 BLHS 2015?
+A. Tội trốn thuế
+B. Tội cướp tài sản
+C. Tội trộm cắp tài sản
+D. Tội tham ô tài sản
+Đáp án đúng: D
+Giải thích: Điều 353 BLHS 2015 quy định Tội tham ô tài sản đối với hành vi lợi dụng chức vụ, quyền hạn chiếm đoạt tài sản mà mình có trách nhiệm quản lý.
+
+Câu 167 [Dễ]: Hành vi người có chức vụ, quyền hạn trực tiếp hoặc qua trung gian nhận hoặc sẽ nhận bất kỳ lợi ích nào cho chính bản thân người đó hoặc cho người, tổ chức khác để làm hoặc không làm một việc vì lợi ích hoặc theo yêu cầu của người đưa hối lộ cấu thành tội gì theo Điều 354 BLHS 2015?
+A. Tội lừa đảo tài sản
+B. Tội nhận hối lộ
+C. Tội đưa hối lộ
+D. Tội buôn lậu
+Đáp án đúng: B
+Giải thích: Điều 354 BLHS 2015 quy định Tội nhận hối lộ đối với hành vi người có chức vụ quyền hạn nhận tiền/lợi ích để làm/không làm việc theo yêu cầu người đưa.
+
+Câu 168 [Dễ]: Mức giá trị tài sản tham ô hoặc tiền/tài sản nhận hối lộ tối thiểu thông thường để bị truy cứu trách nhiệm hình sự về Tội tham ô tài sản (Điều 353) hoặc Tội nhận hối lộ (Điều 354) là bao nhiêu?
+A. Từ 500.000.000 đồng trở lên
+B. Từ 50.000.000 đồng trở lên
+C. Từ 2.000.000 đồng trở lên (hoặc dưới 2 triệu nhưng đã bị xử lý kỷ luật/bản án chưa xóa)
+D. Từ 100.000.000 đồng trở lên
+Đáp án đúng: C
+Giải thích: Theo Điều 353 và Điều 354 BLHS 2015, định ngạch tài sản tham ô hoặc hối lộ tối thiểu thông thường bị xử lý hình sự là từ 2.000.000 đồng trở lên.
+
+Câu 169 [Dễ]: Theo Bộ luật Hình sự 2015, Tội tham ô tài sản và Tội nhận hối lộ có bị truy cứu trách nhiệm hình sự đối với người có chức vụ trong khu vực ngoài nhà nước (doanh nghiệp tư nhân, công ty cổ phần) không?
+A. Chỉ xử lý nếu doanh nghiệp có vốn nước ngoài
+B. Có, BLHS 2015 đã mở rộng xử lý tội tham ô và nhận hối lộ cả trong khu vực ngoài nhà nước
+C. Do Chủ tịch Ủy ban nhân dân cấp xã quyết định từng vụ
+D. Không, chỉ xử lý đối với cán bộ trong khu vực nhà nước
+Đáp án đúng: B
+Giải thích: Khoản 6 Điều 353 và khoản 6 Điều 354 BLHS 2015 mở rộng phạm vi xử lý tội Tham ô và Nhận hối lộ đối với người có chức vụ, quyền hạn trong các doanh nghiệp, tổ chức ngoài nhà nước.
+
+Câu 170 [Trung bình]: Hành vi đưa tiền, tài sản hoặc lợi ích vật chất/phi vật chất khác cho người có chức vụ, quyền hạn để người này làm hoặc không làm một việc vì lợi ích của mình cấu thành tội gì theo Điều 364 BLHS 2015?
+A. Tội đưa hối lộ
+B. Tội lạm dụng chức vụ
+C. Tội nhận hối lộ
+D. Tội tham ô tài sản
+Đáp án đúng: A
+Giải thích: Điều 364 BLHS 2015 quy định Tội đưa hối lộ đối với người trực tiếp hoặc qua trung gian đưa tài sản/lợi ích cho người có chức vụ quyền hạn.
+
+Câu 171 [Trung bình]: Người bị ép buộc đưa hối lộ mà chủ động khai báo trước khi bị phát hiện thì có hậu quả pháp lý như thế nào theo khoản 7 Điều 364 BLHS 2015?
+A. Ủy ban nhân dân cấp xã tịch thu toàn bộ nhà đất
+B. Được coi là không có lỗi và được miễn trách nhiệm hình sự, được trả lại toàn bộ tài sản đã dùng để đưa hối lộ
+C. Vẫn bắt buộc bị phạt tù 10 năm
+D. Bị Tòa án nhân dân khu vực tuyên phạt tử hình
+Đáp án đúng: B
+Giải thích: Khoản 7 Điều 364 BLHS 2015 quy định người bị ép buộc đưa hối lộ mà chủ động khai báo trước khi bị phát hiện thì được coi là không có lỗi, được miễn TNHS và trả lại tài sản.
+
+Câu 172 [Trung bình]: Hành vi buôn bán qua biên giới hoặc từ khu phi thuế quan vào nội địa trái pháp luật hàng hóa, tiền tệ, tài sản giá trị từ 100.000.000 đồng trở lên cấu thành tội gì theo Điều 188 BLHS 2015?
+A. Tội buôn lậu
+B. Tội trốn thuế
+C. Tội đầu cơ
+D. Tội sản xuất hàng giả
+Đáp án đúng: A
+Giải thích: Điều 188 BLHS 2015 quy định Tội buôn lậu đối với hành vi buôn bán qua biên giới trái pháp luật hàng hóa, tiền tệ giá trị từ 100 triệu đồng trở lên.
+
+Câu 173 [Trung bình]: Hành vi trốn thuế với số tiền từ bao nhiêu trở lên (hoặc dưới mức đó nhưng đã bị xử phạt hành chính) thì bị truy cứu trách nhiệm hình sự về Tội trốn thuế theo Điều 200 BLHS 2015?
+A. Từ 1.000.000.000 đồng trở lên
+B. Từ 10.000.000 đồng trở lên
+C. Từ 100.000.000 đồng trở lên
+D. Từ 500.000.000 đồng trở lên
+Đáp án đúng: C
+Giải thích: Điều 200 BLHS 2015 quy định định ngạch trốn thuế từ 100.000.000 đồng trở lên bị xử lý hình sự về Tội trốn thuế.
+
+Câu 174 [Vận dụng]: Ông K là Thủ quỹ của công ty nhà nước X. Lợi dụng việc được giao quản lý quỹ nghiệp vụ, Ông K đã lập khống chứng từ rút 300 triệu đồng quỹ công ty mang đi cá độ bóng đá và tiêu xài cá nhân. Hành vi của Ông K phạm tội gì?
+A. Tội trộm cắp tài sản
+B. Tội lừa đảo chiếm đoạt tài sản
+C. Ủy ban nhân dân cấp xã phạt vi phạm lao động
+D. Tội tham ô tài sản (Điều 353 BLHS 2015)
+Đáp án đúng: D
+Giải thích: Ông K có chức vụ thủ quỹ quản lý tiền, lợi dụng chức vụ chiếm đoạt 300 triệu đồng tài sản quản lý, cấu thành Tội tham ô tài sản (Điều 353 BLHS).
+
+Câu 175 [Vận dụng]: Ông P là Trưởng phòng Đăng ký kinh doanh thuộc Sở Kế hoạch và Đầu tư tỉnh. Khi Công ty M nộp hồ sơ xin cấp giấy phép, Ông P đã nhũng nhiễu và đòi Công ty M phải chi 50 triệu đồng thì mới duyệt hồ sơ. Giám đốc Công ty M đã đưa 50 triệu cho P. Ông P phạm tội gì?
+A. Ủy ban nhân dân cấp xã kỷ luật hành chính
+B. Tội nhận hối lộ (Điều 354 BLHS 2015)
+C. Tội lừa đảo tài sản
+D. Tội tham ô tài sản
+Đáp án đúng: B
+Giải thích: Ông P lợi dụng chức vụ quyền hạn cấp phép để đòi và nhận 50 triệu đồng của Công ty M, cấu thành Tội nhận hối lộ (Điều 354 BLHS).
+
+Câu 176 [Vận dụng]: Bà N là Kế toán trưởng của Công ty TNHH Tư nhân X. Lợi dụng việc quản lý tài khoản công ty, Bà N đã chuyển 500 triệu đồng của Công ty X sang tài khoản cá nhân của con gái mình để mua nhà. Bà N có bị truy cứu trách nhiệm hình sự về Tội tham ô tài sản không?
+A. Chỉ bị Tòa án nhân dân khu vực xử phạt hợp đồng dân sự
+B. Ủy ban nhân dân cấp xã giải quyết cho nghỉ việc
+C. Không, vì công ty tư nhân không thuộc nhà nước
+D. Có, bị truy cứu trách nhiệm hình sự về Tội tham ô tài sản theo khoản 6 Điều 353 BLHS 2015 (xử lý tham ô cả khu vực ngoài nhà nước)
+Đáp án đúng: D
+Giải thích: BLHS 2015 quy định xử lý Tội tham ô tài sản cả đối với người có chức vụ quyền hạn trong các doanh nghiệp, tổ chức khu vực ngoài nhà nước (khoản 6 Điều 353 BLHS).
+
+Câu 177 [Vận dụng]: Anh T bị Cảnh sát giao thông lập biên bản vi phạm nồng độ cồn tại Phường X. Để không bị giữ xe và tước bằng lái, T đã chủ động nhét 5 triệu đồng vào túi áo của chiến sĩ công an nhờ bỏ qua vi phạm. Chiến sĩ công an lập biên bản giữ tiền và bắt giữ T. Anh T phạm tội gì?
+A. Ủy ban nhân dân cấp xã xử phạt vi phạm nồng độ cồn
+B. Tội đưa hối lộ (Điều 364 BLHS 2015)
+C. Tội nhận hối lộ
+D. Tội môi giới hối lộ
+Đáp án đúng: B
+Giải thích: Hành vi chủ động đưa 5 triệu đồng cho người có chức vụ quyền hạn (công an) để không bị xử phạt giao thông cấu thành Tội đưa hối lộ (Điều 364 BLHS 2015).
+
+Câu 178 [Vận dụng]: Công ty Cổ phần Thương mại K lập 02 hệ thống sổ sách kế toán, bỏ ngoài sổ sách 10 tỷ đồng doanh thu bán hàng nhằm gian lận trốn nộp 1,5 tỷ đồng tiền thuế thu nhập doanh nghiệp. Công ty K và Giám đốc bị xử lý thế nào?
+A. Công ty K và Giám đốc bị truy cứu trách nhiệm hình sự về Tội trốn thuế theo Điều 200 BLHS 2015
+B. Sở Kế hoạch và Đầu tư thu hồi giấy phép không qua Tòa án
+C. Chỉ bị Ủy ban nhân dân cấp xã phạt vi phạm hành chính
+D. Chỉ bị Tòa án nhân dân khu vực buộc nộp lại tiền thuế
+Đáp án đúng: A
+Giải thích: Lập 2 sổ sách trốn 1,5 tỷ tiền thuế cấu thành Tội trốn thuế theo Điều 200 BLHS 2015 (xử lý cả cá nhân Giám đốc và Pháp nhân thương mại).
+
+Câu 179 [Vận dụng]: Ông H thuê một xưởng sản xuất tại Phường Y mua hóa chất, bột màu và bao bì giả thương hiệu nước giặt nổi tiếng OMO để pha chế đóng gói 5.000 chai nước giặt giả bán ra thị trường thu lời 200 triệu đồng. Ông H phạm tội gì?
+A. Tội buôn lậu
+B. Ủy ban nhân dân cấp xã phạt vi phạm vệ sinh môi trường
+C. Tội sản xuất, buôn bán hàng giả (Điều 192 BLHS 2015)
+D. Tội trộm cắp tài sản
+Đáp án đúng: C
+Giải thích: Hành vi sản xuất đóng gói giả thương hiệu hàng hóa đã được đăng ký bán ra thị trường cấu thành Tội sản xuất, buôn bán hàng giả (Điều 192 BLHS).
+
+Câu 180 [Vận dụng]: Doanh nghiệp tư nhân M vận chuyển 50 tấn đường cát không có hóa đơn chứng từ từ nước ngoài qua đường tiểu ngạch biên giới vào nội địa bán tiêu thụ giá trị 800 triệu đồng. Hành vi của Doanh nghiệp M phạm tội gì?
+A. Ủy ban nhân dân cấp xã phạt vi phạm trật tự đô thị
+B. Tội buôn lậu (Điều 188 BLHS 2015)
+C. Tội lừa đảo chiếm đoạt tài sản
+D. Tội trốn thuế
+Đáp án đúng: B
+Giải thích: Vận chuyển trái phép hàng hóa 800 triệu qua biên giới không chứng từ cấu thành Tội buôn lậu theo Điều 188 BLHS 2015.
+
+
+--------------------------------------------------------------------------------
+MỤC 6.3.4. CĂN BẢN VỀ TỐ TỤNG HÌNH SỰ, THẨM QUYỀN XÉT XỬ CỦA TÒA ÁN NHÂN DÂN KHU VỰC VÀ TAND CẤP TỈNH
+--------------------------------------------------------------------------------
+
+Câu 181 [Dễ]: Nguyên tắc 'Suy đoán vô tội' trong Bộ luật Tố tụng Hình sự 2015 (Điều 13) được hiểu như thế nào?
+A. Người bị công an bắt giữ đương nhiên phải đi tù chung thân
+B. Người bị buộc tội được coi là không có tội cho đến khi được chứng minh theo trình tự, thủ tục do Bộ luật Tố tụng Hình sự quy định và có bản án kết tội của Tòa án đã có hiệu lực pháp luật
+C. Bị cáo nghi ngờ phạm tội thì mặc nhiên bị coi là có tội
+D. Do Ủy ban nhân dân cấp xã quyết định người đó có tội hay vô tội
+Đáp án đúng: B
+Giải thích: Điều 13 BLTTS 2015 quy định nguyên tắc suy đoán vô tội: Người bị buộc tội được coi là không có tội cho đến khi có bản án kết tội của Tòa án có hiệu lực pháp luật.
+
+Câu 182 [Dễ]: Cơ quan nào sau đây là Cơ quan tiến hành tố tụng trong vụ án hình sự theo quy định của Bộ luật Tố tụng Hình sự 2015?
+A. Cơ quan điều tra, Viện kiểm sát nhân dân và Tòa án nhân dân
+B. Phòng Tư pháp địa phương
+C. Sở Kế hoạch và Đầu tư
+D. Ủy ban nhân dân cấp xã và Hội đồng nhân dân cấp tỉnh
+Đáp án đúng: A
+Giải thích: Điều 34 BLTTS 2015 quy định Cơ quan tiến hành tố tụng gồm: Cơ quan điều tra, Viện kiểm sát nhân dân, Tòa án nhân dân.
+
+Câu 183 [Dễ]: Người tiến hành tố tụng tại Tòa án nhân dân bao gồm những ai?
+A. Chủ tịch Ủy ban nhân dân cấp xã
+B. Giám đốc Doanh nghiệp tư nhân
+C. Thẩm phán, Hội thẩm nhân dân và Thư ký Tòa án
+D. Trưởng Công an Phường X
+Đáp án đúng: C
+Giải thích: Theo Điều 34 BLTTS 2015, Người tiến hành tố tụng tại Tòa án gồm: Thẩm phán, Hội thẩm nhân dân, Thư ký Tòa án (và Thẩm tra viên).
+
+Câu 184 [Dễ]: Thẩm quyền xét xử sơ thẩm của 'Tòa án nhân dân khu vực' (thực hiện chức năng sơ thẩm theo mô hình tư pháp mới) bao gồm những vụ án hình sự về loại tội phạm nào?
+A. Chỉ duy nhất tội phạm đặc biệt nghiêm trọng có hình phạt tử hình
+B. Mọi vụ án tranh chấp đất đai do UBND cấp xã chuyển lên
+C. Chỉ xử phạt vi phạm giao thông đường bộ
+D. Các vụ án hình sự về tội phạm ít nghiêm trọng, tội phạm nghiêm trọng và tội phạm rất nghiêm trọng (trừ các tội xâm phạm an ninh quốc gia và một số tội do TAND cấp tỉnh xét xử)
+Đáp án đúng: D
+Giải thích: Theo quy định cải cách tư pháp và BLTTS, Tòa án nhân dân khu vực có thẩm quyền xét xử sơ thẩm các vụ án hình sự về tội phạm ít nghiêm trọng, nghiêm trọng và rất nghiêm trọng.
+
+Câu 185 [Dễ]: Thẩm quyền xét xử sơ thẩm của 'Tòa án nhân dân cấp tỉnh' bao gồm những vụ án hình sự nào?
+A. Chỉ xử các tranh chấp hôn nhân gia đình ở cấp xã
+B. Chỉ xử các vụ án trộm cắp dưới 2 triệu đồng
+C. Các vụ án hình sự về tội phạm đặc biệt nghiêm trọng, tội xâm phạm an ninh quốc gia, vụ án có yếu tố nước ngoài hoặc vụ án phức tạp do TAND khu vực chuyển lên
+D. Do Ủy ban nhân dân cấp xã phân công theo tuần
+Đáp án đúng: C
+Giải thích: Tòa án nhân dân cấp tỉnh xét xử sơ thẩm các vụ án đặc biệt nghiêm trọng, tội xâm phạm an ninh quốc gia, vụ án có yếu tố nước ngoài hoặc vụ án phức tạp.
+
+Câu 186 [Trung bình]: Tòa án nhân dân cấp tỉnh có thẩm quyền xét xử PHÚC THẨM đối với những bản án, quyết định sơ thẩm nào?
+A. Quyết định của Giám đốc doanh nghiệp tư nhân
+B. Bản án, quyết định sơ thẩm của Tòa án nhân dân khu vực bị kháng cáo, kháng nghị theo quy định của pháp luật tố tụng
+C. Bản án sơ thẩm của Tòa án nhân dân tối cao
+D. Quyết định xử phạt hành chính của Ủy ban nhân dân cấp xã
+Đáp án đúng: B
+Giải thích: Tòa án nhân dân cấp tỉnh xét xử phúc thẩm các bản án, quyết định sơ thẩm của Tòa án nhân dân khu vực bị kháng cáo, kháng nghị.
+
+Câu 187 [Trung bình]: Khi phát hiện tội phạm hoặc nhận được tố giác, tin báo về tội phạm xảy ra tại địa phương, Công an cấp xã có trách nhiệm xử lý ban đầu ra sao?
+A. Thù tiền phạt của người tố giác rồi cho về
+B. Mở phiên tòa xét xử và tuyên án phạt tù 05 năm
+C. Tiếp nhận, lập biên bản tiếp nhận, tiến hành kiểm tra xác minh sơ bộ ban đầu và chuyển ngay hồ sơ, tài liệu cho Cơ quan điều tra có thẩm quyền
+D. Chờ quyết định phê duyệt của Ủy ban nhân dân cấp tỉnh
+Đáp án đúng: C
+Giải thích: Theo Điều 146 BLTTS 2015, Công an cấp xã tiếp nhận, kiểm tra xác minh sơ bộ ban đầu và chuyển ngay cho Cơ quan điều tra có thẩm quyền.
+
+Câu 188 [Trung bình]: Thời hạn kháng cáo bản án sơ thẩm hình sự đối với bị cáo, bị hại theo quy định của Bộ luật Tố tụng Hình sự 2015 là bao nhiêu ngày kể từ ngày tuyên án?
+A. 60 ngày
+B. 30 ngày
+C. 15 ngày
+D. 07 ngày
+Đáp án đúng: C
+Giải thích: Điều 333 BLTTS 2015 quy định thời hạn kháng cáo đối với bị cáo, bị hại là 15 ngày kể từ ngày tuyên án.
+
+Câu 189 [Trung bình]: Giai đoạn nào là giai đoạn mở đầu của hoạt động tố tụng hình sự nhằm xác định có hay không có dấu hiệu tội phạm?
+A. Giai đoạn Nghị án
+B. Giai đoạn Khởi tố vụ án hình sự
+C. Giai đoạn Xét xử phúc thẩm tại Tòa án cấp tỉnh
+D. Giai đoạn Thi hành án hình sự tại Ủy ban nhân dân cấp xã
+Đáp án đúng: B
+Giải thích: Khởi tố vụ án hình sự là giai đoạn đầu tiên trong tố tụng hình sự nhằm xác định có hay không dấu hiệu tội phạm để quyết định khởi tố.
+
+Câu 190 [Trung bình]: Trường hợp nào sau đây bắt buộc phải có Người bào chữa (Luật sư hoặc Bào chữa viên nhân dân) tham gia tố tụng từ giai đoạn điều tra?
+A. Chỉ bắt buộc nếu bị cáo có tài sản trên 10 tỷ
+B. Bị can, bị cáo về tội mà BLHS quy định mức cao nhất của khung hình phạt là Tù chung thân hoặc Tử hình, hoặc là người dưới 18 tuổi, người có nhược điểm về thể chất/tâm thần
+C. Người bị Ủy ban nhân dân cấp xã mời lên làm việc về hòa giải
+D. Mọi trường hợp vi phạm giao thông đường bộ bị phạt tiền
+Đáp án đúng: B
+Giải thích: Theo Điều 76 BLTTS 2015, cơ quan tố tụng phải chỉ định người bào chữa nếu bị can/bị cáo truy tố khung chung thân/tử hình, hoặc là người dưới 18 tuổi, người tâm thần...
+
+Câu 191 [Vận dụng]: Một vụ án Tội trộm cắp tài sản (khung hình phạt từ 02 đến 07 năm tù - Tội phạm nghiêm trọng) xảy ra tại Phường X. Tòa án nào có thẩm quyền xét xử sơ thẩm vụ án này?
+A. Tòa án nhân dân khu vực nơi xảy ra tội phạm
+B. Tòa án nhân dân cấp cao
+C. Ủy ban nhân dân cấp xã Phường X
+D. Tòa án nhân dân tối cao
+Đáp án đúng: A
+Giải thích: Vụ án trộm cắp thuộc tội phạm nghiêm trọng nằm trong thẩm quyền xét xử sơ thẩm của Tòa án nhân dân khu vực.
+
+Câu 192 [Vận dụng]: Vụ án Tội giết người đặc biệt nghiêm trọng có mức khung hình phạt Tử hình xảy ra tại Phường Y. Cơ quan nào có thẩm quyền xét xử sơ thẩm vụ án này?
+A. Tòa án nhân dân cấp tỉnh
+B. Ủy ban nhân dân cấp tỉnh
+C. Ủy ban nhân dân cấp xã Phường Y
+D. Phòng Tư pháp địa phương
+Đáp án đúng: A
+Giải thích: Các vụ án hình sự đặc biệt nghiêm trọng thuộc thẩm quyền xét xử sơ thẩm của Tòa án nhân dân cấp tỉnh.
+
+Câu 193 [Vận dụng]: Anh B bị Tòa án nhân dân khu vực M xét xử sơ thẩm tuyên phạt 03 năm tù về Tội lừa đảo tài sản. Không đồng ý với bản án, Anh B muốn kháng cáo phúc thẩm. Anh B phải nộp đơn kháng cáo đến Tòa án nào và thời hạn bao nhiêu ngày?
+A. Nộp đơn kháng cáo đến TAND khu vực M hoặc TAND cấp tỉnh T trong thời hạn 15 ngày kể từ ngày tuyên án sơ thẩm
+B. Nộp đơn đến Sở Tư pháp trong 60 ngày
+C. Nộp đơn đến Ủy ban nhân dân cấp xã Phường X trong 03 ngày
+D. Không được quyền kháng cáo dưới mọi hình thức
+Đáp án đúng: A
+Giải thích: Bị cáo có quyền kháng cáo bản án sơ thẩm trong thời hạn 15 ngày kể từ ngày tuyên án; đơn kháng cáo gửi TAND khu vực đã xử hoặc TAND cấp tỉnh.
+
+Câu 194 [Vận dụng]: Bản án sơ thẩm của Tòa án nhân dân khu vực K bị Viện kiểm sát nhân dân cùng cấp kháng nghị vì cho rằng hình phạt quá nhẹ. Tòa án nào sẽ mở phiên tòa xét xử phúc thẩm vụ án này?
+A. Tòa án nhân dân tối cao
+B. Tòa án nhân dân cấp tỉnh
+C. Ủy ban nhân dân cấp xã
+D. Tòa án nhân dân khu vực K xử lại từ đầu
+Đáp án đúng: B
+Giải thích: Tòa án nhân dân cấp tỉnh có thẩm quyền xét xử phúc thẩm các bản án/quyết định sơ thẩm của Tòa án nhân dân khu vực bị kháng cáo, kháng nghị.
+
+Câu 195 [Vận dụng]: Chị N bị truy tố về Tội cướp tài sản. Tại phiên tòa sơ thẩm ở Tòa án nhân dân khu vực, Chị N không có luật sư do gia đình không thuê. Chị N bị truy tố theo khoản 1 Điều 168 (khung từ 03 đến 10 năm tù). Việc Tòa án xét xử khi Chị N không có người bào chữa có vi phạm tố tụng không?
+A. Bắt buộc vi phạm mọi trường hợp
+B. Do Ủy ban nhân dân cấp xã quyết định hủy bỏ phiên tòa
+C. Không vi phạm, vì khung hình phạt đến 10 năm tù không thuộc trường hợp bắt buộc phải chỉ định người bào chữa nếu bị cáo đủ 18 tuổi và không từ chối
+D. Chị N đương nhiên được tha bổng
+Đáp án đúng: C
+Giải thích: Khoản 1 Điều 168 có khung tối đa 10 năm tù (tội rất nghiêm trọng), người từ đủ 18 tuổi không thuộc trường hợp bắt buộc chỉ định người bào chữa theo Điều 76 BLTTS 2015. Do đó không vi phạm tố tụng.
+
+Câu 196 [Vận dụng]: Anh M bị Công an tạm giữ về hành vi trộm cắp tài sản. Trong quá trình điều tra, Điều tra viên chưa tìm thấy chứng cứ nhưng tuyên bố 'M phải tự chứng minh mình không phạm tội, nếu không chứng minh được thì mặc nhiên có tội'. Tuyên bố của Điều tra viên vi phạm nguyên tắc nào?
+A. Vi phạm nguyên tắc Suy đoán vô tội (Điều 13 BLTTS 2015 - trách nhiệm chứng minh tội phạm thuộc về cơ quan có thẩm quyền tiến hành tố tụng, người bị buộc tội có quyền nhưng không buộc phải chứng minh mình vô tội)
+B. Đúng quy định pháp luật tố tụng
+C. Vi phạm quy định xử phạt của Ủy ban nhân dân cấp xã
+D. Vi phạm quy chế ngành ngân hàng
+Đáp án đúng: A
+Giải thích: Theo Điều 13 BLTTS 2015, nghĩa vụ chứng minh tội phạm thuộc về cơ quan tiến hành tố tụng. Người bị buộc tội có quyền nhưng không bắt buộc phải chứng minh mình vô tội.
+
+Câu 197 [Vận dụng]: Chị K phát hiện bị kẻ gian lấy trộm chiếc xe máy điện tại nhà riêng thuộc Phường M. Chị K đến đâu để trình báo tố giác tội phạm ban đầu nhanh chóng nhất?
+A. Nộp đơn cho Viện kiểm sát nhân dân tối cao
+B. Nộp đơn cho Tòa án nhân dân tối cao
+C. Trình báo tại Trụ sở Công an cấp xã Phường M (hoặc cơ quan công an nơi gần nhất)
+D. Nộp đơn cho Sở Tư pháp cấp tỉnh
+Đáp án đúng: C
+Giải thích: Theo Điều 145 và Điều 146 BLTTS 2015, Công an cấp xã là nơi tiếp nhận tố giác, tin báo về tội phạm ban đầu nhanh chóng và thuận tiện nhất cho người dân.
+
+Câu 198 [Vận dụng]: Một vụ án xâm phạm an ninh quốc gia đặc biệt nghiêm trọng do bị cáo mang quốc tịch nước ngoài thực hiện tại tỉnh T. Tòa án nào có thẩm quyền xét xử sơ thẩm vụ án này?
+A. Tòa án nhân dân cấp tỉnh T
+B. Tòa án nhân dân khu vực
+C. Ủy ban nhân dân cấp tỉnh T
+D. Ủy ban nhân dân cấp xã Phường X
+Đáp án đúng: A
+Giải thích: Tòa án nhân dân cấp tỉnh có thẩm quyền xét xử sơ thẩm các vụ án xâm phạm an ninh quốc gia và vụ án có yếu tố nước ngoài.
+
+Câu 199 [Vận dụng]: Sau khi Tòa án nhân dân khu vực tuyên án phạt tù 02 năm đối với Anh H về Tội trộm cắp tài sản và cho hưởng án treo, bản án có hiệu lực pháp luật. Cơ quan nào chịu trách nhiệm thi hành án hình sự và phân công trực tiếp giám sát, giáo dục Anh H?
+A. Tòa án nhân dân khu vực cử Thẩm phán đến ở cùng Anh H
+B. Phòng Tư pháp địa phương
+C. Cơ quan thi hành án hình sự Công an cấp tỉnh/khu vực ban hành quyết định thi hành án và giao cho Ủy ban nhân dân cấp xã nơi Anh H cư trú trực tiếp giám sát, giáo dục
+D. Sở Kế hoạch và Đầu tư
+Đáp án đúng: C
+Giải thích: Theo Luật Thi hành án hình sự, cơ quan thi hành án hình sự chuyển giao quyết định và hồ sơ cho UBND cấp xã nơi người chấp hành án treo cư trú để trực tiếp giám sát, giáo dục.
+
+Câu 200 [Vận dụng]: Thẩm phán X là người thân thích (anh ruột) của Bị hại trong vụ án Tội cố ý gây thương tích do Tòa án nhân dân khu vực thụ lý. Bị cáo có quyền đề nghị thay đổi Thẩm phán X không?
+A. Do Ủy ban nhân dân cấp xã tự quyết định
+B. Không có quyền đề nghị
+C. Có quyền đề nghị thay đổi Thẩm phán X theo quy định tại Điều 49 và Điều 53 BLTTS 2015 (để bảo đảm tính khách quan, vô tư của người tiến hành tố tụng)
+D. Bị cáo bị tước toàn bộ quyền tố tụng
+Đáp án đúng: C
+Giải thích: Theo Điều 49 và Điều 53 BLTTS 2015, Thẩm phán phải từ chối tiến hành tố tụng hoặc bị thay đổi nếu là người thân thích của bị hại để bảo đảm tính vô tư, khách quan.

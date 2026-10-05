@@ -1,0 +1,1687 @@
+================================================================================
+NGÂN HÀNG CÂU HỎI TRẮC NGHIỆM MÔN PHÁP LUẬT ĐẠI CƯƠNG
+CHƯƠNG 5: PHÁP LUẬT KINH DOANH - THƯƠNG MẠI
+(Dành cho sinh viên đại học không chuyên luật)
+Cập nhật quy định pháp luật hiện hành tính đến năm 2026 (Mô hình chính quyền địa phương 2 cấp và Tòa án nhân dân khu vực)
+================================================================================
+
+CẤU TRÚC VÀ PHÂN BỔ CÂU HỎI:
+- Tổng số câu hỏi: 200 câu trắc nghiệm (mỗi câu 4 phương án A, B, C, D, 1 đáp án đúng).
+- Mức độ phân bổ:
+  + Dễ (Nhận biết): 69 câu
+  + Trung bình (Thông hiểu): 78 câu
+  + Vận dụng: 53 câu
+- Nội dung bao gồm:
+  5.1. PHÁP LUẬT VỀ CHỦ THỂ KINH DOANH (120 câu)
+       5.1.1. Khái quát về kinh doanh và chủ thể kinh doanh (20 câu)
+       5.1.2. Quy định về các loại hình doanh nghiệp (50 câu)
+       5.1.3. Quy định về phá sản doanh nghiệp (20 câu)
+       5.1.4. Hợp tác xã (15 câu)
+       5.1.5. Hộ kinh doanh (15 câu)
+  5.2. PHÁP LUẬT VỀ THƯƠNG MẠI (80 câu)
+       5.2.1. Khái quát về hoạt động thương mại (20 câu)
+       5.2.2. Quy định về chế tài trong hoạt động thương mại (30 câu)
+       5.2.3. Phương thức giải quyết tranh chấp trong kinh doanh, thương mại (30 câu)
+
+================================================================================
+
+--------------------------------------------------------------------------------
+MỤC 5.1.1. KHÁI QUÁT VỀ KINH DOANH VÀ CHỦ THỂ KINH DOANH
+--------------------------------------------------------------------------------
+
+Câu 1 [Dễ]: Kinh doanh được hiểu là việc thực hiện liên tục một, một số hoặc tất cả các đoạn của quá trình nào sau đây?
+A. Hoạt động thi thi hành án dân sự tại Tòa án nhân dân khu vực
+B. Đầu tư, từ sản xuất đến tiêu thụ sản phẩm hoặc cung ứng dịch vụ trên thị trường nhằm mục đích sinh lợi
+C. Hoạt động từ thiện và cứu trợ xã hội phi lợi nhuận
+D. Quản lý hành chính nhà nước ở địa phương
+Đáp án đúng: B
+Giải thích: Theo Điều 4 Luật Doanh nghiệp 2020, kinh doanh là việc thực hiện liên tục một, một số hoặc tất cả các đoạn của quá trình từ đầu tư, sản xuất đến tiêu thụ sản phẩm/dịch vụ nhằm mục đích sinh lợi.
+
+Câu 2 [Dễ]: Chủ thể kinh doanh có đặc điểm pháp lý cốt lõi nào sau đây?
+A. Bắt buộc phải là doanh nghiệp nhà nước nắm giữ 100% vốn
+B. Phải được thành lập hoặc đăng ký kinh doanh hợp pháp và thực hiện hoạt động kinh doanh độc lập
+C. Phải là cơ quan quản lý nhà nước cấp tỉnh
+D. Chỉ bao gồm các cá nhân có quốc tịch nước ngoài
+Đáp án đúng: B
+Giải thích: Chủ thể kinh doanh là các cá nhân, tổ chức được thành lập/đăng ký kinh doanh hợp pháp để tiến hành hoạt động kinh doanh độc lập.
+
+Câu 3 [Dễ]: Tự do kinh doanh trong những ngành, nghề mà pháp luật không cấm là quyền Hiến định được ghi nhận tại văn bản nào?
+A. Luật Xử lý vi phạm hành chính
+B. Nghị định của UBND cấp xã
+C. Bộ luật Hình sự 2015
+D. Hiến pháp 2013
+Đáp án đúng: D
+Giải thích: Điều 33 Hiến pháp 2013 quy định mọi người có quyền tự do kinh doanh trong những ngành, nghề mà pháp luật không cấm.
+
+Câu 4 [Dễ]: Quyền thành lập và quản lý doanh nghiệp tại Việt Nam được áp dụng cho đối tượng nào?
+A. Tất cả các cá nhân, tổ chức (trừ các trường hợp bị cấm theo Điều 17 Luật Doanh nghiệp 2020)
+B. Chỉ dành cho sĩ quan, hạ sĩ quan trong Quân đội nhân dân
+C. Chỉ dành riêng cho cán bộ, công chức, viên chức nhà nước
+D. Chỉ dành cho các tổ chức do UBND cấp xã thành lập
+Đáp án đúng: A
+Giải thích: Tổ chức, cá nhân có quyền thành lập và quản lý doanh nghiệp tại Việt Nam trừ các trường hợp bị cấm tại khoản 2 Điều 17 Luật Doanh nghiệp 2020.
+
+Câu 5 [Dễ]: Chủ thể nào sau đây BỊ CẤM thành lập và quản lý doanh nghiệp tại Việt Nam?
+A. Cán bộ, công chức, viên chức theo quy định của pháp luật về cán bộ, công chức, viên chức
+B. Sinh viên đại học đã đủ 18 tuổi có năng lực hành vi dân sự đầy đủ
+C. Người lao động tự do làm việc tại các nhà máy
+D. Cá nhân có tài sản hợp pháp muốn đầu tư khởi nghiệp
+Đáp án đúng: A
+Giải thích: Khoản 2 Điều 17 Luật Doanh nghiệp 2020 cấm cán bộ, công chức, viên chức thành lập và quản lý doanh nghiệp.
+
+Câu 6 [Dễ]: Mục đích cơ bản và quan trọng nhất của hoạt động kinh doanh do các chủ thể kinh doanh thực hiện là gì?
+A. Mục đích sinh lợi (lợi nhuận)
+B. Mục đích nghiên cứu khoa học lý thuyết
+C. Mục đích thu tiền phạt vi phạm hành chính
+D. Mục đích từ thiện hỗ trợ cộng đồng
+Đáp án đúng: A
+Giải thích: Hoạt động kinh doanh luôn mang tính chất tìm kiếm lợi nhuận (mục đích sinh lợi).
+
+Câu 7 [Dễ]: Cơ quan nhà nước có thẩm quyền thực hiện đăng ký doanh nghiệp ở cấp tỉnh hiện nay là cơ quan nào?
+A. Tòa án nhân dân khu vực
+B. Ủy ban nhân dân cấp xã
+C. Viện kiểm sát nhân dân cấp tỉnh
+D. Phòng Đăng ký kinh doanh thuộc Sở Kế hoạch và Đầu tư (hoặc cơ quan đăng ký kinh doanh cấp tỉnh)
+Đáp án đúng: D
+Giải thích: Đăng ký doanh nghiệp do Phòng Đăng ký kinh doanh thuộc Sở Kế hoạch và Đầu tư / Cơ quan ĐKKD cấp tỉnh thực hiện.
+
+Câu 8 [Trung bình]: Sự khác biệt căn bản về nghĩa vụ tài sản giữa 'Trách nhiệm vô hạn' và 'Trách nhiệm hữu hạn' của chủ sở hữu chủ thể kinh doanh là gì?
+A. Hai loại trách nhiệm này hoàn toàn giống nhau không có sự phân biệt
+B. Trách nhiệm vô hạn chỉ chịu trách nhiệm bằng tiền mặt; Trách nhiệm hữu hạn chịu bằng nhà đất
+C. Trách nhiệm hữu hạn là bị phạt tù; Trách nhiệm vô hạn là bị phạt tiền
+D. Trách nhiệm vô hạn là chịu trách nhiệm bằng toàn bộ tài sản cá nhân/riêng có; Trách nhiệm hữu hạn chỉ chịu trách nhiệm trong phạm vi số vốn đã góp/cam kết góp vào doanh nghiệp
+Đáp án đúng: D
+Giải thích: Trách nhiệm vô hạn chịu trách nhiệm tài sản bằng toàn bộ tài sản cá nhân; Trách nhiệm hữu hạn chỉ chịu trách nhiệm trong phạm vi số vốn góp/cam kết góp.
+
+Câu 9 [Trung bình]: Đối tượng nào sau đây ĐƯỢC QUYỀN góp vốn, mua cổ phần, mua phần vốn góp vào công ty cổ phần, công ty TNHH?
+A. Cơ quan nhà nước sử dụng tài sản nhà nước để thành lập doanh nghiệp thu lợi riêng cho cơ quan
+B. Cán bộ, công chức (trừ trường hợp không được làm quản lý theo Luật Phòng, chống tham nhũng nhưng được mua cổ phần công ty đại chúng nếu luật không cấm)
+C. Sĩ quan tại ngũ trong Quân đội nhân dân Việt Nam lập công ty riêng đứng tên quản lý
+D. Cá nhân đang bị truy cứu trách nhiệm hình sự hoặc đang chấp hành hình phạt tù
+Đáp án đúng: B
+Giải thích: Cán bộ công chức được góp vốn, mua cổ phần công ty đại chúng (không tham gia quản lý), trừ các trường hợp cấm quy định tại khoản 3 Điều 17 Luật Doanh nghiệp 2020.
+
+Câu 10 [Trung bình]: Khái niệm 'Ngành, nghề đầu tư kinh doanh có điều kiện' được hiểu là gì?
+A. Ngành, nghề mà pháp luật cấm tuyệt đối mọi cá nhân đầu tư
+B. Ngành, nghề chỉ do Ủy ban nhân dân cấp xã thực hiện
+C. Ngành, nghề chỉ cho phép doanh nghiệp nhà nước kinh doanh
+D. Ngành, nghề mà việc thực hiện hoạt động đầu tư kinh doanh phải đáp ứng các điều kiện cần thiết vì lý do quốc phòng, an ninh quốc gia, trật tự, an toàn xã hội, đạo đức xã hội, sức khỏe cộng đồng
+Đáp án đúng: D
+Giải thích: Theo Luật Đầu tư, ngành nghề kinh doanh có điều kiện phải đáp ứng các tiêu chuẩn về an ninh, quốc phòng, trật tự, sức khỏe cộng đồng.
+
+Câu 11 [Trung bình]: Trường hợp doanh nghiệp kinh doanh ngành, nghề đầu tư kinh doanh có điều kiện mà không đáp ứng đủ điều kiện theo quy định thì bị xử lý ra sao?
+A. Bị cơ quan thẩm quyền yêu cầu tạm ngừng hoặc đình chỉ hoạt động kinh doanh ngành, nghề đó và xử phạt vi phạm hành chính theo quy định
+B. Chủ doanh nghiệp đương nhiên bị xử lý hình phạt tù 10 năm
+C. Chuyển toàn bộ tài sản cho Tòa án nhân dân khu vực tịch thu
+D. Không bị xử lý gì vì có quyền tự do kinh doanh
+Đáp án đúng: A
+Giải thích: Không đáp ứng điều kiện kinh doanh ngành nghề có điều kiện sẽ bị xử phạt hành chính và buộc tạm ngừng/đình chỉ hoạt động ngành nghề đó.
+
+Câu 12 [Trung bình]: Tên tiếng Việt của doanh nghiệp bắt buộc phải bao gồm hai yếu tố cấu thành nào theo Luật Doanh nghiệp 2020?
+A. Loại hình doanh nghiệp và Tên riêng
+B. Tên cơ quan nhà nước và Tên Chủ tịch UBND cấp tỉnh
+C. Mã số thuế và Địa chỉ phường nơi đặt trụ sở
+D. Ngành nghề kinh doanh và Số điện thoại liên lạc
+Đáp án đúng: A
+Giải thích: Theo Điều 37 Luật Doanh nghiệp 2020, tên tiếng Việt của doanh nghiệp gồm 2 yếu tố: Loại hình doanh nghiệp + Tên riêng.
+
+Câu 13 [Trung bình]: Nội dung nào sau đây mô tả đúng về 'Mã số doanh nghiệp'?
+A. Là dãy số được tạo bởi Hệ thống thông tin quốc gia về đăng ký doanh nghiệp, cấp cho doanh nghiệp khi thành lập và ghi trên Giấy chứng nhận đăng ký doanh nghiệp, đồng thời là mã số thuế của doanh nghiệp
+B. Là số CMND/CCCD của người đại diện theo pháp luật
+C. Là mã zip bưu chính của phường nơi đặt trụ sở
+D. Là số tài khoản ngân hàng riêng do UBND cấp xã cấp
+Đáp án đúng: A
+Giải thích: Mã số doanh nghiệp là dãy số duy nhất do Hệ thống đăng ký doanh nghiệp cấp, đồng thời đóng vai trò là mã số thuế.
+
+Câu 14 [Trung bình]: Địa điểm đặt trụ sở chính của doanh nghiệp phải đáp ứng điều kiện pháp lý nào?
+A. Phải nằm trên lãnh thổ Việt Nam, có địa chỉ được xác định gồm số nhà, ngách, hẻm, ngõ, đường, phường/xã, tỉnh/thành phố; không được đặt tại căn hộ chung cư dùng để ở
+B. Bắt buộc phải nằm trong trụ sở của Ủy ban nhân dân cấp xã
+C. Có thể đặt tại căn hộ chung cư cao cấp dùng để ở
+D. Không cần có địa chỉ thực tế chỉ cần có địa chỉ trên mạng
+Đáp án đúng: A
+Giải thích: Trụ sở chính phải xác định địa giới hành chính rõ ràng và không được đặt tại căn hộ chung cư có mục đích để ở (theo Luật Nhà ở).
+
+Câu 15 [Trung bình]: Người đại diện theo pháp luật của doanh nghiệp có vai trò gì?
+A. Là cá nhân đại diện cho doanh nghiệp thực hiện các quyền và nghĩa vụ phát sinh từ giao dịch của doanh nghiệp, đại diện cho doanh nghiệp với tư cách người yêu cầu giải quyết việc dân sự, nguyên đơn, bị đơn, người có quyền lợi, nghĩa vụ liên quan trước Trọng tài, Tòa án
+B. Là người đứng đầu Tòa án nhân dân khu vực nơi doanh nghiệp đóng trụ sở
+C. Là cán bộ thuộc Sở Kế hoạch và Đầu tư phân công xuống giám sát
+D. Là người chuyên nộp tiền phạt hành chính cho Ủy ban nhân dân cấp xã
+Đáp án đúng: A
+Giải thích: Theo Điều 12 Luật Doanh nghiệp 2020, người đại diện theo pháp luật đại diện cho doanh nghiệp thực hiện các quyền, nghĩa vụ giao dịch và tố tụng.
+
+Câu 16 [Vận dụng]: Anh K (22 tuổi) là công chức đang công tác tại Sở Tư pháp thuộc Ủy ban nhân dân cấp tỉnh T. Anh K muốn đứng ra thành lập một Công ty TNHH 1 thành viên do mình làm Chủ sở hữu và Giám đốc điều hành. Việc làm của Anh K có phù hợp quy định pháp luật không?
+A. Phù hợp vì công dân từ đủ 18 tuổi có quyền tự do kinh doanh
+B. Không phù hợp vì Anh K là công chức nhà nước, thuộc đối tượng bị cấm thành lập và quản lý doanh nghiệp theo khoản 2 Điều 17 Luật Doanh nghiệp 2020
+C. Phù hợp nếu Anh K đăng ký trụ sở tại Phường X
+D. Phù hợp nếu được sự đồng ý của Tòa án nhân dân khu vực
+Đáp án đúng: B
+Giải thích: Luật Doanh nghiệp 2020 cấm công chức thành lập và quản lý doanh nghiệp nhằm phòng chống tham nhũng và bảo đảm công vụ.
+
+Câu 17 [Vận dụng]: Doanh nghiệp A đặt tên đăng ký là 'Công ty TNHH Sản xuất Thương mại Dịch vụ Bảo An'. Qua kiểm tra, Cơ quan đăng ký kinh doanh cấp tỉnh phát hiện tên 'Công ty TNHH Bảo An' đã được đăng ký trước đó trên cùng địa bàn tỉnh trong cùng lĩnh vực. Cơ quan ĐKKD xử lý ra sao?
+A. Cấp Giấy chứng nhận vì tên Doanh nghiệp A dài hơn
+B. Giao cho Ủy ban nhân dân cấp xã quyết định chọn tên
+C. Từ chối đăng ký tên của Doanh nghiệp A do trùng hoặc gây nhầm lẫn với tên của doanh nghiệp khác đã đăng ký theo quy định tại Điều 38, 39 Luật Doanh nghiệp 2020
+D. Chuyển hồ sơ sang Tòa án nhân dân khu vực phạt tù
+Đáp án đúng: C
+Giải thích: Cơ quan ĐKKD từ chối đăng ký tên gây nhầm lẫn hoặc trùng với tên doanh nghiệp đã đăng ký trước đó.
+
+Câu 18 [Vận dụng]: Chị H mua một căn hộ chung cư tại Phường M với mục đích để ở. Sau đó, Chị H lấy địa chỉ căn hộ chung cư này làm trụ sở chính để đăng ký thành lập Công ty TNHH Tư vấn Du học. Hồ sơ đăng ký của Chị H có được cơ quan đăng ký kinh doanh chấp nhận không?
+A. Được chấp nhận nếu UBND cấp xã xác nhận căn hộ đẹp
+B. Được chấp nhận vì chung cư là tài sản riêng của Chị H
+C. Không được chấp nhận vì theo Luật Nhà ở và Luật Doanh nghiệp, căn hộ chung cư có mục đích để ở không được sử dụng làm trụ sở đăng ký kinh doanh
+D. Được chấp nhận nếu Chị H nộp đủ phí đăng ký
+Đáp án đúng: C
+Giải thích: Luật Nhà ở nghiêm cấm sử dụng căn hộ chung cư dùng để ở vào mục đích kinh doanh/làm trụ sở doanh nghiệp.
+
+Câu 19 [Vận dụng]: Công ty Cổ phần M đăng ký 3 người đại diện theo pháp luật trong Điều lệ công ty. Trong một giao dịch ký kết hợp đồng vay vốn ngân hàng, chỉ có 1 người đại diện theo pháp luật ký tên. Hợp đồng này có hiệu lực pháp lý ràng buộc công ty không?
+A. Không có hiệu lực trong mọi trường hợp
+B. Do Tòa án nhân dân khu vực quyết định ký lại từ đầu
+C. Vô hiệu do chưa qua xác nhận của Ủy ban nhân dân cấp xã
+D. Có hiệu lực ràng buộc công ty nếu Điều lệ công ty không quy định bắt buộc tất cả người đại diện phải cùng ký hoặc giao dịch thuộc phạm vi thẩm quyền của người đại diện đó theo Điều 12 Luật Doanh nghiệp 2020
+Đáp án đúng: D
+Giải thích: Nếu công ty có nhiều người đại diện theo pháp luật thì phân định quyền nghĩa vụ theo Điều lệ; người đại diện ký đúng thẩm quyền sẽ ràng buộc công ty.
+
+Câu 20 [Vận dụng]: Ông B sử dụng tài sản là xe ô tô thuộc sở hữu nhà nước được giao cho cơ quan quản lý để góp vốn thành lập Công ty TNHH hai thành viên kinh doanh vận tải. Việc góp vốn của Ông B bị xử lý như thế nào?
+A. Hoàn toàn hợp pháp để phát triển kinh tế
+B. Bị cấm; hành vi sử dụng tài sản nhà nước để góp vốn lấy lợi riêng là trái pháp luật, bị hủy bỏ giao dịch góp vốn và xử lý trách nhiệm theo quy định
+C. Được chấp nhận nếu nộp bớt tiền cho UBND cấp xã
+D. Do Tòa án nhân dân khu vực cấp phép hợp pháp hóa
+Đáp án đúng: B
+Giải thích: Khoản 2 Điều 17 Luật Doanh nghiệp 2020 nghiêm cấm sử dụng tài sản nhà nước để thành lập/góp vốn vào doanh nghiệp thu lợi riêng.
+
+--------------------------------------------------------------------------------
+MỤC 5.1.2. QUY ĐỊNH VỀ CÁC LOẠI HÌNH DOANH NGHIỆP
+--------------------------------------------------------------------------------
+
+Câu 21 [Dễ]: Doanh nghiệp tư nhân là doanh nghiệp do ai làm chủ?
+A. Do Nhà nước sở hữu 100% vốn điều lệ
+B. Do từ hai cá nhân trở lên cùng góp vốn làm chủ
+C. Do một cá nhân làm chủ và tự chịu trách nhiệm bằng toàn bộ tài sản của mình về mọi hoạt động của doanh nghiệp
+D. Do Ủy ban nhân dân cấp xã đứng tên thành lập
+Đáp án đúng: C
+Giải thích: Điều 188 Luật Doanh nghiệp 2020: Doanh nghiệp tư nhân do một cá nhân làm chủ và tự chịu trách nhiệm bằng toàn bộ tài sản của mình.
+
+Câu 22 [Dễ]: Doanh nghiệp tư nhân có Có Tư cách pháp nhân hay không?
+A. Có tư cách pháp nhân nếu vốn trên 10 tỷ
+B. Không có tư cách pháp nhân
+C. Có tư cách pháp nhân kể từ ngày cấp Giấy chứng nhận đăng ký doanh nghiệp
+D. Do Tòa án nhân dân khu vực quyết định cho phép
+Đáp án đúng: B
+Giải thích: Doanh nghiệp tư nhân không có sự tách biệt độc lập giữa tài sản doanh nghiệp và tài sản cá nhân chủ doanh nghiệp nên không có tư cách pháp nhân.
+
+Câu 23 [Dễ]: Mỗi cá nhân được quyền thành lập bao nhiêu Doanh nghiệp tư nhân?
+A. Được thành lập tối đa 05 DNTN
+B. Chỉ được quyền thành lập 01 Doanh nghiệp tư nhân
+C. Do Ủy ban nhân dân cấp tỉnh quyết định số lượng
+D. Được thành lập không giới hạn số lượng DNTN
+Đáp án đúng: B
+Giải thích: Khoản 3 Điều 188 Luật Doanh nghiệp 2020 quy định mỗi cá nhân chỉ được quyền thành lập một doanh nghiệp tư nhân.
+
+Câu 24 [Trung bình]: Chủ doanh nghiệp tư nhân có được quyền phát hành bất kỳ loại chứng khoán nào hay không?
+A. Được phát hành cổ phiếu phổ thông
+B. Doanh nghiệp tư nhân không được phát hành bất kỳ loại chứng khoán nào
+C. Được phát hành chứng quyền có bảo đảm
+D. Được phát hành trái phiếu chuyển đổi
+Đáp án đúng: B
+Giải thích: Khoản 2 Điều 188 Luật Doanh nghiệp 2020: Doanh nghiệp tư nhân không được phát hành bất kỳ loại chứng khoán nào.
+
+Câu 25 [Trung bình]: Chủ doanh nghiệp tư nhân có quyền Cho thuê hoặc Bán doanh nghiệp tư nhân của mình hay không?
+A. Tuyệt đối cấm bán hoặc cho thuê dưới mọi hình thức
+B. Phải được sự đồng ý của Tòa án nhân dân khu vực
+C. Chỉ được bán cho người trong cùng gia đình
+D. Có quyền cho thuê hoặc bán toàn bộ doanh nghiệp tư nhân cho người khác theo quy định pháp luật
+Đáp án đúng: D
+Giải thích: Chủ DNTN có quyền cho thuê (Điều 191) hoặc bán DNTN (Điều 192 Luật Doanh nghiệp 2020).
+
+Câu 26 [Trung bình]: Việc tăng hoặc giảm vốn đầu tư của chủ doanh nghiệp tư nhân được thực hiện như thế nào?
+A. Chủ doanh nghiệp tư nhân có quyền tự quyết định tăng hoặc giảm vốn đầu tư; trường hợp giảm vốn đầu tư xuống thấp hơn vốn đăng ký thì phải đăng ký với Cơ quan đăng ký kinh doanh
+B. Không được giảm vốn đầu tư dưới bất kỳ hình thức nào
+C. Bắt buộc phải xin phép Tòa án nhân dân khu vực
+D. Do Ủy ban nhân dân cấp xã quyết định
+Đáp án đúng: A
+Giải thích: Điều 189 Luật Doanh nghiệp 2020 cho phép chủ DNTN tự điều chỉnh vốn đầu tư nhưng phải đăng ký khi giảm vốn.
+
+Câu 27 [Vận dụng]: Sau khi Bán doanh nghiệp tư nhân cho Anh M, Ông K (chủ cũ) có còn phải chịu trách nhiệm về các khoản nợ chưa thanh toán phát sinh trước ngày giao doanh nghiệp không?
+A. Ông K vẫn phải chịu trách nhiệm về các khoản nợ và nghĩa vụ tài sản chưa thực hiện phát sinh trước ngày giao doanh nghiệp, trừ trường hợp có thỏa thuận khác giữa chủ cũ, chủ mới và chủ nợ
+B. Ông K hoàn toàn thoát nợ ngay lập tức
+C. Anh M chịu trách nhiệm 100% thay cho Ông K mà Ông K không cần làm gì
+D. Ủy ban nhân dân cấp xã chịu trách nhiệm trả nợ thay
+Đáp án đúng: A
+Giải thích: Theo Điều 192 Luật Doanh nghiệp 2020, bán DNTN không làm đương nhiên chấm dứt trách nhiệm nợ cũ của chủ cũ trừ khi các bên có thỏa thuận khác với chủ nợ.
+
+Câu 28 [Vận dụng]: Chủ doanh nghiệp tư nhân A tạm thời thuê Anh H làm Giám đốc quản lý doanh nghiệp. Trong quá trình điều hành, Giám đốc H ký hợp đồng gây nợ 300 triệu đồng. Chủ doanh nghiệp A từ chối trả nợ và cho rằng 'Giám đốc H ký thì Giám đốc H tự trả'. Quyết định của Chủ doanh nghiệp A đúng hay sai?
+A. Đúng vì Giám đốc H là người trực tiếp ký
+B. Sai, vì chủ doanh nghiệp tư nhân vẫn phải chịu trách nhiệm vô hạn đối với mọi hoạt động kinh doanh do Giám đốc được thuê thực hiện trong phạm vi ủy quyền
+C. Do Ủy ban nhân dân cấp xã quyết định
+D. Giám đốc H phải chịu phạt tù 2 năm
+Đáp án đúng: B
+Giải thích: Thuê Giám đốc quản lý DNTN không làm giảm hay mất đi trách nhiệm vô hạn của chủ DNTN về mọi hoạt động của doanh nghiệp.
+
+Câu 29 [Dễ]: Công ty TNHH một thành viên là doanh nghiệp do ai làm chủ sở hữu?
+A. Do ít nhất 02 cá nhân làm chủ sở hữu
+B. Do Ban quản trị Phường thành lập
+C. Do một tổ chức hoặc một cá nhân làm chủ sở hữu
+D. Do các cổ đông đóng góp vốn cổ phần
+Đáp án đúng: C
+Giải thích: Điều 74 Luật Doanh nghiệp 2020: Công ty TNHH 1 thành viên do một tổ chức hoặc một cá nhân làm chủ sở hữu.
+
+Câu 30 [Dễ]: Trách nhiệm tài sản của Chủ sở hữu công ty TNHH một thành viên đối với các khoản nợ của công ty được giới hạn như thế nào?
+A. Không chịu bất kỳ trách nhiệm nào
+B. Chịu trách nhiệm bằng toàn bộ tài sản cá nhân (vô hạn)
+C. Chịu trách nhiệm về các khoản nợ và nghĩa vụ tài sản khác của công ty trong phạm vi số vốn điều lệ của công ty (hữu hạn)
+D. Chịu trách nhiệm theo quyết định của Tòa án nhân dân khu vực
+Đáp án đúng: C
+Giải thích: Chủ sở hữu công ty TNHH 1 thành viên chịu trách nhiệm hữu hạn trong phạm vi vốn điều lệ của công ty.
+
+Câu 31 [Dễ]: Công ty TNHH một thành viên có tư cách pháp nhân từ thời điểm nào?
+A. Kể từ ngày được cấp Giấy chứng nhận đăng ký doanh nghiệp
+B. Kể từ ngày nộp hồ sơ đăng ký
+C. Kể từ ngày công ty có doanh thu 1 tỷ đồng
+D. Không có tư cách pháp nhân
+Đáp án đúng: A
+Giải thích: Công ty TNHH 1 thành viên có tư cách pháp nhân kể từ ngày được cấp Giấy chứng nhận đăng ký doanh nghiệp.
+
+Câu 32 [Trung bình]: Chủ sở hữu công ty TNHH một thành viên là cá nhân có được quyền Rút vốn trực tiếp ra khỏi công ty hay không?
+A. Được rút vốn nếu UBND cấp xã cho phép
+B. Được tự ý rút vốn trực tiếp bằng tiền mặt bất kỳ lúc nào
+C. Được rút vốn nếu không có nợ ngân hàng
+D. Không được rút trực tiếp vốn đã góp ra khỏi công ty; chỉ được rút vốn bằng cách chuyển nhượng một phần hoặc toàn bộ vốn điều lệ cho tổ chức, cá nhân khác
+Đáp án đúng: D
+Giải thích: Khoản 5 Điều 77 Luật Doanh nghiệp 2020: Chủ sở hữu công ty TNHH 1 TV không được rút trực tiếp vốn đã góp ra khỏi công ty mà phải chuyển nhượng vốn.
+
+Câu 33 [Trung bình]: Công ty TNHH một thành viên có được quyền Phát hành cổ phiếu hay không?
+A. Được phát hành cổ phiếu phổ thông công khai
+B. Công ty TNHH một thành viên không được phát hành cổ phiếu (trừ trường hợp chuyển đổi thành công ty cổ phần)
+C. Do Tòa án nhân dân khu vực cấp phép phát hành
+D. Được phát hành cổ phiếu ưu đãi cổ tức
+Đáp án đúng: B
+Giải thích: Khoản 3 Điều 74 Luật Doanh nghiệp 2020: Công ty TNHH 1 thành viên không được phát hành cổ phiếu.
+
+Câu 34 [Trung bình]: Khi công ty TNHH một thành viên tăng vốn điều lệ bằng cách kết nạp thêm thành viên mới thì công ty phải làm thủ tục gì?
+A. Xin ý kiến của Ủy ban nhân dân cấp xã
+B. Chuyển đổi loại hình doanh nghiệp thành công ty TNHH hai thành viên trở lên hoặc công ty cổ phần
+C. Giải thể công ty cũ để lập công ty mới
+D. Giữ nguyên mô hình công ty TNHH 1 thành viên
+Đáp án đúng: B
+Giải thích: Điều 87 Luật Doanh nghiệp 2020: Khi kết nạp thêm thành viên mới, công ty TNHH 1 TV phải làm thủ tục chuyển đổi loại hình doanh nghiệp.
+
+Câu 35 [Vận dụng]: Chị X là chủ sở hữu duy nhất của Công ty TNHH 1 thành viên A. Công ty A kinh doanh thua lỗ nợ Ngân hàng Y 2 tỷ đồng. Số vốn điều lệ đăng ký của Công ty A là 500 triệu đồng (Chị X đã góp đủ 500 triệu). Ngân hàng Y khởi kiện yêu cầu Chị X phải dùng căn nhà riêng của Chị X để trả nợ. Yêu cầu của Ngân hàng Y có đúng luật không?
+A. Đúng luật vì chủ sở hữu phải chịu trách nhiệm trả hết nợ
+B. Do Ủy ban nhân dân cấp xã quyết định chia nhà
+C. Không đúng luật, vì Công ty A là công ty TNHH, Chị X chỉ chịu trách nhiệm trong phạm vi số vốn điều lệ 500 triệu đồng đã góp; tài sản riêng của Chị X độc lập với tài sản công ty
+D. Đúng luật nếu Ngân hàng Y có đơn gửi Tòa án nhân dân khu vực
+Đáp án đúng: C
+Giải thích: Công ty TNHH 1 thành viên có tư cách pháp nhân, tài sản độc lập, chủ sở hữu chỉ chịu trách nhiệm hữu hạn trong phạm vi vốn điều lệ đã góp.
+
+Câu 36 [Vận dụng]: Chủ sở hữu Công ty TNHH 1 thành viên B rút toàn bộ 1 tỷ đồng tiền quỹ công ty về tài khoản cá nhân để tiêu xài riêng mà không thông qua sổ sách kế toán. Khi công ty phát sinh nợ 800 triệu đồng với đối tác, chủ sở hữu B cho rằng công ty hết tiền nên không trả. Hậu quả pháp lý đối với Chủ sở hữu B là gì?
+A. Chủ sở hữu B phải chịu trách nhiệm bằng toàn bộ tài sản cá nhân đối với các khoản nợ của công ty do vi phạm quy định về không rút trực tiếp vốn và không phân tách tài sản
+B. Do Ủy ban nhân dân cấp xã bồi thường thay
+C. Chủ sở hữu B được miễn nợ vì công ty là trách nhiệm hữu hạn
+D. Không bị xử lý gì
+Đáp án đúng: A
+Giải thích: Khoản 4 Điều 77 Luật Doanh nghiệp 2020: Chủ sở hữu phải chịu trách nhiệm cá nhân vô hạn nếu rút vốn/tài sản công ty không đúng luật làm thiệt hại cho công ty/chủ nợ.
+
+Câu 37 [Dễ]: Số lượng thành viên của Công ty TNHH hai thành viên trở lên được quy định như thế nào?
+A. Từ 02 thành viên và không giới hạn số lượng tối đa
+B. Từ 02 thành viên đến tối đa 50 thành viên (thành viên có thể là tổ chức, cá nhân)
+C. Ít nhất 05 thành viên trở lên
+D. Từ 03 thành viên đến tối đa 100 thành viên
+Đáp án đúng: B
+Giải thích: Khoản 1 Điều 46 Luật Doanh nghiệp 2020: Công ty TNHH 2 thành viên trở lên có từ 02 đến tối đa 50 thành viên.
+
+Câu 38 [Dễ]: Cơ quan quyết định cao nhất của Công ty TNHH hai thành viên trở lên là cơ quan nào?
+A. Hội đồng thành viên
+B. Ủy ban nhân dân cấp xã
+C. Ban Kiểm soát cấp tỉnh
+D. Đại hội đồng cổ đông
+Đáp án đúng: A
+Giải thích: Điều 55 Luật Doanh nghiệp 2020: Hội đồng thành viên là cơ quan quyết định cao nhất của công ty TNHH 2 thành viên trở lên.
+
+Câu 39 [Dễ]: Thành viên công ty TNHH 2 thành viên trở lên có nghĩa vụ thực hiện việc góp vốn như thế nào khi đăng ký thành lập?
+A. Có thể nợ vốn vĩnh viễn không cần góp
+B. Do Ủy ban nhân dân cấp xã linh hoạt quyết định
+C. Góp vốn sau 10 năm
+D. Phải góp đủ và đúng loại tài sản đã cam kết khi đăng ký thành lập doanh nghiệp trong thời hạn 90 ngày kể từ ngày được cấp Giấy chứng nhận đăng ký doanh nghiệp
+Đáp án đúng: D
+Giải thích: Điều 47 Luật Doanh nghiệp 2020: Thành viên phải góp vốn đủ và đúng hạn trong vòng 90 ngày kể từ ngày cấp Giấy chứng nhận đăng ký doanh nghiệp.
+
+Câu 40 [Trung bình]: Khi một thành viên công ty TNHH hai thành viên trở lên muốn Chuyển nhượng phần vốn góp của mình cho người ngoài công ty, thủ tục ưu tiên hàng đầu là gì?
+A. Phải đấu giá công khai tại Ủy ban nhân dân cấp xã
+B. Phải chào bán phần vốn góp đó cho các thành viên còn lại trong công ty theo tỷ lệ tương ứng với phần vốn góp của họ với cùng điều kiện chào bán
+C. Phải được Tòa án nhân dân khu vực phê chuẩn
+D. Được tự do bán ngay cho người ngoài mà không cần hỏi ai
+Đáp án đúng: B
+Giải thích: Điều 52 Luật Doanh nghiệp 2020 quy định phải ưu tiên chào bán cho các thành viên còn lại trước khi bán cho người ngoài.
+
+Câu 41 [Trung bình]: Trường hợp các thành viên còn lại trong công ty TNHH 2 thành viên trở lên không mua hoặc không mua hết phần vốn góp chào bán trong thời hạn 30 ngày kể từ ngày chào bán thì người bán có quyền gì?
+A. Bị tước bỏ phần vốn góp nộp cho Nhà nước
+B. Phải nộp đơn xin phép Chủ tịch UBND cấp tỉnh
+C. Bắt buộc phải hủy bỏ việc bán vốn
+D. Có quyền chuyển nhượng cho người không phải là thành viên với cùng điều kiện chào bán đối với các thành viên còn lại
+Đáp án đúng: D
+Giải thích: Sau 30 ngày nếu thành viên trong công ty không mua/không mua hết thì thành viên có quyền bán cho người ngoài với cùng điều kiện.
+
+Câu 42 [Trung bình]: Trường hợp thành viên công ty TNHH 2 thành viên trở lên bỏ phiếu không tán thành đối với nghị quyết của Hội đồng thành viên về việc sửa đổi Điều lệ liên quan đến quyền, nghĩa vụ thì thành viên đó có quyền gì?
+A. Bị tước quyền thành viên ngay lập tức
+B. Phải gửi đơn kiện lên UBND cấp xã
+C. Có quyền yêu cầu công ty mua lại phần vốn góp của mình
+D. Có quyền phạt tiền các thành viên khác
+Đáp án đúng: C
+Giải thích: Điều 51 Luật Doanh nghiệp 2020: Thành viên phản đối nghị quyết sửa đổi điều lệ có quyền yêu cầu công ty mua lại phần vốn góp của mình.
+
+Câu 43 [Trung bình]: Công ty TNHH hai thành viên trở lên bắt buộc phải thành lập Ban Kiểm soát khi nào?
+A. Bắt buộc đối với tất cả các công ty TNHH 2 thành viên
+B. Khi công ty là doanh nghiệp nhà nước hoặc công ty con của doanh nghiệp nhà nước theo quy định pháp luật
+C. Do Tòa án nhân dân khu vực chỉ định
+D. Khi có từ 2 thành viên trở lên
+Đáp án đúng: B
+Giải thích: Theo Điều 54 Luật Doanh nghiệp 2020, quy định thành lập Ban kiểm soát áp dụng đối với doanh nghiệp nhà nước và công ty con của DNNN.
+
+Câu 44 [Vận dụng]: Công ty TNHH B có 3 thành viên: X (góp 50%), Y (góp 30%), Z (góp 20%). Điều lệ công ty không quy định khác. Khi quyết định thông qua Quyết định phát triển dự án mới tại cuộc họp Hội đồng thành viên, thành viên X và Y biểu quyết tán thành (tổng 80%), thành viên Z phản đối. Quyết định này có được thông qua không?
+A. Phải chuyển vụ việc sang Tòa án nhân dân khu vực hòa giải
+B. Do Ủy ban nhân dân cấp xã quyết định lại
+C. Không được thông qua vì Z phản đối
+D. Được thông qua vì đạt tỷ lệ trên 65% tổng số vốn góp của các thành viên dự họp tán thành theo quy định tại Điều 59 Luật Doanh nghiệp 2020
+Đáp án đúng: D
+Giải thích: Nghị quyết HĐTV thông qua khi được số phiếu đại diện từ 65% tổng số vốn góp của các thành viên dự họp tán thành.
+
+Câu 45 [Vận dụng]: Thành viên A (sở hữu 25% vốn) trong Công ty TNHH 2 thành viên K bị chết do bệnh tật. Anh A có để lại di chúc cho con trai B (15 tuổi) thừa kế phần vốn góp. Hội đồng thành viên công ty K không chấp nhận cho B làm thành viên vì B chưa đủ 18 tuổi. Việc giải quyết phần vốn góp này thực hiện ra sao?
+A. Con trai B đương nhiên bị mất di sản
+B. B là người thừa kế hợp pháp; phần vốn góp do người giám hộ của B quản lý hoặc công ty mua lại/chuyển nhượng theo quy định tại Điều 53 Luật Doanh nghiệp 2020
+C. Công ty K tịch thu toàn bộ vốn góp của A
+D. UBND cấp xã thu hồi phần vốn góp
+Đáp án đúng: B
+Giải thích: Người thừa kế theo pháp luật/di chúc nhận phần vốn góp; nếu không trở thành thành viên thì công ty mua lại hoặc chuyển nhượng cho người khác.
+
+Câu 46 [Vận dụng]: Anh M muốn mua lại phần vốn góp 30% của Anh N trong Công ty TNHH T. Anh N chưa chào bán phần vốn góp này cho các thành viên hiện hữu trong công ty mà đã tự ý ký hợp đồng chuyển nhượng ngay cho Anh M. Hợp đồng chuyển nhượng này có hợp pháp không?
+A. Hợp pháp vì Anh N có quyền tự do bán tài sản
+B. Không hợp pháp do vi phạm thủ tục bắt buộc phải ưu tiên chào bán cho các thành viên còn lại trong công ty theo Điều 52 Luật Doanh nghiệp 2020
+C. Hợp pháp nếu có chứng thực của UBND cấp xã
+D. Do Tòa án nhân dân khu vực phán quyết hợp lệ
+Đáp án đúng: B
+Giải thích: Bán vốn góp cho người ngoài mà chưa chào bán ưu tiên cho thành viên trong công ty là vi phạm pháp luật.
+
+Câu 47 [Dễ]: Số lượng cổ đông tối thiểu của Công ty Cổ phần được quy định là bao nhiêu?
+A. Tối thiểu là 05 cổ đông
+B. Tối thiểu là 02 cổ đông
+C. Tối thiểu là 03 cổ đông (không giới hạn số lượng tối đa)
+D. Tối thiểu là 10 cổ đông
+Đáp án đúng: C
+Giải thích: Khoản 1 Điều 111 Luật Doanh nghiệp 2020: Công ty cổ phần phải có tối thiểu 03 cổ đông và không hạn chế số lượng tối đa.
+
+Câu 48 [Dễ]: Vốn điều lệ của công ty cổ phần được chia thành các phần bằng nhau gọi là gì?
+A. Thẻ hội viên
+B. Phần vốn góp dân sự
+C. Trái phiếu
+D. Cổ phần
+Đáp án đúng: D
+Giải thích: Vốn điều lệ của công ty cổ phần được chia thành nhiều phần bằng nhau gọi là cổ phần.
+
+Câu 49 [Dễ]: Cơ quan quyết định cao nhất của Công ty Cổ phần là cơ quan nào?
+A. Hội đồng quản trị
+B. Ban Giám đốc
+C. Ủy ban nhân dân cấp tỉnh
+D. Đại hội đồng cổ đông
+Đáp án đúng: D
+Giải thích: Điều 138 Luật Doanh nghiệp 2020: Đại hội đồng cổ đông gồm tất cả cổ đông có quyền biểu quyết, là cơ quan quyết định cao nhất của công ty cổ phần.
+
+Câu 50 [Dễ]: Cổ đông phổ thông trong công ty cổ phần có các quyền cơ bản nào sau đây?
+A. Tham dự, phát biểu trong các cuộc họp Đại hội đồng cổ đông và thực hiện quyền biểu quyết; nhận cổ tức; ưu tiên mua cổ phần mới
+B. Trực tiếp tịch thu tài sản của cổ đông khác
+C. Tự ý rút vốn mặt trực tiếp khỏi công ty bất kỳ lúc nào
+D. Thay mặt UBND cấp xã quản lý địa phương
+Đáp án đúng: A
+Giải thích: Điều 115 Luật Doanh nghiệp 2020 quy định các quyền cơ bản của cổ đông phổ thông: biểu quyết, nhận cổ tức, ưu tiên mua cổ phần...
+
+Câu 51 [Dễ]: Cổ đông sở hữu Cổ phần ưu đãi hoàn lại có quyền hạn gì đặc thù?
+A. Được làm Giám đốc vĩnh viễn
+B. Được miễn nộp thuế thu nhập cá nhân
+C. Do Tòa án nhân dân khu vực cấp phép độc quyền
+D. Được công ty hoàn lại vốn góp theo yêu cầu của người sở hữu hoặc theo các điều kiện được ghi tại cổ phiếu
+Đáp án đúng: D
+Giải thích: Điều 118 Luật Doanh nghiệp 2020: Cổ phần ưu đãi hoàn lại là cổ phần được công ty hoàn lại vốn góp theo yêu cầu/điều kiện.
+
+Câu 52 [Trung bình]: Công ty Cổ phần có đặc quyền ưu việt nào về huy động vốn mà công ty TNHH và DNTN không có?
+A. Có quyền phát hành tất cả các loại chứng khoán (bao gồm cổ phiếu, trái phiếu) để huy động vốn rộng rãi trên thị trường
+B. Được Nhà nước cấp vốn không hoàn lại hàng năm
+C. Được vay tiền ngân hàng không tính lãi suất
+D. Được UBND cấp xã miễn 100% các loại thuế
+Đáp án đúng: A
+Giải thích: Công ty cổ phần có quyền phát hành cổ phiếu, trái phiếu và các loại chứng khoán khác công khai ra công chúng.
+
+Câu 53 [Trung bình]: Cổ đông sáng lập công ty cổ phần bắt buộc phải cùng nhau đăng ký mua ít nhất bao nhiêu phần trăm tổng số cổ phần phổ thông được quyền chào bán khi thành lập?
+A. Không bắt buộc mua cổ phần nào
+B. Bắt buộc mua ít nhất 20% tổng số cổ phần phổ thông được quyền chào bán
+C. Bắt buộc mua ít nhất 50% cổ phần
+D. Bắt buộc mua 100% cổ phần
+Đáp án đúng: B
+Giải thích: Khoản 2 Điều 120 Luật Doanh nghiệp 2020: Các cổ đông sáng lập phải cùng nhau đăng ký mua ít nhất 20% tổng số cổ phần phổ thông được quyền chào bán.
+
+Câu 54 [Trung bình]: Trong thời hạn 03 năm kể từ ngày công ty được cấp Giấy chứng nhận đăng ký doanh nghiệp, việc chuyển nhượng cổ phần phổ thông của Cổ đông sáng lập bị hạn chế như thế nào?
+A. Phải nộp đơn xin phép Tòa án nhân dân khu vực
+B. Được tự do bán cho bất kỳ ai trên thị trường tự do
+C. Tuyệt đối cấm chuyển nhượng cho bất kỳ ai
+D. Được tự do chuyển nhượng cho cổ đông sáng lập khác; chỉ được chuyển nhượng cho người không phải cổ đông sáng lập nếu được sự chấp thuận của Đại hội đồng cổ đông
+Đáp án đúng: D
+Giải thích: Khoản 3 Điều 120 Luật Doanh nghiệp 2020 hạn chế chuyển nhượng cổ phần phổ thông của cổ đông sáng lập trong 3 năm đầu.
+
+Câu 55 [Trung bình]: Cơ quan quản lý công ty cổ phần có thẩm quyền quyết định chiến lược, kế hoạch phát triển trung hạn và hàng năm của công ty là cơ quan nào?
+A. Ban Kiểm soát
+B. Hội đồng quản trị
+C. Tổng Giám đốc
+D. UBND cấp xã
+Đáp án đúng: B
+Giải thích: Điều 153 Luật Doanh nghiệp 2020: Hội đồng quản trị là cơ quan quản lý công ty, có toàn quyền nhân danh công ty quyết định các vấn đề không thuộc thẩm quyền của ĐHĐCĐ.
+
+Câu 56 [Trung bình]: Trái phiếu doanh nghiệp do công ty cổ phần phát hành là loại chứng khoán xác nhận nghĩa vụ gì của công ty?
+A. Xác nhận danh hiệu thi đua của UBND cấp xã
+B. Xác nhận quyền sở hữu vốn góp cổ đông
+C. Xác nhận tư cách thành viên Hội đồng quản trị
+D. Xác nhận nghĩa vụ Nợ của công ty đối với người sở hữu trái phiếu (chủ nợ của công ty)
+Đáp án đúng: D
+Giải thích: Trái phiếu là chứng khoán nợ; người sở hữu trái phiếu là chủ nợ của công ty cổ phần.
+
+Câu 57 [Vận dụng]: Anh M sở hữu 1.000 cổ phần ưu đãi cổ tức của Công ty Cổ phần X. Tại cuộc họp Đại hội đồng cổ đông niên hạn xem xét bầu thành viên Hội đồng quản trị mới, Anh M có được tham gia biểu quyết bầu Hội đồng quản trị không?
+A. Không được biểu quyết, vì theo khoản 3 Điều 117 Luật Doanh nghiệp 2020, cổ đông sở hữu cổ phần ưu đãi cổ tức không có quyền biểu quyết, không có quyền dự họp ĐHĐCĐ để bầu HĐQT
+B. Được biểu quyết gấp đôi cổ đông phổ thông
+C. Được biểu quyết bình thường như cổ đông phổ thông
+D. Do Chủ tịch UBND cấp tỉnh quyết định
+Đáp án đúng: A
+Giải thích: Cổ phần ưu đãi cổ tức nhận cổ tức cao hơn nhưng bị hạn chế quyền biểu quyết, không có quyền dự họp ĐHĐCĐ bầu HĐQT.
+
+Câu 58 [Vận dụng]: Công ty Cổ phần Y có 100 cổ đông. HĐQT triệu tập cuộc họp Đại hội đồng cổ đông lần 1. Khi khai mạc, chỉ có 30 cổ đông tham dự đại diện cho 45% tổng số phiếu biểu quyết. Cuộc họp ĐHĐCĐ lần 1 này có đủ điều kiện tiến hành không?
+A. Do Tòa án nhân dân khu vực chỉ định tiếp tục
+B. Không đủ điều kiện tiến hành, vì theo Điều 145 Luật Doanh nghiệp 2020, cuộc họp ĐHĐCĐ lần 1 chỉ được tiến hành khi có số cổ đông dự họp đại diện trên 50% tổng số phiếu biểu quyết (trừ trường hợp Điều lệ quy định tỷ lệ cao hơn)
+C. Đủ điều kiện nếu có đại diện UBND cấp xã đến dự
+D. Đủ điều kiện tiến hành vì đã có 30 cổ đông tham dự
+Đáp án đúng: B
+Giải thích: Điều 145 Luật Doanh nghiệp 2020 quy định cuộc họp ĐHĐCĐ lần 1 tiến hành khi có số cổ đông dự họp đại diện trên 50% tổng số phiếu biểu quyết.
+
+Câu 59 [Vận dụng]: Trường hợp cuộc họp Đại hội đồng cổ đông lần 1 của công ty cổ phần không đủ điều kiện tiến hành do không đủ tỷ lệ phiếu biểu quyết thì việc triệu tập cuộc họp lần 2 được thực hiện trong thời hạn bao lâu?
+A. Triệu tập lần 2 trong thời hạn 30 ngày kể từ ngày dự định họp lần 1 và tiến hành khi có số cổ đông dự họp đại diện ít nhất 33% tổng số phiếu biểu quyết
+B. Do Ủy ban nhân dân cấp xã quyết định ngày họp
+C. Triệu tập sau 1 năm
+D. Tiến hành họp bất kỳ lúc nào không cần tỷ lệ
+Đáp án đúng: A
+Giải thích: Khoản 1 Điều 145 Luật Doanh nghiệp 2020: Cuộc họp ĐHĐCĐ lần 2 được triệu tập trong vòng 30 ngày, điều kiện tỷ lệ là 33%.
+
+Câu 60 [Vận dụng]: Ông K sở hữu 10% cổ phần phổ thông của Công ty Cổ phần Z trong 2 năm liên tục. Phát hiện Chủ tịch HĐQT ký hợp đồng bán tài sản lớn của công ty cho người thân gây thiệt hại 5 tỷ đồng, Ông K có quyền tự mình đại diện công ty khởi kiện trách nhiệm dân sự đối với Chủ tịch HĐQT ra Tòa án nhân dân khu vực không?
+A. Có quyền tự mình hoặc nhân danh công ty khởi kiện trách nhiệm cá nhân đối với thành viên HĐQT, Giám đốc do vi phạm nghĩa vụ người quản lý theo Điều 166 Luật Doanh nghiệp 2020
+B. Chỉ được khiếu nại lên UBND cấp tỉnh
+C. Do Ủy ban nhân dân cấp xã quyết định hòa giải
+D. Không có quyền kiện vì chỉ có Tổng Giám đốc mới được kiện
+Đáp án đúng: A
+Giải thích: Cổ đông hoặc nhóm cổ đông sở hữu ít nhất 1% số cổ phần phổ thông có quyền tự mình hoặc nhân danh công ty khởi kiện trách nhiệm cá nhân người quản lý.
+
+Câu 61 [Dễ]: Công ty Hợp danh bắt buộc phải có ít nhất bao nhiêu thành viên là chủ sở hữu chung của công ty (Thành viên hợp danh)?
+A. Chỉ cần 01 thành viên hợp danh
+B. Phải có ít nhất 02 thành viên hợp danh là cá nhân
+C. Phải có ít nhất 05 thành viên hợp danh
+D. Không cần thành viên hợp danh chỉ cần thành viên góp vốn
+Đáp án đúng: B
+Giải thích: Khoản 1 Điều 177 Luật Doanh nghiệp 2020: Công ty hợp danh phải có ít nhất 02 thành viên hợp danh là chủ sở hữu chung của công ty.
+
+Câu 62 [Dễ]: Thành viên hợp danh trong công ty hợp danh phải là chủ thể nào và chịu trách nhiệm tài sản ra sao?
+A. Là cơ quan nhà nước cấp tỉnh
+B. Có thể là tổ chức và chịu trách nhiệm hữu hạn
+C. Phải là cá nhân và chịu trách nhiệm bằng toàn bộ tài sản của mình về các nghĩa vụ của công ty (trách nhiệm vô hạn và liên đới)
+D. Là cá nhân và chỉ chịu trách nhiệm trong phạm vi vốn góp
+Đáp án đúng: C
+Giải thích: Thành viên hợp danh bắt buộc là cá nhân và chịu trách nhiệm vô hạn, liên đới về các nghĩa vụ của công ty.
+
+Câu 63 [Dễ]: Ngoài thành viên hợp danh, công ty hợp danh có thể có thêm loại thành viên nào?
+A. Thành viên cố vấn hành chính
+B. Thành viên đại diện UBND cấp xã
+C. Thành viên góp vốn (chịu trách nhiệm hữu hạn trong phạm vi số vốn đã cam kết góp)
+D. Thành viên công chức nhà nước
+Đáp án đúng: C
+Giải thích: Công ty hợp danh ngoài thành viên hợp danh có thể có thêm thành viên góp vốn (chịu trách nhiệm hữu hạn).
+
+Câu 64 [Dễ]: Ai có quyền đại diện theo pháp luật và tổ chức điều hành hoạt động kinh doanh hằng ngày của công ty hợp danh?
+A. Trưởng Công an khu vực
+B. Tất cả các thành viên hợp danh đều có quyền đại diện theo pháp luật và tổ chức điều hành hoạt động kinh doanh của công ty
+C. Thành viên góp vốn
+D. Chủ tịch Ủy ban nhân dân cấp xã
+Đáp án đúng: B
+Giải thích: Điều 184 Luật Doanh nghiệp 2020: Các thành viên hợp danh đều có quyền đại diện theo pháp luật và điều hành kinh doanh hằng ngày.
+
+Câu 65 [Trung bình]: Thành viên hợp danh trong công ty hợp danh BỊ HẠN CHẾ quyền nào sau đây?
+A. Không được làm chủ doanh nghiệp tư nhân hoặc thành viên hợp danh của công ty hợp danh khác (trừ trường hợp được sự đồng ý của các thành viên hợp danh còn lại)
+B. Không được chia lợi nhuận
+C. Không được tham gia họp Hội đồng thành viên
+D. Không được đại diện công ty ký hợp đồng
+Đáp án đúng: A
+Giải thích: Điều 180 Luật Doanh nghiệp 2020 hạn chế thành viên hợp danh làm chủ DNTN hoặc thành viên hợp danh công ty khác nhằm tránh xung đột lợi ích.
+
+Câu 66 [Trung bình]: Công ty Hợp danh có được quyền Phát hành bất kỳ loại cổ phiếu nào hay không?
+A. Công ty hợp danh không được phát hành bất kỳ loại chứng khoán nào
+B. Được phát hành cổ phiếu phổ thông công khai
+C. Được phát hành cổ phiếu ưu đãi
+D. Do UBND cấp tỉnh cho phép phát hành
+Đáp án đúng: A
+Giải thích: Khoản 3 Điều 177 Luật Doanh nghiệp 2020: Công ty hợp danh không được phát hành bất kỳ loại chứng khoán nào.
+
+Câu 67 [Trung bình]: Thành viên hợp danh bị Khai trừ khỏi công ty hợp danh trong trường hợp nào?
+A. Khi thành viên đó phát biểu ý kiến thẳng thắn
+B. Do Ủy ban nhân dân cấp xã yêu cầu đuổi
+C. Khi thành viên đó đi du lịch nghỉ hè
+D. Không có khả năng góp vốn hoặc không góp vốn đúng hạn sau khi đã được nhắc nhở; Vi phạm nghiêm trọng nghĩa vụ thành viên; Bị cấm hành nghề theo quy định pháp luật
+Đáp án đúng: D
+Giải thích: Điều 185 Luật Doanh nghiệp 2020 quy định các trường hợp thành viên hợp danh bị khai trừ khỏi công ty.
+
+Câu 68 [Vận dụng]: Anh A và Anh B là 2 thành viên hợp danh của Công ty Hợp danh Luật sư X. Công ty nợ khách hàng 600 triệu đồng bồi thường thiệt hại tư vấn sai. Tài sản của Công ty X hiện chỉ còn 200 triệu đồng. Khách hàng khởi kiện yêu cầu Anh A phải dùng tài sản riêng nhà đất của cá nhân Anh A để trả nợ toàn bộ 400 triệu còn thiếu. Yêu cầu này có đúng luật không?
+A. Đúng luật, vì thành viên hợp danh chịu trách nhiệm vô hạn và liên đới bằng toàn bộ tài sản cá nhân đối với các nghĩa vụ của công ty khi tài sản công ty không đủ trả nợ
+B. Do Ủy ban nhân dân cấp xã trả nợ thay
+C. Anh A được miễn trả nợ vì tài sản công ty đã hết
+D. Không đúng vì Anh A chỉ trả 1/2 của 400 triệu
+Đáp án đúng: A
+Giải thích: Thành viên hợp danh chịu trách nhiệm vô hạn và liên đới; chủ nợ có quyền yêu cầu bất kỳ thành viên hợp danh nào dùng tài sản cá nhân trả hết nợ của công ty.
+
+Câu 69 [Vận dụng]: Chị T là Thành viên góp vốn trong Công ty Hợp danh M (Chị T góp 100 triệu đồng). Công ty M bị phá sản và nợ các đối tác 3 tỷ đồng. Các chủ nợ yêu cầu Chị T phải bán ô tô riêng của Chị T để trả nợ cho công ty. Chị T có phải bán ô tô riêng để trả nợ không?
+A. Chị T không phải bán ô tô riêng, vì Chị T là Thành viên góp vốn nên chỉ chịu trách nhiệm về các khoản nợ của công ty trong phạm vi số vốn đã cam kết góp (100 triệu đồng)
+B. Chị T phải nộp toàn bộ tài sản cho UBND cấp xã
+C. Chị T bị Tòa án nhân dân khu vực phạt tù
+D. Chị T phải bán ô tô trả nợ cùng thành viên hợp danh
+Đáp án đúng: A
+Giải thích: Thành viên góp vốn trong công ty hợp danh chỉ chịu trách nhiệm hữu hạn trong phạm vi số vốn đã góp/cam kết góp.
+
+Câu 70 [Vận dụng]: Ông P là thành viên hợp danh của Công ty Hợp danh K. Ông P muốn tự mình mở thêm một Doanh nghiệp tư nhân P kinh doanh cùng ngành nghề. Ông P có được tự ý mở DNTN này không?
+A. Được tự ý mở bình thường
+B. Do Tòa án nhân dân khu vực cấp phép độc quyền
+C. Được mở nếu có Giấy chứng nhận của UBND cấp xã
+D. Không được tự ý mở, trừ trường hợp được sự đồng ý của các thành viên hợp danh còn lại theo khoản 1 Điều 180 Luật Doanh nghiệp 2020
+Đáp án đúng: D
+Giải thích: Thành viên hợp danh không được làm chủ DNTN khác trừ khi được các thành viên hợp danh còn lại đồng ý.
+
+--------------------------------------------------------------------------------
+MỤC 5.1.3. QUY ĐỊNH VỀ PHÁ SẢN DOANH NGHIỆP
+--------------------------------------------------------------------------------
+
+Câu 71 [Dễ]: Doanh nghiệp, hợp tác xã mất khả năng thanh toán theo quy định của Luật Phá sản 2014 là doanh nghiệp, hợp tác xã rơi vào tình trạng nào?
+A. Không thực hiện nghĩa vụ thanh toán khoản nợ trong thời hạn 03 tháng kể từ ngày đến hạn thanh toán
+B. Bị Ủy ban nhân dân cấp xã xử phạt vi phạm hành chính
+C. Tạm ngừng kinh doanh 01 tháng để nghỉ lễ
+D. Kinh doanh giảm doanh thu 10% so với năm trước
+Đáp án đúng: A
+Giải thích: Khoản 1 Điều 4 Luật Phá sản 2014: Doanh nghiệp, HTX mất khả năng thanh toán là không thực hiện nghĩa vụ thanh toán khoản nợ trong thời hạn 03 tháng kể từ ngày đến hạn.
+
+Câu 72 [Dễ]: Chủ nợ nào sau đây có quyền nộp đơn yêu cầu mở thủ tục phá sản đối với doanh nghiệp, hợp tác xã mất khả năng thanh toán?
+A. Chủ nợ không có bảo đảm, chủ nợ có bảo đảm một phần
+B. Chủ tịch Ủy ban nhân dân cấp xã
+C. Tất cả công dân sống trên địa bàn xã
+D. Chủ nợ có bảo đảm 100% bằng tài sản thế chấp đắt tiền
+Đáp án đúng: A
+Giải thích: Khoản 1 Điều 5 Luật Phá sản 2014: Chủ nợ không có bảo đảm, chủ nợ có bảo đảm một phần có quyền nộp đơn yêu cầu mở thủ tục phá sản sau 03 tháng nợ đến hạn.
+
+Câu 73 [Dễ]: Cơ quan nhà nước nào có thẩm quyền thụ lý và giải quyết phá sản doanh nghiệp, hợp tác xã?
+A. Sở Kế hoạch và Đầu tư cấp tỉnh
+B. Cơ quan Công an khu vực
+C. Ủy ban nhân dân cấp xã
+D. Tòa án nhân dân (Tòa án nhân dân khu vực hoặc Tòa án nhân dân cấp tỉnh theo phân cấp thẩm quyền)
+Đáp án đúng: D
+Giải thích: Tòa án nhân dân là cơ quan duy nhất có thẩm quyền thụ lý và giải quyết thủ tục phá sản doanh nghiệp, hợp tác xã.
+
+Câu 74 [Dễ]: Thẩm quyền giải quyết phá sản doanh nghiệp có trụ sở chính tại địa phương thuộc thẩm quyền sơ thẩm của Tòa án nào theo phân cấp tư pháp hiện hành?
+A. Ủy ban nhân dân cấp tỉnh
+B. Ủy ban nhân dân cấp xã
+C. Tòa án nhân dân tối cao xét xử sơ thẩm ngay lập tức
+D. Tòa án nhân dân khu vực nơi doanh nghiệp đặt trụ sở chính (hoặc Tòa án nhân dân cấp tỉnh đối với vụ việc phức tạp/có yếu tố nước ngoài)
+Đáp án đúng: D
+Giải thích: Tòa án nhân dân khu vực giải quyết phá sản doanh nghiệp/HTX có trụ sở tại địa bàn khu vực; TAND cấp tỉnh giải quyết vụ việc phức tạp/có yếu tố nước ngoài.
+
+Câu 75 [Dễ]: Người đại diện theo pháp luật của doanh nghiệp có NGHĨA VỤ phải nộp đơn yêu cầu mở thủ tục phá sản khi nào?
+A. Khi doanh nghiệp mất khả năng thanh toán (không trả được nợ đến hạn sau 03 tháng)
+B. Khi có yêu cầu của Ủy ban nhân dân cấp xã
+C. Khi bị đối tác khiếu nại về chất lượng sản phẩm
+D. Khi doanh nghiệp mới bắt đầu chịu lỗ 10 triệu đồng
+Đáp án đúng: A
+Giải thích: Khoản 3 Điều 5 Luật Phá sản 2014 quy định người đại diện theo pháp luật có nghĩa vụ nộp đơn yêu cầu mở thủ tục phá sản khi doanh nghiệp mất khả năng thanh toán.
+
+Câu 76 [Dễ]: Chức danh quản lý, giám sát việc thanh lý tài sản trong quá trình giải quyết phá sản do Tòa án chỉ định là ai?
+A. Giám đốc Sở Tài chính
+B. Quản tài viên (hoặc Doanh nghiệp quản lý, thanh lý tài sản)
+C. Trưởng Công an khu vực
+D. Chủ tịch Ủy ban nhân dân cấp xã
+Đáp án đúng: B
+Giải thích: Quản tài viên là cá nhân hành nghề quản lý, thanh lý tài sản của doanh nghiệp, HTX mất khả năng thanh toán trong quá trình giải quyết phá sản.
+
+Câu 77 [Dễ]: Sự khác nhau căn bản giữa 'Giải thể doanh nghiệp' và 'Phá sản doanh nghiệp' là gì?
+A. Giải thể áp dụng khi doanh nghiệp bảo đảm thanh toán hết các khoản nợ; Phá sản áp dụng khi doanh nghiệp mất khả năng thanh toán và do Tòa án quyết định
+B. Giải thể là bị phạt tù; Phá sản là bị phạt tiền
+C. Hai thủ tục này hoàn toàn giống hệt nhau
+D. Giải thể do Tòa án tuyên; Phá sản do UBND cấp xã tuyên
+Đáp án đúng: A
+Giải thích: Giải thể yêu cầu doanh nghiệp phải trả hết sạch nợ; Phá sản là thủ tục tư pháp tại Tòa án khi doanh nghiệp không còn khả năng trả hết nợ.
+
+Câu 78 [Trung bình]: Thứ tự phân chia tài sản khi Tòa án ra Quyết định tuyên bố doanh nghiệp phá sản được thực hiện theo thứ tự ưu tiên nào?
+A. Nộp hết thuế cho Nhà nước trước tiên -> Chi phí phá sản -> Trả nợ ngân hàng -> Trả lương người lao động sau cùng
+B. Chia đều cho các cổ đông trước -> Trả nợ sau
+C. Nộp cho Ủy ban nhân dân cấp xã thụ hưởng toàn bộ
+D. Chi phí phá sản -> Nợ lương, trợ cấp mất việc làm, BHXH cho người lao động -> Khoản nợ phát sinh sau khi mở thủ tục phá sản nhằm phục hồi hoạt động -> Nghĩa vụ tài chính đối với Nhà nước và các khoản nợ khác
+Đáp án đúng: D
+Giải thích: Điều 54 Luật Phá sản 2014 quy định thứ tự phân chia tài sản: Chi phí phá sản đứng đầu, tiếp theo là nợ lương/trợ cấp lao động/BHXH...
+
+Câu 79 [Trung bình]: Trường hợp giá trị tài sản còn lại của doanh nghiệp sau khi tuyên bố phá sản không đủ để thanh toán cho các khoản nợ cùng một thứ tự ưu tiên thì giải quyết ra sao?
+A. Tòa án nhân dân khu vực bắt quản tài viên trả thay
+B. Ủy ban nhân dân cấp tỉnh bỏ tiền ngân sách ra trả đủ
+C. Các chủ nợ thuộc cùng một thứ tự ưu tiên được thanh toán theo tỷ lệ phần trăm tương ứng với số nợ của mỗi người
+D. Chủ nợ nào đến sớm hơn được trả đủ 100%, người đến sau không được gì
+Đáp án đúng: C
+Giải thích: Khoản 2 Điều 54 Luật Phá sản 2014: Nếu giá trị tài sản không đủ thanh toán cho các nghĩa vụ thuộc cùng một thứ tự ưu tiên thì thanh toán theo tỷ lệ phần trăm tương ứng.
+
+Câu 80 [Trung bình]: Người lao động có quyền nộp đơn yêu cầu mở thủ tục phá sản đối với doanh nghiệp thông qua tổ chức đại diện nào khi doanh nghiệp nợ lương?
+A. Thông qua Hội Luật gia tỉnh
+B. Thông qua Công đoàn cơ sở hoặc đại diện người lao động khi doanh nghiệp không trả lương, các khoản nợ khác sau 03 tháng đến hạn
+C. Thông qua Ủy ban nhân dân cấp xã
+D. Thông qua Tòa án nhân dân tối cao
+Đáp án đúng: B
+Giải thích: Khoản 2 Điều 5 ️Luật Phá sản 2014: Người lao động, công đoàn cơ sở có quyền nộp đơn mở thủ tục phá sản khi doanh nghiệp nợ lương quá 03 tháng.
+
+Câu 81 [Trung bình]: Hội nghị chủ nợ trong thủ tục phá sản được coi là hợp lệ khi đáp ứng điều kiện nào về sự tham gia của các chủ nợ?
+A. Có 100% tất cả các chủ nợ tham dự
+B. Có sự tham dự của Chủ tịch UBND cấp xã
+C. Có sự tham dự của đại diện Viện kiểm sát tối cao
+D. Có số chủ nợ tham gia đại diện cho ít nhất 51% tổng số nợ không có bảo đảm
+Đáp án đúng: D
+Giải thích: Điều 79 Luật Phá sản 2014: Hội nghị chủ nợ hợp lệ khi có số chủ nợ tham gia đại diện cho ít nhất 51% tổng số nợ không có bảo đảm.
+
+Câu 82 [Trung bình]: Sau khi Tòa án ra Quyết định mở thủ tục phá sản, hoạt động nào sau đây của doanh nghiệp bị CẤM thực hiện?
+A. Nộp tiền điện nước sinh hoạt cho văn phòng
+B. Cất giấu, tẩu tán, tống tán tài sản; thanh toán khoản nợ không có bảo đảm (trừ khoản nợ phát sinh sau khi mở thủ tục phá sản và trả lương người lao động); từ bỏ quyền đòi nợ
+C. Trả lương định kỳ hàng tháng cho người lao động đang làm việc
+D. Thực hiện hoạt động sản xuất kinh doanh thông thường dưới sự giám sát của Quản tài viên
+Đáp án đúng: B
+Giải thích: Điều 48 Luật Phá sản 2014 nghiêm cấm tẩu tán tài sản, trả nợ không có bảo đảm trái quy định, từ bỏ quyền đòi nợ sau khi mở thủ tục phá sản.
+
+Câu 83 [Trung bình]: Thời hạn Phục hồi hoạt động kinh doanh của doanh nghiệp trong thủ tục phá sản theo Quyết định của Tòa án là bao lâu?
+A. Vĩnh viễn không giới hạn thời gian
+B. Không quá 10 năm
+C. Không quá 03 năm kể từ ngày Tòa án công nhận Nghị quyết của Hội nghị chủ nợ về phương án phục hồi hoạt động kinh doanh
+D. Không quá 06 tháng
+Đáp án đúng: C
+Giải thích: Khoản 1 Điều 89 Luật Phá sản 2014: Thời hạn thực hiện phương án phục hồi hoạt động kinh doanh tối đa là 03 năm.
+
+Câu 84 [Trung bình]: Hiệu lực của Quyết định tuyên bố doanh nghiệp phá sản do Tòa án ban hành được xác định như thế nào?
+A. Chỉ có giá trị tham khảo không có tính cưỡng chế
+B. Chỉ có hiệu lực sau khi được UBND cấp xã thông qua
+C. Có hiệu lực thi hành kể từ ngày ra quyết định (trừ trường hợp bị kháng nghị, đề nghị xem xét lại theo quy định pháp luật)
+D. Có hiệu lực sau 05 năm
+Đáp án đúng: C
+Giải thích: Quyết định tuyên bố phá sản có hiệu lực thi hành ngay, các bên có quyền đề nghị xem xét lại/kháng nghị trong thời hạn luật định.
+
+Câu 85 [Trung bình]: Chủ doanh nghiệp tư nhân hoặc người đại diện theo pháp luật của doanh nghiệp bị tuyên bố phá sản do cố ý vi phạm bị cấm đảm nhiệm chức vụ quản lý doanh nghiệp trong thời hạn bao lâu?
+A. Bị cấm thành lập, quản lý doanh nghiệp trong thời hạn từ 01 năm đến 03 năm kể từ ngày Tòa án tuyên bố phá sản
+B. Bị cấm vĩnh viễn trọn đời
+C. Bị cấm 10 năm
+D. Không bị cấm thời gian nào
+Đáp án đúng: A
+Giải thích: Điều 130 Luật Phá sản 2014 quy định cấm đảm nhiệm chức vụ quản lý doanh nghiệp từ 1 đến 3 năm đối với cá nhân giữ chức vụ quản lý doanh nghiệp bị phá sản cố ý vi phạm.
+
+Câu 86 [Vận dụng]: Công ty TNHH M nợ Ngân hàng X 5 tỷ đồng (có thế chấp nhà xưởng trị giá 8 tỷ đồng) và nợ Công ty Y 1 tỷ đồng (không có bảo đảm). Đã quá 04 tháng kể từ ngày đến hạn thanh toán nhưng Công ty M không trả nợ. Công ty Y gửi đơn đến Tòa án nhân dân khu vực yêu cầu mở thủ tục phá sản Công ty M. Đơn của Công ty Y có được Tòa án thụ lý không?
+A. Được thụ lý, vì Công ty Y là chủ nợ không có bảo đảm có khoản nợ quá hạn trên 03 tháng, đủ điều kiện nộp đơn theo Điều 5 Luật Phá sản 2014
+B. Không thụ lý vì chỉ Ngân hàng X mới có quyền kiện
+C. Do Ủy ban nhân dân cấp xã quyết định thụ lý
+D. Không thụ lý vì nợ dưới 10 tỷ đồng
+Đáp án đúng: A
+Giải thích: Chủ nợ không có bảo đảm có khoản nợ quá hạn 03 tháng có quyền nộp đơn yêu cầu mở thủ tục phá sản.
+
+Câu 87 [Vận dụng]: Giám đốc Công ty TNHH A biết công ty chuẩn bị rơi vào phá sản nên đã âm thầm ký hợp đồng tặng cho toàn bộ 3 xe ô tô của công ty cho con trai mình nhằm tẩu tán tài sản trước khi Tòa án thụ lý đơn phá sản. Giao dịch tặng cho xe này bị xử lý ra sao?
+A. Giao dịch bị Tòa án tuyên Tuyên bố vô hiệu theo Điều 59 Luật Phá sản 2014 (giao dịch tẩu tán tài sản thực hiện trong thời hạn 06 tháng trước ngày Tòa án thụ lý đơn)
+B. Hoàn toàn hợp pháp vì xe là tài sản của công ty
+C. Do Ủy ban nhân dân cấp xã đứng ra thu hồi xe
+D. Con trai Giám đốc được giữ xe sử dụng bình thường
+Đáp án đúng: A
+Giải thích: Các giao dịch tẩu tán tài sản, tặng cho tài sản thực hiện trong vòng 6 tháng trước ngày thụ lý đơn phá sản sẽ bị Tòa án tuyên vô hiệu và thu hồi tài sản.
+
+Câu 88 [Vận dụng]: Khi Công ty Cổ phần Z bị Tòa án tuyên bố phá sản, tổng giá trị tài sản thu hồi được sau khi trừ chi phí phá sản và nợ lương công nhân còn lại 1 tỷ đồng. Công ty còn nợ Ngân hàng 2 tỷ đồng và nợ Thuế nhà nước 1 tỷ đồng (cùng thuộc thứ tự ưu tiên thanh toán nghĩa vụ thuế và nợ khác). Số tiền 1 tỷ đồng còn lại được chia như thế nào?
+A. Ủy ban nhân dân cấp xã tịch thu toàn bộ 1 tỷ
+B. Thanh toán 100% cho Ngân hàng, Nhà nước không được gì
+C. Thanh toán 100% cho Thuế nhà nước (1 tỷ), Ngân hàng không được đồng nào
+D. Thanh toán theo tỷ lệ phần trăm tương ứng với số nợ: Ngân hàng (nợ 2 tỷ - chiếm 2/3) nhận 666,6 triệu đồng; Cơ quan Thuế (nợ 1 tỷ - chiếm 1/3) nhận 333,3 triệu đồng
+Đáp án đúng: D
+Giải thích: Khi tài sản còn lại không đủ thanh toán cho các khoản nợ thuộc cùng thứ tự ưu tiên thì thanh toán theo tỷ lệ phần trăm tương ứng với số nợ.
+
+Câu 89 [Vận dụng]: Công ty TNHH H bị Tòa án mở thủ tục phá sản. Sau khi kiểm kê tài sản, Hội nghị chủ nợ thông qua Phương án phục hồi hoạt động kinh doanh của Công ty H. Ngân hàng K (là chủ nợ) đề nghị thời hạn phục hồi là 5 năm. Thời hạn phục hồi do Tòa án quyết định tối đa là bao lâu?
+A. Chấp nhận 5 năm theo đề nghị của Ngân hàng
+B. Do Ủy ban nhân dân cấp tỉnh quyết định
+C. Tối đa không quá 03 năm theo quy định tại Điều 89 Luật Phá sản 2014
+D. Tối đa 10 năm
+Đáp án đúng: C
+Giải thích: Luật Phá sản 2014 khống chế thời hạn phục hồi hoạt động kinh doanh tối đa không quá 03 năm.
+
+Câu 90 [Vận dụng]: Ông V là Giám đốc điều hành Công ty TNHH B. Khi công ty rơi vào tình trạng mất khả năng thanh toán 06 tháng, Ông V đã giấu giếm báo cáo tài chính, không nộp đơn yêu cầu mở thủ tục phá sản và bỏ trốn làm thiệt hại nghiêm trọng tài sản của các chủ nợ. Khi bị bắt, Ông V đối mặt với hậu quả pháp lý gì?
+A. Chịu trách nhiệm bồi thường thiệt hại cá nhân và có thể bị truy cứu trách nhiệm hình sự về tội vi phạm quy định về quản lý, phá sản doanh nghiệp theo Bộ luật Hình sự
+B. Ủy ban nhân dân cấp xã cho phép mở công ty mới ngay
+C. Không chịu trách nhiệm vì nợ của công ty
+D. Chỉ bị khiển trách nhẹ
+Đáp án đúng: A
+Giải thích: Người có nghĩa vụ nộp đơn phá sản mà không nộp gây thiệt hại phải bồi thường và có thể bị truy cứu TNHS theo quy định Bộ luật Hình sự.
+
+--------------------------------------------------------------------------------
+MỤC 5.1.4. HỢP TÁC XÃ
+--------------------------------------------------------------------------------
+
+Câu 91 [Dễ]: Hợp tác xã theo Luật Hợp tác xã 2023 được định nghĩa là tổ chức kinh tế có đặc điểm pháp lý cốt lõi nào?
+A. Là hội từ thiện phi lợi nhuận không kinh doanh
+B. Là tổ chức kinh tế có tư cách pháp nhân, do ít nhất 05 thành viên chính thức tự nguyện thành lập, hợp tác tương trợ lẫn nhau trong hoạt động sản xuất, kinh doanh
+C. Là đơn vị hành chính thuộc Ủy ban nhân dân cấp xã
+D. Là doanh nghiệp tư nhân do 1 cá nhân làm chủ
+Đáp án đúng: B
+Giải thích: Theo Luật Hợp tác xã 2023, Hợp tác xã có tư cách pháp nhân, do ít nhất 05 thành viên chính thức tự nguyện thành lập.
+
+Câu 92 [Dễ]: Hợp tác xã có Có Tư cách pháp nhân hay không và kể từ thời điểm nào?
+A. Có tư cách pháp nhân khi có 100 thành viên
+B. Không có tư cách pháp nhân
+C. Có tư cách pháp nhân kể từ ngày được cấp Giấy chứng nhận đăng ký hợp tác xã
+D. Do Tòa án nhân dân khu vực quyết định cho phép
+Đáp án đúng: C
+Giải thích: Hợp tác xã có tư cách pháp nhân kể từ ngày được cấp Giấy chứng nhận đăng ký hợp tác xã.
+
+Câu 93 [Dễ]: Số lượng thành viên chính thức tối thiểu để thành lập một Hợp tác xã theo Luật Hợp tác xã 2023 là bao nhiêu?
+A. Tối thiểu là 10 thành viên
+B. Tối thiểu là 02 thành viên
+C. Tối thiểu là 05 thành viên chính thức
+D. Tối thiểu là 20 thành viên
+Đáp án đúng: C
+Giải thích: Luật Hợp tác xã 2023 quy định số lượng thành viên chính thức tối thiểu để thành lập HTX là 05 thành viên.
+
+Câu 94 [Dễ]: Cơ quan có quyền quyết định cao nhất của Hợp tác xã là cơ quan nào?
+A. Giám đốc Hợp tác xã
+B. Hội đồng quản trị
+C. Ủy ban nhân dân cấp xã
+D. Đại hội thành viên
+Đáp án đúng: D
+Giải thích: Đại hội thành viên là cơ quan có quyền quyết định cao nhất của Hợp tác xã.
+
+Câu 95 [Dễ]: Nguyên tắc biểu quyết cơ bản tại Đại hội thành viên Hợp tác xã được thực hiện như thế nào?
+A. Nguyên tắc bình đẳng: Mỗi thành viên chính thức có một phiếu biểu quyết có giá trị ngang nhau, không phụ thuộc vào số vốn góp
+B. Do Ủy ban nhân dân cấp xã biểu quyết thay
+C. Chỉ có Chủ tịch Hội đồng quản trị mới có quyền biểu quyết
+D. Tỷ lệ biểu quyết tính theo số vốn góp (ai góp nhiều tiền phiếu nặng hơn)
+Đáp án đúng: A
+Giải thích: Một trong những nguyên tắc đặc thù của HTX là 'Dân chủ, bình đẳng': Mỗi thành viên chính thức có 01 phiếu biểu quyết có giá trị ngang nhau, không phụ thuộc số vốn góp.
+
+Câu 96 [Trung bình]: Trách nhiệm tài sản của thành viên Hợp tác xã đối với các nghĩa vụ tài chính của Hợp tác xã được giới hạn ra sao?
+A. Ủy ban nhân dân cấp xã chịu trách nhiệm thay
+B. Chịu trách nhiệm trong phạm vi số vốn góp cam kết góp vào Hợp tác xã (trách nhiệm hữu hạn)
+C. Chịu trách nhiệm vô hạn bằng toàn bộ tài sản cá nhân
+D. Chịu trách nhiệm phạt tù thay cho Giám đốc HTX
+Đáp án đúng: B
+Giải thích: Thành viên HTX chịu trách nhiệm hữu hạn trong phạm vi số vốn đã góp/cam kết góp vào HTX.
+
+Câu 97 [Trung bình]: Trích lập Quỹ chung không chia của Hợp tác xã có mục đích pháp lý cốt lõi là gì?
+A. Để phục vụ cho sự phát triển lâu dài, bảo đảm tính bền vững của Hợp tác xã và không được chia cho các thành viên khi rút vốn
+B. Để nộp phạt vi phạm hành chính cho UBND cấp xã
+C. Để chia tiền thưởng tết cho riêng Giám đốc HTX
+D. Để mua cổ phiếu cá nhân
+Đáp án đúng: A
+Giải thích: Quỹ chung không chia là hình thành tài sản chung không chia của HTX nhằm bảo đảm sự phát triển bền vững và tích lũy cộng đồng.
+
+Câu 98 [Trung bình]: Liên hiệp hợp tác xã theo Luật Hợp tác xã 2023 phải do ít nhất bao nhiêu Hợp tác xã thành viên tự nguyện thành lập?
+A. Do ít nhất 05 hợp tác xã thành viên thành lập
+B. Do ít nhất 03 hợp tác xã thành viên tự nguyện thành lập
+C. Do 10 hợp tác xã thành viên thành lập
+D. Do Ủy ban nhân dân cấp tỉnh trực tiếp lập ra
+Đáp án đúng: B
+Giải thích: Luật Hợp tác xã 2023 quy định Liên hiệp HTX do ít nhất 03 HTX thành viên tự nguyện thành lập.
+
+Câu 99 [Trung bình]: Phân phối thu nhập còn lại của Hợp tác xã sau khi hoàn thành nghĩa vụ thuế và trích lập các quỹ được thực hiện chủ yếu dựa trên tiêu chí nào?
+A. Chia đều 100% cho người ngoài xã
+B. Phân phối theo mức độ sử dụng sản phẩm, dịch vụ của thành viên và theo tỷ lệ vốn góp
+C. Do Tòa án nhân dân khu vực quyết định phân chia
+D. Chỉ chia cho Giám đốc và Kế toán trưởng
+Đáp án đúng: B
+Giải thích: Thu nhập của HTX được phân phối kết hợp giữa mức độ sử dụng dịch vụ/sản phẩm của thành viên và tỷ lệ vốn góp.
+
+Câu 100 [Trung bình]: Cơ quan nhà nước có thẩm quyền cấp Giấy chứng nhận đăng ký Hợp tác xã là cơ quan nào?
+A. Cơ quan đăng ký kinh doanh (thuộc UBND cấp tỉnh / Sở Kế hoạch và Đầu tư) theo quy định phân cấp đăng ký kinh doanh hiện hành
+B. Tòa án nhân dân khu vực
+C. Ủy ban nhân dân cấp xã
+D. Bộ Nông nghiệp và Phát triển nông thôn
+Đáp án đúng: A
+Giải thích: Thủ tục đăng ký HTX do Cơ quan đăng ký kinh doanh cấp tỉnh thực hiện theo quy định phân cấp đăng ký kinh doanh hiện hành.
+
+Câu 101 [Trung bình]: Hợp tác xã có quyền thành lập Doanh nghiệp trực thuộc hoặc góp vốn thành lập doanh nghiệp hay không?
+A. Phải được Tòa án nhân dân khu vực cấp phép riêng
+B. Chỉ được góp vốn vào doanh nghiệp nhà nước
+C. Tuyệt đối cấm Hợp tác xã góp vốn vào bất kỳ doanh nghiệp nào
+D. Có quyền thành lập doanh nghiệp hoặc góp vốn vào doanh nghiệp nhằm mục đích hỗ trợ hoạt động của Hợp tác xã theo quy định của Luật Hợp tác xã 2023
+Đáp án đúng: D
+Giải thích: Luật Hợp tác xã 2023 mở rộng quyền cho HTX được thành lập doanh nghiệp trực thuộc hoặc góp vốn vào doanh nghiệp để tối ưu hóa chuỗi giá trị.
+
+Câu 102 [Vận dụng]: Hợp tác xã Nông nghiệp X có 20 thành viên chính thức. Ông M góp 50% tổng số vốn góp của HTX, Ông N góp 5% vốn góp. Tại cuộc họp Đại hội thành viên quyết định mua xe tải vận chuyển nông sản, Ông M cho rằng phiếu biểu quyết của mình phải tính bằng 50% tổng số phiếu. Khẳng định của Ông M có đúng luật không?
+A. Không đúng, vì theo Luật Hợp tác xã, mỗi thành viên chính thức có 01 phiếu biểu quyết có giá trị ngang nhau (1 người 1 phiếu), không phụ thuộc vào số vốn góp của Ông M
+B. Đúng vì Ông M góp nửa số tiền của HTX
+C. Ông M được quyền tự quyết định không cần họp
+D. Do Ủy ban nhân dân cấp xã phân xử cho Ông M 5 phiếu
+Đáp án đúng: A
+Giải thích: Nguyên tắc hợp tác xã: Nguyên tắc bình đẳng 'mỗi thành viên 1 phiếu' (one member, one vote) bất kể tỷ lệ vốn góp.
+
+Câu 103 [Vận dụng]: Hợp tác xã Dịch vụ R nợ Ngân hàng 500 triệu đồng đến hạn trả nhưng quỹ HTX chỉ còn 200 triệu. Ngân hàng khởi kiện đòi Bà K (là một thành viên chính thức đã góp đủ 10 triệu vốn vào HTX) phải bán nhà riêng của Bà K để trả 300 triệu nợ cho HTX. Yêu cầu của Ngân hàng đối với Bà K có hợp pháp không?
+A. Do Tòa án nhân dân khu vực phạt tù Bà K
+B. Hợp pháp vì thành viên phải chịu nợ thay HTX
+C. Bà K phải trả 1/2 nợ
+D. Không hợp pháp, vì HTX có tư cách pháp nhân và Bà K là thành viên chỉ chịu trách nhiệm hữu hạn trong phạm vi số vốn 10 triệu đồng đã cam kết góp
+Đáp án đúng: D
+Giải thích: Hợp tác xã có tư cách pháp nhân, tài sản độc lập; thành viên chỉ chịu trách nhiệm hữu hạn trong phạm vi vốn góp vào HTX.
+
+Câu 104 [Vận dụng]: Anh H muốn đứng ra cùng 3 người bạn nữa (tổng cộng 4 người) làm hồ sơ thành lập một Hợp tác xã Thủy sản tại địa phương. Hồ sơ của Anh H gửi đến Cơ quan đăng ký kinh doanh có được chấp nhận cấp Giấy chứng nhận đăng ký HTX không?
+A. Được cấp phép nếu có giấy khen của UBND cấp xã
+B. Được cấp phép ngay nếu nộp đủ phí
+C. Không được cấp phép, vì theo Luật Hợp tác xã 2023, số lượng thành viên chính thức tối thiểu để thành lập HTX phải từ 05 thành viên trở lên (nhóm Anh H mới có 4 người)
+D. Do Tòa án nhân dân khu vực xét duyệt linh hoạt
+Đáp án đúng: C
+Giải thích: Luật Hợp tác xã 2023 quy định tối thiểu 05 thành viên chính thức mới đủ điều kiện thành lập HTX.
+
+Câu 105 [Vận dụng]: Thành viên A xin rút khỏi Hợp tác xã K và yêu cầu chia cho mình một phần dây chuyền máy móc thuộc danh mục 'Tài sản chung không chia' của HTX. Yêu cầu của Thành viên A có được chấp nhận không?
+A. Không được chấp nhận, vì tài sản thuộc Quỹ/Tài sản chung không chia của HTX là tài sản tích lũy không chia cho thành viên khi rút khỏi HTX hoặc giải thể theo quy định Luật Hợp tác xã
+B. Được chấp nhận chia đều
+C. Được chia nếu được Chủ tịch UBND cấp xã cho phép
+D. Do Tòa án nhân dân khu vực bán đấu giá chia tiền
+Đáp án đúng: A
+Giải thích: Tài sản chung không chia của HTX thuộc sở hữu tập thể bền vững, không được chia cho thành viên khi rút vốn.
+
+--------------------------------------------------------------------------------
+MỤC 5.1.5. HỘ KINH DOANH
+--------------------------------------------------------------------------------
+
+Câu 106 [Dễ]: Hộ kinh doanh do đối tượng nào sau đây đăng ký thành lập?
+A. Do các công ty cổ phần góp vốn thành lập
+B. Do Ban quản lý chợ quản lý 100% vốn
+C. Do một cá nhân hoặc các thành viên hộ gia đình đăng ký thành lập và chịu trách nhiệm bằng toàn bộ tài sản của mình đối với hoạt động kinh doanh của hộ
+D. Do cơ quan nhà nước cấp tỉnh thành lập
+Đáp án đúng: C
+Giải thích: Theo Nghị định 01/2021/NĐ-CP, Hộ kinh doanh do một cá nhân hoặc các thành viên hộ gia đình đăng ký thành lập và chịu trách nhiệm vô hạn.
+
+Câu 107 [Dễ]: Hộ kinh doanh có Có Tư cách pháp nhân hay không?
+A. Có tư cách pháp nhân nếu sử dụng trên 10 lao động
+B. Có tư cách pháp nhân do Tòa án nhân dân khu vực công nhận
+C. Có tư cách pháp nhân kể từ ngày cấp đăng ký
+D. Không có tư cách pháp nhân
+Đáp án đúng: D
+Giải thích: Hộ kinh doanh không có sự tách biệt độc lập về tài sản nên không có tư cách pháp nhân.
+
+Câu 108 [Dễ]: Trách nhiệm tài sản của cá nhân hoặc các thành viên hộ gia đình đối với hoạt động kinh doanh của Hộ kinh doanh là loại trách nhiệm nào?
+A. Không chịu bất kỳ trách nhiệm nào
+B. Trách nhiệm vô hạn (chịu trách nhiệm bằng toàn bộ tài sản của cá nhân/thành viên hộ gia đình)
+C. Trách nhiệm hình sự tù có thời hạn
+D. Trách nhiệm hữu hạn trong phạm vi 10 triệu đồng
+Đáp án đúng: B
+Giải thích: Chủ hộ kinh doanh/thành viên hộ gia đình chịu trách nhiệm vô hạn bằng toàn bộ tài sản của mình đối với các nghĩa vụ tài chính của hộ kinh doanh.
+
+Câu 109 [Dễ]: Một cá nhân, một hộ gia đình được đăng ký tối đa bao nhiêu Hộ kinh doanh?
+A. Được đăng ký không giới hạn số lượng Hộ kinh doanh
+B. Được đăng ký 05 Hộ kinh doanh ở 5 xã khác nhau
+C. Chỉ được đăng ký 01 Hộ kinh doanh trên phạm vi toàn quốc
+D. Do Ủy ban nhân dân cấp xã quyết định số lượng
+Đáp án đúng: C
+Giải thích: Theo Nghị định 01/2021/NĐ-CP, mỗi cá nhân, thành viên hộ gia đình chỉ được đăng ký một hộ kinh doanh trên phạm vi toàn quốc.
+
+Câu 110 [Dễ]: Hộ kinh doanh có được phép sử dụng con dấu tròn riêng có hình Quốc huy hay phát hành cổ phiếu không?
+A. Được phát hành cổ phiếu phổ thông
+B. Không được phép sử dụng con dấu tròn tư cách pháp nhân và không được phát hành bất kỳ loại chứng khoán nào
+C. Được phát hành trái phiếu doanh nghiệp
+D. Do Tòa án nhân dân khu vực cấp phép phát hành
+Đáp án đúng: B
+Giải thích: Hộ kinh doanh không có tư cách pháp nhân, không có con dấu pháp nhân và không được phát hành chứng khoán.
+
+Câu 111 [Trung bình]: Địa điểm kinh doanh của Hộ kinh doanh theo quy định hiện hành được thực hiện như thế nào?
+A. Hộ kinh doanh có thể hoạt động kinh doanh tại nhiều địa điểm nhưng phải chọn một địa điểm làm trụ sở chính và phải thông báo cho Cơ quan quản lý thuế, Cơ quan quản lý thị trường nơi tiến hành hoạt động kinh doanh
+B. Tuyệt đối chỉ được bán hàng tại 1 địa điểm duy nhất không được mở thêm điểm bán
+C. Phải đặt tại trụ sở của Ủy ban nhân dân cấp xã
+D. Chỉ được bán hàng trực tuyến trên mạng internet
+Đáp án đúng: A
+Giải thích: Nghị định 01/2021/NĐ-CP cho phép Hộ kinh doanh hoạt động tại nhiều địa điểm nhưng phải đăng ký trụ sở chính và thông báo cho cơ quan thuế/thị trường.
+
+Câu 112 [Trung bình]: Người đại diện của Hộ kinh doanh trong các giao dịch dân sự, thương mại và tố tụng là ai?
+A. Giám đốc Sở Kế hoạch và Đầu tư
+B. Chủ tịch Ủy ban nhân dân cấp xã
+C. Trưởng Công an khu vực
+D. Chủ hộ kinh doanh (cá nhân đăng ký hoặc người được các thành viên hộ gia đình ủy quyền làm Chủ hộ)
+Đáp án đúng: D
+Giải thích: Chủ hộ kinh doanh là đại diện cho hộ kinh doanh trong các giao dịch và tố tụng.
+
+Câu 113 [Trung bình]: Cơ quan nào có thẩm quyền cấp Giấy chứng nhận đăng ký Hộ kinh doanh ở địa phương?
+A. Cơ quan đăng ký kinh doanh cấp tỉnh / Phòng đăng ký kinh doanh (hoặc bộ phận đăng ký kinh doanh theo phân cấp quản lý hiện hành)
+B. Bộ Công Thương
+C. Ủy ban nhân dân cấp xã
+D. Tòa án nhân dân khu vực
+Đáp án đúng: A
+Giải thích: Đăng ký hộ kinh doanh do Cơ quan đăng ký kinh doanh thực hiện theo quy định phân cấp đăng ký kinh doanh hiện hành.
+
+Câu 114 [Trung bình]: Trường hợp Hộ kinh doanh chuyển đổi thành Doanh nghiệp (như Công ty TNHH hoặc Công ty Cổ phần) thì quyền và nghĩa vụ tài sản của Hộ kinh doanh được giải quyết ra sao?
+A. Tòa án nhân dân khu vực tịch thu toàn bộ vốn
+B. Ủy ban nhân dân cấp xã chịu trách nhiệm trả nợ cũ
+C. Toàn bộ nợ cũ của Hộ kinh doanh bị xóa sổ hoàn toàn
+D. Doanh nghiệp được chuyển đổi đương nhiên kế thừa toàn bộ quyền, nghĩa vụ và trách nhiệm tài sản của Hộ kinh doanh theo quy định Luật Doanh nghiệp 2020
+Đáp án đúng: D
+Giải thích: Điều 27 Luật Doanh nghiệp 2020: Doanh nghiệp chuyển đổi từ hộ kinh doanh kế thừa toàn bộ quyền, nghĩa vụ và trách nhiệm của hộ kinh doanh.
+
+Câu 115 [Trung bình]: Đối tượng nào sau đây BỊ CẤM đăng ký thành lập Hộ kinh doanh?
+A. Sinh viên đại học đã đủ 18 tuổi
+B. Người lao động tự do đã đủ 18 tuổi hoàn toàn khỏe mạnh
+C. Người đang bị truy cứu trách nhiệm hình sự, người đang chấp hành hình phạt tù; người bị Tòa án cấm hành nghề kinh doanh
+D. Cá nhân có hộ khẩu thường trú tại địa phương
+Đáp án đúng: C
+Giải thích: Người đang bị truy cứu TNHS, chấp hành án tù hoặc bị Tòa án cấm hành nghề thì không được đăng ký thành lập hộ kinh doanh.
+
+Câu 116 [Trung bình]: Thành viên hộ gia đình đăng ký Hộ kinh doanh có quyền Tạm ngừng kinh doanh hoặc Chấm dứt hoạt động hộ kinh doanh không?
+A. Phải xin phép Chủ tịch Quốc hội
+B. Có quyền tạm ngừng hoặc chấm dứt hoạt động kinh doanh nhưng phải thông báo bằng văn bản cho Cơ quan đăng ký kinh doanh và Cơ quan thuế theo quy định
+C. Phải được Tòa án nhân dân khu vực xét xử thông qua
+D. Tuyệt đối cấm tạm ngừng kinh doanh
+Đáp án đúng: B
+Giải thích: Hộ kinh doanh có quyền tạm ngừng hoặc chấm dứt hoạt động kinh doanh nhưng phải thực hiện thủ tục thông báo theo quy định.
+
+Câu 117 [Vận dụng]: Chị G đăng ký thành lập Hộ kinh doanh Cửa hàng Thời trang G tại Phường T. Cửa hàng hoạt động thua lỗ và nợ tiền hàng của Công ty M số tiền 150 triệu đồng. Tài sản của Cửa hàng G chỉ còn 30 triệu đồng. Công ty M khởi kiện yêu cầu Chị G phải dùng số tiền gửi tiết kiệm cá nhân của Chị G để trả nợ. Chị G có phải dùng tiền tiết kiệm cá nhân để trả nợ không?
+A. Chị G không phải trả vì cửa hàng đã hết tiền
+B. Chị G phải dùng tiền tiết kiệm cá nhân để trả nợ cho đủ 150 triệu, vì Hộ kinh doanh không có tư cách pháp nhân, Chủ hộ kinh doanh chịu trách nhiệm vô hạn bằng toàn bộ tài sản cá nhân
+C. Ủy ban nhân dân cấp xã trả nợ thay Chị G
+D. Chị G chỉ trả 30 triệu rồi xóa nợ
+Đáp án đúng: B
+Giải thích: Chủ hộ kinh doanh chịu trách nhiệm vô hạn bằng toàn bộ tài sản cá nhân đối với các nghĩa vụ tài chính của hộ kinh doanh.
+
+Câu 118 [Vận dụng]: Anh P đã đăng ký 01 Hộ kinh doanh Bách hóa P tại Phường A. Thấy kinh doanh tốt, Anh P muốn tiếp tục nộp hồ sơ đăng ký thêm 01 Hộ kinh doanh Quán Cà phê P tại Phường B (do Anh P làm chủ hộ). Hồ sơ thứ hai của Anh P có được cơ quan đăng ký kinh doanh cấp Giấy chứng nhận không?
+A. Được cấp phép nếu nộp đủ lệ phí
+B. Được cấp phép nếu có sự bảo lãnh của UBND cấp xã
+C. Do Tòa án nhân dân khu vực cấp phép riêng
+D. Không được cấp phép, vì theo quy định tại Nghị định 01/2021/NĐ-CP, một cá nhân chỉ được quyền đăng ký 01 Hộ kinh doanh trên phạm vi toàn quốc
+Đáp án đúng: D
+Giải thích: Mỗi cá nhân chỉ được đăng ký duy nhất 01 hộ kinh doanh trên phạm vi toàn quốc.
+
+Câu 119 [Vận dụng]: Hộ kinh doanh Nông sản T do Ông T làm chủ hộ nợ tiền mua phân bón 80 triệu đồng của Công ty K. Sau đó, Ông T làm thủ tục chuyển đổi Hộ kinh doanh T thành Công ty TNHH Một thành viên T. Khi Công ty K đòi nợ 80 triệu đồng, Công ty TNHH T lý giải rằng 'đó là nợ của hộ kinh doanh cũ, công ty TNHH mới không có nghĩa vụ trả'. Lý giải của Công ty TNHH T đúng hay sai?
+A. Đúng nếu được UBND cấp xã xác nhận
+B. Sai, vì theo Điều 27 Luật Doanh nghiệp 2020, Công ty TNHH được chuyển đổi từ Hộ kinh doanh đương nhiên kế thừa toàn bộ các nghĩa vụ tài sản và khoản nợ của Hộ kinh doanh
+C. Do Tòa án nhân dân khu vực quyết định xóa nợ
+D. Đúng vì tên loại hình doanh nghiệp đã thay đổi
+Đáp án đúng: B
+Giải thích: Doanh nghiệp chuyển đổi từ hộ kinh doanh kế thừa toàn bộ nghĩa vụ tài sản của hộ kinh doanh cũ.
+
+Câu 120 [Vận dụng]: Hộ kinh doanh Quán ăn Z do 3 thành viên trong gia đình (Bố, Mẹ và Con trai) cùng đăng ký thành lập. Quán ăn Z gây ngộ độc thực phẩm cho khách hàng và bị bồi thường thiệt hại 90 triệu đồng. Tài sản chung của Quán ăn chỉ có 30 triệu đồng. Khách hàng có quyền yêu cầu Bố, Mẹ hay Con trai phải dùng tài sản riêng trả nợ không?
+A. Ủy ban nhân dân cấp xã bồi thường thay
+B. Chỉ được đòi Bố, Mẹ không được đòi Con trai
+C. Khách hàng có quyền yêu cầu bất kỳ thành viên gia đình nào tham gia đăng ký hộ kinh doanh phải dùng tài sản riêng để thanh toán cho đủ 90 triệu đồng (trách nhiệm vô hạn và liên đới)
+D. Không được đòi tài sản riêng của thành viên
+Đáp án đúng: C
+Giải thích: Khi hộ gia đình đăng ký hộ kinh doanh thì các thành viên hộ gia đình chịu trách nhiệm vô hạn và liên đới đối với mọi hoạt động kinh doanh của hộ.
+
+--------------------------------------------------------------------------------
+MỤC 5.2.1. KHÁI QUÁT VỀ HOẠT ĐỘNG THƯƠNG MẠI
+--------------------------------------------------------------------------------
+
+Câu 121 [Dễ]: Hoạt động thương mại theo Luật Thương mại 2005 được hiểu là gì?
+A. Hoạt động nhằm mục đích sinh lợi, bao gồm mua bán hàng hoá, cung ứng dịch vụ, đầu tư, xúc tiến thương mại và các hoạt động nhằm mục đích sinh lợi khác
+B. Hoạt động thu tiền phạt vi phạm giao thông của Cảnh sát giao thông
+C. Hoạt động quản lý công vụ của Ủy ban nhân dân cấp xã
+D. Hoạt động từ thiện quyên góp cứu trợ lũ lụt
+Đáp án đúng: A
+Giải thích: Khoản 1 Điều 3 Luật Thương mại 2005: Hoạt động thương mại là hoạt động nhằm mục đích sinh lợi, bao gồm mua bán hàng hoá, cung ứng dịch vụ, đầu tư, xúc tiến thương mại...
+
+Câu 122 [Dễ]: Thương nhân theo Luật Thương mại 2005 bao gồm những chủ thể nào?
+A. Bao gồm tổ chức kinh tế được thành lập hợp pháp, cá nhân hoạt động thương mại một cách độc lập, thường xuyên và có đăng ký kinh doanh
+B. Tất cả công dân từ đủ 18 tuổi không cần đăng ký kinh doanh
+C. Chỉ bao gồm các doanh nghiệp nhà nước
+D. Chỉ bao gồm các công ty nước ngoài
+Đáp án đúng: A
+Giải thích: Khoản 1 Điều 6 Luật Thương mại 2005: Thương nhân bao gồm tổ chức kinh tế thành lập hợp pháp, cá nhân hoạt động thương mại độc lập, thường xuyên và có ĐKKD.
+
+Câu 123 [Dễ]: Hàng hóa trong hoạt động thương mại bao gồm những loại đối tượng nào?
+A. Chỉ bao gồm các vũ khí quân dụng cấm lưu hành
+B. Tất cả các loại động sản, kể cả động sản hình thành trong tương lai; và những vật gắn liền với đất đai
+C. Chỉ bao gồm tiền mặt Việt Nam Đồng
+D. Chỉ bao gồm các loại giấy tờ tùy thân
+Đáp án đúng: B
+Giải thích: Khoản 2 Điều 3 Luật Thương mại 2005: Hàng hóa bao gồm động sản (kể cả động sản hình thành trong tương lai) và vật gắn liền với đất đai.
+
+Câu 124 [Dễ]: Hình thức của Hợp đồng mua bán hàng hóa trong thương mại có thể được thể hiện dưới những hình thức nào?
+A. Bắt buộc phải qua phê chuẩn của Tòa án nhân dân khu vực
+B. Được thể hiện bằng lời nói, bằng văn bản hoặc được xác lập bằng hành vi cụ thể (trừ trường hợp pháp luật quy định bắt buộc phải lập thành văn bản)
+C. Chỉ được thực hiện bằng tin nhắn điện thoại
+D. Bắt buộc phải công chứng tại Ủy ban nhân dân cấp xã
+Đáp án đúng: B
+Giải thích: Điều 24 Luật Thương mại 2005: Hợp đồng mua bán hàng hóa được thể hiện bằng lời nói, văn bản hoặc hành vi cụ thể.
+
+Câu 125 [Dễ]: Các hoạt động Xúc tiến thương mại phổ biến bao gồm những hoạt động nào?
+A. Xét xử vụ án hình sự
+B. Thu thuế doanh nghiệp hàng năm
+C. Khuyến mại, Quảng cáo thương mại, Trưng bày giới thiệu hàng hóa dịch vụ, Hội chợ triển lãm thương mại
+D. Cấp giấy phép lái xe ô tô
+Đáp án đúng: C
+Giải thích: Luật Thương mại 2005 quy định các hình thức xúc tiến thương mại: Khuyến mại, Quảng cáo, Trưng bày giới thiệu, Hội chợ triển lãm.
+
+Câu 126 [Dễ]: Thương nhân có quyền thực hiện hoạt động khuyến mại dưới những hình thức nào?
+A. Tuyên truyền sai sự thật về hàng hóa đối thủ
+B. Bắt buộc ép buộc khách hàng mua hàng
+C. Đưa hàng hóa mẫu, cung ứng dịch vụ mẫu; Tặng hàng hóa, dịch vụ; Bán hàng giảm giá; Bán hàng kèm phiếu mua hàng/dự thưởng...
+D. Tự ý phát hành tiền giả để tặng
+Đáp án đúng: C
+Giải thích: Điều 92 Luật Thương mại 2005 quy định cụ thể các hình thức khuyến mại hợp pháp của thương nhân.
+
+Câu 127 [Dễ]: Hoạt động Đại diện cho thương nhân là gì?
+A. Là việc Tòa án nhân dân khu vực ký hợp đồng hộ doanh nghiệp
+B. Là việc Ủy ban nhân dân cấp xã đi bán hàng thay doanh nghiệp
+C. Là việc thu tiền phạt vi phạm hành chính
+D. Là việc một thương nhân nhận ủy nhiệm của thương nhân khác để thực hiện các hoạt động thương mại với danh nghĩa và theo sự chỉ dẫn của thương nhân đó để hưởng thù lao
+Đáp án đúng: D
+Giải thích: Điều 141 Luật Thương mại 2005: Đại đại diện cho thương nhân là việc một thương nhân nhận ủy nhiệm thực hiện hoạt động thương mại nhân danh và theo chỉ dẫn của thương nhân khác.
+
+Câu 128 [Trung bình]: Nguyên tắc Tự do, tự nguyện thỏa thuận trong hoạt động thương mại được pháp luật bảo vệ với điều kiện gì?
+A. Thỏa thuận phải được sự đồng ý của UBND cấp xã
+B. Thỏa thuận phải nộp thuế 50%
+C. Thỏa thuận không vi phạm cấm của luật, không trái đạo đức xã hội
+D. Thỏa thuận chỉ áp dụng cho người giàu
+Đáp án đúng: C
+Giải thích: Điều 11 Luật Thương mại 2005: Các bên có quyền tự do thỏa thuận không trái quy định cấm của luật và không trái đạo đức xã hội.
+
+Câu 129 [Trung bình]: Thời điểm chuyển rủi ro đối với hàng hóa trong hợp đồng mua bán hàng hóa (khi có địa điểm giao hàng xác định) được xác định như thế nào?
+A. Rủi ro do Ủy ban nhân dân cấp xã gánh chịu
+B. Rủi ro luôn thuộc về bên bán vĩnh viễn
+C. Rủi ro mất mát hoặc hư hỏng hàng hóa được chuyển cho bên mua khi hàng hóa đã được giao cho bên mua hoặc người được bên mua ủy quyền tại địa điểm đó
+D. Rủi ro chuyển ngay khi hai bên mới ký hợp đồng chưa giao hàng
+Đáp án đúng: C
+Giải thích: Điều 57 Luật Thương mại 2005: Thời điểm chuyển rủi ro đối với hàng hóa chuyển cho bên mua khi hàng hóa đã được giao tại địa điểm xác định.
+
+Câu 130 [Trung bình]: Trong hoạt động Đại lý thương mại, ai là chủ sở hữu đối với hàng hóa hoặc tiền giao cho đại lý?
+A. Ủy ban nhân dân cấp xã là chủ sở hữu
+B. Bên giao đại lý là chủ sở hữu đối với hàng hóa hoặc tiền giao cho bên đại lý
+C. Tòa án nhân dân khu vực là chủ sở hữu
+D. Bên đại lý là chủ sở hữu ngay khi nhận hàng
+Đáp án đúng: B
+Giải thích: Điều 170 Luật Thương mại 2005: Bên giao đại lý là chủ sở hữu đối với hàng hóa hoặc tiền giao cho bên đại lý.
+
+Câu 131 [Trung bình]: Hoạt động Môi giới thương mại khác với Đại lý thương mại ở điểm căn bản nào?
+A. Bên môi giới là cơ quan nhà nước cấp tỉnh
+B. Bên môi giới làm trung gian cho các bên mua bán đàm phán và không trực tiếp thực hiện mua bán hàng hóa nhân danh mình hay ủy nhiệm; Bên đại lý nhân danh chính mình hoặc bên giao đại lý mua bán hàng hóa
+C. Hai hoạt động này hoàn toàn giống hệt nhau
+D. Bên đại lý không được nhận thù lao
+Đáp án đúng: B
+Giải thích: Môi giới là làm trung gian đàm phán hợp đồng; Đại lý là trực tiếp thực hiện việc mua bán hàng hóa/cung ứng dịch vụ theo ủy nhiệm.
+
+Câu 132 [Trung bình]: Hoạt động Nhượng quyền thương mại (Franchising) được hiểu là gì?
+A. Là việc phong tặng danh hiệu danh dự
+B. Là việc bán toàn bộ công ty cho UBND cấp xã
+C. Là việc cho vay tiền lấy lãi suất ngân hàng
+D. Hoạt động thương mại mà bên nhượng quyền cho phép và yêu cầu bên nhận quyền tự mình tiến hành việc mua bán hàng hóa, cung ứng dịch vụ theo cách thức tổ chức kinh doanh, gắn với nhãn hiệu, tên thương mại của bên nhượng quyền và nhận phí nhượng quyền
+Đáp án đúng: D
+Giải thích: Điều 284 Luật Thương mại 2005 quy định cụ thể về khái niệm Nhượng quyền thương mại.
+
+Câu 133 [Trung bình]: Trong hợp đồng mua bán hàng hóa thương mại, khi bên bán giao thiếu hàng hóa so với hợp đồng thì bên mua có các quyền gì?
+A. Yêu cầu Công an khu vực bắt giam người bán
+B. Tự ý thu hồi tài sản riêng của người bán
+C. Bắt buộc phải nhận và không được khiếu nại
+D. Có quyền yêu cầu giao đủ phần hàng còn thiếu, chấp nhận phần hàng đã giao và yêu cầu bồi thường thiệt hại hoặc hủy bỏ hợp đồng nếu vi phạm cơ bản
+Đáp án đúng: D
+Giải thích: Điều 41 Luật Thương mại 2005 quy định các quyền của bên mua khi bên bán giao thiếu hàng hóa.
+
+Câu 134 [Trung bình]: Thông điệp dữ liệu trong giao dịch thương mại điện tử (như email, chứng từ điện tử) có giá trị pháp lý như thế nào?
+A. Không có bất kỳ giá trị pháp lý nào
+B. Có giá trị pháp lý như văn bản nếu đáp ứng các điều kiện về tính tin cậy, khả năng truy cập và tham chiếu được theo Luật Giao dịch điện tử và Luật Thương mại
+C. Chỉ có giá trị nếu được UBND cấp xã đóng dấu đỏ
+D. Chỉ có giá trị trong giao dịch dưới 1 triệu đồng
+Đáp án đúng: B
+Giải thích: Thông điệp dữ liệu đáp ứng tiêu chuẩn luật định có giá trị pháp lý tương đương văn bản truyền thống.
+
+Câu 135 [Trung bình]: Thời hạn khiếu nại về lượng hàng hóa trong hoạt động thương mại là bao lâu kể từ ngày giao hàng (nếu các bên không thỏa thuận khác)?
+A. 03 tháng kể từ ngày giao hàng đối với khiếu nại về số lượng hàng hóa
+B. 10 ngày
+C. 05 năm
+D. 02 năm
+Đáp án đúng: A
+Giải thích: Khoản 1 Điều 318 Luật Thương mại 2005: Thời hạn khiếu nại về số lượng hàng hóa là 03 tháng kể từ ngày giao hàng.
+
+Câu 136 [Vận dụng]: Công ty A (bên bán) ký hợp đồng mua bán 100 tấn gạo với Công ty B (bên mua), thỏa thuận địa điểm giao hàng tại kho của Công ty B ở Phường X. Trên đường vận chuyển bằng xe tải đến kho Công ty B, xe gặp sự cố cháy làm hư hỏng toàn bộ 100 tấn gạo. Rủi ro mất mát hàng hóa này thuộc về ai?
+A. Thuộc về Công ty B vì hợp đồng đã ký
+B. Thuộc về Công ty A (bên bán), vì theo Điều 57 Luật Thương mại 2005, khi có địa điểm giao hàng xác định, rủi ro chỉ chuyển sang cho bên mua khi hàng hóa đã được giao đến đúng địa điểm đó (kho Công ty B)
+C. Thuộc về Tòa án nhân dân khu vực
+D. Thuộc về Ủy ban nhân dân cấp xã Phường X
+Đáp án đúng: B
+Giải thích: Rủi ro chỉ chuyển cho bên mua khi hàng hóa đã được giao tới địa điểm giao hàng thỏa thuận.
+
+Câu 137 [Vận dụng]: Thương nhân M thực hiện chương trình khuyến mại 'Giảm giá 40% cho tất cả các mặt hàng gia dụng' tại cửa hàng ở Phường Y. Trước khi thực hiện khuyến mại, Thương nhân M có phải thực hiện thủ tục thông báo/đăng ký với cơ quan quản lý nhà nước về thương mại (Sở Công Thương cấp tỉnh) hay không?
+A. Phải thực hiện thủ tục thông báo hoạt động khuyến mại đến Sở Công Thương cấp tỉnh theo quy định pháp luật về khuyến mại
+B. Không cần làm thủ tục gì
+C. Phải xin phép Tòa án nhân dân khu vực
+D. Phải nộp tiền cọc cho Ủy ban nhân dân cấp xã
+Đáp án đúng: A
+Giải thích: Thương nhân thực hiện khuyến mại giảm giá phải làm thủ tục thông báo với Sở Công Thương cấp tỉnh theo quy định.
+
+Câu 138 [Vận dụng]: Công ty Cổ phần X ký Hợp đồng đại lý bán lẻ xăng dầu với Hộ kinh doanh Y. Hộ kinh doanh Y tự ý nâng giá bán xăng dầu cao hơn giá niêm yết của Công ty X để trục lợi. Khách hàng khiếu nại. Công ty X có quyền chấm dứt Hợp đồng đại lý và yêu cầu Y bồi thường không?
+A. Công ty X không có quyền vì Y tự kinh doanh
+B. Ủy ban nhân dân cấp xã quyết định bỏ qua
+C. Y được thưởng thêm tiền
+D. Công ty X có quyền chấm dứt Hợp đồng đại lý và yêu cầu Hộ kinh doanh Y bồi thường thiệt hại do vi phạm nghĩa vụ của bên đại lý về bán đúng giá niêm yết của bên giao đại lý
+Đáp án đúng: D
+Giải thích: Bên đại lý có nghĩa vụ bán đúng giá do bên giao đại lý ấn định; vi phạm là cơ sở chấm dứt hợp đồng và bồi thường.
+
+Câu 139 [Vận dụng]: Công ty P nhận hàng hóa từ Công ty Q theo Hợp đồng mua bán vào ngày 10/01/2026. Đến ngày 20/05/2026 (sau hơn 04 tháng), Công ty P mới gửi văn bản khiếu nại đòi Công ty Q bồi thường vì lý do 'giao thiếu 10 tấn hàng'. Công ty Q từ chối giải quyết vì hết thời hạn khiếu nại. Việc từ chối của Q có đúng luật không?
+A. Từ chối đúng luật, vì theo khoản 1 Điều 318 Luật Thương mại 2005, thời hạn khiếu nại về số lượng hàng hóa là 03 tháng kể từ ngày giao hàng; Công ty P gửi khiếu nại sau quá 03 tháng nên mất quyền khiếu nại
+B. Do Tòa án nhân dân khu vực phạt tiền Q
+C. Thứ chối sai vì thời hạn khiếu nại là 2 năm
+D. Do Ủy ban nhân dân cấp xã quyết định hòa giải
+Đáp án đúng: A
+Giải thích: Thời hạn khiếu nại về số lượng hàng hóa là 03 tháng; quá thời hạn này bên mua mất quyền khiếu nại về lượng.
+
+Câu 140 [Vận dụng]: Công ty K (bên nhượng quyền) nhượng quyền thương mại chuỗi nhà hàng trà sữa cho Công ty H (bên nhận quyền). Trong quá trình kinh doanh, Công ty H tự ý thay đổi công thức pha chế và sử dụng nguyên liệu trôi nổi không rõ nguồn gốc gây ngộ độc cho khách hàng. Công ty K có quyền xử lý ra sao?
+A. Công ty K có quyền đơn phương chấm dứt Hợp đồng nhượng quyền thương mại, thu hồi quyền sử dụng thương hiệu và yêu cầu Công ty H bồi thường thiệt hại uy tín thương hiệu theo Luật Thương mại
+B. Công ty K không có quyền can thiệp
+C. Do Tòa án nhân dân khu vực buộc K phải tiếp tục nhượng quyền
+D. Ủy ban nhân dân cấp xã cấp thương hiệu mới cho H
+Đáp án đúng: A
+Giải thích: Bên nhận quyền vi phạm nghiêm trọng quy chuẩn hệ thống nhượng quyền là căn cứ để bên nhượng quyền đơn phương chấm dứt hợp đồng và đòi bồi thường.
+
+--------------------------------------------------------------------------------
+MỤC 5.2.2. QUY ĐỊNH VỀ CHẾ TÀI TRONG HOẠT ĐỘNG THƯƠNG MẠI
+--------------------------------------------------------------------------------
+
+Câu 141 [Dễ]: Các hình thức chế tài trong thương mại theo quy định tại Điều 292 Luật Thương mại 2005 bao gồm những loại nào?
+A. Phạt tù có thời hạn và Tử hình
+B. Cảnh cáo hành chính của Ủy ban nhân dân cấp xã
+C. Buộc thực hiện đúng hợp đồng; Phạt vi phạm; Bồi thường thiệt hại; Tạm ngừng thực hiện hợp đồng; Đình chỉ thực hiện hợp đồng; Hủy bỏ hợp đồng
+D. Tịch thu tài sản nhà đất nộp ngân sách nhà nước
+Đáp án đúng: C
+Giải thích: Điều 292 Luật Thương mại 2005 quy định 6 hình thức chế tài thương mại: Buộc thực hiện đúng hợp đồng, Phạt vi phạm, Bồi thường thiệt hại, Tạm ngừng, Đình chỉ, Hủy bỏ hợp đồng.
+
+Câu 142 [Dễ]: Chế tài 'Buộc thực hiện đúng hợp đồng' trong thương mại được hiểu là gì?
+A. Là việc hủy bỏ vĩnh viễn hợp đồng
+B. Là việc Ủy ban nhân dân cấp xã tịch thu hàng hóa
+C. Là việc Tòa án phạt tù bên vi phạm
+D. Là việc bên bị vi phạm yêu cầu bên vi phạm thực hiện đúng các nghĩa vụ theo hợp đồng hoặc dùng các biện pháp khác để hợp đồng được thực hiện và bên vi phạm phải chịu chi phí phát sinh
+Đáp án đúng: D
+Giải thích: Điều 296 Luật Thương mại 2005: Buộc thực hiện đúng hợp đồng là việc bên bị vi phạm yêu cầu bên vi phạm thực hiện đúng hợp đồng.
+
+Câu 143 [Dễ]: Chế tài 'Phạt vi phạm' trong hợp đồng thương mại chỉ được áp dụng khi nào?
+A. Khi có yêu cầu của Công an khu vực
+B. Do Ủy ban nhân dân cấp xã ra quyết định xử phạt
+C. Khi các bên có thỏa thuận về phạt vi phạm trong hợp đồng thương mại và có hành vi vi phạm hợp đồng xảy ra
+D. Áp dụng tự động trong mọi hợp đồng dù không có thỏa thuận
+Đáp án đúng: C
+Giải thích: Điều 300 Luật Thương mại 2005: Phạt vi phạm chỉ áp dụng nếu các bên có thỏa thuận trong hợp đồng.
+
+Câu 144 [Dễ]: Mức phạt vi phạm đối với vi phạm nghĩa vụ hợp đồng thương mại do các bên thỏa thuận tối đa là bao nhiêu theo Luật Thương mại 2005?
+A. Tối đa 100% giá trị hợp đồng
+B. Tối đa không quá 8% giá trị phần nghĩa vụ hợp đồng bị vi phạm (trừ trường hợp kết định giánh giá cắm mốc sai trong giám định)
+C. Không có giới hạn tối đa
+D. Tối đa 50% giá trị tài sản riêng của giám đốc
+Đáp án đúng: B
+Giải thích: Điều 301 Luật Thương mại 2005: Mức phạt đối với vi phạm nghĩa vụ hợp đồng do các bên thỏa thuận nhưng không quá 8% giá trị phần nghĩa vụ hợp đồng bị vi phạm.
+
+Câu 145 [Dễ]: Căn cứ làm phát sinh Trách nhiệm bồi thường thiệt hại trong thương mại bao gồm những yếu tố nào?
+A. Do Tòa án nhân dân khu vực tự ấn định không cần chứng cứ
+B. Do Ủy ban nhân dân cấp xã yêu cầu bồi thường
+C. Chỉ cần có hành vi vi phạm không cần có thiệt hại
+D. Có hành vi vi phạm hợp đồng; Có thiệt hại thực tế xảy ra; Có mối quan hệ nhân quả giữa hành vi vi phạm và thiệt hại thực tế
+Đáp án đúng: D
+Giải thích: Điều 303 Luật Thương mại 2005: Trách nhiệm BTTĐH phát sinh khi có: (1) Hành vi vi phạm; (2) Thiệt hại thực tế; (3) Mối quan hệ nhân quả.
+
+Câu 146 [Dễ]: Giá trị bồi thường thiệt hại trong thương mại bao gồm những khoản tiền nào?
+A. Tiền phạt vi phạm hành chính của công an
+B. Số tiền gấp 10 lần giá trị hợp đồng
+C. Tiền án phí Tòa án
+D. Giá trị tổn thất thực tế, trực tiếp mà bên bị vi phạm phải chịu và khoản lợi trực tiếp mà bên bị vi phạm đáng lẽ được hưởng nếu không có hành vi vi phạm
+Đáp án đúng: D
+Giải thích: Điều 302 Luật Thương mại 2005: Giá trị BTTĐH gồm tổn thất thực tế, trực tiếp và khoản lợi trực tiếp đáng lẽ được hưởng.
+
+Câu 147 [Dễ]: Các bên trong hợp đồng thương mại có thể áp dụng Đồng thời cả hai chế tài 'Phạt vi phạm' và 'Bồi thường thiệt hại' hay không?
+A. Tuyệt đối không bao giờ được áp dụng đồng thời
+B. Do Ủy ban nhân dân cấp xã quyết định chọn
+C. Chỉ được chọn 1 trong 2 chế tài
+D. Được áp dụng đồng thời cả phạt vi phạm và bồi thường thiệt hại nếu trong hợp đồng các bên có thỏa thuận phạt vi phạm
+Đáp án đúng: D
+Giải thích: Khoản 2 Điều 307 Luật Thương mại 2005: Nếu các bên có thỏa thuận phạt vi phạm thì bên bị vi phạm có quyền áp dụng cả phạt vi phạm và buộc bồi thường thiệt hại.
+
+Câu 148 [Dễ]: Chế tài 'Tạm ngừng thực hiện hợp đồng' dẫn đến hậu quả pháp lý nào?
+A. Bên vi phạm bị Tòa án phạt tù ngay
+B. Hợp đồng tạm thời không có hiệu lực thực hiện; các bên không phải tiếp tục thực hiện nghĩa vụ trong thời gian tạm ngừng; bên không vi phạm có quyền yêu cầu bồi thường thiệt hại
+C. Hợp đồng bị chấm dứt vĩnh viễn không bao giờ phục hồi
+D. Toàn bộ tài sản bị tịch thu
+Đáp án đúng: B
+Giải thích: Điều 308, 309 Luật Thương mại 2005 quy định tạm ngừng thực hiện hợp đồng làm hợp đồng tạm thời chưa thực hiện.
+
+Câu 149 [Dễ]: Chế tài 'Đình chỉ thực hiện hợp đồng' làm cho hợp đồng chấm dứt từ thời điểm nào?
+A. Chấm dứt sau 05 năm
+B. Chấm dứt trở về trước từ ngày ký hợp đồng
+C. Chấm dứt khi có quyết định của UBND cấp xã
+D. Hợp đồng chấm dứt từ thời điểm một bên nhận được thông báo đình chỉ; các bên không phải tiếp tục thực hiện nghĩa vụ hợp đồng
+Đáp án đúng: D
+Giải thích: Điều 310, 311 Luật Thương mại 2005: Đình chỉ thực hiện hợp đồng làm hợp đồng chấm dứt từ thời điểm nhận được thông báo.
+
+Câu 150 [Dễ]: Chế tài 'Hủy bỏ hợp đồng' (bao gồm hủy bỏ toàn bộ hoặc một phần) dẫn đến hậu quả pháp lý đặc thù nào?
+A. Bên bị vi phạm phải bồi thường tiền cho bên vi phạm
+B. Do Tòa án nhân dân khu vực tịch thu toàn bộ hàng hóa
+C. Hợp đồng không có hiệu lực từ thời điểm tuyên bố/ký kết; các bên phải hoàn trả cho nhau những gì đã nhận sau khi trừ chi phí hợp lý
+D. Hợp đồng vẫn tiếp tục thực hiện bình thường
+Đáp án đúng: C
+Giải thích: Điều 312, 314 Luật Thương mại 2005: Hủy bỏ hợp đồng làm hợp đồng không có hiệu lực từ thời điểm tuyên bố/ký kết, các bên hoàn trả cho nhau tài sản đã nhận.
+
+Câu 151 [Trung bình]: Các trường hợp Miễn trách nhiệm đối với hành vi vi phạm hợp đồng thương mại bao gồm những trường hợp nào theo Điều 294 Luật Thương mại 2005?
+A. Do bên vi phạm kinh doanh thua lỗ cá nhân
+B. Trường hợp đã được thỏa thuận trong hợp đồng; Trường hợp bất khả kháng; Do lỗi của bên bị vi phạm; Theo quyết định của cơ quan quản lý nhà nước có thẩm quyền mà các bên không thể biết được khi ký
+C. Do Giám đốc bên vi phạm đi du lịch nước ngoài
+D. Do bên vi phạm cố ý không muốn trả nợ
+Đáp án đúng: B
+Giải thích: Điều 294 Luật Thương mại 2005 quy định 4 trường hợp miễn trách nhiệm: thỏa thuận miễn, bất khả kháng, lỗi bên bị vi phạm, quyết định cơ quan nhà nước.
+
+Câu 152 [Trung bình]: Sự kiện 'Bất khả kháng' làm căn cứ miễn trách nhiệm trong hợp đồng thương mại phải đáp ứng các điều kiện nào?
+A. Là do nhân viên công ty xin nghỉ việc
+B. Là sự kiện xảy ra một cách khách quan, không thể lường trước được và không thể khắc phục được mặc dù đã áp dụng mọi biện pháp cần thiết và khả năng cho phép
+C. Là do bên vi phạm quên lịch giao hàng
+D. Là do giá nguyên liệu tăng nhẹ trên thị trường
+Đáp án đúng: B
+Giải thích: Sự kiện bất khả kháng là sự kiện khách quan, không thể lường trước và không thể khắc phục dù đã áp dụng mọi biện pháp.
+
+Câu 153 [Trung bình]: Bên vi phạm hợp đồng thương mại muốn được Miễn trách nhiệm do Sự kiện bất khả kháng có nghĩa vụ phải làm gì?
+A. Không cần làm gì tự động được miễn
+B. Chỉ cần thông báo cho Ủy ban nhân dân cấp xã
+C. Chờ Tòa án nhân dân khu vực đến kiểm tra
+D. Phải thông báo ngay bằng văn bản cho bên kia về trường hợp được miễn trách nhiệm và hậu quả có thể xảy ra; đồng thời có nghĩa vụ chứng minh sự kiện bất khả kháng
+Đáp án đúng: D
+Giải thích: Điều 295 Luật Thương mại 2005: Bên vi phạm phải thông báo ngay bằng văn bản cho bên kia và chứng minh sự kiện bất khả kháng.
+
+Câu 154 [Trung bình]: Trong trường hợp áp dụng chế tài 'Buộc thực hiện đúng hợp đồng', bên bị vi phạm có được quyền áp dụng ngay chế tài Hủy bỏ hợp đồng hay không?
+A. Được phạt tù bên vi phạm ngay
+B. Được hủy bỏ hợp đồng ngay lập tức cùng lúc
+C. Do Ủy ban nhân dân cấp xã quyết định chọn
+D. Không được áp dụng ngay chế tài Phạt vi phạm hay Hủy bỏ hợp đồng cho đến khi hết thời hạn gia hạn thực hiện nghĩa vụ theo chế tài buộc thực hiện đúng hợp đồng
+Đáp án đúng: D
+Giải thích: Điều 299 Luật Thương mại 2005: Trong thời gian gia hạn thực hiện hợp đồng theo chế tài buộc thực hiện đúng hợp đồng, bên bị vi phạm không được áp dụng phạt vi phạm hay hủy bỏ hợp đồng.
+
+Câu 155 [Trung bình]: Nghĩa vụ Hạn chế tổn thất của bên bị vi phạm hợp đồng thương mại được quy định như thế nào?
+A. Bên yêu cầu bồi thường thiệt hại phải áp dụng các biện pháp hợp lý để hạn chế tổn thất; nếu không áp dụng, bên vi phạm có quyền yêu cầu giảm bớt giá trị bồi thường bằng mức tổn thất đáng lẽ có thể hạn chế được
+B. Tòa án nhân dân khu vực chịu chi phí tổn thất
+C. Bên bị vi phạm được để mặc cho thiệt hại càng lớn càng tốt để đòi tiền
+D. Ủy ban nhân dân cấp xã phải đứng ra khắc phục tổn thất
+Đáp án đúng: A
+Giải thích: Điều 305 Luật Thương mại 2005: Bên bị vi phạm phải áp dụng biện pháp hợp lý để hạn chế tổn thất, nếu không áp dụng thì không được bồi thường phần tổn thất tăng thêm đó.
+
+Câu 156 [Trung bình]: Trường hợp các bên trong hợp đồng thương mại KHÔNG CÓ THỎA THUẬN về phạt vi phạm thì bên bị vi phạm có được quyền phạt vi phạm không?
+A. Vẫn được phạt tối đa 8% theo quy định luật
+B. Do Tòa án nhân dân khu vực quyết định cho phạt
+C. Được phạt 50% giá trị hợp đồng
+D. Không có quyền yêu cầu phạt vi phạm, chỉ có quyền yêu cầu bồi thường thiệt hại nếu có thiệt hại thực tế xảy ra
+Đáp án đúng: D
+Giải thích: Phạt vi phạm bắt buộc phải có thỏa thuận trước trong hợp đồng; nếu không thỏa thuận thì không được phạt vi phạm.
+
+Câu 157 [Trung bình]: Chế tài 'Hủy bỏ hợp đồng' được áp dụng trong những trường hợp nào?
+A. Áp dụng khi có sự thay đổi Giám đốc công ty
+B. Áp dụng khi Ủy ban nhân dân cấp xã yêu cầu hủy
+C. Xảy ra hành vi vi phạm mà các bên đã thỏa thuận là điều kiện để hủy bỏ hợp đồng; hoặc một bên vi phạm cơ bản nghĩa vụ hợp đồng
+D. Áp dụng khi một bên không thích tiếp tục kinh doanh
+Đáp án đúng: C
+Giải thích: Điều 312 Luật Thương mại 2005: Hủy bỏ hợp đồng áp dụng khi có thỏa thuận điều kiện hủy bỏ hoặc khi một bên vi phạm cơ bản nghĩa vụ hợp đồng.
+
+Câu 158 [Trung bình]: Khái niệm 'Vi phạm cơ bản nghĩa vụ hợp đồng' trong thương mại được định nghĩa là gì?
+A. Là sự vi phạm hợp đồng của một bên gây thiệt hại cho bên kia đến mức làm cho bên kia không đạt được mục đích của việc kết hợp đồng
+B. Là việc không mời cơm đối tác
+C. Là việc chậm thanh toán 1 ngày
+D. Là việc giao thiếu 1% số lượng hàng hóa
+Đáp án đúng: A
+Giải thích: Khoản 13 Điều 3 Luật Thương mại 2005: Vi phạm cơ bản là vi phạm gây thiệt hại khiến bên kia không đạt được mục đích của việc ký kết hợp đồng.
+
+Câu 159 [Trung bình]: Thời hiệu khởi kiện áp dụng đối với các tranh chấp thương mại là bao lâu theo Luật Thương mại 2005?
+A. Không có thời hiệu
+B. 02 năm kể từ thời điểm quyền và lợi ích hợp pháp bị xâm phạm (trừ trường hợp luật khác có quy định khác)
+C. 10 năm
+D. 06 tháng
+Đáp án đúng: B
+Giải thích: Điều 319 Luật Thương mại 2005: Thời hiệu khởi kiện áp dụng đối với các tranh chấp thương mại là 02 năm kể từ thời điểm quyền và lợi ích hợp pháp bị xâm phạm.
+
+Câu 160 [Trung bình]: Trường hợp một bên vi phạm hợp đồng do Sự kiện bất khả kháng nhưng KHÔNG THÔNG BÁO NGAY cho bên kia thì xử lý ra sao?
+A. Bên vi phạm không được miễn trách nhiệm đối với phần thiệt hại phát sinh do việc không thông báo gây ra
+B. Bị Tòa án nhân dân khu vực xử phạt hình sự
+C. Vẫn được miễn trách nhiệm 100% không ảnh hưởng gì
+D. Do Ủy ban nhân dân cấp xã bồi thường thay
+Đáp án đúng: A
+Giải thích: Vi phạm nghĩa vụ thông báo sự kiện bất khả kháng làm bên vi phạm phải bồi thường thiệt hại phát sinh từ việc không thông báo đó.
+
+Câu 161 [Trung bình]: Quyền yêu cầu Tiền lãi do chậm thanh toán trong hợp đồng thương mại được tính như thế nào?
+A. Không được tính lãi suất chậm trả
+B. Bên bị chậm thanh toán có quyền yêu cầu trả tiền lãi trên số tiền chậm thanh toán theo lãi suất nợ quá hạn trung bình trên thị trường tại thời điểm thanh toán tương ứng với thời gian chậm trả
+C. Tính lãi suất cố định 100%/năm
+D. Do Ủy ban nhân dân cấp xã quy định mức lãi
+Đáp án đúng: B
+Giải thích: Điều 306 Luật Thương mại 2005: Bên chậm thanh toán phải trả tiền lãi trên số tiền chậm trả theo lãi suất nợ quá hạn trung bình trên thị trường.
+
+Câu 162 [Trung bình]: Trong hợp đồng mua bán hàng hóa, nếu bên bán chậm giao hàng thì bên mua có được quyền Mua hàng hóa thay thế từ người khác và đòi chênh lệch giá không?
+A. Tuyệt đối không được mua hàng của người khác
+B. Do Tòa án nhân dân khu vực quyết định mua hộ
+C. Có quyền mua hàng hóa thay thế và đòi bên vi phạm trả khoản tiền chênh lệch giá giữa giá mua thay thế và giá hợp đồng sau khi đã áp dụng chế tài tạm ngừng/hủy bỏ
+D. Chỉ được chờ bên bán giao dù mất bao lâu
+Đáp án đúng: C
+Giải thích: Điều 304, 313 Luật Thương mại 2005 cho phép bên bị vi phạm mua hàng thay thế và đòi tiền chênh lệch giá cùng chi phí phát sinh.
+
+Câu 163 [Vận dụng]: Công ty A và Công ty B ký Hợp đồng mua bán thiết bị máy móc trị giá 2 tỷ đồng. Trong hợp đồng có điều khoản: 'Nếu bên nào vi phạm hợp đồng sẽ chịu phạt 15% giá trị hợp đồng'. Công ty A vi phạm thời hạn giao hàng. Công ty B đòi Công ty A nộp phạt 300 triệu đồng (15% của 2 tỷ). Mức phạt này có được Tòa án/Trọng tài chấp nhận toàn bộ không?
+A. Được chấp nhận toàn bộ 300 triệu
+B. Ủy ban nhân dân cấp xã quyết định giảm còn 50 triệu
+C. Phạt tiền bị hủy bỏ hoàn toàn phạt 0%
+D. Không được chấp nhận toàn bộ; Tòa án/Trọng tài chỉ chấp nhận mức phạt tối đa là 8% giá trị phần nghĩa vụ bị vi phạm (tương ứng tối đa 160 triệu đồng) theo Điều 301 Luật Thương mại 2005
+Đáp án đúng: D
+Giải thích: Luật Thương mại 2005 khống chế mức phạt vi phạm tối đa 8% giá trị phần nghĩa vụ hợp đồng bị vi phạm.
+
+Câu 164 [Vận dụng]: Công ty X và Công ty Y ký Hợp đồng cung cấp nông sản trị giá 1 tỷ đồng. Hai bên KHÔNG THỎA THUẬN điều khoản phạt vi phạm trong hợp đồng. Khi Công ty X giao hàng chậm 1 tháng gây thiệt hại thực tế cho Công ty Y là 50 triệu đồng, Công ty Y đòi Công ty X phải trả 80 triệu phạt vi phạm và 50 triệu bồi thường thiệt hại. Đòi hỏi của Công ty Y được giải quyết ra sao?
+A. Công ty Y không được đòi 80 triệu tiền phạt vi phạm (do hợp đồng không có thỏa thuận phạt vi phạm); Công ty Y chỉ được chấp nhận đòi 50 triệu đồng bồi thường thiệt hại thực tế có chứng cứ
+B. Công ty X không phải trả đồng nào
+C. Ủy ban nhân dân cấp xã cho phạt 100 triệu
+D. Được chấp nhận toàn bộ 130 triệu
+Đáp án đúng: A
+Giải thích: Phạt vi phạm bắt buộc phải có thỏa thuận trước; Bồi thường thiệt hại chỉ cần có hành vi vi phạm + thiệt hại thực tế + mối quan hệ nhân quả.
+
+Câu 165 [Vận dụng]: Công ty S ký hợp đồng bán 500 tấn xi măng cho Công ty T, giao hàng ngày 01/03/2026. Đêm 28/02/2026, một trận động đất thiên tai bất ngờ làm sập toàn bộ kho xi măng của Công ty S. Công ty S không thể giao hàng. Sự kiện động đất này có giúp Công ty S được miễn trách nhiệm bồi thường thiệt hại không?
+A. Ủy ban nhân dân cấp xã trả xi măng thay
+B. Được miễn trách nhiệm do sự kiện Bất khả kháng (động đất thiên tai), với điều kiện Công ty S phải thông báo ngay bằng văn bản và chứng minh sự kiện bất khả kháng cho Công ty T theo quy định
+C. Công ty S bị Công an khu vực phạt tù
+D. Không được miễn vì kho của S tự sập
+Đáp án đúng: B
+Giải thích: Động đất là sự kiện bất khả kháng thiên tai; bên vi phạm được miễn trách nhiệm nếu kịp thời thông báo và chứng minh.
+
+Câu 166 [Vận dụng]: Công ty Cổ phần M giao nhầm lô hàng hải sản bị ô hỏng cho Công ty N làm Công ty N không thể chế biến xuất khẩu theo hợp đồng đã ký với khách hàng nước ngoài, chịu phạt hợp đồng quốc tế. Hành vi giao hàng hỏng của Công ty M thuộc loại vi phạm gì và Công ty N có quyền hủy bỏ hợp đồng không?
+A. Không thuộc vi phạm cơ bản, không được hủy hợp đồng
+B. Ủy ban nhân dân cấp xã bắt buộc phải mua lại hàng hỏng
+C. Do Tòa án nhân dân khu vực bắt N nhận hàng
+D. Là Vi phạm cơ bản nghĩa vụ hợp đồng (gây thiệt hại khiến bên kia không đạt được mục đích hợp đồng); Công ty N có quyền Hủy bỏ hợp đồng và đòi bồi thường thiệt hại toàn bộ
+Đáp án đúng: D
+Giải thích: Giao hàng ô hỏng khiến bên mua không thể chế biến xuất khẩu là vi phạm cơ bản; bên bị vi phạm có quyền hủy bỏ hợp đồng và đòi bồi thường.
+
+Câu 167 [Vận dụng]: Công ty A chậm giao lô hàng may mặc cho Công ty B làm hàng bị đọng tại bến cảng. Công ty B không thuê kho bảo quản để mặc cho mưa bão làm mốc hỏng toàn bộ lô hàng trị giá 200 triệu đồng (nếu thuê kho chi phí bảo quản chỉ tốn 5 triệu đồng). Công ty B kiện đòi A bồi thường 200 triệu. Tòa án xử lý mức bồi thường ra sao?
+A. Công ty B vi phạm nghĩa vụ hạn chế tổn thất (không bỏ 5 triệu thuê kho bảo quản); Tòa án sẽ giảm mức bồi thường của A, B chỉ được bồi thường số tiền hợp lý chứ không được bồi thường phần tổn thất tăng thêm do lỗi của B
+B. Ủy ban nhân dân cấp xã trả 200 triệu
+C. Công ty A không phải bồi thường đồng nào
+D. Buộc A bồi thường đủ 200 triệu
+Đáp án đúng: A
+Giải thích: Bên bị vi phạm không áp dụng biện pháp hợp lý hạn chế tổn thất thì bên vi phạm có quyền yêu cầu giảm bớt mức bồi thường tương ứng phần tổn thất đáng lẽ ngăn chặn được.
+
+Câu 168 [Vận dụng]: Công ty D và Công ty E tranh chấp hợp đồng mua bán thép từ ngày 15/05/2023 (thời điểm vi phạm xảy ra). Hai bên thương lượng không thành. Đến ngày 20/10/2026 (sau hơn 3 năm 5 tháng), Công ty D mới nộp đơn khởi kiện Công ty E ra Tòa án nhân dân khu vực. Công ty E phản đối thời hiệu khởi kiện. Tòa án giải quyết thế nào?
+A. Công ty E bị bắt giam lập tức
+B. Tòa án áp dụng thời hiệu khởi kiện 02 năm theo Luật Thương mại 2005; do Công ty D khởi kiện sau hơn 3 năm nên đã Hết thời hiệu khởi kiện, Tòa án ra quyết định đình chỉ giải quyết vụ án (nếu Công ty E có yêu cầu áp dụng thời hiệu)
+C. Ủy ban nhân dân cấp tỉnh gia hạn thêm 5 năm
+D. Tòa án vẫn xét xử bình thường vì không có thời hiệu
+Đáp án đúng: B
+Giải thích: Thời hiệu khởi kiện tranh chấp thương mại là 02 năm; quá thời hạn này nếu đương sự yêu cầu áp dụng thời hiệu thì Tòa án đình chỉ vụ án.
+
+Câu 169 [Vận dụng]: Công ty P mua 50 xe máy của Công ty Q để làm quà tặng khuyến mại cho khách hàng vào ngày lễ 30/4. Công ty Q giao chậm xe đến ngày 15/5 (khi ngày lễ đã qua và chương trình khuyến mại đã kết thúc). Công ty P từ chối nhận xe và yêu cầu Hủy bỏ hợp đồng. Công ty Q ép P phải nhận xe. Công ty P có quyền hủy hợp đồng không?
+A. Do Ủy ban nhân dân cấp xã phân xử P phải mua 25 xe
+B. Công ty P không được hủy vì xe không bị hỏng
+C. Công ty P có quyền Hủy bỏ hợp đồng, vì Công ty Q đã vi phạm cơ bản hợp đồng (giao hàng chậm làm mục đích khuyến mại ngày lễ không đạt được)
+D. Công ty P bị phạt tiền
+Đáp án đúng: C
+Giải thích: Chậm giao hàng làm mất hoàn toàn mục đích sử dụng ngày lễ là vi phạm cơ bản nghĩa vụ hợp đồng, bên bị vi phạm có quyền hủy bỏ hợp đồng.
+
+Câu 170 [Vận dụng]: Công ty X không thanh toán số tiền nợ mua vật tư 500 triệu đồng cho Công ty Y kể từ ngày 01/01/2025. Trong hợp đồng hai bên có thỏa thuận chậm thanh toán sẽ chịu lãi suất nợ quá hạn. Đến ngày 01/01/2026 (sau 1 năm), Công ty Y đòi Công ty X trả 500 triệu tiền gốc và tiền lãi chậm trả. Công ty X từ chối trả lãi. Việc đòi tiền lãi của Y có căn cứ pháp lý không?
+A. Không có căn cứ vì mua bán không được tính lãi
+B. Do Ủy ban nhân dân cấp xã quyết định cho vay free
+C. Có căn cứ pháp lý đầy đủ; theo Điều 306 Luật Thương mại 2005, bên chậm thanh toán phải trả tiền lãi trên số tiền chậm trả theo lãi suất nợ quá hạn trung bình trên thị trường tương ứng thời gian chậm trả
+D. Do Tòa án nhân dân khu vực phạt tiền Công ty Y
+Đáp án đúng: C
+Giải thích: Bên chậm thanh toán trong hợp đồng thương mại đương nhiên phải trả tiền lãi quá hạn trên số tiền chậm trả theo quy định pháp luật.
+
+--------------------------------------------------------------------------------
+MỤC 5.2.3. PHƯƠNG THỨC GIẢI QUYẾT TRANH CHẤP TRONG KINH DOANH, THƯƠNG MẠI
+--------------------------------------------------------------------------------
+
+Câu 171 [Dễ]: Các phương thức giải quyết tranh chấp trong kinh doanh, thương mại theo pháp luật Việt Nam bao gồm những phương thức nào?
+A. Nhờ Ủy ban nhân dân cấp xã ra bản án xử phạt tù
+B. Thu hồi Giấy CMND/CCCD của Giám đốc bên vi phạm
+C. Thương lượng; Hòa giải thương mại; Giải quyết bằng Trọng tài thương mại; Giải quyết bằng Tòa án nhân dân
+D. Tự ý cưỡng chế bắt giam đối tác
+Đáp án đúng: C
+Giải thích: Điều 317 Luật Thương mại 2005 quy định 4 phương thức giải quyết tranh chấp: Thương lượng, Hòa giải, Trọng tài thương mại và Tòa án nhân dân.
+
+Câu 172 [Dễ]: Phương thức Thương lượng trong giải quyết tranh chấp thương mại có đặc điểm nổi bật nào?
+A. Bắt buộc phải có sự chủ trì của Chủ tịch UBND cấp xã
+B. Phải lập thành bản án hình sự
+C. Do Thẩm phán Tòa án nhân dân khu vực điều hành
+D. Do các bên tranh chấp tự đàm phán, thỏa thuận trực tiếp với nhau mà không có sự tham gia của bên thứ ba; không mang tính bắt buộc cưỡng chế nhà nước
+Đáp án đúng: D
+Giải thích: Thương lượng là phương thức do các bên tự bàn bạc, thỏa thuận trực tiếp không có sự tham gia của bên thứ ba.
+
+Câu 173 [Dễ]: Phương thức Hòa giải thương mại có sự tham gia của ai?
+A. Có sự tham gia của Cảnh sát giao thông
+B. Có sự tham gia của Ủy ban nhân dân cấp xã đóng vai trò Tòa án
+C. Có sự tham gia của bên thứ ba trung gian là Hòa giải viên thương mại (hoặc Trung tâm hòa giải) giúp các bên đàm phán tìm giải pháp
+D. Có sự tham gia bắt buộc của Viện kiểm sát tối cao
+Đáp án đúng: C
+Giải thích: Hòa giải thương mại là phương thức do các bên thỏa thuận nhờ Hòa giải viên thương mại làm trung gian hỗ trợ hòa giải.
+
+Câu 174 [Dễ]: ĐIỀU KIỆN BẮT BUỘC để tranh chấp thương mại được giải quyết bằng Trọng tài thương mại là gì?
+A. Phải được Tòa án nhân dân khu vực giới thiệu sang
+B. Các bên tranh chấp phải có Thỏa thuận trọng tài (bằng văn bản lập trước hoặc sau khi xảy ra tranh chấp)
+C. Phải có sự đồng ý của Ủy ban nhân dân cấp xã
+D. Phải có giá trị tranh chấp trên 100 tỷ đồng
+Đáp án đúng: B
+Giải thích: Điều 5 Luật Trọng tài thương mại 2010: Tranh chấp được giải quyết bằng Trọng tài nếu các bên có thỏa thuận trọng tài.
+
+Câu 175 [Dễ]: Thỏa thuận trọng tài thương mại phải được lập dưới hình thức nào?
+A. Có thể thỏa thuận bằng lời nói miệng không cần văn bản
+B. Bắt buộc do Thẩm phán Tòa án ký tên
+C. Bắt buộc công chứng tại Ủy ban nhân dân cấp xã
+D. Thỏa thuận trọng tài phải được lập bằng văn bản (bao gồm điều khoản trọng tài trong hợp đồng hoặc thỏa thuận riêng bằng văn bản, thư từ, điện tín, email...)
+Đáp án đúng: D
+Giải thích: Điều 16 Luật Trọng tài thương mại 2010: Thỏa thuận trọng tài phải được lập bằng văn bản.
+
+Câu 176 [Dễ]: Phán quyết của Trọng tài thương mại có tính chất pháp lý như thế nào đối với các bên tranh chấp?
+A. Phán quyết trọng tài là chung thẩm, có hiệu lực bắt buộc thi hành đối với các bên kể từ ngày ban hành và không bị kháng cáo lên Tòa án
+B. Phán quyết trọng tài chỉ có tính chất tham khảo
+C. Phán quyết trọng tài có thể bị kháng cáo phúc thẩm lên Tòa án nhân dân cấp tỉnh
+D. Phán quyết trọng tài cần được UBND cấp xã phê chuẩn mới có hiệu lực
+Đáp án đúng: A
+Giải thích: Điều 4 Luật Trọng tài thương mại 2010: Phán quyết trọng tài là chung thẩm, có hiệu lực thi hành ngay và không bị kháng cáo.
+
+Câu 177 [Dễ]: Trường hợp một bên không tự nguyện thi hành Phán quyết trọng tài thương mại đã có hiệu lực thì bên kia có quyền làm gì?
+A. Có quyền làm đơn yêu cầu Cơ quan Thi hành án dân sự có thẩm quyền cưỡng chế thi hành phán quyết trọng tài
+B. Nhờ Ủy ban nhân dân cấp xã bắt giam đối phương
+C. Khởi kiện lại từ đầu tại Tòa án nhân dân khu vực
+D. Tự ý thu giữ tài sản nhà đất của đối phương
+Đáp án đúng: A
+Giải thích: Điều 66 Luật Trọng tài thương mại 2010: Hết thời hạn thi hành phán quyết trọng tài, bên được thi hành có quyền yêu cầu Cơ quan THADS cưỡng chế thi hành.
+
+Câu 178 [Dễ]: Thẩm quyền giải quyết tranh chấp kinh doanh, thương mại sơ thẩm ở cấp cơ sở thuộc hệ thống Tòa án nào?
+A. Tòa án nhân dân khu vực nơi bị đơn cư trú/có trụ sở (trừ vụ việc thuộc thẩm quyền TAND cấp tỉnh)
+B. Ủy ban nhân dân cấp xã
+C. Ủy ban nhân dân cấp tỉnh
+D. Tòa án nhân dân tối cao
+Đáp án đúng: A
+Giải thích: Tòa án nhân dân khu vực có thẩm quyền giải quyết sơ thẩm các tranh chấp kinh doanh thương mại theo Bộ luật Tố tụng Dân sự.
+
+Câu 179 [Dễ]: Vụ án tranh chấp kinh doanh thương mại có đương sự hoặc tài sản ở nước ngoài thuộc thẩm quyền xét xử sơ thẩm của Tòa án nào?
+A. Ủy ban nhân dân cấp tỉnh
+B. Tòa án nhân dân cấp tỉnh
+C. Tòa án nhân dân khu vực
+D. Ủy ban nhân dân cấp xã
+Đáp án đúng: B
+Giải thích: Tranh chấp kinh doanh thương mại có yếu tố nước ngoài thuộc thẩm quyền sơ thẩm của Tòa án nhân dân cấp tỉnh.
+
+Câu 180 [Dễ]: Văn bản ghi nhận kết quả Hòa giải thành công ngoài Tòa án theo Nghị định 22/2017/NĐ-CP được Tòa án công nhận có hiệu lực thi hành như thế nào?
+A. Được Tòa án ra Quyết định công nhận kết quả hòa giải thành ngoài Tòa án và có hiệu lực cưỡng chế thi hành như bản án của Tòa án
+B. Không có hiệu lực thi hành
+C. Chỉ có giá trị như hợp đồng viết tay
+D. Cần có dấu đỏ của Ủy ban nhân dân cấp xã
+Đáp án đúng: A
+Giải thích: Văn bản hòa giải thành được Tòa án công nhận theo Bộ luật Tố tụng Dân sự có hiệu lực cưỡng chế thi hành như bản án/quyết định của Tòa án.
+
+Câu 181 [Trung bình]: Trường hợp các bên đã có Thỏa thuận trọng tài hợp pháp nhưng một bên vẫn nộp đơn khởi kiện ra Tòa án nhân dân thì Tòa án xử lý như thế nào?
+A. Tòa án giao cho Ủy ban nhân dân cấp xã giải quyết
+B. Tòa án phải từ chối thụ lý và trả lại đơn khởi kiện (trừ trường hợp thỏa thuận trọng tài vô hiệu hoặc thỏa thuận trọng tài không thể thực hiện được)
+C. Tòa án phạt tù bên nộp đơn khởi kiện
+D. Tòa án bắt buộc phải thụ lý xét xử thay cho Trọng tài
+Đáp án đúng: B
+Giải thích: Điều 6 Luật Trọng tài thương mại 2010: Khi đã có thỏa thuận trọng tài, nếu 1 bên khởi kiện ra Tòa án thì Tòa án phải từ chối thụ lý, trừ trường hợp thỏa thuận vô hiệu/không thể thực hiện.
+
+Câu 182 [Trung bình]: Thỏa thuận trọng tài thương mại bị VÔ HIỆU trong những trường hợp nào theo Điều 18 Luật Trọng tài thương mại 2010?
+A. Do Ủy ban nhân dân cấp xã yêu cầu hủy bỏ
+B. Trọng tài viên chưa có bằng tiến sĩ
+C. Một bên không thích giải quyết bằng Trọng tài nữa
+D. Tranh chấp phát sinh không thuộc thẩm quyền trọng tài; Người xác lập thỏa thuận không có thẩm quyền; Một bên bị đe dọa, cưỡng ép; Thỏa thuận vi phạm điều cấm của luật
+Đáp án đúng: D
+Giải thích: Điều 18 Luật Trọng tài thương mại 2010 quy định các trường hợp thỏa thuận trọng tài vô hiệu.
+
+Câu 183 [Trung bình]: Tòa án nhân dân cấp tỉnh có thẩm quyền Hủy phán quyết trọng tài thương mại khi có đơn yêu cầu trong trường hợp nào?
+A. Khi một bên thua kiện không hài lòng với phán quyết
+B. Khi Ủy ban nhân dân cấp xã có ý kiến phản đối
+C. Không có thỏa thuận trọng tài hoặc thỏa thuận trọng tài vô hiệu; Thành phần Hội đồng trọng tài không đúng; Phán quyết trái với các nguyên tắc cơ bản của pháp luật Việt Nam...
+D. Khi mức tiền bồi thường quá cao
+Đáp án đúng: C
+Giải thích: Điều 68 Luật Trọng tài thương mại 2010 quy định các căn cứ Tòa án hủy phán quyết trọng tài.
+
+Câu 184 [Trung bình]: Thời hạn nộp Đơn yêu cầu Tòa án hủy phán quyết trọng tài thương mại là bao lâu kể từ ngày nhận được phán quyết?
+A. 30 ngày kể từ ngày nhận được phán quyết trọng tài
+B. 10 ngày
+C. 06 tháng
+D. 01 năm
+Đáp án đúng: A
+Giải thích: Điều 69 Luật Trọng tài thương mại 2010: Thời hạn gửi đơn yêu cầu hủy phán quyết trọng tài là 30 ngày kể từ ngày nhận được phán quyết.
+
+Câu 185 [Trung bình]: Khi Tòa án ra Quyết định Hủy phán quyết trọng tài thương mại thì tranh chấp giữa các bên được giải quyết tiếp theo như thế nào?
+A. Tòa án phạt tù Trọng tài viên
+B. Tranh chấp đương nhiên bị xóa bỏ vĩnh viễn
+C. Các bên có thể thỏa thuận lại để đưa tranh chấp ra Trọng tài giải quyết hoặc một bên có quyền khởi kiện ra Tòa án nhân dân có thẩm quyền
+D. Chuyển cho Ủy ban nhân dân cấp xã giải quyết
+Đáp án đúng: C
+Giải thích: Khoản 8 Điều 71 Luật Trọng tài thương mại 2010: Khi phán quyết trọng tài bị hủy, các bên thỏa thuận lại đưa ra Trọng tài hoặc khởi kiện ra Tòa án.
+
+Câu 186 [Trung bình]: Hội đồng Trọng tài thương mại vụ việc hoặc Trung tâm Trọng tài thương mại có thẩm quyền áp dụng các Biện pháp khẩn cấp tạm thời nào theo yêu cầu của đương sự?
+A. Cấm đi khỏi nơi cư trú đối với Giám đốc
+B. Cấm thay đổi hiện trạng tài sản tranh chấp; Kê biên tài sản tranh chấp; Phong tỏa tài khoản tại ngân hàng; Cấm dịch chuyển quyền về tài sản...
+C. Tước Giấy chứng nhận đăng ký doanh nghiệp
+D. Phạt tù bị đơn
+Đáp án đúng: B
+Giải thích: Điều 49 Luật Trọng tài thương mại 2010 quy định thẩm quyền của Hội đồng trọng tài áp dụng biện pháp khẩn cấp tạm thời.
+
+Câu 187 [Trung bình]: Sự khác biệt căn bản giữa phương thức giải quyết tranh chấp bằng Trọng tài thương mại và Tòa án nhân dân là gì?
+A. Trọng tài do UBND cấp xã thành lập; Tòa án do Quốc hội thành lập
+B. Hai phương thức này hoàn toàn giống hệt nhau
+C. Trọng tài được phạt tù; Tòa án chỉ được phạt tiền
+D. Trọng tài xét xử kín, phán quyết chung thẩm không có cấp phúc thẩm; Tòa án xét xử công khai, thực hiện chế độ hai cấp xét xử (sơ thẩm và phúc thẩm)
+Đáp án đúng: D
+Giải thích: Trọng tài xét xử kín, phán quyết chung thẩm 1 cấp; Tòa án xét xử công khai và có chế độ xét xử 2 cấp (Sơ thẩm, Phúc thẩm).
+
+Câu 188 [Trung bình]: Điều kiện đối với cá nhân để được làm Trọng tài viên thương mại bao gồm những tiêu chí nào?
+A. Phải là cán bộ thuộc Ủy ban nhân dân cấp xã
+B. Phải là Thẩm phán đang làm việc tại Tòa án nhân dân khu vực
+C. Chỉ cần đủ 18 tuổi không cần bằng cấp
+D. Có năng lực hành vi dân sự đầy đủ; Có trình độ đại học và đã qua thực tế công tác theo ngành đã học từ 5 năm trở lên; Đáp ứng các tiêu chuẩn quy định của Luật Trọng tài thương mại
+Đáp án đúng: D
+Giải thích: Điều 20 Luật Trọng tài thương mại 2010 quy định tiêu chuẩn Trọng tài viên: năng lực HVDS đầy đủ, trình độ đại học và kinh nghiệm từ 5 năm trở lên.
+
+Câu 189 [Trung bình]: Nguyên tắc xét xử của Trọng tài thương mại là gì?
+A. Xét xử tại trụ sở Ủy ban nhân dân cấp xã
+B. Bắt buộc xét xử công khai truyền hình trực tiếp
+C. Xét xử theo biểu quyết của cư dân mạng
+D. Xét xử không công khai (xét xử kín), trừ trường hợp các bên có thỏa thuận khác
+Đáp án đúng: D
+Giải thích: Khoản 4 Điều 4 Luật Trọng tài thương mại 2010: Giải quyết tranh chấp bằng Trọng tài được tiến hành không công khai, trừ trường hợp các bên có thỏa thuận khác.
+
+Câu 190 [Trung bình]: Trường hợp Điều khoản trọng tài được ghi trong hợp đồng nhưng sau đó Hợp đồng bị tuyên Tuyên bố vô hiệu thì Thỏa thuận trọng tài có bị vô hiệu theo không?
+A. Thỏa thuận trọng tài đương nhiên bị vô hiệu theo hợp đồng
+B. Thỏa thuận trọng tài hoàn toàn độc lập với hợp đồng; việc hợp đồng bị vô hiệu không làm mất hiệu lực của thỏa thuận trọng tài (trừ trường hợp thỏa thuận trọng tài chính nó bị vô hiệu)
+C. Do Ủy ban nhân dân cấp xã quyết định hủy bỏ
+D. Do Tòa án nhân dân khu vực hủy bỏ 100%
+Đáp án đúng: B
+Giải thích: Điều 19 Luật Trọng tài thương mại 2010: Thỏa thuận trọng tài hoàn toàn độc lập với hợp đồng.
+
+Câu 191 [Trung bình]: Quyết định của Tòa án nhân dân đối với Đơn yêu cầu Hủy phán quyết trọng tài thương mại có bị kháng cáo, kháng nghị hay không?
+A. Quyết định của Tòa án là quyết định cuối cùng và có hiệu lực thi hành ngay, không bị kháng cáo, kháng nghị
+B. Được kháng cáo sau 30 ngày
+C. Được kháng cáo lên Tòa án nhân dân tối cao
+D. Được kháng cáo lên Ủy ban nhân dân cấp tỉnh
+Đáp án đúng: A
+Giải thích: Khoản 10 Điều 71 Luật Trọng tài thương mại 2010: Quyết định của Tòa án về việc hủy hoặc không hủy phán quyết trọng tài là quyết định cuối cùng, có hiệu lực thi hành ngay.
+
+Câu 192 [Trung bình]: Trường hợp các bên tranh chấp chọn giải quyết bằng Trọng tài quy chế tại một Trung tâm Trọng tài thương mại thì ai là người ra Phán quyết trọng tài?
+A. Thẩm phán Tòa án nhân dân khu vực
+B. Hội đồng trọng tài (gồm 1 Trọng tài viên duy nhất hoặc 3 Trọng tài viên do các bên chọn/chỉ định) thuộc Trung tâm Trọng tài đó
+C. Chủ tịch Ủy ban nhân dân cấp xã nơi đặt trụ sở Trung tâm
+D. Giám đốc Trung tâm Trọng tài tự mình ra phán quyết
+Đáp án đúng: B
+Giải thích: Phán quyết trọng tài do Hội đồng trọng tài (1 hoặc 3 Trọng tài viên) trực tiếp xét xử và ban hành.
+
+Câu 193 [Vận dụng]: Công ty A và Công ty B ký Hợp đồng mua bán thiết bị, trong hợp đồng có điều khoản: 'Mọi tranh chấp phát sinh từ hợp đồng này sẽ được giải quyết tại Trung tâm Trọng tài Quốc tế Việt Nam (VIAC)'. Khi xảy ra tranh chấp, Công ty A tự ý nộp đơn khởi kiện Công ty B ra Tòa án nhân dân khu vực X. Tòa án nhân dân khu vực X xử lý đơn kiện của A ra sao?
+A. Ủy ban nhân dân cấp xã đứng ra phạt tiền B
+B. Tòa án thụ lý và xét xử bình thường
+C. Tòa án phải Trả lại đơn khởi kiện cho Công ty A và hướng dẫn nộp đơn ra Trọng tài VIAC theo đúng Thỏa thuận trọng tài đã ký giữa hai bên (theo Điều 6 Luật Trọng tài thương mại 2010)
+D. Tòa án chuyển vụ việc cho Công an khu vực
+Đáp án đúng: C
+Giải thích: Khi có thỏa thuận trọng tài hợp pháp, Tòa án phải từ chối thụ lý và trả lại đơn khởi kiện cho đương sự.
+
+Câu 194 [Vận dụng]: Công ty M và Công ty N xảy ra tranh chấp hợp đồng xây dựng trị giá 10 tỷ đồng. Hai bên tiến hành Hòa giải thương mại tại Trung tâm Hòa giải thương mại và lập 'Văn bản ghi nhận kết quả hòa giải thành'. Để văn bản này có hiệu lực cưỡng chế thi hành như bản án Tòa án, hai bên cần làm thủ tục gì?
+A. Không cần làm thủ tục gì tự có hiệu lực
+B. Nộp đơn lên Tòa án nhân dân tối cao xét xử lại
+C. Xin dấu xác nhận của Ủy ban nhân dân cấp xã
+D. Gửi đơn đến Tòa án nhân dân có thẩm quyền yêu cầu ra Quyết định công nhận kết quả hòa giải thành ngoài Tòa án theo quy định của Bộ luật Tố tụng Dân sự
+Đáp án đúng: D
+Giải thích: Văn bản hòa giải thành ngoài Tòa án phải được Tòa án ra Quyết định công nhận theo Bộ luật Tố tụng Dân sự mới có hiệu lực cưỡng chế thi hành.
+
+Câu 195 [Vận dụng]: Hội đồng Trọng tài thương mại ban hành Phán quyết trọng tài buộc Công ty P phải trả Công ty Q số tiền 1 tỷ đồng. Công ty P không hài lòng với phán quyết nên làm Đơn kháng cáo gửi lên Tòa án nhân dân cấp tỉnh yêu cầu xét xử phúc thẩm lại vụ án. Tòa án nhân dân cấp tỉnh xử lý Đơn kháng cáo của P ra sao?
+A. Tòa án hủy bỏ phán quyết ngay lập tức
+B. Ủy ban nhân dân cấp xã đứng ra giải quyết lại
+C. Tòa án không thụ lý Đơn kháng cáo, vì Phán quyết trọng tài thương mại là chung thẩm, có hiệu lực ngay và không có chế định xét xử phúc thẩm tại Tòa án đối với phán quyết trọng tài
+D. Tòa án thụ lý mở phiên tòa phúc thẩm xét xử lại
+Đáp án đúng: C
+Giải thích: Phán quyết trọng tài là chung thẩm, không có thủ tục kháng cáo phúc thẩm lên Tòa án.
+
+Câu 196 [Vận dụng]: Công ty K bị Hội đồng trọng tài tuyên thua kiện phải bồi thường 500 triệu đồng cho Công ty L. Công ty K phát hiện Trọng tài viên duy nhất giải quyết vụ án là anh ruột của Giám đốc Công ty L (vi phạm quy định về tính khách quan của Trọng tài viên). Công ty K có quyền làm gì?
+A. Gửi Đơn yêu cầu Tòa án nhân dân cấp tỉnh ra Quyết định Hủy phán quyết trọng tài trong thời hạn 30 ngày kể từ ngày nhận phán quyết do thành phần/thủ tục trọng tài vi phạm nghiêm trọng Luật Trọng tài thương mại 2010
+B. Nhờ Ủy ban nhân dân cấp xã bắt giam Trọng tài viên
+C. Tự ý đốt văn phòng Trọng tài
+D. Không làm gì được vì phán quyết là chung thẩm
+Đáp án đúng: A
+Giải thích: Trọng tài viên vi phạm điều cấm/tính vô tư khách quan là căn cứ để Tòa án hủy phán quyết trọng tài theo Điều 68 Luật TTM 2010.
+
+Câu 197 [Vận dụng]: Công ty TNHH H (trụ sở tại Phường A) và Công ty TNHH K (trụ sở tại Phường B) tranh chấp hợp đồng dịch vụ logistics trị giá 300 triệu đồng. Hai bên không có thỏa thuận trọng tài. Công ty H khởi kiện Công ty K đòi tiền. Tòa án nào có thẩm quyền giải quyết sơ thẩm vụ án kinh doanh thương mại này?
+A. Ủy ban nhân dân cấp xã Phường A
+B. Tòa án nhân dân tối cao
+C. Tòa án nhân dân khu vực nơi Công ty K (bị đơn) đặt trụ sở tại Phường B
+D. Ủy ban nhân dân cấp tỉnh
+Đáp án đúng: C
+Giải thích: Tranh chấp kinh doanh thương mại giữa 2 doanh nghiệp trong nước không có thỏa thuận trọng tài thuộc thẩm quyền sơ thẩm của Tòa án nhân dân khu vực nơi bị đơn có trụ sở.
+
+Câu 198 [Vận dụng]: Hai doanh nghiệp X và Y ký hợp đồng mua bán linh kiện điện tử. Trong hợp đồng ghi: 'Mọi tranh chấp sẽ do Tòa án nhân dân khu vực hoặc Trọng tài thương mại giải quyết'. Khi xảy ra tranh chấp, Công ty X nộp đơn ra Trọng tài, Công ty Y nộp đơn ra Tòa án. Thỏa thuận trọng tài lựa chọn song song này được xử lý ra sao?
+A. Theo Điều 17 Luật Trọng tài thương mại 2010, nếu thỏa thuận chọn cả Tòa án và Trọng tài thì bên khởi kiện có quyền chọn Trọng tài hoặc Tòa án; nếu bên khởi kiện (Công ty X) đã chọn Trọng tài trước thì Trọng tài có thẩm quyền giải quyết, Tòa án phải trả lại đơn
+B. Hủy bỏ cả 2 đơn kiện
+C. Ủy ban nhân dân cấp xã thụ lý giải quyết
+D. Thỏa thuận trọng tài mặc nhiên vô hiệu ngay
+Đáp án đúng: A
+Giải thích: Khi thỏa thuận lựa chọn cả Tòa án và Trọng tài, bên chọn phương thức nào trước thì cơ quan đó thụ lý giải quyết.
+
+Câu 199 [Vận dụng]: Công ty A (Việt Nam) và Công ty B (Nhật Bản) tranh chấp hợp đồng mua bán phần mềm. Trong hợp đồng có thỏa thuận giải quyết bằng Trọng tài VIAC. Công ty A yêu cầu Hội đồng Trọng tài áp dụng Biện pháp khẩn cấp tạm thời 'Phong tỏa tài khoản ngân hàng của Công ty B tại Việt Nam'. Hội đồng Trọng tài có thẩm quyền ra Quyết định phong tỏa tài khoản ngân hàng không?
+A. Chỉ Tòa án nhân dân tối cao mới có quyền phong tỏa
+B. Hội đồng Trọng tài không có quyền, phải chuyển cho UBND cấp xã
+C. Hội đồng Trọng tài có thẩm quyền ra Quyết định áp dụng biện pháp khẩn cấp tạm thời phong tỏa tài khoản theo quy định tại Điều 49 Luật Trọng tài thương mại 2010
+D. Hội đồng Trọng tài chỉ được phạt tiền
+Đáp án đúng: C
+Giải thích: Điều 49 Luật Trọng tài thương mại 2010 trao quyền cho Hội đồng trọng tài áp dụng biện pháp khẩn cấp tạm thời phong tỏa tài khoản ngân hàng.
+
+Câu 200 [Vận dụng]: Hội đồng Trọng tài ra Phán quyết trọng tài buộc Công ty M trả cho Công ty N số tiền 2 tỷ đồng. Đã quá 30 ngày kể từ ngày hết hạn tự nguyện thi hành phán quyết nhưng Công ty M không trả tiền và cũng không nộp đơn yêu cầu Tòa án hủy phán quyết. Công ty N phải gửi hồ sơ đến cơ quan nào để yêu cầu tiền?
+A. Gửi hồ sơ đến Ủy ban nhân dân cấp xã
+B. Gửi Đơn yêu cầu Thi hành án đến Cơ quan Thi hành án dân sự có thẩm quyền để cưỡng chế thi hành phán quyết trọng tài theo Điều 66 Luật Trọng tài thương mại 2010
+C. Gửi đơn khởi kiện lại tại Tòa án nhân dân khu vực
+D. Gửi đơn đến Viện kiểm sát nhân dân tối cao
+Đáp án đúng: B
+Giải thích: Phán quyết trọng tài có hiệu lực thi hành được Cơ quan Thi hành án dân sự cưỡng chế thi hành như bản án Tòa án.
+
+================================================================================
+BẢNG ĐÁP ÁN TỔNG HỢP (200 CÂU HỎI CHƯƠNG 5)
+================================================================================
+
+  1. B      2. B      3. D      4. A      5. A      6. A      7. D      8. D      9. B     10. D    
+ 11. A     12. A     13. A     14. A     15. A     16. B     17. C     18. C     19. D     20. B    
+ 21. C     22. B     23. B     24. B     25. D     26. A     27. A     28. B     29. C     30. C    
+ 31. A     32. D     33. B     34. B     35. C     36. A     37. B     38. A     39. D     40. B    
+ 41. D     42. C     43. B     44. D     45. B     46. B     47. C     48. D     49. D     50. A    
+ 51. D     52. A     53. B     54. D     55. B     56. D     57. A     58. B     59. A     60. A    
+ 61. B     62. C     63. C     64. B     65. A     66. A     67. D     68. A     69. A     70. D    
+ 71. A     72. A     73. D     74. D     75. A     76. B     77. A     78. D     79. C     80. B    
+ 81. D     82. B     83. C     84. C     85. A     86. A     87. A     88. D     89. C     90. A    
+ 91. B     92. C     93. C     94. D     95. A     96. B     97. A     98. B     99. B    100. A    
+101. D    102. A    103. D    104. C    105. A    106. C    107. D    108. B    109. C    110. B    
+111. A    112. D    113. A    114. D    115. C    116. B    117. B    118. D    119. B    120. C    
+121. A    122. A    123. B    124. B    125. C    126. C    127. D    128. C    129. C    130. B    
+131. B    132. D    133. D    134. B    135. A    136. B    137. A    138. D    139. A    140. A    
+141. C    142. D    143. C    144. B    145. D    146. D    147. D    148. B    149. D    150. C    
+151. B    152. B    153. D    154. D    155. A    156. D    157. C    158. A    159. B    160. A    
+161. B    162. C    163. D    164. A    165. B    166. D    167. A    168. B    169. C    170. C    
+171. C    172. D    173. C    174. B    175. D    176. A    177. A    178. A    179. B    180. A    
+181. B    182. D    183. C    184. A    185. C    186. B    187. D    188. D    189. D    190. B    
+191. A    192. B    193. C    194. D    195. C    196. A    197. C    198. A    199. C    200. B    
+
+================================================================================
+HẾT NGÂN HÀNG CÂU HỎI CHƯƠNG 5
+================================================================================

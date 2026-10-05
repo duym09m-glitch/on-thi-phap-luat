@@ -1,0 +1,8 @@
+{
+  "name": "Ôn Thi Pháp Luật Đại Cương",
+  "description": "Ứng dụng thi trắc nghiệm Pháp luật đại cương chuẩn kiến thức cho sinh viên đại học không chuyên luật với ngân hàng 1.400 câu hỏi, 3 chế độ thi, hẹn giờ và giải thích chi tiết.",
+  "permissions": [],
+  "capabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
