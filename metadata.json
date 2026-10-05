@@ -1,6 +1,0 @@
-{
-  "name": "Thi Trắc Nghiệm Pháp Luật Đại Cương - 500 Câu Chuẩn 90 Phút",
-  "description": "Hệ thống thi trắc nghiệm Pháp luật đại cương đại học chuẩn 90 phút 100 câu, 5 bộ đề 500 câu hỏi trọng tâm mới nhất, đầy đủ đáp án và căn cứ pháp lý.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
