@@ -25,6 +25,88 @@ export function shuffleArray<T>(array: T[]): T[] {
   return result;
 }
 
+/**
+ * Removes Vietnamese accents for robust regex matching on unaccented text
+ */
+function removeAccents(str: string): string {
+  return str
+    .normalize('NFD')
+    .replace(/[\u0300-\u036f]/g, '')
+    .replace(/đ/g, 'd')
+    .replace(/Đ/g, 'D');
+}
+
+/**
+ * Checks if an option references other options / positions
+ * (e.g. "Cả A, B, C đều đúng", "Tất cả các đáp án trên", "Cả 2 đáp án đều sai", etc.).
+ * Supports case-insensitive matching with and without Vietnamese accents.
+ */
+function isPositionDependentOption(optionText: string): boolean {
+  const raw = optionText.trim();
+  const lower = raw.toLowerCase();
+
+  // Guard: "đứng" (stand) or "đuổi" (expel) are not "đúng" (correct) or "dưới" (below)
+  if (lower.includes('đứng') || lower.includes('đuổi')) {
+    return false;
+  }
+
+  // Guard: person/entity names in legal case studies (e.g. "Bà B", "Ông A", "Công ty A")
+  if (/(?:bà|ba|ông|ong|anh|chị|chi|công ty|cong ty)\s+[a-d](?![a-zà-ỹ\w])/iu.test(lower)) {
+    return false;
+  }
+
+  const patterns: RegExp[] = [
+    // 1. Letters A, B, C, D referring to choices: "Cả A, B, C...", "Cả A và B...", "Cả A, B..."
+    /(?<![a-zà-ỹ\w])(?:cả|ca)\s+[a-d](?![a-zà-ỹ\w])/iu,
+
+    // "A, B và C", "A và B", "A, B", "B và C" followed by "đều / đúng / sai / là / không"
+    /(?<![a-zà-ỹ\w])[a-d]\s*(?:,\s*|\s+(?:và|va)\s+)[a-d](?![a-zà-ỹ\w])\s*(?:đều|deu|đúng|dung|sai|là|la|không|khong)?/iu,
+
+    // "Chỉ A đúng", "Chỉ B đúng", "Chỉ C đúng", "Chỉ D đúng"
+    /(?<![a-zà-ỹ\w])(?:chỉ|chi)\s+[a-d](?![a-zà-ỹ\w])\s+(?:đúng|dung|sai)/iu,
+
+    // "Đáp án A", "Phương án B"
+    /(?:đáp án|dap an|phương án|phuong an)\s+[a-d](?![a-zà-ỹ\w])/iu,
+
+    // 2. Relative position "trên" / "dưới":
+    // "đáp án trên/dưới", "phương án trên/dưới", "câu trên/dưới", "ý trên/dưới"
+    // "các đáp án trên", "các phương án trên", "các câu trên", "các ý trên"
+    /(?:đáp án|dap an|phương án|phuong an|câu|cau|ý)\s+(?:nêu\s+|neu\s+)?(?:trên|tren|dưới|duoi)(?![a-zà-ỹ\w])/iu,
+    /(?:các|cac)\s+(?:đáp án|dap an|phương án|phuong an|câu|cau|ý)\s+(?:trên|tren)(?![a-zà-ỹ\w])/iu,
+
+    // "các trường hợp trên", "tất cả các trường hợp trên", "các trường hợp nêu trên"
+    /(?:các|cac|tất cả các|tat ca cac)\s+(?:trường hợp|truong hop)\s+(?:nêu\s+|neu\s+)?(?:trên|tren)(?![a-zà-ỹ\w])/iu,
+
+    // 3. Collective choices: "cả ba", "cả hai", "cả 2", "cả 3"
+    // "Cả ba đáp án", "Cả hai đáp án", "Cả 3 đáp án", "Cả 2 đáp án"
+    // "Cả ba phương án", "Cả hai phương án"
+    // "Cả ba đều đúng", "Cả hai đều đúng", "Cả 3 đều sai", "Cả 2 đều sai"
+    /(?<![a-zà-ỹ\w])(?:cả|ca)\s+(?:ba|hai|2|3|4)\s+(?:đáp án|dap an|phương án|phuong an|câu|cau|ý)(?![a-zà-ỹ\w])/iu,
+    /(?<![a-zà-ỹ\w])(?:cả|ca)\s+(?:ba|hai|2|3|4)\s+(?:đều|deu)\s+(?:đúng|dung|sai)/iu,
+    /(?<![a-zà-ỹ\w])(?:cả|ca)\s+(?:ba|hai|2|3|4)\s+(?:đáp án|dap an|phương án|phuong an)?\s*(?:trên|tren)\s+(?:đều|deu)\s+(?:đúng|dung|sai)/iu,
+
+    // 4. "Tất cả các đáp án", "Tất cả các phương án", "Tất cả đều đúng/sai"
+    /(?:tất cả|tat ca)\s+(?:các\s+|cac\s+)?(?:đáp án|dap an|phương án|phuong an|câu|cau|ý)(?![a-zà-ỹ\w])/iu,
+    /(?:tất cả|tat ca)\s+(?:đều|deu)\s+(?:đúng|dung|sai)(?![a-zà-ỹ\w])/iu,
+
+    // 5. "Không có đáp án nào", "Không đáp án nào đúng/sai", "Không có phương án nào"
+    /(?:không|khong)\s+(?:có\s+|co\s+)?(?:đáp án|dap an|phương án|phuong an|câu|cau|ý)\s+(?:nào|nao)/iu,
+
+    // 6. Standalone "Đều đúng", "Đều sai", "Cả ba/hai đúng/sai"
+    /^(?:cả\s+|ca\s+)?(?:đều|deu)\s+(?:đúng|dung|sai)[.!?:;]?$/iu,
+  ];
+
+  const unaccented = removeAccents(lower);
+  return patterns.some((p) => p.test(lower) || p.test(unaccented));
+}
+
+/**
+ * Checks if a question contains at least one position-dependent option.
+ */
+export function isPositionDependent(q: { options: string[] }): boolean {
+  return q.options.some((opt) => isPositionDependentOption(opt));
+}
+
 export interface BuildExamOptions {
   config: ExamConfig;
   recentQuestionIds?: Set<string>;
@@ -100,10 +182,11 @@ export function buildExam({ config, recentQuestionIds = new Set() }: BuildExamOp
   // 4. Shuffle all questions together
   const shuffledQuestions = shuffleArray(selectedRawQuestions);
 
-  // 5. Shuffle options for every question and map new correct answer index
+  // 5. Shuffle options for every question (preserve order for position-dependent questions)
   const examQuestions: ExamQuestion[] = shuffledQuestions.map((q) => {
-    // Original option indices: [0, 1, 2, 3]
-    const optionOrder = shuffleArray([0, 1, 2, 3]);
+    // Keep original option order [0, 1, 2, 3] if the question has position-dependent options
+    const shouldShuffle = !isPositionDependent(q);
+    const optionOrder = shouldShuffle ? shuffleArray([0, 1, 2, 3]) : [0, 1, 2, 3];
     const shuffledOptions = optionOrder.map((idx) => q.options[idx]);
     const correctOptionIndex = optionOrder.indexOf(q.answer);
 

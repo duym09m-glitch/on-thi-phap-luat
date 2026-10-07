@@ -1,6 +1,6 @@
 import { describe, expect, it } from 'vitest';
 import { getChapters, getQuestionById, getQuestionsByChapter, getTotalQuestionCount } from '../bank';
-import { buildExam } from '../lib/buildExam';
+import { buildExam, isPositionDependent } from '../lib/buildExam';
 
 describe('Ngân hàng câu hỏi Pháp luật đại cương', () => {
   it('phải phân tích đầy đủ 7 chương hiện có', () => {
@@ -75,6 +75,41 @@ describe('Ngân hàng câu hỏi Pháp luật đại cương', () => {
 
       // The correct option in shuffled array must match the original answer
       expect(eq.options[eq.correctOptionIndex]).toBe(rawQ.options[rawQ.answer]);
+
+      // If position dependent, optionOrder must be strictly [0, 1, 2, 3]
+      if (isPositionDependent(rawQ)) {
+        expect(eq.optionOrder).toEqual([0, 1, 2, 3]);
+        expect(eq.correctOptionIndex).toBe(rawQ.answer);
+      }
     }
+  });
+
+  it('nhận diện chính xác các câu hỏi phụ thuộc vị trí và giữ nguyên thứ tự A, B, C, D', () => {
+    // Test known position-dependent questions in Chapter 9 (e.g. c9-45: Cả A, B, C đều đúng)
+    const q9_45 = getQuestionById('c9-45');
+    expect(q9_45).toBeDefined();
+    if (q9_45) {
+      expect(isPositionDependent(q9_45)).toBe(true);
+    }
+
+    const q9_40 = getQuestionById('c9-40');
+    expect(q9_40).toBeDefined();
+    if (q9_40) {
+      expect(isPositionDependent(q9_40)).toBe(true);
+    }
+
+    // Normal question should NOT be position dependent (e.g. c1-1)
+    const q1_1 = getQuestionById('c1-1');
+    expect(q1_1).toBeDefined();
+    if (q1_1) {
+      expect(isPositionDependent(q1_1)).toBe(false);
+    }
+
+    // Test artificial questions with variations in both accented and unaccented
+    expect(isPositionDependent({ options: ['Lựa chọn 1', 'Lựa chọn 2', 'Lựa chọn 3', 'Cả ba đáp án trên đều đúng'] })).toBe(true);
+    expect(isPositionDependent({ options: ['Lựa chọn 1', 'Lựa chọn 2', 'Lựa chọn 3', 'Cả 3 đáp án đều sai'] })).toBe(true);
+    expect(isPositionDependent({ options: ['Lựa chọn 1', 'Lựa chọn 2', 'Lựa chọn 3', 'ca A, B, C deu dung'] })).toBe(true);
+    expect(isPositionDependent({ options: ['Lựa chọn 1', 'Lựa chọn 2', 'Lựa chọn 3', 'Không có đáp án nào đúng'] })).toBe(true);
+    expect(isPositionDependent({ options: ['Lựa chọn 1', 'Lựa chọn 2', 'Lựa chọn 3', 'Lựa chọn 4'] })).toBe(false);
   });
 });
