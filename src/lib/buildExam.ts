@@ -51,43 +51,43 @@ function isPositionDependentOption(optionText: string): boolean {
   }
 
   // Guard: person/entity names in legal case studies (e.g. "Bà B", "Ông A", "Công ty A")
-  if (/(?:bà|ba|ông|ong|anh|chị|chi|công ty|cong ty)\s+[a-d](?![a-zà-ỹ\w])/iu.test(lower)) {
+  if (/(?:bà|ba|ông|ong|anh|chị|chi|công ty|cong ty)\s+[a-d](?:[^\wà-ỹ]|$)/iu.test(lower)) {
     return false;
   }
 
   const patterns: RegExp[] = [
     // 1. Letters A, B, C, D referring to choices: "Cả A, B, C...", "Cả A và B...", "Cả A, B..."
-    /(?<![a-zà-ỹ\w])(?:cả|ca)\s+[a-d](?![a-zà-ỹ\w])/iu,
+    /(?:^|[^\wà-ỹ])(?:cả|ca)\s+[a-d](?:[^\wà-ỹ]|$)/iu,
 
     // "A, B và C", "A và B", "A, B", "B và C" followed by "đều / đúng / sai / là / không"
-    /(?<![a-zà-ỹ\w])[a-d]\s*(?:,\s*|\s+(?:và|va)\s+)[a-d](?![a-zà-ỹ\w])\s*(?:đều|deu|đúng|dung|sai|là|la|không|khong)?/iu,
+    /(?:^|[^\wà-ỹ])[a-d]\s*(?:,\s*|\s+(?:và|va)\s+)[a-d](?:[^\wà-ỹ]|$)\s*(?:đều|deu|đúng|dung|sai|là|la|không|khong)?/iu,
 
     // "Chỉ A đúng", "Chỉ B đúng", "Chỉ C đúng", "Chỉ D đúng"
-    /(?<![a-zà-ỹ\w])(?:chỉ|chi)\s+[a-d](?![a-zà-ỹ\w])\s+(?:đúng|dung|sai)/iu,
+    /(?:^|[^\wà-ỹ])(?:chỉ|chi)\s+[a-d](?:[^\wà-ỹ]|$)\s+(?:đúng|dung|sai)/iu,
 
     // "Đáp án A", "Phương án B"
-    /(?:đáp án|dap an|phương án|phuong an)\s+[a-d](?![a-zà-ỹ\w])/iu,
+    /(?:^|[^\wà-ỹ])(?:đáp án|dap an|phương án|phuong an)\s+[a-d](?:[^\wà-ỹ]|$)/iu,
 
     // 2. Relative position "trên" / "dưới":
     // "đáp án trên/dưới", "phương án trên/dưới", "câu trên/dưới", "ý trên/dưới"
     // "các đáp án trên", "các phương án trên", "các câu trên", "các ý trên"
-    /(?:đáp án|dap an|phương án|phuong an|câu|cau|ý)\s+(?:nêu\s+|neu\s+)?(?:trên|tren|dưới|duoi)(?![a-zà-ỹ\w])/iu,
-    /(?:các|cac)\s+(?:đáp án|dap an|phương án|phuong an|câu|cau|ý)\s+(?:trên|tren)(?![a-zà-ỹ\w])/iu,
+    /(?:đáp án|dap an|phương án|phuong an|câu|cau|ý)\s+(?:nêu\s+|neu\s+)?(?:trên|tren|dưới|duoi)(?:[^\wà-ỹ]|$)/iu,
+    /(?:các|cac)\s+(?:đáp án|dap an|phương án|phuong an|câu|cau|ý)\s+(?:trên|tren)(?:[^\wà-ỹ]|$)/iu,
 
     // "các trường hợp trên", "tất cả các trường hợp trên", "các trường hợp nêu trên"
-    /(?:các|cac|tất cả các|tat ca cac)\s+(?:trường hợp|truong hop)\s+(?:nêu\s+|neu\s+)?(?:trên|tren)(?![a-zà-ỹ\w])/iu,
+    /(?:các|cac|tất cả các|tat ca cac)\s+(?:trường hợp|truong hop)\s+(?:nêu\s+|neu\s+)?(?:trên|tren)(?:[^\wà-ỹ]|$)/iu,
 
     // 3. Collective choices: "cả ba", "cả hai", "cả 2", "cả 3"
     // "Cả ba đáp án", "Cả hai đáp án", "Cả 3 đáp án", "Cả 2 đáp án"
     // "Cả ba phương án", "Cả hai phương án"
     // "Cả ba đều đúng", "Cả hai đều đúng", "Cả 3 đều sai", "Cả 2 đều sai"
-    /(?<![a-zà-ỹ\w])(?:cả|ca)\s+(?:ba|hai|2|3|4)\s+(?:đáp án|dap an|phương án|phuong an|câu|cau|ý)(?![a-zà-ỹ\w])/iu,
-    /(?<![a-zà-ỹ\w])(?:cả|ca)\s+(?:ba|hai|2|3|4)\s+(?:đều|deu)\s+(?:đúng|dung|sai)/iu,
-    /(?<![a-zà-ỹ\w])(?:cả|ca)\s+(?:ba|hai|2|3|4)\s+(?:đáp án|dap an|phương án|phuong an)?\s*(?:trên|tren)\s+(?:đều|deu)\s+(?:đúng|dung|sai)/iu,
+    /(?:^|[^\wà-ỹ])(?:cả|ca)\s+(?:ba|hai|2|3|4)\s+(?:đáp án|dap an|phương án|phuong an|câu|cau|ý)(?:[^\wà-ỹ]|$)/iu,
+    /(?:^|[^\wà-ỹ])(?:cả|ca)\s+(?:ba|hai|2|3|4)\s+(?:đều|deu)\s+(?:đúng|dung|sai)/iu,
+    /(?:^|[^\wà-ỹ])(?:cả|ca)\s+(?:ba|hai|2|3|4)\s+(?:đáp án|dap an|phương án|phuong an)?\s*(?:trên|tren)\s+(?:đều|deu)\s+(?:đúng|dung|sai)/iu,
 
     // 4. "Tất cả các đáp án", "Tất cả các phương án", "Tất cả đều đúng/sai"
-    /(?:tất cả|tat ca)\s+(?:các\s+|cac\s+)?(?:đáp án|dap an|phương án|phuong an|câu|cau|ý)(?![a-zà-ỹ\w])/iu,
-    /(?:tất cả|tat ca)\s+(?:đều|deu)\s+(?:đúng|dung|sai)(?![a-zà-ỹ\w])/iu,
+    /(?:tất cả|tat ca)\s+(?:các\s+|cac\s+)?(?:đáp án|dap an|phương án|phuong an|câu|cau|ý)(?:[^\wà-ỹ]|$)/iu,
+    /(?:tất cả|tat ca)\s+(?:đều|deu)\s+(?:đúng|dung|sai)(?:[^\wà-ỹ]|$)/iu,
 
     // 5. "Không có đáp án nào", "Không đáp án nào đúng/sai", "Không có phương án nào"
     /(?:không|khong)\s+(?:có\s+|co\s+)?(?:đáp án|dap an|phương án|phuong an|câu|cau|ý)\s+(?:nào|nao)/iu,
